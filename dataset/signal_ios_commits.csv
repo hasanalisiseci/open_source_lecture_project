@@ -1,0 +1,1150 @@
+SHA,Author Name,Author Email,Author Date,Message,Refactor
+64c1fa8b5d38a64f4d52e701b566e3ff31f49b42,sashaweiss-signal,sasha@signal.org,2024-12-12 18:32:19+00:00,update translations,False
+e33d27fd65ef393f9b60c45ea05e850fcdfb4aa1,sashaweiss-signal,sasha@signal.org,2024-12-12 18:28:30+00:00,update release notes,False
+d3bb029a90bc88d6e79280c35ef0cbc4cc560fad,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-12 18:25:59+00:00,don't fail tsattachment migration on quoted reply validation errors,False
+515858abab8242aeb09244040443cced81fb8076,Max Radermacher,max@signal.org,2024-12-12 18:17:00+00:00,update to sqlcipher v4.6.1,False
+8320c1388774fea90db5582f3fc4726e986cb335,Max Radermacher,max@signal.org,2024-12-11 21:14:27+00:00,fix mexico number contraction handling,False
+650f1fdc59dc0defe1614fce5ed8675ae3debc7f,Max Radermacher,max@signal.org,2024-12-11 21:13:32+00:00,look up both argentinian number formats,False
+bccde24b7b194f678346eed95fb91b5ac9a3dee0,Max Radermacher,max@signal.org,2024-12-11 21:12:43+00:00,look up both benin phone number formats,False
+41b863ebaa7da357a4be58fd504210dddf27ebb2,Max Radermacher,max@signal.org,2024-12-11 21:11:24+00:00,update libphonenumber metadata to 8.13.51,False
+67e5ed7907601010051433f62f578aae99090e6e,Max Radermacher,max@signal.org,2024-12-11 20:56:58+00:00,simplify & consolidate example phone numbers,False
+5c38ebf6a1adeec03b4e7db1dfce0baacc2e8d59,Max Radermacher,max@signal.org,2024-12-11 20:56:06+00:00,update libphonenumber-unsupported country codes,False
+f4e8ccd3bd2d163508d84986de52126118e3d9ed,Max Radermacher,max@signal.org,2024-12-11 20:52:27+00:00,"parse phone numbers using country codes
+
+co-authored-by: harry <109690906+harry-signal@users.noreply.github.com>",False
+c11400591aa945230729bc313cc2c3b4d9f925d2,Pete Walters,pete@signal.org,2024-12-11 20:46:34+00:00,migrate registrationcoordinatortest to swifttesting,True
+0d9e106bd867fc62dacb11ca4d282af29560a607,Max Radermacher,max@signal.org,2024-12-11 20:26:51+00:00,don’t populate the default country code repeatedly,False
+04dd2028789b42298fb65f0db6294386ad71943d,Max Radermacher,max@signal.org,2024-12-11 20:26:36+00:00,use libphonenumber to parse calling codes,False
+0a276f8c469b7a2fdd80fe76ff4c81b48a5c2f4c,Max Radermacher,max@signal.org,2024-12-11 20:26:00+00:00,move registrationcountrystate → phonenumbercountry,True
+17055f8a699039948d4eb7a74abeb7194e7d2972,Max Radermacher,max@signal.org,2024-12-11 20:25:15+00:00,rename “phone number” to “national number”,True
+039149618afd17a7e1bd35cce9d5310a70f74b42,Max Radermacher,max@signal.org,2024-12-11 20:24:26+00:00,"improve default country code selection logic
+
+co-authored-by: harry <109690906+harry-signal@users.noreply.github.com>",False
+de677ee7b280b0a6e8515eae5ad55f7698f78095,Max Radermacher,max@signal.org,2024-12-11 20:13:47+00:00,reuse registration parsing logic for change number,False
+fafec28429ac6c0e2ffc9ffc71716ee25886c294,Max Radermacher,max@signal.org,2024-12-11 20:12:29+00:00,remove duplicate dual-country parsing logic,True
+45abbc7c2c9b7ee4f50d9d89f476c98008877d84,Max Radermacher,max@signal.org,2024-12-11 20:10:58+00:00,remove redundant parsing calls when given an e164,True
+35fe77f869ceea5520261059c739fe4f9e5df649,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-12-11 18:30:10+00:00,update phone number confirmation copy,False
+6fa84d3f2bbd3b792e77a6d41787ec5df17535da,Max Radermacher,max@signal.org,2024-12-10 22:32:01+00:00,make the raw phone number parsing method private,False
+49ba70f32bd5e2a0b0d86db2d79906f0bb5baba2,Max Radermacher,max@signal.org,2024-12-10 22:30:38+00:00,reformat some change number view controller code,False
+25651588ad402eab2c25b0d5d42033829e11e7c4,Max Radermacher,max@signal.org,2024-12-10 22:29:43+00:00,rename callingcode method,True
+beeee9baf450c11e749b622edade236ee3018970,Max Radermacher,max@signal.org,2024-12-10 22:28:46+00:00,fix some countrycode/callingcode confusion,False
+965447291c7049bbad48b574bd06f5eaa1628c80,Max Radermacher,max@signal.org,2024-12-10 22:27:05+00:00,clean up some more phone number parsing code,True
+aba1bc9ac7276caa8ae324af28a72f13be6cc585,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-10 22:26:11+00:00,block link'n'sync device sleep on main actor,False
+f94673f9f154e421caffe0fbe03e9c4ea077afcb,Sasha Weiss,sasha@signal.org,2024-12-10 22:18:09+00:00,rotate the provisioning qr code every 45s,False
+ede169a28da8be0ef935f9e23485edab9d7ae1ac,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-12-10 20:09:09+00:00,add link'n'sync error prompts to secondary devices,False
+47fca5bcde298c3644de93f3a6f526cf08121096,Max Radermacher,max@signal.org,2024-12-10 18:40:46+00:00,fix pods submodule pointer,False
+7ba9aee871eac6de4b06a3e95f50d2a4dc2fd136,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-10 17:51:13+00:00,update backup proto and integration tests,False
+dcef13c7edace443d4666e4b1108079c9f4bebfb,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-10 17:29:30+00:00,use owsprogress in attachment upload and download managers,False
+f2891d32630624b0de99e5329686171b1dc8ca79,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-12-10 17:24:02+00:00,add link'n'sync primary device failure sheet,False
+379d7768c665bb7b767211f9a2a0b61ab256a59f,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-12-10 17:23:43+00:00,add link'n'sync secondary device progress view,False
+f10f759a98e7344c5981b452862b6e1edc0b98aa,Sasha Weiss,sasha@signal.org,2024-12-10 17:18:56+00:00,add incoming support for `devicenamechange` sync messages,False
+8eb012ee04d368b5ca30a03ab206265f595bf06b,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-10 17:08:35+00:00,use head request to peek attachment download size,False
+070009ac5f861eaee6784741a611133890c79ea3,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-10 17:07:04+00:00,disallow restoring from a backup twice,False
+76c171a1b50bb235346cd5ed446e640145f2700c,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-10 01:05:38+00:00,ensure device stays awake during link'n'sync,False
+7c33fe86fdda313747ce8e93a6052c0137260c5a,Miriam Zimmerman,mutexlox@signal.org,2024-12-09 20:57:35+00:00,update to ringrtc v2.49.0.,False
+3e3b7fb20bd3f5258d20f10b19211c3cf06ab2c8,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-12-09 19:55:40+00:00,link'n'sync progress modal on primary devices,False
+c2d2629316ffa56cbccc8dc1793fa2e2759c8d3a,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-12-09 19:29:49+00:00,[quick restore] add new qr code screen for registration,False
+6073e5e05f4b9416392c98f8a6e0a8392281ba0a,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-09 15:44:14+00:00,use uint64 instead of uint32 for owsprogress,False
+9299bb937502bc04d71851bb4313cb845c560a14,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-07 00:03:32+00:00,update libsignal to 0.64.1,False
+63a72d469757322efe69a2fc4f84077b27e8c694,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-12-06 22:33:32+00:00,allow linked device names to be edited,False
+6e00af6a8d1420db869026d33bd5d418b1562863,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-06 21:16:05+00:00,"when deleting attachment references, filter by idinowner",False
+e47a864a1a6f16d1d278bbdda113975a8559a7bf,Sasha Weiss,sasha@signal.org,2024-12-06 20:39:05+00:00,protocolize and asyncify owsdevicesservice,False
+94940ebf8187a1dbb62833e166f2a45b59d5382e,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-12-06 19:40:54+00:00,make nameeditorviewcontroller from editcalllinknameviewcontroller,False
+bdd7a734c3b0ef81c17384db1b1e76cbaafb72b6,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-06 19:06:57+00:00,report link'n'sync export errors to linked device via server endpoint,False
+86e1a13e8342f471c23da5cd339382cf1b5ab7ad,Sasha Weiss,sasha@signal.org,2024-12-06 17:58:14+00:00,use theme color for loadingviewcontroller label,False
+26c2c712e84f659a4f077f8bc5ac4c437b34c0c6,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-06 17:19:45+00:00,use owsprogress in messagebackupmanager,False
+08258d820a2eebfe99d50153ca99ad45a0ba1095,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-06 17:19:11+00:00,add owsprogress utility to periodically update with a task and estimated completion time,False
+41c47c1235180faf3ea36f6ddea7a427f0c1cd6d,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-06 17:18:30+00:00,add owsprogress for be used for backup progress tracking,False
+3312ce6e5e4e8af932f4bb1009ddfaedc0909e6d,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-06 17:18:02+00:00,convert incoming messages from self into outgoing messages in backup export,False
+8b49b1ee2226dddd88d8daac024bfffbd106ecaf,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-06 03:20:31+00:00,include app version in backup error display,False
+d62d96424e978b1b114a2503e25f46e12c79037a,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-06 00:40:42+00:00,reduce memory usage of tsattachment migration,False
+c42557903a4ed351e9bd48b00ab05390d8de262c,Sasha Weiss,sasha@signal.org,2024-12-05 22:43:11+00:00,make backup subscription redemption durable,False
+835febb7efc8764ec4e2923bee7431e964ce807c,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-05 21:23:23+00:00,include expiring messages in devicetransfer backups,False
+13bf549a0ea1152776e390c104523a39ff329a9c,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-05 21:22:29+00:00,fix issue where we skipped backing up expiring messages with unstarted timers,False
+312101ef43e28ac1c6597197d7bb1414b4dc1717,Sasha Weiss,sasha@signal.org,2024-12-05 21:02:04+00:00,make `loadcallrecordsanew` async,False
+b76fae88bae4f3c0eb736b140eb5d5c12cc0500e,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-05 20:47:47+00:00,don't fail when unable to read quote image in tsattachment migration,False
+4e8d6cd4be5442bae23633c953b945432864c523,Sasha Weiss,sasha@signal.org,2024-12-05 20:03:03+00:00,support presenting device linking from chat list camera,False
+6756489f0316458f03d7fa7ba5501b7b7f8ae07e,Sasha Weiss,sasha@signal.org,2024-12-05 20:02:29+00:00,exclusively use the new linked device view,False
+7916859ee37e3cfca2c6beb0e36f7be3a0b1f4bc,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 22:27:16+00:00,thread merge messageattachmentreferences,False
+f36a4965b80217de811a857406cc5749ba4b7df6,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 22:26:36+00:00,final ezpz tsattachment cleanups,False
+10c8f35fe671aed7b9f018df0c3506a8c98d503c,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 22:26:00+00:00,"adios, mediagalleryrecord",False
+fedb96ec757614fc164204f39096b0689c979e98,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 21:33:14+00:00,"arrivederci, tsattachment",False
+89b6db602f6daa888bd23cf83592e0aa33cb5043,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 21:32:16+00:00,deprecate attachmentids tsinteraction column,False
+39557cf5b82d155a4245c8de1ec11c58d557c47d,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 21:31:41+00:00,drop tsattachment fields from jobrecords,False
+6390423c59c65bb92a094346958d4530e5fcb3c6,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 21:31:05+00:00,clean up some tsattachment-adjacent code,True
+1fd8d2ed6d169083fc827033ffcdaf74f6220817,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 21:30:31+00:00,"sayonara, tsresource",False
+69ec72428a5bca0a094d1a430d0315efd93ef406,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 21:29:48+00:00,"remove tsresourcereference, use v2 types directly instead",True
+2af0bb31dc4a93a2442e0c90081843a96f905f43,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 21:29:06+00:00,"remove tsresource/stream/pointer/thumbnail, use v2 types directly instead",True
+06f1e2ec9d306083a62e3cb7007504a628536d20,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-04 21:28:12+00:00,delete tsattachment managers and other intermediaries,False
+2492c788782958a1f56623c4776e7e4882ce8114,Harry Sanabria,harry@signal.org,2024-12-04 21:20:04+00:00,bump version to 7.41,False
+433c7fdb4a4d99d9cfab6dffb3c7d3722fe24d69,Harry Sanabria,harry@signal.org,2024-12-04 21:19:41+00:00,update translations,False
+a40fb676b62b54b90c7120ac0ed0b1ffe98e59ec,Harry Sanabria,harry@signal.org,2024-12-04 21:04:24+00:00,update release notes,False
+d2f562517285d6bdb56cb0ce5511be9cf559e929,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-12-04 17:17:31+00:00,fix crash when opening call as admin which already has join requests,False
+0ee7557d3b2f853b9acec8e8c618f1ba237a99f6,Max Radermacher,max@signal.org,2024-12-04 17:05:06+00:00,remove unnecessary cleanup filtering,True
+af76e0b9d3dd37ee7393d70c6e4c920ad7b57568,Sasha Weiss,sasha@signal.org,2024-12-04 00:33:29+00:00,assume all clients are delete-sync-capable,False
+6ffddca373155431f8593d4fe1f25ff4a4f9ba93,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-12-03 17:35:07+00:00,clean up device linking ui,True
+7d88672c217232ec05b878596684c50225f32982,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-02 22:07:53+00:00,remove versioned expire timer capability checking,True
+7bfe049f30220ea27cf83fdf0c7a9952c0fa57c3,Max Radermacher,max@signal.org,2024-12-02 21:17:19+00:00,improve urlsession error handling,False
+caf6b8d51e18cdf73a8fe43210031f7a9e9b0fde,Max Radermacher,max@signal.org,2024-12-02 21:14:49+00:00,asyncify devicetransferoperation,False
+2d35b03866f86376ef93079ceb22e31fa30a965a,Max Radermacher,max@signal.org,2024-12-02 21:14:26+00:00,don’t auto refresh blocked groups,False
+d1e78e5eb76fc7a232fb91b5cdda2336db66f325,Miriam Zimmerman,mutexlox@signal.org,2024-12-02 20:54:56+00:00,optimize call label updates.,True
+568130d7249987e78e52244d7dcc1143aaeff1ff,Harry Sanabria,harry@signal.org,2024-12-02 18:51:26+00:00,remove messageattachmentmigrationtask id,True
+26c01d4430716f636270e97ad249b2ce6d2a20f4,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-02 18:21:58+00:00,stop recording when max video size reached with in-app camera,False
+f7e3ae5d8fd675418acd436e2fef33a1fcd8a5c4,Sasha Weiss,sasha@signal.org,2024-12-02 17:48:13+00:00,"revert ""avoid batch updates in updatelastviewedthread""",False
+061227f4146a5014113a47d9959016964241a9c3,Harry,109690906+harry-signal@users.noreply.github.com,2024-12-02 16:27:54+00:00,track ispasteditrevision for media gallery filtering,False
+681adb445d0b4662fa89fd1c77464a71dd40f8c0,Max Radermacher,max@signal.org,2024-11-28 18:07:33+00:00,add missing #if debug checks,False
+bc9c2d6314c6ea95495c3cbd177f98e6da2dbfaa,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-27 23:25:39+00:00,update style of device linking sheets,False
+d0ed4de2cc6d46366328bf2b1046258373caff72,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-27 23:16:58+00:00,update link'n'sync picker style,False
+24f59166935faeeeb505ad984d5242ce7ed32e4e,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-27 22:58:55+00:00,simplify showing xcode previews for sheets,False
+83a022efe36491a6321fc7b00f5c95f654a17ae3,Pete Walters,pete@signal.org,2024-11-27 17:52:20+00:00,no longer need to manager tabbar during stories search,False
+6d155d8094fa0ca9ea624acf2b2482c661e2e971,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-27 17:33:49+00:00,inherit navigation bar elevation when determining background color,False
+31c03af96c8477dd619f4b07a3b169f9b013a024,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-27 17:33:15+00:00,allow whitespace in jumbomoji,False
+5438f87c7d20da6e7e8231457fe06c431a26f87b,Pete Walters,pete@signal.org,2024-11-27 16:47:36+00:00,use sortid for ordering mutiple forwarded messages,False
+86292a9091e88637ef4acb9ce6ea966c12b3b1e5,Pete Walters,pete@signal.org,2024-11-27 15:28:50+00:00,clean up stale viewstate 'lastselectedthreadid',True
+e5a0769c59981afbd9f4a8c97bc70e5a976b7615,Sasha Weiss,sasha@signal.org,2024-11-27 02:19:11+00:00,show donationsettings error state for canceled subs with charge failures,False
+2af7825ef733d7172a0a34ea1e9a30b6e8765955,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-27 01:20:40+00:00,update sms provider error strings,False
+59366465b7f796c37389649f8c8df2281a56ce35,Max Radermacher,max@signal.org,2024-11-26 20:47:47+00:00,use server change actions when removing members,False
+3b9f0ee1ecb153358028f4ceb3ac4553e61283ed,Max Radermacher,max@signal.org,2024-11-26 20:46:14+00:00,remove redundant storage service restore operation,True
+1583c83e5d1838fe7eff9a49d4232499faff0ce4,Max Radermacher,max@signal.org,2024-11-26 20:45:37+00:00,consolidate unrestricted ud handling,False
+2aacc6c939e3b89b6ec85ee78a6bdab5f34788f1,Sasha Weiss,sasha@signal.org,2024-11-26 18:06:50+00:00,hook up `backupsubscriptionmanager` to storage service,False
+7675a147669c42d908525b339a338705c1dc2265,Sasha Weiss,sasha@signal.org,2024-11-26 18:02:08+00:00,refactor backupsubscriptionmanager,True
+f14361530bbed5bb49f4ae5ca0c9ebf5126135a3,Sasha Weiss,sasha@signal.org,2024-11-26 17:50:40+00:00,add subscriptionredemptionnecessarychecker,False
+5a14e3842b4c956a794107f687e93dcc2a77a74d,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-26 16:52:16+00:00,make tsmessage tsattachment migration blocking,False
+a1d2399ea3c2ba0e5719ef418e4eb7be01f323a3,Pete Walters,pete@signal.org,2024-11-25 21:38:06+00:00,add a handler for the fallback ideal callback,False
+54798e7fd893a327edc045e3c85862b971faf4f9,Sasha Weiss,sasha@signal.org,2024-11-25 19:29:42+00:00,initialize clcontainerview alongside other views,False
+c98a9ed09c26803399a7686fcf03bb726089b927,Max Radermacher,max@signal.org,2024-11-25 17:32:59+00:00,update to libsignal v0.63.0,False
+666061f40d7dabf72c329c4601d83f79e4736f4c,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-25 16:27:04+00:00,update backup integration tests,False
+b7622e9227631f87b2e82317fbc791f05a68766b,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-23 04:21:00+00:00,enable redesigned device linking with biometrics in prod,False
+6693371edf85e0cacc7136b4d384e2c32f792b2d,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-23 04:15:35+00:00,add linked devices education sheet,False
+54eafa1bd90a5ad3b45ccf8629e5112bd549a7ab,Max Radermacher,max@signal.org,2024-11-22 23:08:36+00:00,clean up app reset method,True
+6755175fe6c2e0763298fe8df21317e657370ad8,Max Radermacher,max@signal.org,2024-11-22 23:06:12+00:00,clean up phonenumber and phonenumberutil,True
+5be41f8f5e9e847baa05b40525bda6de75b6ddd5,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-22 23:06:04+00:00,update join text color for call links,False
+b14e99b689e3ec503a3afb2eb2d0c68960834de2,Max Radermacher,max@signal.org,2024-11-22 23:05:44+00:00,remove no-longer-needed feature flags,True
+860cc18c6a83d32715e3a9ba60d8699a1121f1a4,Max Radermacher,max@signal.org,2024-11-22 22:59:45+00:00,simplify code to join a group via invite link,False
+b87014a77dc85caaa845092253402ebabe2921d6,Max Radermacher,max@signal.org,2024-11-22 22:32:47+00:00,verify group ids on peer-to-peer group changes,False
+175f822cd63a3cab0893627b47aff312aebd2fe4,Max Radermacher,max@signal.org,2024-11-22 22:32:01+00:00,reorganize group change processing to reduce work,True
+37d793c29bbcec357fa911c1ab60f9f884aff80c,Max Radermacher,max@signal.org,2024-11-22 22:31:30+00:00,add support for gses when updating groups,False
+34fd2b17ffb5727519ee114e51cb5184d2f71c12,Max Radermacher,max@signal.org,2024-11-22 22:30:33+00:00,consolidate some log formatters,False
+71014389ab36d501d40dd367c5bdb2398933c421,Pete Walters,pete@signal.org,2024-11-22 22:14:23+00:00,quote columns when building db restore query,False
+0afc0ec568221095b8f549f7baa9b8bce0bc0d7f,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-22 21:56:27+00:00,group too large to ring toast should not take full width on ipad,False
+dc868ff34a541889d1c083a6c71ddc31dd72da2e,Max Radermacher,max@signal.org,2024-11-22 20:12:23+00:00,remove unused method,True
+cceb974afc532c4ca3f85a584bf92aa183697585,Sasha Weiss,sasha@signal.org,2024-11-22 05:28:19+00:00,allow canceling past-due subscriptions,False
+f220ec1c91afc03f4e7d4f46f7b1ac779b34dadd,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-21 22:19:08+00:00,dismiss sheet when linked device qr code in scanned,False
+41ca26be2998e87213e4f944372e1f2b9214ced8,Jim Gustafson,jim@signal.org,2024-11-15 17:34:02+00:00,force relays only if remote user is not a signal connection,False
+9a7641cf834b2f0b433a5cff7bb0e9b89a5dd824,Max Radermacher,max@signal.org,2024-11-21 18:35:34+00:00,remove unused cds proto file,True
+04e9d0621d9da50faf0cefd324348fed1744cffe,Max Radermacher,max@signal.org,2024-11-21 00:28:31+00:00,remove tail recursion from sender key retries,True
+76a239b389929ebb0343e1849d295c5186e6bd74,Max Radermacher,max@signal.org,2024-11-21 00:26:58+00:00,remove owsudsendingaccess,True
+5792b261eeaafd08f1dda5ddf3e27cc86e20ce46,sashaweiss-signal,sasha@signal.org,2024-11-21 00:26:34+00:00,"revert ""broadcast the recordikm-migration capability""
+
+this reverts commit 05ae0c3b20ec62d6f9c2aaa881cbbdb10620c83f.",False
+6044620b6aade174b28f118f662c0d6e1a96ef1d,Max Radermacher,max@signal.org,2024-11-21 00:26:31+00:00,remove voip push handling,True
+1d82174c13a80947c060661ca4756dd989803ea7,Max Radermacher,max@signal.org,2024-11-21 00:26:17+00:00,remove unused feature flag & its implementation,True
+8f21579a94c4536df85808fa7c9fb924ec77ffb4,Max Radermacher,max@signal.org,2024-11-21 00:26:05+00:00,rename methods to cancel join request,True
+05ae0c3b20ec62d6f9c2aaa881cbbdb10620c83f,Sasha Weiss,sasha@signal.org,2024-11-21 00:24:29+00:00,broadcast the recordikm-migration capability,False
+00ebc8aad2ac13290c8bf7568a282788ec804e63,Max Radermacher,max@signal.org,2024-11-20 23:55:11+00:00,show error when we can’t load the db on launch,False
+947826ff11f7d329b1b13e41d527a11318635669,Max Radermacher,max@signal.org,2024-11-20 23:53:46+00:00,update copy for group links,False
+18978aec4bac7fe0710c747ad068f804724fd8d3,Max Radermacher,max@signal.org,2024-11-20 23:29:20+00:00,reformat group change parsing method,False
+8148e12d6f662b95fd9c0b79ef665c705152680d,Max Radermacher,max@signal.org,2024-11-20 23:27:24+00:00,remove promise that’s not needed,True
+46b2726ceb828528aa44378ef93f01b3bf3dcbf6,Sasha Weiss,sasha@signal.org,2024-11-20 23:10:01+00:00,add a mode to rotatemanifest to preserve records if possible,False
+764af8267d1fb3cfc3d5b5c4f05a7f29e80e5a13,Sasha Weiss,sasha@signal.org,2024-11-20 22:38:18+00:00,more consistently overwrite conflicting-version ss manifests from primaries,False
+8439e6797938c5882f25ed7272d73f9404aeeedc,Max Radermacher,max@signal.org,2024-11-20 22:32:27+00:00,don’t return tsgroupthreads when joining via link,False
+3c07b4f7aedac367742d5b34e235c06e8aca0ebd,Max Radermacher,max@signal.org,2024-11-20 22:32:04+00:00,rebuild requestmaker to support gses,False
+9efa9924a5242bf289e854c14d010634a5c997e4,Marissa Le Coz,marissa@signal.org,2024-11-20 21:08:35+00:00,bump version to 7.40,False
+554b70a71b49bf3bc07b2e69a7a9ffc61e7c71f4,Marissa Le Coz,marissa@signal.org,2024-11-20 21:08:04+00:00,update translations,False
+9905ab73471f4bf4cace747c3c1600287ee882b5,Max Radermacher,max@signal.org,2024-11-20 17:46:24+00:00,update learn more url that was moved,True
+f7518662199e5e4fb3582ca44912b9c6bea2a22f,Max Radermacher,max@signal.org,2024-11-20 00:45:04+00:00,remove throws from serverpublicparams(),True
+b0dc13ba45431e15ace376df2713d41d35a14f54,Max Radermacher,max@signal.org,2024-11-20 00:44:46+00:00,fetch gses when fetching snapshots,False
+46f9318b8ce16279d015eb3470d6f716eeda79dd,Max Radermacher,max@signal.org,2024-11-19 23:38:45+00:00,clean up groupv2snapshot,True
+734d10640f65c3d60ac85aa9b7f51f533ff2b930,Max Radermacher,max@signal.org,2024-11-19 23:37:40+00:00,decode serverpublicparams constant just once,False
+6985cee1c6c1aeab981d7bc9b39cced8c5a59fc9,Max Radermacher,max@signal.org,2024-11-19 23:37:22+00:00,don’t fetch contact avatars unless necessary,False
+8ec893b6bed115540042baee4335b5e7565bfd69,Max Radermacher,max@signal.org,2024-11-19 23:37:06+00:00,remove description method that produces warning,True
+e8d25b19dfd9e2f8a99de649913856da3854e8ba,Max Radermacher,max@signal.org,2024-11-19 23:31:25+00:00,fix concurrency warnings related to unfairlock,False
+5ab2ab6f49ccea0435ce5ebff972e736e003257c,Max Radermacher,max@signal.org,2024-11-19 23:30:39+00:00,remove unused sdsswiftserializable,True
+b18a0f4e0dfbb87396e1fbcd0dc23d170fe2ad27,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-19 22:50:11+00:00,don't cache full tsthreads on backup export,False
+fb3027bac21c3877344a6e11fe49dc3d9000c599,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-19 22:47:34+00:00,recognize json files in sharesheet,False
+f498fdae2a5a8df540a2b0270176b15b07009a10,Max Radermacher,max@signal.org,2024-11-19 22:44:20+00:00,fix audiowaveform decoding warnings,False
+f9554761e468abedfe49ec9b088f08c61dcfbf77,Max Radermacher,max@signal.org,2024-11-19 22:44:02+00:00,adopt non-deprecated nskeyedunarchiver method,False
+20ce9381d0401fee5f576d879d3bbbeb8bdb42e5,Sasha Weiss,sasha@signal.org,2024-11-19 22:10:19+00:00,avoid batch updates in updatelastviewedthread,False
+3175edfbf4e00969dd4512e136f7aa9304a24d0f,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-19 21:17:17+00:00,drop invalid link previews on backup export; ignore them on import,False
+ddf349e6f6b8e3a421c3e76f2bd57a34fe5cdca8,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-19 20:53:04+00:00,log timestamps for backup interaction errors,False
+4fe3b9e71c129e995eaf6d671bdc63db6a745cea,Sasha Weiss,sasha@signal.org,2024-11-19 18:20:14+00:00,mark calls without callrecords as read,False
+25c0f4a4c8157c22f92749d6b65e445c73fdd0b6,Ehren Kret,ehren@signal.org,2024-11-19 17:01:19+00:00,convert badge code from promises to swift concurrency,False
+bd4fa8c75722c8b0fc9bc938e2e0956775e04cd4,Pete Walters,pete@signal.org,2024-11-18 22:19:35+00:00,drop message bodies longer than 2048 bytes,False
+53966a55d8be1427ee6a96d0d34125de7e33f143,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-18 21:01:05+00:00,add restore button to registration splash screen,False
+4de9951ea691b704bb535b386f10c779458fd006,Max Radermacher,max@signal.org,2024-11-18 20:35:24+00:00,enable some production code in debug builds,False
+7fe3d40a1a6c31a9ae706c1d3352cf72406dc602,Max Radermacher,max@signal.org,2024-11-18 20:35:04+00:00,remove keyvaluestore protocol file,True
+39ec17ce19eb10fbe6c9f26e326d4651cbe6af9c,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-18 19:56:57+00:00,suspend message processing during backups,False
+218a01da38182074827b4f3ad4c06d84fe11cbcf,Alex Konradi,akonradi@signal.org,2024-11-18 19:33:05+00:00,remove redundant zkccredential=true,True
+00a6927884b5925e8156dacb18530bfa3af2a0d8,Pete Walters,pete@signal.org,2024-11-18 15:12:00+00:00,simplify payment archiving,False
+0c3b89c2edaf0c18ce735cdf77272d499a1d6855,Pete Walters,pete@signal.org,2024-11-18 14:27:49+00:00,fix missing keyvaluestore change,False
+2000b82c0b1395e60c8dd16af93d0fdce5204684,Sasha Weiss,sasha@signal.org,2024-11-16 00:47:54+00:00,one keyvaluestore to rule them all,False
+eb45be11c1e0eae67c834a86661ce848d6ddd131,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-16 00:36:17+00:00,use autoreleasepool for backup import/export,False
+72071c22161a16ffa6c4adb8e07aed3b7a836c49,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-16 00:35:40+00:00,enumerate call links and sticker packs when exporting backups,False
+efc74f8ee203eb63b35a6722301e81629ffe3725,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-16 00:23:42+00:00,relocate terms button on registrationsplashvc,False
+f00c613f38fafd401f1e938b708b825eca088c05,Adam Sharp,sharplet@signal.org,2024-09-10 15:59:00+00:00,"mark actor properties nonisolated where it isn't inferred
+
+swift 6 began generating a warning that `await` is required when accessing
+`let` properties on actors where the type is not `sendable`. (if the type is
+`sendable`, they are automatically inferred to be `nonisolated`.)
+
+this resolves that specific warning, but would generate different warnings
+under strict concurrency checking or swift 6 mode. the ultimate solution should
+be to audit these types for sendability.",False
+5492198043e68b46c9c4a78d7f5e0c76f24c6291,Adam Sharp,sharplet@signal.org,2024-11-15 23:55:29+00:00,audit attachmentdownloadmanagerimpl.progressstates for sendability,False
+68bee00b8bb8fcbaa98ccb254d49ac77e541d3b2,Adam Sharp,sharplet@signal.org,2024-11-15 23:26:02+00:00,audit owsoperation for sendability,False
+dadca9e0325b73f49326cb55bf6ee1827e53cf82,Sasha Weiss,sasha@signal.org,2024-11-15 22:54:30+00:00,directly adopt keyvaluestore in sdskeyvaluestore,False
+a6a6c608d607196cbf47d9d0270461960f7f0a61,Max Radermacher,max@signal.org,2024-11-15 22:03:52+00:00,fix indentation in atomics.swift,False
+b0c5ab65f6b5095d23b02be58db6590f22f8845c,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-15 21:47:15+00:00,bench memory usage in backups,False
+f19110add62eda9c09f404b68691f18448eaec89,Adam Sharp,sharplet@signal.org,2024-09-10 17:03:47+00:00,"add tsmutex to replace unfairlock
+
+renames unfairlock to tsmutex and refreshes its interface to remove methods
+that are unused except in tests.
+
+tsmutex has a generic parameter state that supports non-sendable and
+non-copyable values. unfairlock is a type alias of tsmutex<void>.
+
+the withlock() function is also no longer inherited from nslocking, instead
+being implemented to be similar to osallocatedunfairlock's api.
+
+finally, the class is audited for sendability and compiles without warnings
+under strict concurrency checking.",True
+21127020ecc6e3e3508af47ad4f12ce13bb02496,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-15 21:24:58+00:00,move chatid assignment to after failable steps,True
+1ca7c961d159e7939a23fb4ace9d850ba6fc03b6,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-15 21:24:03+00:00,resolve race in taskqueueloadertest,False
+fad98cc00efe0ed8f6b07a7ad3dbc703c1bd511a,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-15 21:23:50+00:00,archive contact recipients for tscontactthreads without signalrecipients,False
+1be742f6396cbd6c407e73deb1fd17461c47bb44,Sasha Weiss,sasha@signal.org,2024-11-15 17:17:55+00:00,drop objc from keyvaluestore,False
+4201f8b1fdf0d99e29aec817e1d26080aa281418,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-15 16:02:44+00:00,don't even trigger backup upload job for free tier users,False
+f70a70a277966e4ef58d9f5e020d6a8472dc52b9,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-14 22:27:24+00:00,add comment for why chat_item_group_change_chat_update_36/37 are disabled,False
+49dcd39e549226872eed24af21411cb381069598,Harry Sanabria,harry@signal.org,2024-11-14 22:03:25+00:00,use message timestamp for optimistic backup attachment download comparison,False
+187390599cfb5d9cba0c2065af67f084c292d590,Harry Sanabria,harry@signal.org,2024-11-14 21:12:13+00:00,adjust backup feature flags,False
+ac36551fe557e01f13c6063dfa968aedd0bb2cb1,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-14 21:18:55+00:00,require identity key prefix on backup export and import,False
+db2a6d40ddefd31afb9f165bcb13af38f20448b3,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-14 19:06:22+00:00,update libsignal to 0.62.0,False
+41e9d3e85e6d2b7172742c8c35a88bfa1600da1b,Harry Sanabria,harry@signal.org,2024-11-14 18:40:05+00:00,add logging for other validator errors,False
+7455e2cf6d0d7a857639c0ff5a51bb4e7d129441,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-14 18:08:24+00:00,add most group change chat update backup tests,False
+b7f13a69f97d70fe99e49499d3f4013e81c66e67,Adam Sharp,sharplet@signal.org,2024-11-14 17:13:54+00:00,add sample user.xcconfig file,False
+b62ed1e85cc67d9cb8662737dd899ce8abf5a24f,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-14 16:57:00+00:00,report progress for backup import/export,False
+abd68d89a9ba1b61518ed4dee774c7ab24d0e801,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-14 16:55:47+00:00,update backup proto with view once quote type,False
+0833ec00427be88c41da5f49e089efdd76184839,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-14 16:55:03+00:00,update backup proto with contact identity key field(s),False
+aefb384f5744c8e32122e09cc445fdd30ac74cd6,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-14 02:03:28+00:00,device linking redesign,False
+b62e7da7084cb6f3b28d762c5b35cea9a4968757,Harry Sanabria,harry@signal.org,2024-11-14 00:02:33+00:00,drop voicemessage flag on backed up messages with text,False
+12a20a01ec731790ee33b55dbe548fc44e631ae8,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-13 23:47:19+00:00,don't ask for device name if link'n'syncing,False
+53ec1de85c8079186bfc2e00412c025842da3bd3,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-13 23:46:34+00:00,add rudimentary link'n'sync spinner on primary device,False
+d72edeea621e776bd803e3bdcb4af720e32b192c,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-13 23:45:44+00:00,add rudimentary link'n'sync confirmation sheet,False
+a8c10411b2717bd46ccef820a8b2366742f94265,Pete Walters,pete@signal.org,2024-11-13 23:09:50+00:00,bump version to 7.39,False
+5a62976c9e63dddf3ebfcd100f3e6118e7941fd0,Pete Walters,pete@signal.org,2024-11-13 23:08:53+00:00,update translations,False
+66e454810259acf7c1173cb35f7303399a1efff3,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-13 23:02:36+00:00,update navigation bar style based on swiftui content offset,False
+7f76a8fe71a3aa6eefe61ab2faf650169ac11c70,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-13 19:42:57+00:00,update backup proto with newly-optional fields (and some comment updates),False
+36bdb6a57004f73ac0318a7cea80f888a86392df,Max Radermacher,max@signal.org,2024-11-13 17:36:00+00:00,rename variables that don’t store group ids,True
+7562e4ce8664565da8ef3590e3bdf374c58336d7,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-12 22:24:30+00:00,add messagebackup.loglevel to suppress warnings,False
+8b7932281db5d4c25947c4103359430d6228e380,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-12 22:11:10+00:00,handle negative angle for chat color gradient,False
+44770cef3d0dc9e66a27eb603c1c0ec926c066b2,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-12 21:29:36+00:00,add retrying to messagebackupavatarfetcher,False
+60592ed3b3459a9b2aa018bded28ed8fd1b336c5,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-12 21:22:06+00:00,remove unimplemented backup error case,True
+13f9fe73c0ba750893f6fed16f01040735958c08,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-12 17:06:32+00:00,don't download quote thumbnails when we have the target message locally,False
+698657f992e2867ae78986a6675ebffe8337a667,Ehren Kret,ehren@signal.org,2024-11-12 16:03:56+00:00,move mode switch button to uiaction,True
+3c7ef47b6dc8a597fcf8d53d150f1e069e855ea1,Adam Sharp,sharplet@signal.org,2024-11-12 15:11:10+00:00,tweak filter clear button foreground colour,False
+b1d31ff72c879ea49e11444f14640cd03a8c702f,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-12 15:35:44+00:00,use failable insert methods everywhere possible in backups,False
+d1aff678c449952fc9f99cce64a72d3b7053a924,Ehren Kret,ehren@signal.org,2024-11-12 14:32:32+00:00,migrate to async swift for provisioningcontroller continue button,True
+7591e35fd25075b20579631d322687114d8f3ce9,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-12 01:30:05+00:00,restore group and contact avatars after backup restore,False
+f336caa66e1131cc154de7675407b49a4fa395f1,Adam Sharp,sharplet@signal.org,2024-11-08 21:18:37+00:00,add pull to clear,False
+2305acfac3c8f2fbe81cb0d4cd82f09eee1d2038,Pete Walters,pete@signal.org,2024-11-11 22:03:41+00:00,clean up messagebackupauthcredentialmanager,True
+09337c659b808fb20354bf8532d29560bec2c5e8,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-11 18:17:09+00:00,remove unused method,True
+50c4f5ddec530ae2663be5a61718e386f9dcc15b,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-11 18:16:44+00:00,log instead of owsfaildebug when unable to parse nationalnumber for indexing,False
+2145149651c525cc8db94ca11c8188a39ca4d0d5,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-09 00:33:00+00:00,update app icons,False
+9d1b1d32812fc6c50719c868361743adadac727c,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-08 22:14:03+00:00,use null to represent quoted reply target message not found,False
+feac64905d6fad9db02e7904e0bdb2909730690f,Max Radermacher,max@signal.org,2024-11-08 21:29:45+00:00,show number of people in the call before joining,False
+5b5af5ea636756f3af7b489c45c5f706200c91f1,Adam Sharp,sharplet@signal.org,2024-11-08 14:35:52+00:00,"fix status bar style on launch screen
+
+also switches to using a background colour defined in the asset catalogue
+instead of one defined at runtime.",False
+f3c786fdc97efffe1500c3e5c8f9d6defb6aaeb3,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-08 20:45:43+00:00,drop group story replies for missing stories,False
+a1d74df6d9551481ef0f401d7acd1cf9258f5b94,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-08 20:43:23+00:00,"in backups, wrap calllinkrecord rowid in struct instead of typealias",False
+a0837408479266f5c19938ddd280ec09cb065c38,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-08 19:48:01+00:00,fix adhoc-less calllinks not showing on callstab when backup-restored,False
+69cd02a5d09db9d70d6f74169bd8c92dab88e44f,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-08 19:21:43+00:00,convert calllink expiration seconds<->ms for backups,False
+f8949fd2f8de852b57ebb1fcb019019e4b5dc2f6,Jordan Rose,jrose@signal.org,2024-11-05 21:48:11+00:00,configure whether libsignal should use connection fallbacks,False
+bdb67d4e78dd4ab6528bc1fa91067d3d74d49765,Jordan Rose,jrose@signal.org,2024-11-07 02:44:33+00:00,update to libsignal v0.61.0,False
+ce9f5ba854ceff6027feb20633862b9cf2c07b61,Pete Walters,pete@signal.org,2024-11-08 17:23:39+00:00,don't restore empty payment transaction data,False
+1f56ed5181aa01e655478fa8f1a0ed4ed7f422b5,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-08 17:06:40+00:00,[rfc] run incrementaltsattachmentmigrator when the main app is foregrounded,False
+236f6e6056453a1e6de56ce197dd68fddd907660,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-08 16:45:22+00:00,add ad hoc calls to backups,False
+6326b4eb6191814fd7df0aa2930ba8776b9d4b0e,Sasha Weiss,sasha@signal.org,2024-11-08 01:33:17+00:00,prune a couple `implref` properties off `sskenvironment`,False
+f890ca7bac78f5d4528faae3958f6e88c465a873,Sasha Weiss,sasha@signal.org,2024-11-08 01:32:41+00:00,fully swiftify storageservicemanager,False
+0a9672911e1fca8d004fabff603a0d63cbdf1092,Sasha Weiss,sasha@signal.org,2024-11-07 23:33:03+00:00,add `recordikm` encryption scheme migration to storage service,False
+04338193ee33a11cbe9bd450d1a1af3450c0ec7a,Max Radermacher,max@signal.org,2024-11-07 23:21:23+00:00,upgrade github actions to macos 15,False
+422fa97a4496d992f2d001eb5660349c2fd025a2,Sasha Weiss,sasha@signal.org,2024-11-07 22:03:50+00:00,add `rotatemanifest` to storage service and use in svr code,False
+89e9ee3c3cbdccabb28d2e32ea8451be3288c979,Elaine,elaine@signal.org,2024-11-07 20:51:55+00:00,bump version to 7.38,False
+be39fb767964b1cffed2e391e315026aab93d317,Elaine,elaine@signal.org,2024-11-07 20:50:39+00:00,update translations,False
+73d0985375c562a3dba9b4e50ebb5eb8c350fb90,Elaine,elaine@signal.org,2024-11-07 20:47:07+00:00,update release notes,False
+848a4ab6c79c0c8dd5c33adbed289f2ad0b76278,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-07 20:42:22+00:00,update in-app app icon previews,False
+914f1420dae2b4aa14faf17843a192e78821970b,Max Radermacher,max@signal.org,2024-11-07 19:11:38+00:00,add support for unknown call link restrictions,False
+7cddc434bde4907178a11ce3f5f8b2428a4f77a6,Adam Sharp,sharplet@signal.org,2024-11-05 17:18:15+00:00,"simplify chatlistfiltercontrol with independent istracking property
+
+by using `istracking` to control explicitly whether content offset changes
+should affect layout & animation progress, the `state` enum, layout, and
+animation all become simpler.
+
+also fixes an issue where stopping the drag while the filter icon is partly
+visible would stop adjusting the content offset, causing the filter icon to
+momentarily appear stuck as the scroll bounce finishes.",False
+996b4a260a2a83d7c7cfdee06bfa326bb9404258,Ehren Kret,ehren@signal.org,2024-11-07 15:38:38+00:00,misc cleanup,False
+3d0a7d0e36075d2cb71e89a6a7877f3f239507d4,Ehren Kret,ehren@signal.org,2024-11-07 15:27:31+00:00,remove dead code,True
+799ec1a30c668c7d2265b4b71b0a0981c9e35a9c,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-07 05:59:10+00:00,include signal colors in the share extension target,False
+67c9335ff6f57560d896eb0578fc830c6a0bece6,Max Radermacher,max@signal.org,2024-11-07 01:02:06+00:00,simplify & fix warning in contactdiscoveryerror,False
+219df326361eb13d35632f87b6e1c890a39a928e,Max Radermacher,max@signal.org,2024-11-07 01:01:28+00:00,asyncify cds lookups,False
+91c9c46ed9f6815fcfd8aca1acd7b7dea3b5d54d,Max Radermacher,max@signal.org,2024-11-07 00:58:22+00:00,remove unused cds code,True
+ca202f73e7c29b81dc5ed796cec4fb5cac838598,Max Radermacher,max@signal.org,2024-11-07 00:57:45+00:00,check xcode cloud/github action xcode versions,False
+918efa003c4451817efe3843a2e78e4920649f6a,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-07 00:04:47+00:00,handle dm timer updates in gv1 groups that migrated to gv2,True
+9bca1522459a3355203da485452ed1e4b72dbecd,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-06 23:38:06+00:00,remember which threads were gv1 so we can silently drop archiving their messages,False
+a3ff9a715b6ce708285221964ef25eeca10ffade,Sasha Weiss,sasha@signal.org,2024-11-06 22:17:53+00:00,update fastlane to 2.225.0,False
+6992b9d1b536f628932b6be7ea22199d5a667f86,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-06 20:20:09+00:00,don't back up group story messages,False
+91f68b3b5c0c7c9609156831c59247ec6c1b790a,Adam Sharp,sharplet@signal.org,2024-11-06 20:19:44+00:00,use weak ref to work around race tearing down kvo observation,False
+4e9ec56fca4e5a36e755646da471a23bdda08d95,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-06 18:55:36+00:00,remove alpha channel from app icon,True
+9ad12d6356d3a9c624f2913e5ece94f0c3f664dc,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2024-11-06 15:48:12+00:00,"bump rexml from 3.3.6 to 3.3.9
+
+bumps [rexml](https://github.com/ruby/rexml) from 3.3.6 to 3.3.9.
+- [release notes](https://github.com/ruby/rexml/releases)
+- [changelog](https://github.com/ruby/rexml/blob/master/news.md)
+- [commits](https://github.com/ruby/rexml/compare/v3.3.6...v3.3.9)
+
+---
+updated-dependencies:
+- dependency-name: rexml
+  dependency-type: indirect
+...
+
+signed-off-by: dependabot[bot] <support@github.com>",False
+ad31d13457754630002958ceb5d323e016207cae,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-06 15:13:43+00:00,unmark text when setting to nil,False
+058eb48a5657df5ae96e7bf5302e1cd2427a500d,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-06 14:50:44+00:00,restore tsgroupmember from backups,False
+724954326ded3612347a4daa90494993ee774a66,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-06 14:48:40+00:00,get wasread state from backup call protos not directional details,False
+ead020a482f4bf77fa692ac63be30e66e2ab04a5,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-06 14:25:27+00:00,dont owsfaildebug when mrbk is missing,False
+d98b110b19e86401a2fb9473f0aa7ca0717b3591,Max Radermacher,max@signal.org,2024-11-06 01:13:10+00:00,don’t delay notifications in the foreground,False
+0519d062204e65a55b62569b6d2d4632d3aa9367,Max Radermacher,max@signal.org,2024-11-06 01:12:16+00:00,add warnings when notifications are delayed,False
+2fb8830aa0638d8768d5f5af4edad649ed8de348,Adam Sharp,sharplet@signal.org,2024-11-04 22:57:22+00:00,fix remaining pull-to-filter scroll view glitches,False
+6d0ed8e91ca9c635269bd746fe9e7b1eb23ab536,Max Radermacher,max@signal.org,2024-11-06 00:40:33+00:00,move callbacks for reg requests out of tasks,True
+f218c4475ea2f174ea4cd27ffdc320dc34ae1a6b,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-05 23:18:52+00:00,ignore read cache when updating tsattachment schema version,False
+8819d7675ed943dfcb3698792118afbd4b5079b7,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-05 22:03:21+00:00,update signal colors for swiftui,False
+e12c415bdb56958b619bd7d00e9577b1f65109c2,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-05 22:02:37+00:00,update signal logo,False
+7aa5ccbe569c294be3f0870cd0d36835c95fc92d,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-05 22:02:19+00:00,update app colors,False
+ae989db97a9a75b618c65ce7f4f9e203b20352b0,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-11-05 21:27:57+00:00,add signal colors,False
+ff698f45de4fe8dffd010c39c6f59d8e1a9450c7,Max Radermacher,max@signal.org,2024-11-05 18:59:28+00:00,remove debug toggle,True
+2e7d878423365600a2db38578a1fc1e58a969b7c,Ehren Kret,ehren@signal.org,2024-11-05 14:37:30+00:00,replace group call debounce promisekit with task,True
+051150ae00192e40a1b93f7c908ee5dc287df9f6,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-05 17:39:04+00:00,skip archiving gv1 threads in backup without failing,False
+236d436d09b3bfa4c6170dba2dee130964d49f2d,Ehren Kret,ehren@signal.org,2024-11-05 15:58:18+00:00,remove dead code: `db.writepromisewithtxcompletion`,True
+7c50ba8f8f4e625cc47bcb3fc01d4dcc220fc189,Ehren Kret,ehren@signal.org,2024-11-05 15:08:58+00:00,remove uiview+async,True
+76047d69b70917f0944f62e4b83fedeacd5ebfe3,Ehren Kret,ehren@signal.org,2024-11-05 15:01:01+00:00,remove uiview+promise and make an async version,True
+c768c7fc91230c317551a40ea9c1b3c9730ffa60,Ehren Kret,ehren@signal.org,2024-11-05 14:41:03+00:00,remove dead code,True
+85de5c11c7974fbdbc1e040a055c5ba8e1c52698,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-05 00:06:17+00:00,expose local file backup export in internal,False
+0d655f9e1a34fe70944abe0f46929e47ccff0066,Max Radermacher,max@signal.org,2024-11-04 21:49:11+00:00,consolidate error handling for owsurlsession,False
+6d14b97ab6009aeb801cfd4b45f2c3a7362ef766,Max Radermacher,max@signal.org,2024-11-04 21:29:53+00:00,use new async owsurlsession methods,False
+3d4b0fca16cd52f059692340588dfcc896da5168,Max Radermacher,max@signal.org,2024-11-04 21:21:48+00:00,"handle recoverable send errors more quickly
+
+co-authored-by: harry <109690906+harry-signal@users.noreply.github.com>",False
+4392e4b0453d33a6310d7f40e5b5c6ecabfbf06d,Max Radermacher,max@signal.org,2024-11-04 20:38:11+00:00,make groupv2snapshot into a struct,False
+ddf65f314adf4ee616f5ee968f91bb70495e3c28,Max Radermacher,max@signal.org,2024-11-04 20:34:57+00:00,clean up devicesleepmanager,True
+a664303444597385cc850f1b471c612f1f9d2899,Max Radermacher,max@signal.org,2024-11-04 20:31:41+00:00,adopt new endpoint when creating groups,False
+b0fe9284eb1f63239158ef0c6a49f5466aad6f28,Max Radermacher,max@signal.org,2024-11-04 20:22:45+00:00,update protobufs for gses,False
+40db38ae5a20365ccc66cdd45d19cda65442e0ca,Max Radermacher,max@signal.org,2024-11-04 20:22:17+00:00,use monotonicdate for restsessionmanager,False
+68b6ffac40b8ad8c1b71b5edb1be23a4a7476e3f,Max Radermacher,max@signal.org,2024-11-04 20:17:09+00:00,fix large envelope handling,False
+f05a76bcaac6db127cb7ef06e8867a78f7436fb5,Max Radermacher,max@signal.org,2024-11-04 20:16:44+00:00,add cancellation support to http requests,False
+d07871f1f417cf88020317340731b43dba61dae5,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-04 19:26:37+00:00,add internal settings button to validate backup,False
+31b9ca53384acfe9ed43ddcdb3c53222e8b5978e,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-04 19:25:59+00:00,run validator on link'n'sync export,False
+1093e0332e32ffdfe4e28ae89130c9b2022e8fb3,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-04 19:25:20+00:00,mark backup error logs as fatal or not,False
+aca2204448f5fc4884e3018b725ee1ec3281831f,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-04 16:30:01+00:00,improve post-backup fulltestsearchindexer error handling,False
+f5f98e2f99c1709d10db01f3b71197586002de77,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-04 16:28:33+00:00,don't wait as long for link'n'sync on internal builds,False
+c3cd9f13cce31bf6375c37982682a43240ed881b,Max Radermacher,max@signal.org,2024-11-01 22:33:38+00:00,clean up some noisy lines,True
+fffb4569dffa8cf802fb02862f7f29f12034b926,Max Radermacher,max@signal.org,2024-11-01 22:31:35+00:00,combine transactions for reactive profile keys,False
+c86730f9a30e4a3a52415f691e140de061666174,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-01 21:48:11+00:00,respect timeout on tsrequest,False
+3a63402138c7201bee8d371a86a7a23d36c695e9,Pete Walters,pete@signal.org,2024-11-01 20:46:58+00:00,migrate to new media/message backup auth credentials,True
+03d9cc024ed3f34f0edcacb5714b9c51416ce992,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-01 20:46:06+00:00,set lastvisiblerowid on threads and wasread on messages when restoring,False
+2a88f9e9f3d238be0fbe1851755db45705529cd7,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-01 20:41:30+00:00,move lastvisiblesortid store into its own class,True
+5a44fc61622eb305d875f3916e5bad36884b8abf,Pete Walters,pete@signal.org,2024-11-01 20:39:42+00:00,"migrate to libsignal key derivation
+
+co-authored-by: sashaweiss-signal <sasha@signal.org>",True
+655e7bd20600bcfce5bd75c7d0a2672731367a76,Pete Walters,pete@signal.org,2024-11-01 20:39:11+00:00,"add a ""purpose"" enum to mbauthcredentialmanager
+
+co-authored-by: sashaweiss-signal <sasha@signal.org>",False
+d86761d7502345cd360070911cbadf1e2a1b711a,Pete Walters,pete@signal.org,2024-11-01 20:38:17+00:00,update to libsignal v0.60.2,False
+21809bb4711c0f387daf667a2f8bd17408a2cc17,Pete Walters,pete@signal.org,2024-11-01 19:50:12+00:00,fix document picker to work for both device and sim,False
+a9d28a29758cd041b9af54233e9ecea82f66b2c5,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-01 18:51:03+00:00,fix backup of my story and story privacy/view mode,False
+b96923fc824b0229eb3c87b8c803ae33d72551a6,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-11-01 17:30:02+00:00,add call links to backups,False
+ee1f784767bfb495bc0e09eb711cc80e40f931fd,Harry,109690906+harry-signal@users.noreply.github.com,2024-11-01 17:18:11+00:00,don't link'n'sync if relinking,False
+c37c385a40df20e8a113d8e2286dd034ecbc2d9f,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-31 22:55:24+00:00,just present backup errors ui directly from chat list vc,False
+2989f1738a28f79186fcece2204eca5429ee2de7,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-31 21:29:32+00:00,dont export expirestartdate for non-expiring messages,False
+a8321c4f54dcf1389c3615a3ef3f87401f159eae,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-31 16:37:01+00:00,omit iv from copytomediatier request,False
+c82477729e7ab35cd103373e1094019346bf0cf7,Adam Sharp,sharplet@signal.org,2024-10-31 14:56:06+00:00,fix filter by unread icon rendering in dark mode,False
+ebf8feca05e075f28b0f0d174ab36458b758630c,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-31 03:08:40+00:00,link'n'sync backup spot fixes,False
+321bb702f300e1fc71e213fde557b9e29cea1f5b,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-31 00:15:34+00:00,avoid double-archiving phone number contacts,False
+ee3367b5f8e61127b2ea85b7a4d051b85c7f8823,Harry Sanabria,harry@signal.org,2024-10-31 00:01:15+00:00,up internal linknsync timeout to ridiculous levels,False
+ba81099bbd1637919c38780d6341bb918046d6d4,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-30 22:04:05+00:00,add toggle to enable link'n'sync for internal builds,False
+215006a2af281806b9c98dec25cde142c0232980,sashaweiss-signal,sasha@signal.org,2024-10-30 20:34:12+00:00,bump version to 7.37,False
+63ea393f6ee5858709798c92aaa881e86fdb7989,sashaweiss-signal,sasha@signal.org,2024-10-30 20:33:53+00:00,update translations,False
+1dc972698d93648a6aa05254ccaa0890ac1a2084,sashaweiss-signal,sasha@signal.org,2024-10-30 20:31:22+00:00,update release notes,False
+4acff30e913575b732a5290b5657f5e7c5e0e4b6,sashaweiss-signal,sasha@signal.org,2024-10-30 20:29:40+00:00,enable filter-by-unread for all users,False
+bb34e1acc067ceeb4c4a285058ca11e57dc4e652,Adam Sharp,sharplet@signal.org,2024-10-30 19:31:10+00:00,enable filter by unread in beta,False
+6c270d508cf545909a8bebde0023dfbbbb91c198,Adam Sharp,sharplet@signal.org,2024-10-30 14:38:30+00:00,fix issue where chatlistfiltercontrol gets misplaced after marking as read,False
+bfbc885b70aad61ad0efebf25a6e20f16de29793,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-30 19:47:17+00:00,rollback failed backups,False
+9937e97d6a4d1a2c401d9d6dbf09e14eb90e621a,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-30 19:45:45+00:00,add database writewithtxcompletion variants,False
+fca64f4bc8bbc00f8d95ccfdaad7dbd257a70df0,Adam Sharp,sharplet@signal.org,2024-10-30 18:45:39+00:00,"use ""heavy"" haptic feedback style for unread filter",False
+f0da212a8be96b9e21d07bf68002cadbd124078c,Max Radermacher,max@signal.org,2024-10-30 18:53:41+00:00,use nsfilemanager instead of ssziparchive,False
+36246dc12856cf25b2fb297d567c078da992cbec,Adam Sharp,sharplet@signal.org,2024-10-30 17:34:33+00:00,make unread filter icon turn blue when activated,False
+9a25e5991a2dde51b83d158bd3f3a8f1ef2b4ff0,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-30 18:42:30+00:00,manually rollback or crash if attachment v2 writes partially fail,False
+9ba009a1e3e27a8c4453342f88ea8dc8b04e303b,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-30 18:21:53+00:00,add internal-only ui to display verbose backup errors,False
+a6fd1765f98e6b1c48c2af576621d508ee220160,Ehren Kret,ehren@signal.org,2024-10-30 17:01:54+00:00,remove unnecessary `@objc` from `sdsdatabasestorage`,True
+149e5a75cda13da1ed8e18fd6ccf2b361c8e6e49,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-29 23:24:27+00:00,handle long text in edit message history view,False
+8a9f7ebe4e6460b402ac21d49649a26b3b384acf,Adam Sharp,sharplet@signal.org,2024-10-29 21:07:06+00:00,"increase default size of filter icon, adjust animation timing",False
+c857a6148c4dc44e378fb12a9f5c2ce8d591ee06,Adam Sharp,sharplet@signal.org,2024-10-25 17:44:50+00:00,animate changes to the chat list immediately with pull-to-filter gesture,False
+d279d682ec902a5950bbfe7e7f3454af09c8c0f2,Jordan Rose,jrose@signal.org,2024-10-29 22:40:19+00:00,turn off libsignal-net shadowing experiment by default,False
+8f9c66cc5cd62f85304c81c0046a2e3119139ff9,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-29 21:51:23+00:00,clean up sdsdatabasestorage's layers and layers of methods,True
+39154ac2361cd7c4d7533f05519c5d4efb9c29f5,Adam Sharp,sharplet@signal.org,2024-10-29 18:00:45+00:00,fix docked filtered by unread button not being tappable,False
+f54409b92d4a26cfcf7628b67c7e8264966d1701,Sasha Weiss,sasha@signal.org,2024-10-29 18:31:04+00:00,stop persisting a receiptcredentialpresentation on job records,False
+11243584b0db5fdd52b98c77d931053a8e0b7f3a,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-29 16:56:12+00:00,redesign device linking scanner with photo picker,False
+bc9341a571f6f754ed6656cc985c3a770ada470f,Pete Walters,pete@signal.org,2024-10-29 14:42:46+00:00,revert sni header changes,False
+33e8ebf9f73ca56bd371c2f3b2af484464ec0543,Max Radermacher,max@signal.org,2024-10-29 02:40:25+00:00,remove exclusiveprocessidentifier almost everywhere,True
+788e87f15bcd663edbda3ae5e59c722eca43a1fd,Max Radermacher,max@signal.org,2024-10-29 02:34:41+00:00,decode a bunch of json constants,False
+d086376fcf2a07d2852431b1273eb3a440eeade5,Max Radermacher,max@signal.org,2024-10-29 02:25:40+00:00,improve messagesenderjobqueue fetching,False
+027e400e11b4b1b25d50fa281c5500a2e9e8965d,Max Radermacher,max@signal.org,2024-10-28 21:48:35+00:00,asyncify more of storage service,False
+c3d787242a1e1b8d51400ba584e35cca4bcdf336,Max Radermacher,max@signal.org,2024-10-28 21:12:44+00:00,fix assertions after disabling payments,False
+c6989e6154fe0b3658d174b3958469dd9e620f50,Adam Sharp,sharplet@signal.org,2024-10-28 20:44:08+00:00,update title & icon of menu item to clear unread filter,False
+a38cb959e8d75cebb72a9eb9bf71bb528024649b,adel-signal,adel@signal.org,2024-10-28 20:47:12+00:00,switch to v2/calling/relays endpoint,False
+01fbce844fcfb1ab9a77e4e963b55e86843e2e72,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-28 17:28:27+00:00,"generate, persist, and read/write mediarootbackupkey aka mrburgerking",False
+8ecae5c825fbede407ab9c418e9a2b0ead3d0166,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-28 16:30:57+00:00,use remote config value to determine which transit tier attachments we auto-download off backups,False
+25811672b566dc95d93d5a2a83227669b87bae75,Pete Walters,pete@signal.org,2024-10-28 16:11:32+00:00,disable clv data source updates when not visible.,False
+99f250ecb6b5eb6f23119a1cb42099a34a588a96,Adam Sharp,sharplet@signal.org,2024-10-28 14:19:42+00:00,"always proactively finish filter icon animation
+
+instead of holding onto the filter icon animator as long as possible and the
+system cancelling it out from under us, always proactively cancel it at the end
+of the pull to filter gesture.",False
+406f406d7b4a845326965f48c655decb3654039b,Max Radermacher,max@signal.org,2024-10-28 15:01:07+00:00,fix stall in waitforprocessingcomplete,False
+383b2104620ba0d30f4ea70184c915cc4146950d,Adam Sharp,sharplet@signal.org,2024-10-23 13:25:36+00:00,use xcode 16.1 on ci,False
+34ceacb2a98242dc92c0345ec9fed77de92a85b2,Adam Sharp,sharplet@signal.org,2024-10-23 15:12:08+00:00,"add basic xcconfigs with support for user build settings
+
+could be used to, e.g., disable treating warnings as errors locally, but still
+have new warnings caught on ci.",False
+3d8eb76994fe113e4b4e70632b224300dcc5c6d1,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-10-25 23:48:58+00:00,add view-once messages to backups,False
+9aa0076adc060b8f16f86bd9c98aaf84f8ce561e,Sasha Weiss,sasha@signal.org,2024-10-25 22:15:31+00:00,update ringrtc to v2.48.4,False
+29389e33768106bd4cf1c7045a83a408d5d88975,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-25 21:43:16+00:00,add link'n'sync capability to provisioning qr code,False
+0949fbfc767d320417570d85983559b7b61badea,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-25 21:42:31+00:00,"hook up link'n'sync (dev only, without error handling)",False
+7269d29723f473fba8a935c4b97ea2dc5ca4c365,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-25 21:37:10+00:00,implement linked device side of link'n'syncmanager,False
+9595bdfa9f27a13fe97119b9044a1c6ca5a83344,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-25 21:36:36+00:00,implement primary side of link'n'syncmanager,False
+0c75d271705e7d6372ec34914d6d044bbe2d72bb,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-25 21:35:12+00:00,add linknsyncmanager skeleton,False
+6cb911ae93fc387eba90ee9f720c4d0e2b7e5d52,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-25 21:34:33+00:00,add tokenidentifier to device provisioning code response,False
+1f03f0e52db1a9823e221e1fed74e3a5a7346768,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-25 21:33:45+00:00,add link'n'sync ephemeralbackupkey provisioning proto,False
+535acba11cdb241a936b36620c9942caca884de5,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-25 21:30:00+00:00,add encryption mode to backups for link'n'sync support,False
+03643f5f91e31f5873b150889fa28374163d789c,Max Radermacher,max@signal.org,2024-10-25 21:09:34+00:00,fix testearlyservergenerateddeliveryreceipt,False
+6992f47c64cbd6b771e1242a4b84b988481910a2,Sasha Weiss,sasha@signal.org,2024-10-25 20:30:24+00:00,upgrade our swift-protobuf version,False
+8ebcc1e4ecfb46326aa824f620551c86aa36bea7,Sasha Weiss,sasha@signal.org,2024-10-25 20:28:33+00:00,update to the latest backup integration test cases,False
+4281cc9a5b0ce48199e5b3a53bd0dc524f07e2d8,Max Radermacher,max@signal.org,2024-10-25 18:24:11+00:00,clean up messagesenderjobqueue,True
+cd99181746cee053d7211c1c4a9c590007e60e18,Max Radermacher,max@signal.org,2024-10-25 18:19:48+00:00,squash jobqueue and messagesenderjobqueue,False
+b367f65465c683410b3ae12c7b47b380d3598d78,Max Radermacher,max@signal.org,2024-10-25 18:19:12+00:00,simplify rest batching & acking logic,False
+6518c62bb97799c99ecd2845db03a8988127191d,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-25 18:11:17+00:00,add post-scan device linking ui,False
+320cd0ca7e95041d9245871f2f0a65f733f8dbfb,Max Radermacher,max@signal.org,2024-10-25 18:10:57+00:00,remove missingdevicescache,True
+a16c13d1b9327dd1091651c7b8f979f726c24ac3,Max Radermacher,max@signal.org,2024-10-25 18:10:19+00:00,de-owsoperation paymentprocessingoperation,False
+f149718964986554e7c13358501072bba1a0ddbf,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-25 18:09:51+00:00,make backup media list endpoint handling more efficient,False
+fcc46d3aa6e9c2bd964b64f477db42007054dd45,Max Radermacher,max@signal.org,2024-10-25 18:09:23+00:00,asyncify paymentprocessingoperation,False
+b640e6d32d52d37fe7f271b895717a767b8b4562,Max Radermacher,max@signal.org,2024-10-25 18:02:52+00:00,use inout mutable storage service state,False
+de25c202844531577a3e3f26e3fd7d791e860107,Max Radermacher,max@signal.org,2024-10-25 18:01:46+00:00,asyncify storage service operations,False
+71950c3e523fa8441dc10844db6cc5a2a7199ad7,Max Radermacher,max@signal.org,2024-10-25 18:00:37+00:00,don’t use escaping block for awaitablewrite,False
+f6beca37fb27b6fc6a57db414fb08b4ff3f04587,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-25 17:32:13+00:00,include flagged looping videos in media gallery gif query,False
+0c2b44c48d5a6a6d45bd3c3b0871a7b1c5f213a3,sashaweiss-signal,sasha@signal.org,2024-10-25 17:20:14+00:00,bump version to 7.36,False
+6bcf05c40922560e611e9d969af5fac5938772cb,sashaweiss-signal,sasha@signal.org,2024-10-25 17:20:12+00:00,update translations,False
+c3db7ddce72a393e67ef53d31b7179352895df0a,sashaweiss-signal,sasha@signal.org,2024-10-25 17:16:41+00:00,update release notes,False
+46b5b4a9e40ef80c6c22234ce67530ea8a312db6,Sasha Weiss,sasha@signal.org,2024-10-25 17:14:56+00:00,prefix donations-related types with donations,False
+ed6a75e10fe8fa98e9f09939eb9ac4a4d5049203,Sasha Weiss,sasha@signal.org,2024-10-25 17:13:10+00:00,remove the subscriptionmanager protocol,True
+a1f11374e045b38136c6285a615946039a279754,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-25 16:52:44+00:00,add device authentication for device linking behind a feature flag,False
+f3837b08c20c4fb445e16304bd1f2ee34a2742f2,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-25 16:38:18+00:00,use continuous corner curves for app icon picker,False
+08dd35e91911bbe78b94d36bc6e17c00ed92a678,Pete Walters,pete@signal.org,2024-10-24 20:04:39+00:00,buffer gzipstreamtransform input,False
+d9e411208a9d6c6b82172cbedc25a299b77df087,Pete Walters,pete@signal.org,2024-10-24 20:04:17+00:00,chunkedinputstreamtransform performance improvements,False
+1b43d021e98d19f8e05cb4b553819e3561932da0,Max Radermacher,max@signal.org,2024-10-24 18:43:29+00:00,don’t handle 428s when fetching pre keys,False
+e6c016c50f0dc3e68a399cf894b81859c79401da,Max Radermacher,max@signal.org,2024-10-24 18:43:03+00:00,remove handling for http 417 errors,True
+7c771b5d05a93dc4bcf4dc8dabba5094896d1e7a,Max Radermacher,max@signal.org,2024-10-24 18:42:48+00:00,remove handling for http 413 errors,True
+e5a5f7c45158aba4cd5c19fb3dfddba20d8fd914,Pete Walters,pete@signal.org,2024-10-24 16:54:46+00:00,cache the tsinteraction insert statement for backup restore.,False
+9b01bd5fdd6e90194603b1a22d3ce23483ae4e37,Pete Walters,pete@signal.org,2024-10-24 16:48:00+00:00,switch to default compression for backup export,False
+1447f5160df94f4ea60c2c00ccec6f47c0b47ea9,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-23 23:17:31+00:00,only use audio tracks when computing waveform,False
+d5a523e725f0ab9ac83ae9d2404921ec8bcdb2b7,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-10-23 22:26:22+00:00,fix call pip not showing local video when alone in call,False
+32b93c103beea75aac47edb411b99814fbe14194,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-23 21:57:20+00:00,"remove knownstickerpack, query messageattachmentreference instead",True
+8e55575c681d9eb58f8c42a97caf6136ffb76ae5,Adam Sharp,sharplet@signal.org,2024-10-23 13:05:22+00:00,only begin filter gesture interactively,False
+52f31e38d390cc93b73d5413c54b8a49cbd76cc5,Max Radermacher,max@signal.org,2024-10-23 08:07:04+00:00,add captcha support for call link calls,False
+9b48bf573dce1f166412284577f298fcd7e74711,Adam Sharp,sharplet@signal.org,2024-10-22 21:10:41+00:00,"don't deallocate uiviewpropertyanimator until completion handlers run
+
+uiviewpropertyanimator asserts when deallocated after it has already scheduled
+an animation completion handler on the current runloop. adding an explicit
+completion handler to do the clean-up should ensure the animator isn't
+deallocated too early.",False
+57fd3b64181a12bc3f88aeff66d6a4d3bc4d067d,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-22 22:40:07+00:00,circumvent modelreadcache on backup export,False
+72430f103ac6df1ca6c8be03a50b7f3042b33845,Harry Sanabria,harry@signal.org,2024-10-22 21:39:09+00:00,don't list media if feature flag disabled,False
+0aa1c3a05c141711bad507191c3c23cd6348dd71,Adam Sharp,sharplet@signal.org,2024-10-22 21:03:13+00:00,improve design & reliability of pull-to-filter,False
+d8eb6e43044dd10b4574e07969cabbff55afc3a0,Adam Sharp,sharplet@signal.org,2024-10-07 18:09:43+00:00,"use clipping to hide chatlistfiltercontrol content instead of an overlay
+
+- prevents chatlistfiltercontrol content from blending with the navigation bar.
+- properly ""docks"" chatlistfiltercontrol to the top of the chat list content
+  area instead of allowing it to move with overscroll / bouncing during the
+  pull-to-filter gesture.
+- fixes an issue where the overlay view could occasionally appear as a white
+  bar covering part of the chat list.",True
+734ca937fe3018b807d3a87ca5fb2741f65d4c35,Sasha Weiss,sasha@signal.org,2024-10-22 19:50:03+00:00,add backupsubscriptionmanager,False
+90e0e6a5a71d5b543568446a45c6388986125c74,Sasha Weiss,sasha@signal.org,2024-10-22 19:48:41+00:00,genericize receipt credential requesting in submgrimpl,False
+0c3c55ce32d30de3c55e3ab3ec11708287253100,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-22 19:06:09+00:00,check for >0 timestamps for link previews,False
+315f2ebbd1d40e03497a74cad48c1cb0767eb53e,Pete Walters,pete@signal.org,2024-10-22 18:34:45+00:00,cache sql statements for reactions/attachment fetches,False
+9956bd3ce0ea950168c2f16f3be7ae1d48fdf864,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-22 17:43:40+00:00,disable databasechangeobserver while creating and restoring backups,False
+b3b14bc97f19b7affa225d24cc0989390671e8d6,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-22 17:42:16+00:00,protocolize+make public databasechangeobserver,False
+c1a4b8828caefe4cf18696e5a3becb19cb89a3c2,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-22 17:41:42+00:00,skip serializing empty objects in sds serialization,False
+374a98028178155bb50efc807ac69b1bef9eb7ec,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-22 17:40:34+00:00,cache attachment reads on backup export,False
+63d820b8304355439358e5cce3dc32a6ca799636,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-22 17:39:03+00:00,list media tier attachments,False
+54364a4ff182af50d16897f1fec1cbaf453e391e,Ehren Kret,ehren@signal.org,2024-10-19 14:18:05+00:00,use asyncrequest for spam reporting,False
+9d24c6b11160a3279750935f76ae50cd3fa27ddd,Ehren Kret,ehren@signal.org,2024-10-19 13:52:31+00:00,add asyncrequest method to networkmanager to deprecate promises,False
+29915ca893f3457e05f1eb47cff9e708b5854995,Ehren Kret,ehren@signal.org,2024-10-19 13:26:15+00:00,add ability to make asyn requests to networkmanager,False
+6ca937df79b31165e8ebfa130222fa345cb47228,Max Radermacher,max@signal.org,2024-10-22 14:47:54+00:00,run profile key group updates concurrently,False
+9137ea35d698c51819d9babad6ac36372ea3f344,Max Radermacher,max@signal.org,2024-10-22 14:46:04+00:00,clean up handling for a few non-terminal errors,True
+e8e01bbe11cfeb64b1348605a9a71e76fc85cd3f,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-21 23:43:03+00:00,directly insert in the database in messagebackupstorystore,False
+30c4b02f9256a5cfa171e14164e21cd61a4f3187,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-21 23:42:17+00:00,directly insert in the database in messagebackupthreadstore,False
+7650e8d99320630d1916c46dfaa3d7ed3c725034,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-21 23:41:26+00:00,bypass sdssave for interactions restored from backups,False
+576dad141ea009605627a6404ae2540373c6bf07,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-21 23:20:39+00:00,add backupfulltextsearchindexer,False
+a2ebef4cabf2eabd8e66042e0e73b6638e652d00,Ehren Kret,ehren@signal.org,2024-10-18 10:35:39+00:00,remove promisekit from conversationpickerviewcontroller,True
+2459a2e05acc18949910cc064df99b0379d01161,Pete Walters,pete@signal.org,2024-10-21 18:11:12+00:00,update default cc targets,False
+1dd5ce569872f95d05dbd7cd116b2dc1319d776a,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-18 21:00:32+00:00,refactor backup postframerestoreactions to support thread visibility needs,True
+d3e3e84023ddd142ebdcef724676bb74032e242e,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-18 20:55:25+00:00,don't fetch original message for quote by timestamp,False
+383755d71e891916b8ee77fa1533c35c325660eb,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-18 20:08:25+00:00,add messagebackupstorystore,False
+b902790b9317706e86f7848d07eb0f50f75bbbc2,Max Radermacher,max@signal.org,2024-10-18 20:07:10+00:00,add & use global.messagequeuetime remote config,False
+347b8adbf22701c940f9c9bc651aa9cee1f410b4,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-18 20:06:57+00:00,add messagebackupthreadstore,False
+60e590c21b214c16aa40946f214ac8cf4bcaf5b3,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-18 20:01:09+00:00,add messagebackupinteractionstore,False
+52e4446a0af3b9fe1d4cd4a255a2aac3cb3dde40,Max Radermacher,max@signal.org,2024-10-18 19:35:01+00:00,asyncify (and speed up) profile key rotation,False
+e8a0aee7596e18908ac782f64fcda8cfea04faab,Max Radermacher,max@signal.org,2024-10-18 19:01:33+00:00,remove incominggroupsyncjobrecord entirely,True
+f7c3b9b97601fb1be7486924d186d42b54349cdf,Max Radermacher,max@signal.org,2024-10-18 18:43:07+00:00,prune some cases that don’t need to sync contacts,False
+0a2f3dd343575a815379f0b67f6eb6b0163f9517,Max Radermacher,max@signal.org,2024-10-18 18:41:13+00:00,remove an extra layer when sending messages,True
+7965356ae9a83fe1ec9a0714c9a31ed984a22525,Max Radermacher,max@signal.org,2024-10-18 18:32:53+00:00,asyncify paymentsreconciliation,False
+03589b47abacfb627ecf04e46eec021e6f1bf151,Max Radermacher,max@signal.org,2024-10-18 18:31:06+00:00,asyncify groupv2updateoperation,False
+c0b31c02df2375c989a444aaa9200147624e4f46,Max Radermacher,max@signal.org,2024-10-18 18:28:19+00:00,asyncify uploadqueue,False
+b3b7f9044529dbdacc55b1c25e6d663a44c8d9f4,Max Radermacher,max@signal.org,2024-10-18 18:25:10+00:00,asyncify genericgroupupdateoperation,False
+4cad31ca6a9e9c4314775e8b78af1bb60b0037f4,Max Radermacher,max@signal.org,2024-10-18 18:20:24+00:00,asyncify cdndownloadoperation,False
+07f3a0a2f7ecfcccc834f4819a2a0dc01e94b663,Max Radermacher,max@signal.org,2024-10-18 07:46:11+00:00,fix serialtaskqueue,False
+6a8e93b5e415fd89ee6da2e759a15d64a1e8a50e,Max Radermacher,max@signal.org,2024-10-18 07:39:24+00:00,asyncify groupinvitelinksui,False
+73759beb09619726dbf56d65240798af681937d9,Max Radermacher,max@signal.org,2024-10-18 01:42:45+00:00,add missing third outcome to sendmessageflow,False
+120666d45d1cf919810302b7521c2b74d7e9189d,Max Radermacher,max@signal.org,2024-10-18 01:41:53+00:00,wait reasonably before retrying prekey fetches,False
+87f2e7b7dea02c9c3efd9f3dce63b0638eefd43f,Max Radermacher,max@signal.org,2024-10-18 01:39:36+00:00,handle key mismatches when fetching prekey bundles,False
+9e83ba78368eb40d70fe8c9dd922b833a521e8e2,Max Radermacher,max@signal.org,2024-10-17 21:35:07+00:00,don’t localize debug-only string,False
+0d6d744f901d94969d37e708f9624f9385a82d68,Max Radermacher,max@signal.org,2024-10-17 21:34:51+00:00,clean up compile-time flags,True
+0036c07ad2c6352ea7fba7c9cab9423980b1c4de,sashaweiss-signal,sasha@signal.org,2024-10-17 18:51:21+00:00,convert signal/calls back to a group in xcode,False
+4fa4300fefc846c3d5871f4e7f37075f8879803e,Max Radermacher,max@signal.org,2024-10-17 04:31:49+00:00,fix safety number handling during group calls,False
+4b22356a374be724e553568bccbef4c59c2fb4ab,Sasha Weiss,sasha@signal.org,2024-10-16 22:34:16+00:00,add forward-looking turn server parsing,False
+b64fb84f4ecf59346c2e6a639608bb28d949a6c1,Harry Sanabria,harry@signal.org,2024-10-16 20:47:46+00:00,bump version to 7.35,False
+46e5b12ae1d159306210537423365de865f5d4a3,Harry Sanabria,harry@signal.org,2024-10-16 20:47:21+00:00,update translations,False
+9fb2411b39dc20fb129b6eadfaef1e8ebc66664e,Harry Sanabria,harry@signal.org,2024-10-16 20:42:09+00:00,update release notes,False
+dad37fc5b6e18d99f592ee36b524678dcedea0ec,Max Radermacher,max@signal.org,2024-10-16 19:33:14+00:00,enable call links,False
+bfbf721337ec688acef2c6adef55627110076ae5,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-16 18:34:37+00:00,update table spacing in call drawer,False
+26cd893f69e7e91e403b19f3fdc6fdc30b7e3476,Max Radermacher,max@signal.org,2024-10-16 17:46:17+00:00,clean up various things with profile fetches,True
+0391ff0c87fbfca7a62fec30b2b743f44bb15fbb,Max Radermacher,max@signal.org,2024-10-16 17:10:45+00:00,send calllinkupdate each time we join the call,False
+07632a2f4ad323cbeb69dcc25a8f4de9528b5b9c,Max Radermacher,max@signal.org,2024-10-15 23:54:58+00:00,ignore calls sent to our pni,False
+780f91dcf24a0c73c9998d29652aeeac83e765f4,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-15 22:49:51+00:00,remove outdated comment on shouldstartexpiretimer and move logic to swift,True
+5e2725ea2da8690c38aba018ab75c954501ff12d,Max Radermacher,max@signal.org,2024-10-15 19:17:53+00:00,save call link when sharing via signal,False
+6e0af6078814344c88c7abd160917de4d7720e7c,Max Radermacher,max@signal.org,2024-10-15 18:42:39+00:00,fix signedprekeyrecord nssecurecoding conformance,False
+0621ab8691cfd1084bd6064f33298b6487242d1d,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-10-15 17:12:24+00:00,randomize call link icon colors,False
+538f5064a6d176cc6eb0c5d16ed306457462979f,Ehren Kret,ehren@signal.org,2024-10-12 05:26:22+00:00,remove dependencies protocol entirely,True
+4f43208fdcd5110d5065b1d85b6bb8d945909051,Ehren Kret,ehren@signal.org,2024-10-12 05:06:27+00:00,delete dependencies+signalui.swift,False
+a4d65d6119bc149938ae16aa4a3233afa4660595,Ehren Kret,ehren@signal.org,2024-10-12 04:47:02+00:00,remove dependencies+mainapp.swift,True
+de32c7799d8191c592de262b9cea3639acac9c17,Ehren Kret,ehren@signal.org,2024-10-11 17:07:23+00:00,remove nsobject and dependencies extension computed vars for signalservicekit,True
+289ad6e3a4ffe030fad8818e0622541f961d97ef,Max Radermacher,max@signal.org,2024-10-11 18:39:52+00:00,send calllinkupdate messages when first joining,False
+c7b16a7f2280a3c2489b83b8acb7b7dd2bdc2db0,Max Radermacher,max@signal.org,2024-10-11 18:39:30+00:00,don’t change ids when coalescing call records,False
+9999683bd0361b72ad7a98fb6f41037a6f53a949,Max Radermacher,max@signal.org,2024-10-11 18:38:54+00:00,fix reloading when the id doesn’t change,False
+8f2a0813fe62be2952dede09ab9e59c44024eb04,Max Radermacher,max@signal.org,2024-10-11 16:53:33+00:00,fix row reload logic when joining/leaving a call,False
+d96a16a92193097e073c1319d55461ec4cee961f,Max Radermacher,max@signal.org,2024-10-11 16:40:56+00:00,add call link support for group call notifications,False
+e344e200a3c662febf40f240b609e71c5f6d4ee7,Max Radermacher,max@signal.org,2024-10-11 16:38:03+00:00,fix call link delete sync event handling,False
+a981f5efcf636a713053eeadf27423351516f569,Max Radermacher,max@signal.org,2024-10-11 16:37:28+00:00,handle non-existent call links when peeking,False
+26236d56425828e7f8f026f7c4f1e3a11320eca0,Max Radermacher,max@signal.org,2024-10-11 16:36:51+00:00,handle call link lobby peeks,False
+754a6690c3ef3816c8c19d271c3a8995a1198e7a,Max Radermacher,max@signal.org,2024-10-11 16:36:22+00:00,insert call events as soon as you try to join,False
+f83637ec07ff84d68986bb100c37e8c448107eaf,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-11 16:20:15+00:00,improve handling of missing cell data in call members list,False
+114afd8fe840cde976e5ef6a5de4022782b61e65,Ehren Kret,ehren@signal.org,2024-10-11 14:36:43+00:00,remove shared extensions,True
+e0a1d5a551796345071873797945f6e2256aabd0,Sasha Weiss,sasha@signal.org,2024-10-11 00:13:14+00:00,update to libsignal v0.58.3,False
+46f8fcc660b6c324d98d1d1706afe8aa47495e6f,Max Radermacher,max@signal.org,2024-10-10 21:10:39+00:00,update release notes,False
+2eb971e41c42dd834928e568ca7b6eb86cb7b904,Max Radermacher,max@signal.org,2024-10-10 21:08:51+00:00,add calllinksync feature flag,False
+8f248e42e970db9a6eee11018945093279975287,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-10 21:07:09+00:00,don't pass tx to a method that doesn't need it,False
+d1ec39a1b45665fd87a5e8a2a12e74565f8f91ad,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-10 20:36:05+00:00,allow enable controls overflow button while sheet is decelerating,False
+e7ff2cbdeac8bf4b5d0898a0df1ba8bdc33bc555,Chris Eager,79161849+eager-signal@users.noreply.github.com,2024-10-10 20:34:55+00:00,remove deprecated levelconfiguration#name,True
+45330e3fdfafc16b411bde588786370aba759303,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-10 18:05:32+00:00,add tint to photo permission menu icon,False
+55783e3772fe4ebc571d1eaa18d1ea42d8c69bfd,Max Radermacher,max@signal.org,2024-10-10 16:34:09+00:00,bump version to 7.34,False
+25c8efd85bfecbe77fbccb74851ba5c381d93ecb,Max Radermacher,max@signal.org,2024-10-10 16:28:24+00:00,update translations,False
+0048417fe965f859bc90b9aa1377f0511df37045,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-10 16:22:17+00:00,update controls state when minimizing call drawer from done button,False
+23d6a23d903536d0725c39b5b26b405fc9debeb8,Max Radermacher,max@signal.org,2024-10-10 16:18:44+00:00,add call link support to a unit test,False
+8ebabea916637749182e124e61cb0c4ae3771069,Max Radermacher,max@signal.org,2024-10-10 00:28:31+00:00,handle 404s when reading call links,False
+a45958d1a0c4cb06fee822fb0e9db76c2c8c09ad,Max Radermacher,max@signal.org,2024-10-10 00:26:46+00:00,fix crash when tapping “join” for a call link,False
+a2f602731977c1930f2c960b9e1ab39ab6fb6dcf,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-10-10 00:25:12+00:00,make call ui react to receiving unknown users' profile keys,False
+2c8a4b8f685606bc73f26da74d5803ceda45b668,Max Radermacher,max@signal.org,2024-10-09 19:46:38+00:00,rename callstarter enum cases,True
+1be997b523e7e86eb219ca8b8e5dcfdbbcdc3ad5,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-09 19:45:11+00:00,cache tsthread in memory in backups,False
+326172956a11367c7796075a016c0052bde65d46,Sasha Weiss,sasha@signal.org,2024-10-09 19:24:06+00:00,add storage service manifest version to internal settings,False
+bc3b21488691914a2199eed85183add1c7fbf71c,Max Radermacher,max@signal.org,2024-10-09 19:05:34+00:00,clean up call link feature flags,True
+b6b3a78f60dc055c124768db80282dd7a0bae4bf,Max Radermacher,max@signal.org,2024-10-09 19:03:38+00:00,add grdb migrations for call links,False
+1e7d1767c7a11663ebd4c12f62e9e7cf400d95bf,Max Radermacher,max@signal.org,2024-10-09 18:37:52+00:00,persist initial call link state when joining,False
+110858dffcd6b78535ee24c7f6b290730eef0fdf,Max Radermacher,max@signal.org,2024-10-09 18:33:42+00:00,peek call links (and groups) on the calls tab,False
+f12b9427474f21934c0402fe0b266fe7d384642b,Max Radermacher,max@signal.org,2024-10-09 18:22:38+00:00,add support for deleting call links,False
+1ec1a5ee0c79918256f23c223e2907a8223e3776,Max Radermacher,max@signal.org,2024-10-09 18:09:41+00:00,throw an error when joining deleted call links,False
+77c81ab0eaebca2a0f8d3cf4a1305ff2a27ebfc5,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-10-09 17:46:41+00:00,send profile key to call link members,False
+ad61ebb49426f14cd493f516b8dca0b10ca6e170,Max Radermacher,max@signal.org,2024-10-09 16:35:34+00:00,fix call link & call record reloading operations,False
+5c2a58f97697d76eb77d04634e711f0dff2bfde2,Max Radermacher,max@signal.org,2024-10-09 16:17:00+00:00,prune duplicate adhoc calls,False
+60a16e949f7f445f87c5d42b63e82531480f771e,Max Radermacher,max@signal.org,2024-10-09 15:49:04+00:00,resolve trivial [calllink] todo:s,False
+8666ca69a201394c748d674321364cb6fe9ed7b3,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-09 04:02:58+00:00,show audio waveform fallback as long as we have a duration,False
+3bb9af1c4164123d2cd73691b3f2573157890e39,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-08 23:07:40+00:00,fix layout issues with group call drawer,False
+9d637f8fc7ce354ae9e558df41e00caced2212e5,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-08 22:07:53+00:00,log how long it takes to export/import a backup,False
+ef9717d7ffce4f2f7e7ea529ca4a1207c2f99784,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-08 17:53:23+00:00,add more options when managing photo access,False
+b10a749c898e02cbd28021ea9d04eb022cd33f79,Max Radermacher,max@signal.org,2024-10-08 17:47:21+00:00,fix testappexpiry just after midnight in october,False
+16eec9c3413f7887301cc0441b893c29a967361c,Max Radermacher,max@signal.org,2024-10-08 17:36:59+00:00,use adminpasskey from calllinkrecord,False
+70acd8260c45befcf6fda621c7ffbe95c2716c4b,Max Radermacher,max@signal.org,2024-10-08 16:56:21+00:00,reload calls tab rows when call links change,False
+a57401476d06512ae706062186150faca922db2d,Max Radermacher,max@signal.org,2024-10-08 16:55:42+00:00,send calllinkupdate messages when making updates,False
+3aceb65513b68a5919ccff4d8d8ef1d713f111d0,Max Radermacher,max@signal.org,2024-10-08 16:54:58+00:00,add info button support to calls tab,False
+36504393b9345b11656749ad83373fba2c01b6fa,Max Radermacher,max@signal.org,2024-10-08 05:31:49+00:00,add call link disposition sync messages,False
+ce5689dcb396f5282ba6f8d940b51dee4a7751c0,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-08 02:06:08+00:00,remove mockdb in favor of inmemorydb,True
+6d6bf7bf0b44a37fe25d5da70e339f0ebabe4a1c,Harry Sanabria,harry@signal.org,2024-10-08 02:05:03+00:00,disable enqueuing orphaned backup attachments behind feature flag,False
+82af13026059a51a65ca36ef36831a918c4ab72f,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-08 01:48:43+00:00,add new svr enclave and begin migrating,False
+8d4e3d786fcf051d4ef53c68ce6b4a827668cd7a,Harry Sanabria,harry@signal.org,2024-10-08 01:46:35+00:00,don't run orphanedbackupattachment job unless feature flag enabled,False
+72929bd2efae3296b37e8987c274e2a2788e7727,Max Radermacher,max@signal.org,2024-10-08 00:32:48+00:00,remove unnecessary isappready check,True
+dcb847c2072336123ba5435e63b412d25c8d3422,Pete Walters,pete@signal.org,2024-10-08 00:17:09+00:00,update header,False
+b6ed79741f228e3e2bf480c1eb8beb3d983c7236,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-07 22:54:54+00:00,update libsignal to v0.58.2,False
+474c8c2ed627e854ca9b4ea276f0a03e71ce7c56,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-07 21:14:42+00:00,update verified safety number icon,False
+6b3d2a174eb333f0612ae644a5ecf577def38a0e,Pete Walters,pete@signal.org,2024-10-07 19:01:11+00:00,update sni headers,False
+e7cdb0ed4c20bdfc033f4ca2d246447c9075afc4,Sasha Weiss,sasha@signal.org,2024-10-07 18:06:47+00:00,add support for passing a prefixedlogger to owsfail* methods,False
+3b03c172e1ed50b301911893de4144f3f02b30b6,Ehren Kret,ehren@signal.org,2024-10-07 16:19:29+00:00,misc cleanup,False
+b3d502caf789e0c0bba42c6843b79b3f53999040,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-07 16:07:15+00:00,add ui for unknown call link members,False
+4e5e570421aced4d3a4015eba27d58218d4ee97c,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-07 14:56:36+00:00,add necessary media tier list methods to attachmentuploadstore,False
+a760f35b6d77ca6eea640b6d52f17926ce3cc33f,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-07 14:55:58+00:00,split attachmentstore and attachmentuploadstore,False
+96e6dbca4a164783ebc13f37adca6b30f0b4f370,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-07 14:55:13+00:00,don't issue media tier delete requests on linked devices,False
+5d83d0acaa21d046a662b9b9e1ada15be7924c9f,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-07 14:53:51+00:00,handle inserting/updating attachments with duplicate medianames,False
+88c939264c6967c749892db7b4c8df4714e9e89e,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-07 14:53:11+00:00,delete pending orphan backup attachment jobs when creating a new attachment with the same medianame/id,False
+7c5dcf8b4f630ee1527e307110b829d26f9f1b63,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-07 14:52:17+00:00,orphan backup attachments by mediaid as well as medianame,False
+6c20092eb3ba4df0335b7b157e53e7508c926e25,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-07 14:28:48+00:00,add orphanedbackupattachmentmanager to delete attachments off backup cdn,False
+a74842b7573838c4b8a26fd15597dfc0c81658ca,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-04 23:13:35+00:00,clean up remaining store users of sdsdb.shimonlybridge,True
+ba2f10732e4cff71c58584000e63fe80f0dced4a,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-04 23:12:52+00:00,parametrize transaction type in db v2 protocol,False
+efaa46abcbb01bec5ff5ad264bfed048a034cc91,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-04 23:11:58+00:00,access database connection directly in attachmentstore,False
+78d39a660413d6f62deefbcd2adae00ea38c3790,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-04 23:11:43+00:00,make recipient unhiding method properly throw,False
+98e4b143eaf21314411e0ed9f5473d4981eb2cf8,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-04 23:10:47+00:00,add database connection access method to db v2 transactions,False
+5821c8bbc9e9a0dfd7b03a3d24e2b4a8a8137ce9,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-04 22:38:47+00:00,get uploadera for restored attachments from the backup's accountdata.backupsubscription.subscriberid,False
+0f094d17d52ff12221080adfea4c69f183870f1e,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-04 22:26:09+00:00,attempt auto download of transit tier attachments from backup if 3̶0̶ 45 days old,False
+05523587bb79836bd646fc27dfdc8d0c1eed3b71,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-04 22:24:34+00:00,"centralize ""can be thumbnailed"" logic",False
+0a695ddf9041e220b25bf95b470619fc42ef0845,Max Radermacher,max@signal.org,2024-10-04 20:10:03+00:00,add ios.senderkeymaxage remote config,False
+9329074aef198e7d63897c6886daf9c17aeed3d9,Igor Solomennikov,igor@signal.org,2024-10-04 02:59:52+00:00,add filtering to all media - audio screen.,False
+70717bd244f4cd2f616a83a96533ffd73fb90e93,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-10-03 21:50:56+00:00,add join button to call link messages in chat,False
+84a2619afaa66791af010dc38753a864aa646c7a,Adam Sharp,sharplet@signal.org,2024-10-03 17:39:51+00:00,add missing feature flag check,False
+ecc41ecb0d9dbfd0933f8a331ceccdedc6b124d0,Max Radermacher,max@signal.org,2024-10-03 17:21:38+00:00,add rendering support for call links,False
+f9d28205ffccfc2904dd8ef74b81c350ba9f5456,Adam Sharp,sharplet@signal.org,2024-10-03 03:25:26+00:00,fix filter icon animation breaking after a view controller transition,False
+d1fa4c9523e916de915eb5302e182a2c35d639da,Adam Sharp,sharplet@signal.org,2024-10-01 19:50:56+00:00,fix pull-to-filter animation breaking after backgrounding the app,False
+b25c8695ebadbd1140d78b5fea593d8ab4d079b0,Adam Sharp,sharplet@signal.org,2024-10-01 17:07:31+00:00,"add ""filtered by unread"" button with animated transition",False
+1bbb39beaa3d65bf45016c6e1c9402f0752e3782,Marissa Le Coz,marissa@signal.org,2024-10-02 22:00:51+00:00,bump version to 7.33,False
+a2aaa4ea36b7bc34368c6a1414578df58616c60f,Marissa Le Coz,marissa@signal.org,2024-10-02 22:00:25+00:00,update translations,False
+82dfe56231d35f3c8a7442af6cf041c47f2c9646,Marissa Le Coz,marissa@signal.org,2024-10-02 21:56:51+00:00,update release notes,False
+905b79dffbcc45f6a1f622136e822d702d59ffaf,Pete Walters,pete@signal.org,2024-10-02 21:53:10+00:00,fix incorrect layout of contact picker tableview on ipad,False
+672254dacfe83c010b8bce4c0d4ed8d558aaf51a,Max Radermacher,max@signal.org,2024-10-02 21:07:42+00:00,fix ios 18 limited contact access handling,False
+e36441b71f926c7f14a24c15d7ba37f188129173,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-02 21:05:10+00:00,add enumerateallattachments method,False
+6e71bb97583e3ca146490428be615cf35f515b30,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-02 18:51:45+00:00,add localization to call link strings,False
+4f278e7cbc27ac30be97b4b925f9d2f632104d24,Pete Walters,pete@signal.org,2024-10-02 18:23:47+00:00,fix contact access check on ios18 for contact sharing,False
+6540215e72b173bc4c06948771e78d7802743fae,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-02 17:57:22+00:00,observe registration state in backupattachmentdownloadmanager,False
+9a5710ad1f4c455dc27d33504b33aac5155df2ee,Max Radermacher,max@signal.org,2024-10-02 17:54:23+00:00,add unused database support for sync messages,True
+ab92cf34b04e7f4912d5693fd6280d38e17322a0,Max Radermacher,max@signal.org,2024-10-02 17:44:20+00:00,clean up call event delete sync code,True
+d866b73f735592603332a3812e5c2a3329003064,Max Radermacher,max@signal.org,2024-10-02 17:43:23+00:00,clean up code to start calls from the calls tab,True
+0a24456d38aa987b4849b1ed11d7805cbc00e24d,Max Radermacher,max@signal.org,2024-10-02 17:42:22+00:00,add support for ad hoc call sync protos,False
+16ea76a8e3a83f73f7bcf61b47e52108b75efd59,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-02 16:23:26+00:00,add orphanedbackupattachment table,False
+1e3fdd980dca08998aae8d61833e43f546a06713,Pete Walters,pete@signal.org,2024-10-02 13:56:29+00:00,scope the ios18 uitab changes to just ipad.,False
+5fd1676bbe62865514790671f22ed52e2764eb88,Pete Walters,pete@signal.org,2024-10-02 13:55:57+00:00,fix badging for ios18 uitabs on ipad,False
+317226629cee447fd316eb53ba44a147957e8f1e,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-01 22:49:11+00:00,allow call link name to be edited in-call,False
+48478de2602d80cd60f34dbc1a114386f39361ea,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-10-01 21:50:22+00:00,[call links] show join error sheet in completion of dismissing activity indicator modal,False
+4153e5e62e59cdb549057dbded3efe0dc6be4055,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-10-01 21:27:01+00:00,call link lobby toast,False
+d40fd336dffa145789f751ce4ad13fd2c5c9e223,Max Radermacher,max@signal.org,2024-10-01 21:17:44+00:00,adjust “use awaitablewrite in tasks” check,False
+718984472ff93eb1fdcd17016ef4a6e8d5d2a19f,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-01 19:57:35+00:00,add grdb db observation method to db,False
+950d6343dbfe6c36d2a7e4ef11625ce1617076ea,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-01 19:56:58+00:00,add method to fetch attachments by media name (has unique constraint and therefore has index),False
+1a6aa23512bbe1f977bf37ed13b3082389bdda0e,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-01 19:54:37+00:00,don't download backup tier attachments unless on wifi,False
+f3e0f797f8f2870735245204067f5568b9ca5f2b,Harry,109690906+harry-signal@users.noreply.github.com,2024-10-01 19:53:37+00:00,finalize appreadiness' modernization,False
+81d1e2e50201aadc49189933b8320095eaac154a,Max Radermacher,max@signal.org,2024-10-01 19:44:37+00:00,fix inverted check,False
+9b7902a8299f1b8201aa9e3b86cc59cf5a1fad78,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-10-01 19:19:49+00:00,add preview support for call links in drafted messages,False
+3a8c66ff21afd33c952f68653b981b47645722a1,Max Radermacher,max@signal.org,2024-10-01 17:34:00+00:00,fix protowrappers.py,False
+a88c9f99a904f5354ec61fcecfcc40569afa96e0,Ehren Kret,ehren@signal.org,2024-10-01 16:09:19+00:00,use header authentication on the websocket,False
+210a46037f12cdc6ad97ac6dceb64fbc43469f67,Sasha Weiss,sasha@signal.org,2024-10-01 16:23:33+00:00,conditionally set group invite link preview strings,False
+0dc990ef30a209a64fad1c8e8ba3f473f0dbd6d4,Jim Gustafson,jim@signal.org,2024-10-01 14:43:04+00:00,"update to ringrtc v2.48.2
+
+co-authored-by: ehren kret <ehren@signal.org>",False
+a69ff7d3fdbafa7b348634b917d08abc32edf812,Max Radermacher,max@signal.org,2024-10-01 02:14:01+00:00,add basic support for rendering call links,False
+58f96e884dc96164263ee98baaab5de18148ea47,Adam Sharp,sharplet@signal.org,2024-09-23 14:55:09+00:00,add pull-to-filter gesture to chat list,False
+044b291ed6260e9c42259aa6a330f21414e25042,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-09-30 19:09:50+00:00,force dark theme on in-call action sheets,False
+531d8ff665cea9155b0e99c69546d0d55554fecd,Harry Sanabria,harry@signal.org,2024-09-30 17:43:53+00:00,fix taskqueueloadertest flake,False
+6e974418aa36cc00def0a9d4d63c9f8215bd4954,Ehren Kret,ehren@signal.org,2024-09-30 17:25:39+00:00,migrate owsreceiptmanager to swift,True
+ce4c5da6a6634c5b39feddfd96b4d4a3d72d9e2f,Max Radermacher,max@signal.org,2024-09-30 16:22:00+00:00,move callrecord thread/interaction rowids to enums,True
+d5a8926791fcc6721673a0b963fe33ce8aee56cd,Pete Walters,pete@signal.org,2024-09-30 14:35:29+00:00,fix compile error with public import,False
+6abb8148c3938dcafd8beabe4560e37b9699ce1c,Ehren Kret,ehren@signal.org,2024-09-30 00:37:50+00:00,remove unused build settings,True
+95eee580c9873285e7ab1e1eb97f46aa85ad432f,Ehren Kret,ehren@signal.org,2024-09-30 00:11:59+00:00,enable isolated default values,False
+01b4fc27143515a7389c6bc6e9aec959c2d39945,Ehren Kret,ehren@signal.org,2024-09-30 00:06:45+00:00,fix two todos noticed in prior commit,False
+63d070957f667acb5ef4a1d755590b0e497ca032,Ehren Kret,ehren@signal.org,2024-09-30 00:06:34+00:00,enable infer sendable from captures,False
+38ef7fc3091d8acaa0e00a766e33d87a7c3b68be,Ehren Kret,ehren@signal.org,2024-09-29 23:48:21+00:00,warning cleanup,False
+b913e3bc5b7215cfb7312bf602b85a7650478336,Ehren Kret,ehren@signal.org,2024-09-29 23:38:56+00:00,enable importing objc forward declarations,False
+3b1881c30b5cfd692b59748edd5650ee9883ae94,Ehren Kret,ehren@signal.org,2024-09-29 23:36:13+00:00,enable implicitly opened existentials,False
+4de6ebad91aa478ec40ea1fd3adf4c8057a13dc1,Ehren Kret,ehren@signal.org,2024-09-29 23:35:51+00:00,disable outward actor isolation,False
+ee24b2de181a27479cb3c4f29c3f6404c41fa6f7,Ehren Kret,ehren@signal.org,2024-09-29 23:31:51+00:00,"enable forward trailing closures
+
+this change seems a bit risky as there's no great way to say for
+certain we have not shifted around some closure somewhere if methods
+had multiple closures of the same type with default values where not
+all of the values were being passed in.",False
+c3b442265c6724b54c4fa9c8f1f63417723ce5e6,Ehren Kret,ehren@signal.org,2024-09-29 23:27:44+00:00,deprecate application main,False
+5ea36cd91bb0e3c39cf81230119dd09bc379564e,Ehren Kret,ehren@signal.org,2024-09-29 23:23:33+00:00,enable internal imports by default,False
+f4b772a7f12cf3f5f35fa49f0ba0dd09bc29d00d,Ehren Kret,ehren@signal.org,2024-09-29 18:56:51+00:00,convert `#file` to `#fileid` by enabling concise magic file upcoming feature,False
+921399e79d30074675bcf33063b1a2822af1c5eb,Ehren Kret,ehren@signal.org,2024-09-29 18:53:28+00:00,enable more static analysis warnings,False
+18de8a1533674209d0b15fda573ca7d2fb4afe1e,Ehren Kret,ehren@signal.org,2024-09-29 18:46:17+00:00,enable agressive misuse of nonnull checking project wide,False
+529bba064308201bddd6ed1f0439a59d175bb775,Ehren Kret,ehren@signal.org,2024-09-29 18:34:40+00:00,warn on out of range enum assignment,False
+ebe7783a04a97d06489ded41b968d69e6858929a,Ehren Kret,ehren@signal.org,2024-09-29 18:29:06+00:00,enable nullability annotation checks,False
+8c216f78021304131fd25ee11b2d8a7347e228f9,Ehren Kret,ehren@signal.org,2024-09-29 18:25:49+00:00,use the project default for strict objc msgsend,False
+753a2d044df83bc383e934c179424d30699060eb,Ehren Kret,ehren@signal.org,2024-09-29 18:23:33+00:00,disable objc exceptions code and weak objc manual reference counted code,False
+e470fae672724f12ac0b56d71007720f02d6279e,Ehren Kret,ehren@signal.org,2024-09-29 18:11:03+00:00,remove empty header search paths at project level,True
+110e4408db1dcf289b3359062d543c4c554b02d1,Ehren Kret,ehren@signal.org,2024-09-29 18:05:40+00:00,update project copyright date,False
+31806c62153e9220ef5f7b03b9964655293c869f,Ehren Kret,ehren@signal.org,2024-09-29 18:01:03+00:00,remove excluded arch armv7 as that's no longer necessary,True
+9586a958629345e7fcb89c1e0e67374fe84b114d,Harry Sanabria,harry@signal.org,2024-09-28 03:40:17+00:00,remove unecessary appreadiness checks that are always satisfied by screenlock callers,True
+ae6f6dd27f46c36f3f5072f58193745b5babb722,Harry Sanabria,harry@signal.org,2024-09-28 00:39:06+00:00,remove unecessary appreadiness asserts in view controllers,True
+a58fe0cd255b3e00b04337a1b9f3532e70a27558,Harry Sanabria,harry@signal.org,2024-09-28 00:38:06+00:00,pass appreadiness around tons of view controllers,False
+a7f3bd00fefe803bcd993d97fa982b297fdf79ae,Harry Sanabria,harry@signal.org,2024-09-27 23:59:25+00:00,pass appreadiness to modelreadcache,False
+24b837d1b71e09d8a0333dc438aba3e115bf0f60,Harry Sanabria,harry@signal.org,2024-09-27 23:47:46+00:00,remove unecessary appreadiness check that is always called from app-ready callsites,True
+c9e81799655be76dca48809493aa49ae01fa9b32,Harry Sanabria,harry@signal.org,2024-09-27 23:40:17+00:00,pass appreadiness to messagefetchbgrefreshtask,False
+d43b2846b03e3a7a69c3a6148504785d50e3d00f,Harry Sanabria,harry@signal.org,2024-09-27 23:29:26+00:00,pass appreadiness to jobqueue methods,False
+81f95f81647955bff09288142f1e37194079f7fe,Harry Sanabria,harry@signal.org,2024-09-27 23:19:07+00:00,pass appreadiness to remoteconfigmanager,False
+c057de0a00f308c11cdcc4ad5e0659af2455a01d,Max Radermacher,max@signal.org,2024-09-27 23:25:56+00:00,check calllinkrecordtable when joining a call,False
+0eef828071c944fbb87b3814fd0f7919ec2c0870,Harry Sanabria,harry@signal.org,2024-09-27 23:02:00+00:00,pass appreadiness to refreshevent,False
+8b283daa8d0f38afefc6db7237f66cea850570ce,Harry Sanabria,harry@signal.org,2024-09-27 22:57:12+00:00,pass appreadiness to screenlock,False
+21e896e56111e281d48d71649b8903fc5a0a87ad,Harry Sanabria,harry@signal.org,2024-09-27 22:50:52+00:00,pass appreadiness to screenlockui,False
+c38c485881b0cbacab1a5d8687282b6b04b8b496,Harry Sanabria,harry@signal.org,2024-09-27 22:43:48+00:00,perform separate appreadiness setup on contactsviewhelper and audiosession,False
+b502da7e384ba08bf1c56971439ca286db114bcc,Harry Sanabria,harry@signal.org,2024-09-27 22:39:38+00:00,pass appreadiness to paymentsimpl and friends,False
+d89043ae6489d10ca54560e04537924ffd172cee,Harry Sanabria,harry@signal.org,2024-09-27 22:26:46+00:00,set appreadiness instance on theme,False
+dc41f2ce160144e56af21744a2b29bdb8f053396,Harry Sanabria,harry@signal.org,2024-09-27 22:21:30+00:00,pass appreadiness instance to devicetransferservice,False
+983f0445cadce5d0bd06a4de493a16c9fda0d487,Harry Sanabria,harry@signal.org,2024-09-27 22:18:34+00:00,pass appreadiness instance to chatconnectionmanager and friends,False
+831866f26bc6fb637d60ddf7e45d61f04e361b3f,Harry Sanabria,harry@signal.org,2024-09-27 22:07:38+00:00,pass appreadiness to notificationactionhandler,False
+044f277a28273de8e694adf394945f2257f2d827,Harry Sanabria,harry@signal.org,2024-09-27 22:03:52+00:00,pass appreadiness instance to a ton of classes that need to retain it as an instance var,False
+e58a032d65535ecfe2de028bbe68f3f791712759,Harry Sanabria,harry@signal.org,2024-09-27 20:56:00+00:00,pass appreadiness to signalapp methods,False
+889f655d4faca57e4f5b12f934a363c91441f53d,Harry Sanabria,harry@signal.org,2024-09-27 20:52:56+00:00,pass appreadiness to appenvironment,False
+f5ba827d7f4acec2bc094f15c044c89e7c28fd0f,Harry Sanabria,harry@signal.org,2024-09-27 20:48:30+00:00,provide appreadiness to warmcaches methods,False
+13cd59a2a062c6f8d7d1f10631440a0060713b92,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 21:02:07+00:00,pass appreadiness instance to a bunch of usage sites that are only 1 layer deep,False
+4e564fc5ab77dfa3429cce16e00c3088e46c8ac3,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 21:01:06+00:00,delete appreadiness shims now that its modernized,False
+dbfa30bdc58b327c9353ff5865e4fbd923ebb5d9,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 20:15:07+00:00,remove appreadinessglobal pt 1: appsetup,True
+279c42674c4bb80f54e8c1fe9b4e36e105283e8c,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-09-27 20:09:30+00:00,remove iscalllink from linkpreviewstate,True
+ad71398c770490186f61657d8e52686296daecd6,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-09-27 20:08:07+00:00,move linkpreviewcalllink to signalui,True
+1e036ebbfc47ff60cb256d61c86ca04958c2a8a4,Jim Gustafson,jim@signal.org,2024-09-27 20:05:07+00:00,update to ringrtc v2.48.1,False
+fd0a34909edb359af611990ff4dd63b5f6e76447,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 19:36:15+00:00,add non-global appreadiness protocol + impl,False
+7945ba7aab54a194f1d85fd812d36a0f655f27f1,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 17:02:01+00:00,simplify appreadiness implementation,False
+de608c00fbb57be55ec0382aaf304eb082706d51,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 17:00:53+00:00,add appreadiness wrapper for the few remaining objc callers,False
+309725b25800c7b18ce875c4569a5bde2781be01,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 16:57:21+00:00,format appreadiness whitespace and remove unused parameter,True
+4e69ff67056bd3e5513641b8e3136bf2076a1208,Max Radermacher,max@signal.org,2024-09-27 16:41:11+00:00,simplify closure to create `callviewmodel`s,False
+ef678d2720c95912c0b4ab244ea5f073a99adb53,Max Radermacher,max@signal.org,2024-09-27 16:40:39+00:00,keep the web socket open while on a call,False
+9d1f027106d5388034f0c1ebbbbd5b259ba1872c,Max Radermacher,max@signal.org,2024-09-27 16:40:22+00:00,add calllinkstateupdater & calllinkfetchjobrunner,False
+0882dde68bea420bee33290911f15aed9c945cc9,Max Radermacher,max@signal.org,2024-09-27 16:38:12+00:00,fix owscolor ↔ argb conversions,False
+3c3651ac9adc8ffdd1e51627069b2ac54ab34fba,Ehren Kret,ehren@signal.org,2024-09-27 11:51:58+00:00,"convert owshttpsecuritypolicy to swift
+
+additionally cleanup duplicate certificate loading code scattered
+about in the codebase",False
+0f0991ce88b0dd1a3cbee87161d33121709f3175,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 16:24:47+00:00,lazy init paymentsimpl,False
+50c376d325e12beda99e98aa7c3fec715f4eacc8,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 15:51:51+00:00,separate theme appreadiness invocation from init,False
+b8d70763782ee69a4e981a5da127464402677fac,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 15:50:59+00:00,separate signalapp appreadiness invocation from init,False
+8a6fce53bcb1cacc0c816e794d9dbab5ff14d3bc,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 15:48:51+00:00,kill owspaymentslock.shared,False
+8ae34efe3714b3822f9af4980f07a967a2c75626,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 14:56:11+00:00,kill screenlockui.shared,False
+0cd93fa007734740d8a4ef2791f33f5edd5c9bb9,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 14:55:23+00:00,kill storageservicemanagerimpl.shared,False
+ba333be7142675f1b4c1e81fd1f1c22518d4f8fb,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-27 14:25:26+00:00,add backupattachmentdownloadmanager,False
+5d070245ab8c58ad7c0b6ff25136dece60b2bdd9,Ehren Kret,ehren@signal.org,2024-09-26 00:37:25+00:00,add `@mainactor` to two additional types and handle resulting bubble out,False
+37cbabbb3c807874ba3b2126433986e913f9662b,Ehren Kret,ehren@signal.org,2024-09-25 23:34:56+00:00,remove mainactor assumptions from readyflag and propagate upwards,True
+55923db8366f491205c657a181eef37665b206b3,Ehren Kret,ehren@signal.org,2024-09-26 22:26:07+00:00,convert owsdisappearingmessagesjob to swift,False
+6f3349892e3babdffc5e3927c5eb8d0ba21b4ae2,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-09-26 22:18:33+00:00,fix string typo,False
+a84400a4fe41bb7c1510b136a9a3ab3e654a3326,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-09-26 20:57:38+00:00,make call links icon into uiimage using uigraphics,False
+1b28fd7ba08ee7fd98f1f8dc87510da9dd1eec1f,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-09-26 20:50:33+00:00,update default email string for inviting friends to signal,False
+acaf9aa5a0c9dfcd8b03d7158d2d4bae8bda5926,Max Radermacher,max@signal.org,2024-09-26 19:12:54+00:00,disable multi-select for “create a call link”,False
+97922d26d3bc2296b0ade3b26eca8cf371a80d8d,Max Radermacher,max@signal.org,2024-09-26 18:04:43+00:00,refactor callslistvc’s viewmodelloader,True
+b970f754d0040007768a74e253de0b6fc38979ba,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-26 16:08:16+00:00,go back to registration pin entry when svr server returns an unknown error,False
+090de37350ebf88a5119577644464c4bc9677aae,Max Radermacher,max@signal.org,2024-09-26 14:07:57+00:00,remove testable_build from pods,True
+ec5c1ecd3ec9044334bc1c576593cec5d151b814,Max Radermacher,max@signal.org,2024-09-26 05:06:24+00:00,remove signalaccount & owsuserprofile read caches,True
+20c828c0b1e9df6c4e9443f899120b9587412287,Pete Walters,pete@signal.org,2024-09-26 00:50:44+00:00,bump version to 7.32,False
+f926f377a29b6766ac51447e50c17d8f76abda9e,Pete Walters,pete@signal.org,2024-09-26 00:50:11+00:00,update translations,False
+c610758ee5d77ce8b8a76ad77e846d799ad20bcb,Pete Walters,pete@signal.org,2024-09-26 00:45:36+00:00,update release notes,False
+4d8771939772b5aefe87151d884c80738cfb40c8,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-26 00:12:48+00:00,fix backup copy to media tier request,False
+005a568df9ffaba361c403a7bef4e44d1dffb9dd,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-09-25 21:59:12+00:00,implement share via signal on call link creation sheet,False
+846ad820fbbd9002e45cdc5ff17b2f520dd1ab79,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-09-25 21:21:08+00:00,prevent bottom sheet from covering incoming ring controls,False
+1c2231145abbb6792980ffc57312f5994e12442a,Sasha Weiss,sasha@signal.org,2024-09-25 20:10:40+00:00,increase timeout for backup integration tests,False
+0edcb508edb37914f16aeb714c13077e4354c317,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-25 18:10:48+00:00,allow taskqueueloader to be stopped,False
+a8d12f0be2b9b85aeb1b87d5c6c4bb19b5b56a3b,Pete Walters,pete@signal.org,2024-09-25 16:38:51+00:00,add backup/restore of sticker packs,False
+0227da54df2f49bfc45342f064d46b3b26dbc949,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-25 15:48:11+00:00,enqueue backup attachments for upload,False
+c024deb4f892fc5fed873d6892f8979f9db12463,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-25 15:45:38+00:00,add backupattachmentuploadmanager,False
+28c598f0018034a8c2c06e34a5f692b13ab5f57f,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-25 15:44:18+00:00,add backupattachmentuploadqueue table,False
+dd3e1a52f06f8a34d7e787724e50483ba618b9f1,Pete Walters,pete@signal.org,2024-09-25 13:59:12+00:00,don't throw when encountering a recoverable z_buf_error in gzip deflate,False
+8057d074c5db85f271e9571e03a584512a97cd4e,Ehren Kret,ehren@signal.org,2024-09-25 02:28:22+00:00,fix race condition for cross process sds notifications by no longer using state,False
+a3fc08e2e4365488fc48b58422e09ea6d465b6ac,Jordan Rose,jrose@signal.org,2024-09-24 02:02:03+00:00,"continue tolerating legacy sessions in ssksessionstore
+
+rather than relying on sdskeyvaluestore returning nil when
+keyed-archive data can't be decoded, do the decoding step in
+ssksessionstore, where we can explicitly allow it. then write a test
+that approximates having the old session data stored.",False
+ed405b398f198d30d6f2097b8331fd8868b4ed47,Max Radermacher,max@signal.org,2024-09-25 00:02:59+00:00,remove unused type,True
+ac9bd2438690eeaace3402630cf68d1092112351,Max Radermacher,max@signal.org,2024-09-24 23:03:57+00:00,update call link link previews to latest spec,False
+752dffb2c1ccab818ad8b3559f2835feb2eaa8a0,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-09-24 21:40:34+00:00,add image to call link previews for sent messages,False
+d30f9be5556124d392d62838e6884c09864d5672,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-24 20:48:44+00:00,disable view once button when a draft quoted reply exists,False
+136b16f734f1a9e99d494474e627abccc1c0b637,Pete Walters,pete@signal.org,2024-09-24 20:31:37+00:00,allow blocklists to be empty for dlist archive/restore,False
+5c1731902b7fe39068d943eea173484d6f2dc0f5,Ehren Kret,ehren@signal.org,2024-09-24 20:15:51+00:00,convert sdscrossprocess and darwinnotificationcenter to swift,False
+6512d0bc4759b0619ac602b9685e0abeaffda94d,Max Radermacher,max@signal.org,2024-09-24 19:50:56+00:00,use `-> never` for rescue blocks,False
+7314377bbcde4a31877762e7e5cd666fb8b1c3e6,Sasha Weiss,sasha@signal.org,2024-09-24 19:13:55+00:00,re-add .defaults(to: false) in migration missed during rebase,False
+b19dfd21fa1f25e89821a5032368d0ce00ba39ab,Sasha Weiss,sasha@signal.org,2024-09-24 18:02:25+00:00,[rfc] separate git submodule steps for pods and backup tests,False
+cb16a9bd59ac64da9c1a960b4df1b8094217f7c9,Sasha Weiss,sasha@signal.org,2024-09-24 17:00:36+00:00,"more propertly handle ""contact hidden and in message request state"" from backups",False
+8a35b3dfa293056195a66367ac4c45c40719f2a3,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-09-24 17:00:24+00:00,add button to remove call link members,True
+c1a1ab81bf1f16e7f96701d2d74cc6b693e3d700,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-09-24 16:49:00+00:00,call link request bulk approval sheet,False
+a1cf9e62b8ebb3bc4f1946348e7414f43abe649b,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-24 01:38:16+00:00,add taskqueueloader,False
+966b6cacdbcd4c2b5550ab849ef7a8d71b0dee4c,Sasha Weiss,sasha@signal.org,2024-09-24 00:42:11+00:00,support issms for messages restored from backups,False
+55f9b89388c95b8145c327a4d92a4fcb2cd0709c,Adam Sharp,sharplet@signal.org,2024-09-23 23:43:36+00:00,re-enable dark theme during registration,False
+b94a5faece6db4d2835fab2092b7a82cacf6e578,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-23 22:06:29+00:00,wipe transit tier info off attachment table if we know the upload is gone,False
+2fdc7dfa31ef85415f585198fb164b08a7dc3889,Ehren Kret,ehren@signal.org,2024-09-23 15:29:56+00:00,remove dependencies from debuguistress,True
+774895145cb51fcb1a6c7d11f50b93d14c066900,Ehren Kret,ehren@signal.org,2024-09-23 15:00:15+00:00,break promises in debuguinotifications,False
+12ce531f8e6b2a49cd5824321c54bd9aeef7a212,Ehren Kret,ehren@signal.org,2024-09-23 01:59:48+00:00,eliminate anypromise,False
+3753e3c94fcff1de9fb909734053192e87d86a7d,Ehren Kret,ehren@signal.org,2024-09-22 06:17:42+00:00,remove promises from appupdatenag,True
+7f9b144d970f4fd76233ae57097c684fadc18cb7,Ehren Kret,ehren@signal.org,2024-09-22 04:48:38+00:00,delete dead code,False
+f0c867589e2a2d143487ebf0e822abab83560438,Ehren Kret,ehren@signal.org,2024-09-21 13:01:02+00:00,move owsidentity to swift,True
+f83dff9252cf911011a9a5dc80506f0b68701d57,Ehren Kret,ehren@signal.org,2024-09-21 12:45:43+00:00,"delete legacy axolotl store model types
+
+note that this may cause some session rebuilds to occur for any
+recipients in the ios client's session store which have devices whose
+session records have not been written to in over 3 years.",False
+2e928eaa0626e88152bd2f5cc21125497be70cb8,Ehren Kret,ehren@signal.org,2024-09-21 12:20:51+00:00,convert prekeyrecord and signedprekeyrecord to swift,False
+a9792152fb9c8b0daada9daf2f306098b179df30,Ehren Kret,ehren@signal.org,2024-09-21 11:45:25+00:00,remove functionalutil,True
+eefdcadf0be8ec8c5cd6d03aba9083035a77a305,Ehren Kret,ehren@signal.org,2024-09-21 11:23:42+00:00,convert owserror to swift,False
+417aaab4133c1ad443b41a9846903d22de2583b6,Ehren Kret,ehren@signal.org,2024-09-20 03:51:05+00:00,migrate ows2famanager from objc to swift,True
+011a321b2dbc46fabecf45316fb06a1c508b09f8,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-23 19:46:49+00:00,clean up attachmentuploadmanager media tier upload method,True
+054e30320706cf1480ff5d60d26aa9b92800667c,Jonathan Klabunde Tomer,125505367+jkt-signal@users.noreply.github.com,2024-09-23 18:39:27+00:00,use /v1/accounts/whoami instead of deprecated /v1/accounts/me,False
+6a04214a3d01425932e34da44cee09fa30818262,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-09-23 17:13:20+00:00,add error handling ui for call link create/edit operations,False
+a03631e620905f11a6bf785a7db2ea4f607f40dc,Max Radermacher,max@signal.org,2024-09-23 17:07:56+00:00,tweak exponential backoff parameters,False
+b89c8f155648e407f1384c514f5365fbdd55be86,Adam Sharp,sharplet@signal.org,2024-09-23 14:58:48+00:00,avoid a couple more owsfaildebug assertions,False
+7bbc06313541410d7321f4bc891a288acb646e12,Sasha Weiss,sasha@signal.org,2024-09-20 20:31:02+00:00,avoid a few `owsfaildebug`s,False
+29511cdf1ab9cca47c55e1b23be6a7f5f617bcd5,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-20 17:11:22+00:00,generate thumbnails for backup attachment uploads,False
+a784a6744139d5b5ee80aa6dc96f3621bcd86f04,Sasha Weiss,sasha@signal.org,2024-09-20 16:40:48+00:00,remove `signalrecipientfinder` in favor of `recipientdatabasetable`,True
+a9872c2b3b1dc6a5c52fe13f7c43e9d00613a7c3,Pete Walters,pete@signal.org,2024-09-20 15:58:55+00:00,fix missing appicon in qr code help sheet,False
+41febb624e2845b9620f7f6e01ec19292ccf354e,Max Radermacher,max@signal.org,2024-09-20 02:29:17+00:00,clean up call view controller lifecycles,True
+5d1ae6fd538deea9e4a6f980caf9f9f73175b189,Ehren Kret,ehren@signal.org,2024-09-19 03:30:28+00:00,remove dead code,True
+77ae2c5478a8c844359ba80985cece20ec4cdbcb,Ehren Kret,ehren@signal.org,2024-09-19 03:27:02+00:00,migrate ydbstorage from objc to swift,True
+e0cb226ad8ea4ddaa7064671543e97e6dd87f9d2,Ehren Kret,ehren@signal.org,2024-09-19 03:08:23+00:00,convert ssksignedprekeystore from objc to swift,False
+56d97ca0286320d152941d52ce38d024bb41467a,Adam Sharp,sharplet@signal.org,2024-09-17 16:41:07+00:00,audit atomicvalue and friends for sendability,False
+9e72dcbb3dbdd633276ed0cc0fede1c68065d0df,Jordan Rose,jrose@signal.org,2024-09-18 20:52:22+00:00,"owschatconnection: eliminate dependenciesbridge
+
+the libsignal-based connections now have all dependencies passed in
+explicitly; the classic and shadowing connections still have a few
+globaldependencies, but those classes will be eliminated altogether in
+the long term.",False
+adf94a13091b438ac472cd694baf7161bf91e90a,Max Radermacher,max@signal.org,2024-09-19 17:07:45+00:00,remove `callviewmodel.thread` and inline its uses,True
+70fc5935819a36fb1f79a0b2a2aa879a2d2a6d41,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-19 16:42:39+00:00,use correct upload form for backup media,False
+2aab73426730cbffd2c820e7dd1112edddc47b75,Jim Gustafson,jim@signal.org,2024-09-19 14:22:17+00:00,update to ringrtc v2.48.0,False
+41a4337e9385721bbae991a168976ce154cbe557,Max Radermacher,max@signal.org,2024-09-18 21:48:26+00:00,don’t use callviewmodel in other types,False
+2c9d1401549722c97ba2b24ca4940ed67a681811,Sasha Weiss,sasha@signal.org,2024-09-18 21:12:56+00:00,add final backup integration tests,False
+3b393267913aea40070c0960b2574d70579f8308,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-18 21:04:49+00:00,don't send profile sync on capabilities change if currently in registration,False
+755f477372108dd9600a53e2eb9d22841f45420f,Max Radermacher,max@signal.org,2024-09-18 20:14:28+00:00,add call link support to callstarter,False
+fa41d574dea3b7836ead65d44e30f9e4ae8fbded,Harry Sanabria,harry@signal.org,2024-09-18 20:08:59+00:00,bump version to 7.31,False
+7bc0189572784918dbc119b562273c3d73f388a0,Harry Sanabria,harry@signal.org,2024-09-18 20:08:43+00:00,update translations,False
+20ff5c7c679781438db15e163bd2778bf93739f1,Harry Sanabria,harry@signal.org,2024-09-18 20:06:58+00:00,update release notes,False
+ff09eb83590ca516614ac1ef1ec76ddf37b5d1f1,Max Radermacher,max@signal.org,2024-09-18 20:03:48+00:00,convert call viewmodelloader var to let,False
+311a9b9ce21417105edbb40f4ed7e997c53dcc95,Ehren Kret,ehren@signal.org,2024-09-18 17:00:01+00:00,migrate sskprekeystore from objc to swift,True
+ce7b5c76173421b717bf824235bc218b3cd0de30,Ehren Kret,ehren@signal.org,2024-09-18 14:48:19+00:00,convert profilemanagerprotocol and protoutils to swift,False
+6af238877130fd783a03c52963e8e9fa2fb96257,Sasha Weiss,sasha@signal.org,2024-09-18 17:57:19+00:00,backup integration tests for quote messages,False
+e691714201bc3337f53971514c60dffc1c1ae560,Sasha Weiss,sasha@signal.org,2024-09-18 17:30:59+00:00,"drop `profilekey` fields from `groupsnapshot`s in backups
+
+co-authored-by: jordan rose <jrose@signal.org>",False
+39ebf778d2b1419377580660000c01aeb31c4e00,Max Radermacher,max@signal.org,2024-09-18 17:08:15+00:00,don’t retry messages immediately on 5xx errors,False
+c3e3ef1c156f49af7ce472b487741b6ced6f2279,Harry Sanabria,harry@signal.org,2024-09-18 16:28:32+00:00,use proper url in extension derivation,False
+a813352029fe0a21a3b3a798737ff90b58a76699,Adam Sharp,sharplet@signal.org,2024-09-18 15:44:27+00:00,remove conditional compiler directives,True
+6564980c585e97772dee70f6119e36157d4c27f9,Ehren Kret,ehren@signal.org,2024-09-18 15:31:55+00:00,opt out of attributes swiftlint,False
+6dfb5f30ddf6df55353ac79e3a02343a66bc9c5e,Adam Sharp,sharplet@signal.org,2024-09-18 15:09:40+00:00,remove xcode 15.4 from ci build matrix,True
+2889d51077c9309e95ae820587d4574aed702fc3,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-18 14:33:16+00:00,send correct encryption key when forwarding an attachment with rotated transit tier info,False
+866c20055a5632639eea95d069755098a481e400,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-17 18:38:37+00:00,implement attachment content validation backfill migrator,False
+dca0a2ca640093d9ced2536a042e2b45f38f3b47,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-17 18:20:22+00:00,add attachmentvalidationbackfillrunner,False
+7b69618ae20951a34d5f4ac708f639df31bdd16e,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-17 18:19:29+00:00,genericize bgprocessingtask runner for reuse,False
+a972874cb6cc8d1206d58f7eae5e990f7b53d978,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-09-17 17:31:51+00:00,call link approval details sheet,False
+a58962ebf22b2efd580306191f24b7c515021bed,Max Radermacher,max@signal.org,2024-09-17 17:29:17+00:00,rename callviewmodel.callstate.ended → .inactive,True
+3c9c891059a87383a0e4f01adb91e8ca01e63500,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-17 16:04:26+00:00,track isviewonce on messageattachmentreference table,False
+9c62efb41387f4a61c4971b1c7808673968d1c22,Max Radermacher,max@signal.org,2024-09-17 14:21:44+00:00,add receive support for calllinkupdate,False
+eae1ab1e121761fb5058ff394ea2c089db0470a9,Max Radermacher,max@signal.org,2024-09-17 14:11:11+00:00,upgrade to swiftprotobuf v1.28.1,False
+afa922e09d3350a23fadadc973592ecc8cc46dfe,Max Radermacher,max@signal.org,2024-09-17 14:09:51+00:00,add support for call links to storage service,False
+f8e40d12ceb96b75d80744a93f6358b1f2d62f7e,Max Radermacher,max@signal.org,2024-09-17 14:09:31+00:00,fix false positive owsfaildebug on linked devices,False
+691f42863539dde67e94ba109f9954a531fc61f9,Adam Sharp,sharplet@signal.org,2024-09-16 18:02:47+00:00,add an animated transition when viewing permissions onboarding,False
+79112ddcb0366e299b78c7a8fa9ec9642ae42bf0,Adam Sharp,sharplet@signal.org,2024-09-16 17:59:32+00:00,restore missing content during ipad permissions onboarding,False
+c63c0302aa331aa2efcf7466e8e22b05b39c5b3a,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-09-16 22:59:43+00:00,update hit testing on call link approval snackbar,False
+9647288ba857bc727d87805d3a778cc053ba9fb6,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-16 18:49:42+00:00,clean up usage of incrementalmessagetsattachmentmigrator,True
+6fd4d5f12fec37b8e3b9ee7e0819c2148c815c30,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-16 18:48:32+00:00,don't run tsattachment migration in main app,False
+d6e9c59c093ecd1313475af4256f5bd0825986e2,Sasha Weiss,sasha@signal.org,2024-09-16 18:44:32+00:00,backup integration tests for more chat items,False
+b64f03347c215243bf2a04754782fd7a301db7ae,Max Radermacher,max@signal.org,2024-09-16 17:35:41+00:00,add calllinkrecord database type,False
+a40220f3274ecb0d5c3f1ea6e5d5d8a393706078,Max Radermacher,max@signal.org,2024-09-16 16:31:44+00:00,persist call links before joining them,False
+b363094e06062454645709405a79800303da97c4,Adam Sharp,sharplet@signal.org,2024-09-16 13:36:36+00:00,"enable recommended build settings for xcode 16
+
+- turn on warnings for quoted includes in framework headers
+- defines_module was incorrectly set to yes for signaltests
+- always_embed_swift_standard_libraries is obsolete",False
+fc1fdbf945e718c83e8d5abd48a52e5931069fc7,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-16 15:43:40+00:00,allow ukranian characters in displayed attachment filenames,False
+af270ee518bd09448e5520b54c6702b5ebbaf471,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-16 15:41:54+00:00,be more permissive with file extensions when creating decrypted copies,False
+dec5691c7287c6d3bc5247e5c4339d97e713d9ce,andrew-signal,andrew@signal.org,2024-09-13 15:20:03+00:00,remove the user agent from the captchaview webview,True
+0f97a871ea8fc54c514207bd87144c43004adf3d,Max Radermacher,max@signal.org,2024-09-13 14:00:36+00:00,use correct type when computing expiresat,False
+6328c367023bb4fabeb02a56fa4805c4e2ec4df8,Jim Gustafson,jim@signal.org,2024-09-13 12:04:47+00:00,update to ringrtc v2.47.1,False
+c5395a70a1b5caed9c6c6d62f3ac7b46ac5f4171,Ehren Kret,ehren@signal.org,2024-09-12 17:27:42+00:00,migrate logic from nsdate ows category to swift extensions,True
+8476d64a01994dd322332a52a5573bc396c73548,Ehren Kret,ehren@signal.org,2024-09-12 17:01:19+00:00,remove nsdata+ows,True
+25a4d631d48187f69d9daf18ccb849a13a730792,sashaweiss-signal,sasha@signal.org,2024-09-12 14:06:55+00:00,bump version to 7.30,False
+5cee1e8a96820656059742844ddd89bf638c26b4,sashaweiss-signal,sasha@signal.org,2024-09-12 14:06:38+00:00,update translations,False
+76e86ff693f3ef56a2cff7d60c9588ee8e7d7164,sashaweiss-signal,sasha@signal.org,2024-09-12 14:01:26+00:00,update release notes,False
+e303f0b0aed39899f79300555d4482e9ccab5fe2,Pete Walters,pete@signal.org,2024-09-12 13:47:30+00:00,fix missing ipad tab bars on ios18,False
+d0a7e3d1790e517cf198ee28c8f59e7dc29d9b93,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-09-12 13:35:47+00:00,string update: 'approve new members' -> 'require admin approval',False
+a58130c454a0f94b3a3b59ad1269d9b4e0784e18,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-09-11 22:29:38+00:00,localize some hardcoded english strings,False
+9a1082dd89d147fcdc8e350c0c821d1ac2fbdb58,Adam Sharp,sharplet@signal.org,2024-09-11 21:28:13+00:00,update registration permissions onboarding design & copy,False
+fb3c66074ef3de720c12b8e951ff6590a02a1d23,Pete Walters,pete@signal.org,2024-09-11 15:42:03+00:00,add contentaccesspicker for ios18,False
+960e3db81f966ddae790980d4803daf47053da24,Max Radermacher,max@signal.org,2024-09-11 00:04:17+00:00,asyncify some 2fa code,False
+bef064fcf0cfdf3c4ee27ac8d31cc6398e6930ff,Max Radermacher,max@signal.org,2024-09-10 22:45:02+00:00,move calllinkstate to signalservicekit,True
+a1720def526786ce259264dc98c96659ed64012d,Sasha Weiss,sasha@signal.org,2024-09-10 21:44:51+00:00,"add ""simple chat updates"" backup integration test cases",False
+7b0e11bb363441711f3acd144719aaf64c33b010,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-10 21:37:09+00:00,handle long audio files without using sourcefilename,False
+a501c29f4f38f5a20876580c3874cce77ab281cb,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-10 21:33:46+00:00,check that avasset is readable before computing duration,False
+d53fa957ed84855d0c220752aa2d6e57d416fe41,Max Radermacher,max@signal.org,2024-09-10 19:39:44+00:00,remove commented out code that’s unused,True
+c0525bb24fa9160dc2e10fabd0d165df87508c6a,Sasha Weiss,sasha@signal.org,2024-09-10 18:37:35+00:00,"add ""complex chat updates"" backup integration tests",False
+b4f15c7ccbc285afbb21f729b47f854cea5aec2e,Sasha Weiss,sasha@signal.org,2024-09-10 18:33:28+00:00,"add ""calls"" backup integration tests",False
+78408fa3caf57130a9280f8cb5e3e109cf6e2686,Sasha Weiss,sasha@signal.org,2024-09-10 18:19:19+00:00,add test cases for gift badges,False
+4cd386e2243e26aacc271dfc0f92e4f5d760c465,Sasha Weiss,sasha@signal.org,2024-09-10 18:04:04+00:00,"add ""expiration timer update"" backup integration tests",False
+efe9e730055b63936abee571a2a4d4d2abdebb2f,Sasha Weiss,sasha@signal.org,2024-09-10 17:49:15+00:00,"add ""contact message"" backup integration tests",False
+17a10f776293a0b5eef3bde7c3ca17cc35f2d1a7,Sasha Weiss,sasha@signal.org,2024-09-10 17:37:05+00:00,"add ""chats"" backup integration test cases",False
+9a0abc1ea16e16d7c9feddb5f3a332320841520d,Ehren Kret,ehren@signal.org,2024-09-09 15:55:39+00:00,fix swiftlint 0.57.0 lint warnings,False
+1298bc414f77807318acff12e9dad7e82978607e,Ehren Kret,ehren@signal.org,2024-09-09 02:00:11+00:00,migrate nsstring+ows to swift,True
+bfbeba943522ac28bf6377166381b3451fffcd68,Ehren Kret,ehren@signal.org,2024-09-07 12:11:12+00:00,migrate owsoperation from objc to swift,True
+07d4363e4f582321f956210a089dada8cff7ed00,Ehren Kret,ehren@signal.org,2024-09-06 23:46:36+00:00,migrate owsbackgroundtask from objc to swift,True
+7ea7edecd9fd3ec8e3f986bac9fc3ce715bd147e,Ehren Kret,ehren@signal.org,2024-09-06 14:49:21+00:00,migrate owsfilesystem to swift,True
+d084d91bd4fd17e5ba8b3bcf7bb4695d0de703f6,Ehren Kret,ehren@signal.org,2024-09-06 05:08:02+00:00,translate objc functions in owsfilesystem.h/m to swift,False
+1d16940516f17b5c10a6cbf97838545f22bfb870,Ehren Kret,ehren@signal.org,2024-09-05 16:37:47+00:00,reduce `@objc` surface area of owsfilesystem,False
+5ae05ffc7df130f1a3f6f0424988708a47b71221,Adam Sharp,sharplet@signal.org,2024-09-10 15:20:42+00:00,update ci to xcode 16 rc,False
+79c6d1eefd441ce877bd8aedc62df9422c14d6c4,Jim Gustafson,jim@signal.org,2024-09-10 06:29:54+00:00,"update to ringrtc v2.47.0
+
+co-authored-by: max radermacher <max@signal.org>",False
+bdfb6aede89d27edf80963332e15f4b7a9a44b8a,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-09 23:54:11+00:00,re-enqueue failed media tier downloads as transit tier if we can,False
+a766d77280d5bf22d74d36b60551a55b186ac8d8,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-09 23:53:35+00:00,only back up fallback transit tier info if the encryption key matches,False
+86ef1d52bc115d6467b3eab6256954d50d97b2db,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-09 23:52:02+00:00,migration to split incrementalmac attachment columns to separate media and transit tier values,False
+d640d9510aeb058355bfacc401c512e2e8b300e3,Pete Walters,pete@signal.org,2024-09-09 20:03:20+00:00,fix mediagallery crash in ios18,False
+3bb871491e0f74875254c75f33edc0306c84d04f,Harry,109690906+harry-signal@users.noreply.github.com,2024-09-09 19:42:54+00:00,fix spinning checkmarks redux,False
+34983e49cf270f420c5ba03d53df666a392a68da,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-09-09 19:10:41+00:00,"flip camera button dynamic layout
+
+co-authored-by: marissa le coz <marissa@signal.org>",False
+0c47f1569dd2d70363b39d5cc03312af232f6827,Adam Sharp,sharplet@signal.org,2024-09-09 15:00:43+00:00,fix test build failure on device due to comparablebackup availability,False
+6e9e239ac1607372d1fab1c237df622a7ef084b1,Adam Sharp,sharplet@signal.org,2024-09-06 19:05:28+00:00,"fix wrong thread being selected on launch from notification
+
+when opening a thread from a notification, if the thread being opened has
+changed position due to activity in other threads, the table selection and view
+state get out of sync.
+
+after selecting the new thread, we need to ensure the chat list is actually
+reloaded from the database, so we can update the selected index path once more
+in case it has changed.",False
+4c533467b7b405fe2f40a944d7c0d811031e751d,Sasha Weiss,sasha@signal.org,2024-09-08 21:10:37+00:00,update libsignal to v0.57.0,False
+408748b62ff850a0755b0b005fa167640180d7b4,Max Radermacher,max@signal.org,2024-09-06 22:35:26+00:00,remove remnants of objc exceptions,True
+4a998099c1f18538b17099e8b9759cbbfcb21cb5,Max Radermacher,max@signal.org,2024-09-05 22:43:26+00:00,don’t pass sourcefilename for videos,False
+69ab0009f00764bc8ca9d66bfe58f477e7576f65,Elaine,elaine@signal.org,2024-09-05 22:33:04+00:00,bump version to 7.29,False
+7a19cb5ac898b8d5544ef3fae514b43de05182d5,Elaine,elaine@signal.org,2024-09-05 22:32:55+00:00,update translations,False
+d670fc84a4ad3fe41a04da9ed8ef3bc7ead81dae,Elaine,elaine@signal.org,2024-09-05 22:30:11+00:00,update release notes,False
+3a954981a6b18d4f7415d69f3eb5654eedf54a11,Max Radermacher,max@signal.org,2024-09-05 21:54:02+00:00,compute audio duration for attachments if needed,False
+28d06ebc1b6c75cee3b4e86ddb087d31ab9f8556,Max Radermacher,max@signal.org,2024-09-05 21:53:08+00:00,add extension to fix long audio files,False
+09efe55a48904a1b4b6d4707f958dbf235444095,Pete Walters,pete@signal.org,2024-09-05 21:28:09+00:00,update contacts megaphone for ios18,False
+faff0775e9876f601c73fc11537077d8e11eb922,Max Radermacher,max@signal.org,2024-09-05 19:03:29+00:00,don’t schedule multiple attachment migrator tasks,False
+69243b0b470d9e24617e48802c0fbb09920ac961,Max Radermacher,max@signal.org,2024-09-05 19:03:18+00:00,increase delay between attachment batches,False
+b8470d23b5b9d9ff1f2270167e61246b5f301925,Sasha Weiss,sasha@signal.org,2024-09-05 17:10:10+00:00,wrap thread deletion in spinner,False
+dcf25fb32397ea1343ccecbd56447f31eab9f248,Max Radermacher,max@signal.org,2024-09-04 22:37:17+00:00,update call link admin approval toggle,False
+28687e6ba7551521d8361c87868883ce3c3cbbc4,Max Radermacher,max@signal.org,2024-09-04 22:36:58+00:00,improve performance when generating waveforms,True
+961086eed0c13f3e1e04bf83edda56aa42025528,Sasha Weiss,sasha@signal.org,2024-09-04 21:15:45+00:00,adopt generated backup integration tests for accountdata,False
+6e50f123e849c399b324ba8f224b3005325cd48d,Sasha Weiss,sasha@signal.org,2024-09-04 20:37:18+00:00,reorder a column in `attachment`,False
+6c3818587c033d8167dc5090a788a72a24d6e9d9,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-09-04 19:42:28+00:00,call link member approval,False
+6f1f4193e4b5f589f313821fe50ca08fcbf56e79,Max Radermacher,max@signal.org,2024-09-04 19:40:46+00:00,remove unused convertfromavassetredirecturl(…),True
+3ed3706504af9490e5b642f5c54a5c2738309a94,Ehren Kret,ehren@signal.org,2024-09-04 14:38:20+00:00,remove dead code,True
+e121db5b627f734dfcbf726b781f25ef537dcd66,Adam Sharp,sharplet@signal.org,2024-09-03 19:07:27+00:00,fix crash when showing video playback controls with an invalid time range,False
+c06efedf5349747d18ff8ccc00b707a4c481aae1,Adam Sharp,sharplet@signal.org,2024-09-03 16:46:57+00:00,"revert ""stop rogue cv cell rotation animation by setting speed to 0""
+
+this reverts commit e6c2a07276aea4741dc14129463c7840755013fb.",False
+252beefb738b634670cf43c1a8f587a1579a231d,Ehren Kret,ehren@signal.org,2024-09-01 05:38:21+00:00,convert contact to swift,False
+caf339dbee3f2cc6f107e9f853b9f31374f06a0c,Adam Sharp,sharplet@signal.org,2024-08-30 16:05:20+00:00,ci: put xcode_ in matrix string to improve readability,True
+50b6ae9c5c65db63f082e496001a9d72902a505c,Adam Sharp,sharplet@signal.org,2024-08-30 16:04:19+00:00,update to fastlane 2.222.0,False
+62038a5043a6e7ff37e630305590e0a86c352cba,Adam Sharp,sharplet@signal.org,2024-08-30 15:51:23+00:00,wip: try dynamically setting developer_dir,False
+91e131ec0cedec986c0d8c3b3536012283187ff6,Adam Sharp,sharplet@signal.org,2024-08-30 15:41:51+00:00,test building with xcode 16 on ci,False
+cb27389cefa5886febb35ff809eb94abc93f22aa,Ehren Kret,ehren@signal.org,2024-08-31 03:05:59+00:00,enable swiftlint mark rule,False
+f3900acd01793a6f6669b37eff14164cff775a68,Max Radermacher,max@signal.org,2024-08-30 23:28:23+00:00,remove objc support from outagedetection,True
+f30a1c0be526dfdc15f41a72fa758d3f72466338,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 23:07:35+00:00,backup todo cleanup grab bag,False
+778cdd4ce2cf7c0579573ac8846bc67b22837c15,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:50:51+00:00,skip backing up messages expiring in less than 24 hours,False
+2a0cf248291441e1bd324756f79e83b0eb44c576,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:50:17+00:00,implement archiving message body attachments,False
+cf2d223ea46a5675b8cb71076f735dd05d8cdd44,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:49:48+00:00,respect partial errors everywhere,False
+267d20ef570476ad15045a071b49c1aa544f9558,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:45:38+00:00,archive quoted attachment thumbnails,False
+f9c38960413cd48f69aefaf4d7f67c8439b190c8,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:45:11+00:00,archive contact share messages,False
+d702d328e1f022e951c137ac4d9887d27a8fce08,Max Radermacher,max@signal.org,2024-08-30 22:42:59+00:00,improve handling for duplicate messages,False
+c0e2a5b916168b8e5221237c611193753c1aae9f,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:41:42+00:00,archive sticker messages,False
+7b9f0ed448ee12d3862aafc0757b152fc85bf8c6,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:40:31+00:00,archive link previews,False
+c857c685cead1d1bd4717d5ca1ee76820b813187,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:39:42+00:00,archive oversize text attachments,False
+cbfce7eb8cdb99d2df588eb25f898ea2dffe15fa,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:39:09+00:00,add strongly typed error for using story distribution list as backup chat recipient,False
+950deacfff8dc6ce992822798bd32383e1148dae,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:38:35+00:00,backup message/chat archiving cleanups,False
+de4980bc938cf795e27febbdb593cf0aced3aca9,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:35:18+00:00,[refactor] make attachment archiving code shareable,True
+bb2f7e4865123c380112763fad4e527f09cc1db7,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:34:53+00:00,archive/restore thread wallpaper images,False
+0f69009512580b75ef0c89912636b91b492370be,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:34:22+00:00,archive/restore chat styles on threads in backup,False
+eca9a60c9dfdd75eea8b9f017008f37756d0a643,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:33:51+00:00,archive/restore default chat style in backup,False
+a29a890adc09867326f40ab04ac23a97ec3d0cea,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:33:05+00:00,archive/restore custom chat colors in backup,False
+42df49aa0b2269f0734f33a56fcd3ec091ab3161,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:32:39+00:00,add context for custom chat colors,False
+69a78c2ada37a7f8f5e96ace7a554e53126f34ff,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 22:32:02+00:00,add messagebackupchatstylearchiver with proto converter methods,False
+e30895e34265f666619dbd45c4890786cd56e670,Pete Walters,pete@signal.org,2024-08-30 21:34:32+00:00,add support for downloading/rendering backup thumbnails,False
+7c59666e982245652ea04e6fab226ec0fc271d6c,Max Radermacher,max@signal.org,2024-08-30 21:20:07+00:00,"extract common notification logic into method
+
+co-authored-by: harry <109690906+harry-signal@users.noreply.github.com>",False
+23d424ee714865c67865fa42a10a7507e3e7f75e,Max Radermacher,max@signal.org,2024-08-30 21:18:48+00:00,prepare conversationid handling for call links,False
+ecce0ccdc937bea47c012820c348ca310c65db63,Max Radermacher,max@signal.org,2024-08-30 20:52:40+00:00,"asyncify notificationpresenter & friends
+
+co-authored-by: harry <109690906+harry-signal@users.noreply.github.com>",False
+3483e73c8af6d44a635035dbd02689f9b3988e52,Ehren Kret,ehren@signal.org,2024-08-30 17:49:20+00:00,migrate unfairlock entirely into swift,True
+c01c495dd1014bd044875491fc0738f10045368b,Ehren Kret,ehren@signal.org,2024-08-30 10:27:54+00:00,merge owsmessagehandler into owsmessagedecrypter,False
+416e1eb9b16d9b5d6e2c9be6903424db69bd562e,Ehren Kret,ehren@signal.org,2024-08-30 10:10:04+00:00,remove dead code and convert owsmessagehandler to swift,True
+5d3ca7fb3c69f6ec184e122c11144c6031cd04bf,Ehren Kret,ehren@signal.org,2024-08-30 09:37:11+00:00,convert owsprofilemanager from objc to swift,False
+ab8e59a7d377f120547d60f5935e2a7394f0ea57,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 19:59:00+00:00,pass tx around in backups code via contexts,False
+6f4d0fcaa798a526756d2ee6a2b42aa4f0eeccd2,Pete Walters,pete@signal.org,2024-08-30 19:44:56+00:00,add method for re-encrypting a filehandle,False
+3e3ce9d98312bb2eae2ec96d5e978eca66ed386d,Pete Walters,pete@signal.org,2024-08-30 19:30:08+00:00,set of fixes to enable basic media tier attachment restore,False
+57602e6d8cd35d91e0dec3a18f1c461602644926,Pete Walters,pete@signal.org,2024-08-30 18:48:56+00:00,clean up media tier thumbnail handling,True
+0154e77923cae988a41bab3d66a0482b2f172995,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 17:29:54+00:00,break signalcall retain cycle that results in camera indicator light staying on,False
+c3a22d16ca900c1ce0cda87487f3a28538c79341,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 17:18:38+00:00,scroll to the right place when returning to the chat list view,False
+e6c2a07276aea4741dc14129463c7840755013fb,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-30 15:45:57+00:00,stop rogue cv cell rotation animation by setting speed to 0,False
+400611a2bd51c203d3127070486141a57314b7b0,Adam Sharp,sharplet@signal.org,2024-08-28 16:10:44+00:00,add dark & tinted appearances for app icons,False
+c752ae612dce4c0bfbdd80bf4ed2e37e24454ba1,Ehren Kret,ehren@signal.org,2024-08-29 21:56:41+00:00,misc cleanups,False
+372db4eba40247af2b4ea6963068caa3e41aac13,Ehren Kret,ehren@signal.org,2024-08-28 21:28:41+00:00,cleanup biometry type related code,False
+407350647d9cf1d260094aee150636990e265c9a,Max Radermacher,max@signal.org,2024-08-29 20:31:02+00:00,simplify zkparamsmigrator,False
+8ca75ea1b7e5a2e187408ae69f3cf4537af2433a,Max Radermacher,max@signal.org,2024-08-29 20:29:53+00:00,add error messages when denied/removed from call,True
+929d9eeaefa82e921b6fab4601c9f454fe00b597,Max Radermacher,max@signal.org,2024-08-29 20:27:52+00:00,remove deprecated voip token logic,True
+f3ad8a243f0fbff32d071e0c7f99ce78dae8d7bd,Max Radermacher,max@signal.org,2024-08-29 20:26:31+00:00,add calllink storage service placeholders,False
+4f272777f6e7c1de0f9f025b23e789fac99036e2,Max Radermacher,max@signal.org,2024-08-29 20:22:11+00:00,add calllinkupdate placeholders,False
+334af8641907c63df5103c6eea5a36d525383077,Sasha Weiss,sasha@signal.org,2024-08-29 20:12:39+00:00,improve backup integration test logging,False
+88cd4361f0f8cdf7b092173f27074f3850585f6a,Adam Sharp,sharplet@signal.org,2024-08-27 19:44:57+00:00,fix app icon chooser not loading icons on ios 18,False
+1210f747fd3cc50697336c7fa66259c0579bf4e0,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-29 19:54:19+00:00,fix icon tint colors throughout the app,False
+99ff1a6858ff2d35b820a0d0d0c8d22455cd3eaf,Max Radermacher,max@signal.org,2024-08-28 21:05:58+00:00,swiftify owsrequestfactory,False
+8a526cca47eb19e4f8ed45c3c1fa18a1f104b1ff,Adam Sharp,sharplet@signal.org,2024-08-27 16:28:32+00:00,move app icons into a separate asset catalog,True
+a021a34995fd64fe268596e8fc96350722b74b42,Ehren Kret,ehren@signal.org,2024-08-28 18:17:57+00:00,fix warnings,False
+edefa9a440b827e9e4dece5ca0195d7f3db94f7c,Ehren Kret,ehren@signal.org,2024-08-28 18:15:27+00:00,migrate owsfakeprofilemanager from objc to swift,True
+926004f64ee1fcc7800854280397549a71f9700b,Max Radermacher,max@signal.org,2024-08-28 20:02:06+00:00,bump version to 7.28,False
+72431ae93040fdf28ec231fb9b70e6e903d2dfee,Max Radermacher,max@signal.org,2024-08-28 20:02:04+00:00,update translations,False
+6d64c4f1a05366954d9160a8ebfd4b09a023e965,Max Radermacher,max@signal.org,2024-08-28 19:59:24+00:00,update release notes,False
+923f3e3fc5e596239fefc99a0e876b327bcb7336,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-28 17:54:56+00:00,relocate flip cam button when alone in call on ipad,False
+a47aeebc1bf2da3be326ac8e5ccaefa5c47fed06,Sasha Weiss,sasha@signal.org,2024-08-28 17:10:48+00:00,replace individual backup integration test cases with auto-iteration,True
+daf0c04940242ca256436d638304f01523605229,Pete Walters,pete@signal.org,2024-08-28 17:02:05+00:00,enqueue mediatier downloads from backup restore,False
+91ed508ed72d7457eb4f2cc94e8f1f266ca3ae20,Ehren Kret,ehren@signal.org,2024-08-27 16:39:49+00:00,convert datasource types from objc to swift,False
+7225b063619d48217a8ebbc718a064d229f77ffd,Sasha Weiss,sasha@signal.org,2024-08-27 23:41:54+00:00,add support for gift badges to backups,False
+906759521a5430b9fae9961fe64d1a5ce0e36148,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-27 23:03:32+00:00,consolidate + clean up chatcolorsettingstore,True
+096aa721330f1ffacf1ea92c5f5c4b2caa00af49,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-27 22:57:10+00:00,consolidate + clean up wallpaperstore,True
+dfd6a74324758499f623e69c8de0cfc896c62b6c,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-27 22:56:14+00:00,move palettechatcolor color mappings into ssk,True
+691718335fd1e099eedc41a7bbb9507acaa2dd91,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-27 22:53:48+00:00,move chat style enum definitions into signalservicekit,True
+1c62b4d7875e8679dd788bfd9ebd67c2d081e0aa,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-27 21:46:06+00:00,restore sticker messages from backup,False
+4ccfb958f67c57304bf7245b0c4b7abff657347b,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-27 16:53:07+00:00,disable ai writing tools on all text fields in the app,False
+7cb672c15a4ec31a9ebcdeb8209548fa8ac1ed12,Pete Walters,pete@signal.org,2024-08-27 15:59:56+00:00,add media tier attachment uploads,False
+9fc6f0b8ca2134ac4fe5d0e7b9e21a1ff650f459,Max Radermacher,max@signal.org,2024-08-27 06:45:14+00:00,enable calllinkcreate in internal builds,False
+26f231a4fbb569acf511948c6efb5b3f5bb93b18,Pete Walters,pete@signal.org,2024-08-26 22:57:48+00:00,set up proper decryption of media tier downloads,False
+e253c8ff9ec13eaebeb2daddcecc01330020de6f,Pete Walters,pete@signal.org,2024-08-26 20:58:31+00:00,cache backup cdn credentials/backup info,False
+8367e619c0e8cdc047f9e5bf1fbe2c56d3f54d34,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-26 20:58:00+00:00,dont owsassertionerror for a thing thats fine actually,False
+9dc436ab42ff24c4c304ed7b0ab09a1c2ece0f71,Jim Gustafson,jim@signal.org,2024-08-26 20:34:01+00:00,update to ringrtc v2.46.2,False
+3f4ffb6e6ff61195eac5051e50dd2040abb4be4f,Pete Walters,pete@signal.org,2024-08-26 19:51:17+00:00,remaining backup api requests,False
+605bb08f7286d6ec577e24d1c67368fc688e0907,Pete Walters,pete@signal.org,2024-08-26 19:50:27+00:00,add mediatierdigestsha256ciphertext to attachmentrecord,False
+828370fc9802160e6b43722a40e3dc1bd18b65b8,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-26 19:37:29+00:00,fix drawer coloring when increased contrast is on,False
+84a77bd96e65f289063a988c615395bc19cbe8db,Ehren Kret,ehren@signal.org,2024-08-26 19:04:16+00:00,improve regional networking options,False
+22c1f0118d90a3a3767ef229b747ae06ae5cfb0d,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-26 17:09:22+00:00,restore oversize text attachments from backups,False
+dc0bd1ab757d04908f4dceb065853fa65f064b33,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-26 17:06:41+00:00,restore contactmessage (contact share) from backup,False
+410c6493abe2c818a89cc714204e7ec5363cf014,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-26 17:03:12+00:00,map owscontact to/from backupproto_contactmessage,False
+80d940dc5d42b0c12c11532101c3e64ad230caec,Max Radermacher,max@signal.org,2024-08-26 16:15:50+00:00,fix typo: provisiong → provisioning,False
+ec1206743be19984d1f6987ea25b1f1d163842df,Pete Walters,pete@signal.org,2024-08-26 16:10:57+00:00,add store method to update attachment media tier thumbnail info,False
+28133f81a46809a2e0055c63c6746ac2a7a66ee3,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-26 16:02:00+00:00,add icon and styling to create call link button,False
+a1f7e4c1b1e0d4d97b6ccaaba23c741843d8b77f,Sasha Weiss,sasha@signal.org,2024-08-23 23:17:26+00:00,migrate `tsoutgoingmessagerecipientstate` off of mantle,True
+412b5ae34b9a94c7376849af749a096de9f1ac8a,Max Radermacher,max@signal.org,2024-08-23 23:01:08+00:00,fix group & story thread enumeration methods,False
+1d947651d0d98b19cad3d233d09f5ed805f8b8ce,Harry Sanabria,harry@signal.org,2024-08-23 22:34:52+00:00,use version pair for thread merging resolution,False
+416ec0799fea8c9362d3f6a5807faf457afd042f,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-23 20:45:35+00:00,remove cancelled attachment id after cancelling so future downloads arent cancelled,True
+7b4a674eb529c82fbb5cb34c6934f64ad4249ee9,Max Radermacher,max@signal.org,2024-08-23 20:02:46+00:00,don’t use fallthrough in remoteconfig enums,False
+527280f78f9b5c94c9b01941c1e2f2ca2e0cd924,Max Radermacher,max@signal.org,2024-08-23 19:59:44+00:00,use remoteconfig as an instance type,False
+5ff2dc4587bf27eaaa6b9d5d6d5adf0505672a36,Max Radermacher,max@signal.org,2024-08-23 19:56:05+00:00,remove objc support from flags,True
+9ec0c3fd7fd615d81dd7faa62e08dfc3821b1596,Max Radermacher,max@signal.org,2024-08-23 19:50:07+00:00,swiftify prekeybundle,False
+26b659e3a5f0399d6de05d9bc226550f14d0a935,Max Radermacher,max@signal.org,2024-08-23 19:33:08+00:00,scrub call links,False
+8794e09425d3df3b9315eaff42e3abeb06c2a101,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-23 18:34:10+00:00,normalize owsdisappearingmessageconfiguration at read time,False
+11e8521e4e6d68058e60f863aff1af887cc978e9,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2024-08-23 14:37:01+00:00,"bump rexml from 3.3.5 to 3.3.6
+
+bumps [rexml](https://github.com/ruby/rexml) from 3.3.5 to 3.3.6.
+- [release notes](https://github.com/ruby/rexml/releases)
+- [changelog](https://github.com/ruby/rexml/blob/master/news.md)
+- [commits](https://github.com/ruby/rexml/compare/v3.3.5...v3.3.6)
+
+---
+updated-dependencies:
+- dependency-name: rexml
+  dependency-type: indirect
+...
+
+signed-off-by: dependabot[bot] <support@github.com>",False
+c99e6233a507eafd4c5abbb4ecbe1567049d35b6,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-23 14:33:31+00:00,enable versioned expire timer capability,False
+8f80c1f1f21809eaa267bf3c89032c7588170a15,Max Radermacher,max@signal.org,2024-08-22 22:07:22+00:00,update kmaxavatarsize,False
+6fe99bd69be6a1c9ab220b3f321107ef0f0880cc,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-22 21:02:03+00:00,add support for versioned dm expire timer updates,False
+f1667993f5f3994f2b828768cb1deb004924f973,Adam Sharp,sharplet@signal.org,2024-08-22 15:40:25+00:00,make appcontext a non-objective-c protocol,False
+3c732b0195546809870d7888b7ae90bbb56f0d28,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-22 17:23:33+00:00,restore link previews from backups,False
+d6feda8f3d878601f04ec098d8cf2e3e82eb7667,Sasha Weiss,sasha@signal.org,2024-08-22 16:18:05+00:00,update to latest backup proto and integration tests,False
+ff2c7648d33ce0540e0cdc9019227355a9a62055,Sasha Weiss,sasha@signal.org,2024-08-22 16:16:53+00:00,add remote-delete tombstones to backups,False
+d134b222c730854e4e17b4ebb619734e69dae902,Pete Walters,pete@signal.org,2024-08-22 16:04:13+00:00,move around some code in prep for media tier uploads,True
+dea120a06810e9bfc732784221bff4600aaed9c6,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-22 15:50:43+00:00,delete bridgingwallpaperimagestore and legacywallpaperimagestore,False
+db47898775249af6da92c8432da74c1c390ff709,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-22 15:49:46+00:00,remove v2 attachment read/write feature flags,True
+0c3f2cced73d0831949de7ca16d7450b51897689,Sasha Weiss,sasha@signal.org,2024-08-22 05:16:35+00:00,add more properties to the message builders,False
+8cb25faa43f8f156ad1c91c30d56857e14cb9104,Sasha Weiss,sasha@signal.org,2024-08-22 05:14:02+00:00,add support for backing up outgoing message edits,False
+eed37c949e66fbe439b5717fde3c5e94f9fcd3a8,Marissa Le Coz,marissa@signal.org,2024-08-21 23:38:47+00:00,bump version to 7.27,False
+a1ef4691a27531142eb705c5b6b3ce8ba0e9f430,Marissa Le Coz,marissa@signal.org,2024-08-21 23:23:32+00:00,update translations,False
+04bf92ed43bc8dd1325fdfcdfea27546719012e6,Jordan Rose,jrose@signal.org,2024-08-21 23:04:45+00:00,let libsignal know when reachability changes,False
+9dfca6113ef54ba5c7b6dd198ecb7d278462054d,Sasha Weiss,sasha@signal.org,2024-08-21 23:06:13+00:00,update to libsignal v0.56.0,False
+af03b703468fa2d9c7051f3bcbd3d7d1eeffe772,Max Radermacher,max@signal.org,2024-08-21 23:03:22+00:00,migrate blocked recipients to dedicated table,True
+87d43a692e789b9a0a491f2d435e57cd621e015a,Max Radermacher,max@signal.org,2024-08-21 22:48:18+00:00,remove unused sckexceptionwrapper code,True
+57cebedc91fd0197993b8dee1934a9fd08528ce2,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-21 21:57:27+00:00,fix regression where cc conf toasts stopped showing in 1:1 calls,False
+6ca7031c0fc2ca104bf2691ebc6f9e7464cc87c4,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-21 21:33:45+00:00,update incoming call controls colors,False
+e477588e5872bc756f8dcf5680e2a769b0549d21,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-08-21 21:01:11+00:00,pass touches through empty space around flip camera button,False
+53c371353397bbd8623ba7b6394c826dc7294c4e,Max Radermacher,max@signal.org,2024-08-21 20:48:35+00:00,remove code gated by already-launched flags,True
+d69ad25c3a994a4b1c432b2b9b7829243a389a4b,Pete Walters,pete@signal.org,2024-08-21 20:25:45+00:00,add media tier backup api request,False
+ba78d5aab75eef38a178a7eb609d14669a43cfd5,Pete Walters,pete@signal.org,2024-08-21 20:10:35+00:00,add mediatier attachmentstore methods,False
+b6a049a621cbc0de26817ccd38933b6c78092d5a,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-21 18:59:27+00:00,reject link preview urls with unsafe characters in path,False
+5d1264e3156ce54e4ba6b1515f47f4bbd696a43b,Max Radermacher,max@signal.org,2024-08-21 16:57:24+00:00,clean up some blockingmanager code,True
+2ed4a74e305c9245a8c1acf52009bccf049d1eaa,Max Radermacher,max@signal.org,2024-08-21 16:47:47+00:00,remove unused parseprotoe164 method,True
+b445873b72c08a4ce2d01c333254f1aafc67cc2c,Max Radermacher,max@signal.org,2024-08-21 16:47:25+00:00,remove unused storagemode code,True
+08e9eb28c34ca6dbb73623048cbc0ac8f9ba7c94,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-21 16:26:10+00:00,"drop link previews, not the whole message, if an incoming message has an invalid link preview",False
+555e24e65afba37e1bf2579a47c8bbc221445020,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-21 16:20:54+00:00,add break glass for tsmessage.tsattachment migration in prod,False
+65f20485b9e75223ee7b8c48ca6fefa4a17f2b73,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-21 15:55:54+00:00,swallow file copying error for failed tsattachment file read,False
+980e0927c3826be6ec213bffee5e81b98cf8dd02,Pete Walters,pete@signal.org,2024-08-21 15:37:01+00:00,add methods to generate media tier key material for both attachments and thumbnails,False
+91cf6f20ff8bf31ddf3976724dcb9fd46ad9ad38,Ehren Kret,ehren@signal.org,2024-08-20 20:06:12+00:00,improve regional networking options,False
+4d320fd3840fbbf0aa66545aea07f51f51e4bfa7,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-20 23:50:39+00:00,restore quoted reply thumbnail attachments from backup,False
+07baa170f7f45af24bd977260197c6cb9603b6e8,Max Radermacher,max@signal.org,2024-08-20 23:22:00+00:00,remove “collection” concept from database types,True
+4eecfbf55224faeaae6d6e65406d77c11b4a380f,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-20 22:08:47+00:00,remove internal-only toggle to enable v2 attachment migration,True
+b805a89876151a75c13fe479d095172716631663,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-20 22:07:57+00:00,enable tsmessage tsattachment migration in prod,False
+1d97c107677dc2c24306136f6ae0eaed75879c8e,Max Radermacher,max@signal.org,2024-08-20 19:47:50+00:00,handle responsetoolarge when fetching avatars,False
+2199f4e701235383c952384a20782e88a5b447b2,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-20 19:37:57+00:00,add avatar blur to video view background for remote group call members,False
+ac9c7a82baae0954f06afad322bf23c29f2739cd,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-08-20 17:52:52+00:00,use admin passkey for newly created call links,False
+c4668e1007bd3439d413d67f96f1f90e973220f1,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-20 17:25:34+00:00,limit call link names to 32 chars,False
+4c7bdae52553a7c6f0c9c646ca2a52f502a5d1d0,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-20 15:30:39+00:00,[call links] make share link cell respond to theme & dynamic type changes,False
+1a8c9fb5c672cde769538d9a3ff21f21f7358c65,Adam Sharp,sharplet@signal.org,2024-08-19 20:07:48+00:00,"fix ios 18 crash on launch due to offscreen rendering
+
+creating a uiimageview outside a view hierarchy now crashes on ios 18. we can
+avoid this offscreen rendering technique by removing uiimage.astintedimage(),
+configuring the tint colour and template rendering on the uiimage directly, and
+rendering with uigraphicsimagerenderer instead of lower-level core graphics
+apis.",False
+7db9f4eec54957bb67ff61a096bd76558f99973c,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-19 22:30:39+00:00,add join 'card' to create call link sheet,False
+cf248af8b450a427a4d7aeabc25d98591abe40ac,Max Radermacher,max@signal.org,2024-08-19 19:52:24+00:00,implement more of createcalllinkviewcontroller,False
+0bbdac36c26e8a3bf0dfe27b948493c5e578659e,Adam Sharp,sharplet@signal.org,2024-08-19 16:15:22+00:00,use exhaustive switch statements when checking contacts authorization,False
+1ee5b9b999d58022ccd37ee6b68bd856c27f52b5,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-19 17:42:40+00:00,remove restoredsentmessagetranscript; restore tsoutgoingmessage directly via builders,True
+a847c36ab15cb58a6a7a2fd7f740e1e91a10ffc4,Jim Gustafson,jim@signal.org,2024-08-19 15:25:14+00:00,update to ringrtc v2.46.1,False
+0d4eff34cc98f89eff241f0ab6f7736722d08dd2,Ehren Kret,ehren@signal.org,2024-08-17 00:01:33+00:00,fix warning,False
+9ebc6d613dc28b8c60a5b0da120479e25bcc10fd,Ehren Kret,ehren@signal.org,2024-08-16 23:57:49+00:00,fix warning,False
+ded6a3b9acdf0c7333f61652982c77669f82e814,Sasha Weiss,sasha@signal.org,2024-08-16 22:51:50+00:00,"call isjustme off groupcall, not self",False
+3e92166fe8e7b2321208e2aa1e55a21207df7f7d,Sasha Weiss,sasha@signal.org,2024-08-16 22:30:10+00:00,update backup.proto to latest,False
+9690fd8ed8e1209908edc8420099b6fcc4171956,Sasha Weiss,sasha@signal.org,2024-08-16 22:29:22+00:00,"add ""message request accepted"" info message",False
+fb5ee27c8045e62ae88acae535ab7f10ddad95f0,Sasha Weiss,sasha@signal.org,2024-08-16 22:28:37+00:00,"add ""blocked"" and ""unblocked"" info messages",False
+ff23be75260b53f6cf4e749f742505d5deb10e75,Sasha Weiss,sasha@signal.org,2024-08-16 22:27:43+00:00,drop publickey from group definition in backups,False
+3321eeed0712f9e318442fdc2b862e28ba3d55c1,Sasha Weiss,sasha@signal.org,2024-08-16 22:23:58+00:00,"organize methods in cvc+messagerequest, make use of access modifiers",False
+cd2bb5c90abe485de62829a688145e2c317e1d6b,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-16 20:30:25+00:00,put flip cam button in alt location when alone in group call,False
+c76c6759fa8aca1d598cc4b7ddf3c2811ce5f01d,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-08-16 20:23:56+00:00,allow gestures in empty space next to raise hand toast,False
+fc8c8a16eff9a816d607583649d84de3b019925d,Harry,109690906+harry-signal@users.noreply.github.com,2024-08-16 17:24:09+00:00,drop story attachment files with file/io errors in migration,False
+8cf10ad853319eb7a9eaae1a589cc2d8fe68ba80,Max Radermacher,max@signal.org,2024-08-16 16:46:28+00:00,asyncify remotemegaphonefetcher,False
+1eeb0d9d6ead84495e884fc7ee6d6e71d0957b12,Max Radermacher,max@signal.org,2024-08-16 16:45:42+00:00,fix false positive name collision detection,False
+7f5ed5d9c59c37fd1a5273e479a369e455b672fa,Adam Sharp,sharplet@signal.org,2024-08-16 14:21:15+00:00,fix row animations being visible behind chat list footer,False
+d7d9b39809d076d5474be731a76461ab8fd45e14,Adam Sharp,sharplet@signal.org,2024-08-16 14:05:19+00:00,update to mobilecoin-swift 6.0.3,False
+4b4fc8beb47ad1dc1e53b42ca44ecedf6808f7d2,Adam Sharp,sharplet@signal.org,2024-08-16 14:53:48+00:00,enable xcode user script sandboxing by default,False
+086b4abfa5276746c9fa8f4715b3d6aa55aa93f6,Ehren Kret,ehren@signal.org,2024-08-15 20:51:01+00:00,fix several warnings,False
+54760a46d64e6f31464cca72db2f304bdeb99a1a,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-15 17:18:03+00:00,hide flip cam tooltip when transitioning to being only person in call,False
+2bf340e85850beae88406bbbff31f559e4499fc2,Pete Walters,pete@signal.org,2024-08-15 16:14:28+00:00,add persistent resumable upload support,False
+d81fe0284572162ee2c7e4c016b4cab4a62c4005,Pete Walters,pete@signal.org,2024-08-15 16:14:00+00:00,add attachmentuploadstore,False
+f22154db54829689fc6d8e845c58bbafde7cc7f1,Pete Walters,pete@signal.org,2024-08-15 15:50:41+00:00,add attachmentuploadrecord,False
+ce45accd77208c370dba73b2bd176005913c3561,Elaine,138257830+elaine-signal@users.noreply.github.com,2024-08-15 15:49:06+00:00,reenable drawer interaction while joining call,False
+ac50ead8be0040050b882c07355edfc97dd94fb1,Pete Walters,pete@signal.org,2024-08-15 14:54:02+00:00,fix submodule pointers,False
+ed7f2a0107560cfbff4fb7ef23f3e2b5681e707d,Pete Walters,pete@signal.org,2024-08-15 14:10:24+00:00,bump version to 7.26,False
+0a390c33661812c9c1f9e2d15053e5493df1eebd,Pete Walters,pete@signal.org,2024-08-15 14:09:40+00:00,update translations,False
+b5b260e5b52fcddfa3840012024a1867cc486505,Pete Walters,pete@signal.org,2024-08-15 14:02:55+00:00,update release notes,False
+853bf45b8a51579faa84227043db52924ae3edbc,Sasha Weiss,sasha@signal.org,2024-08-14 23:51:00+00:00,split tsinfomessage+swift into extension files,False
+68bb8e292ab85888d0f3235d91fed8f9e4cf6731,Sasha Weiss,sasha@signal.org,2024-08-14 23:50:05+00:00,update to libsignal v0.55.1,False
+3e5cee2ea022057e4db26467f382fa58ee36f9d5,Adam Sharp,sharplet@signal.org,2024-08-14 16:31:36+00:00,"maintain section titles when unread filter is active
+
+previously, section titles were enabled dynamically based on whether both the
+pinned & unpinned sections had chats in them. this meant that if the unread
+filter was active, section titles might disappear, making it unclear whether
+the chat is pinned or not.
+
+section titles are now always turned on when there is at least one pinned chat,
+and continue to be displayed when the unread filter is active.",False
+cbd5d860bcec84bdf1d3f6800fdd2c0042a547fd,Ehren Kret,ehren@signal.org,2024-08-14 04:14:20+00:00,networking code cleanup and improvements,True
+0b3ffc162f3319638bc6d83a212ec4efe4e86a61,Marissa Le Coz,129999395+marissa-signal@users.noreply.github.com,2024-08-14 19:29:18+00:00,reduce bottom padding for call drawer when on small devices,False

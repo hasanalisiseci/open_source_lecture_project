@@ -1,0 +1,1665 @@
+SHA,Author Name,Author Email,Author Date,Message,Refactor
+047aa81b77adcbf583a966dfef620d17650cc656,Cal Stephens,cal.stephens@airbnb.com,2025-01-03 20:37:27+00:00,update version number to 4.5.1,False
+d3b6e3891f160b097244899e401c2ea13541f02f,Cal Stephens,cal.stephens@airbnb.com,2025-01-03 20:35:08+00:00,update to latest version of airbnb style guide / formatter,False
+44c942588c76b7c1421de53309d1991ccf2756ac,Harry Marr,harry.marr@gmail.com,2024-12-06 16:44:04+00:00,fix haiku url in readme,False
+55aa1dba025668cd56ec8ca8f4ce3403479155b3,Jens Krug,jens.k611@googlemail.com,2024-12-06 14:39:57+00:00,add additional dynamic library product to package.swift,False
+9e8cd70efd2396f464ace41ea95b803cf8e90f87,DarkSatyr,sergiy.iastremskyi@gmail.com,2024-09-18 21:39:13+00:00,don't asset when setting `respectanimationframerate = false` on core animation engine,False
+81b2805a2e9c1cbb2ca41199c45f1f39c3a3e2d7,Alexander Allakhverdiyev,106136+alexallah@users.noreply.github.com,2024-09-13 14:11:38+00:00,"update trim.trimtype to default to .individually if not provided 
+
+co-authored-by: cal stephens <cal@calstephens.tech>",False
+fc8a44fcc90fb011865e4d9465ddb10f78e7f495,John Szumski,784312+jszumski@users.noreply.github.com,2024-09-10 19:20:58+00:00,fix warnings in xcode 16 by restating inherited conformances to `@unchecked sendable`,False
+7a8279b4448edff03cdad2901cde6e4933aeb5e9,Dmitrii Medvedev,dmitrii.medvedev@ellation.com,2024-09-10 18:06:08+00:00,add possibility to remove valueprovider,True
+ab4c5d98c1c0b63aa10be6c68f995076ea1ff4cc,Cal Stephens,cal.stephens@airbnb.com,2024-08-23 23:16:30+00:00,fix frame conversion in lottieanimationlayer.pause(at: .marker(...)),False
+6c8319b3e946e9853d792870a9dca5c41ae42ffa,Christian Clauss,cclauss@me.com,2024-08-10 17:32:19+00:00,upgrade github actions,False
+19e60c95060e857d2a35e34bf8dca3b16acffd62,wanxiangchwng,cui.shuang@foxmail.com,2024-08-01 13:49:17+00:00,"fix typos in some comments 
+
+signed-off-by: wanxiangchwng <cui.shuang@foxmail.com>",False
+0d20f5ddb85bfb0e56dc5e8a83c4a2963f27f214,Gal Berezansky,51407572+GalBerezansky@users.noreply.github.com,2024-07-29 19:28:57+00:00,update `lottieanimationview.getvalue(for:atframe:)` docs,False
+cc787967e1725157f47ab459b64161b63b4b50ce,LamTrinh.Dev,me@lamtrinh.dev,2024-07-24 14:37:28+00:00,update links for repositories moved to the swiftlang org on github,True
+12d01a831acbca68e822f07d035561a02c4349e2,Cal Stephens,cal.stephens@airbnb.com,2024-07-09 20:54:31+00:00,use 'lottie.xcframework.zip' name for xcframework archives,False
+15c54f481affbdd3d01ab9a8d7466a30ee461da3,Cal Stephens,cal.stephens@airbnb.com,2024-07-09 20:52:01+00:00,update package.json version number to 4.5.0,False
+fe4c6fe3a0aa66cdeb51d549623c82ca9704b9a5,Cal Stephens,cal.stephens@airbnb.com,2024-07-09 18:38:20+00:00,update version to 4.5.0,False
+0ed725e92cdbac80a9eaade340802939c8c92189,Cal Stephens,cal.stephens@airbnb.com,2024-06-20 18:31:45+00:00,add support for opacity text animators,False
+f5ee923a693a704efa3c6bb5327d34097a09520d,1an-xu,125465519+1an-xu@users.noreply.github.com,2024-06-20 04:35:41+00:00,support font provider in composition layer,False
+fca6f334516eb12b070ccd8964471d770a4ebbc9,1an-xu,125465519+1an-xu@users.noreply.github.com,2024-06-10 17:00:31+00:00,"add drop shadow support to main thread rendering engine 
+
+co-authored-by: lan xu <lan.xu@airbnb.com>
+co-authored-by: cal stephens <cal.stephens@airbnb.com>",False
+73b1a4267b6cb3fbce55a8a18a8b0131d51eee7b,Cal Stephens,cal.stephens@airbnb.com,2024-06-04 03:24:00+00:00,fix issue where bezier paths could be closed incorrectly,False
+5c8d5116d4ca3ca90d646280ed472c389b5faeab,Shai Mishali,freak4pc@gmail.com,2024-05-28 18:03:02+00:00,add `lottieview.configure` overload that takes a keypath and value instead of a closure,False
+1910aef5663df50c3fb3536443e408b7e637d55a,Cal Stephens,cal.stephens@airbnb.com,2024-05-07 00:05:34+00:00,require xcode 15 / swift 5.9,False
+f01bc5fa34ff5b296df9e105888a3bc5b87bad41,chacha,45652743+ChaminLee@users.noreply.github.com,2024-05-06 15:19:24+00:00,add final keyword to `snapshottests`,False
+769b88d83a42ca8d5572b020c96f47e3690b3796,Cal Stephens,cal.stephens@airbnb.com,2024-04-15 22:40:25+00:00,include animation duration when computing cost/complexity of core animation time remapping,False
+3af9055c44b07396953e4d35f958608479741adf,Cal Stephens,cal.stephens@airbnb.com,2024-04-15 22:40:02+00:00,update nsprivacyaccessedapitypereasons in privacy manifest,False
+52b22e89536098f8e6e6b867f099de99b70b0137,Cal Stephens,cal.stephens@airbnb.com,2024-04-15 20:33:13+00:00,fix issue where animation size could be incorrect after loading async animation,False
+ab15129d567eda5da0631fcba23de60144a612f4,Cal Stephens,cal.stephens@airbnb.com,2024-04-04 16:36:55+00:00,update current version to 4.4.2,False
+030232bae167205b2b19060deb291074097d979b,Cal Stephens,cal.stephens@airbnb.com,2024-04-04 16:35:12+00:00,use correct version number when building xcframework bundle,False
+8a784b2129a3778324c6a7a922a742dd4fbd5f97,Bryn Bodayle,bryn.bodayle@airbnb.com,2024-04-02 21:01:36+00:00,fix incorect initialvalue usage in swiftui wrapper,False
+d76f85bb2ceb7e75d49890d7581b9f1eed68f3d1,Dukandar,sunil.basappa@gmail.com,2024-03-24 17:39:35+00:00,"add visionos support to pod spec 
+
+co-authored-by: cal stephens <cal@calstephens.tech>",False
+833bc7b27c0f5aa93dc8f4f189c0dfb6ec3cea81,viva-melon,melon@adoc.co.kr,2024-03-22 15:26:39+00:00,remove redundant cgfloat conversion in math helpers,True
+41dfe7b0d8c3349adc7a5a03a1c6aaac8746433d,Cal Stephens,cal.stephens@airbnb.com,2024-02-21 19:39:58+00:00,update minimum deployment target to ios 13.0 / macos 10.15,False
+7fe8b6f697ae7db4bf0df270119592cb5d502848,Cal Stephens,cal.stephens@airbnb.com,2024-02-21 19:07:05+00:00,bump current version to 4.4.1,False
+2f0f7610aec94261b6e58bd52a5ed2e1127eeb19,Cal Stephens,cal.stephens@airbnb.com,2024-02-14 23:48:09+00:00,fix infinite loop when setting lottieanimationview.viewportframe,False
+7ecdbbfbd95807964bc7696ecb023315600936bc,Cal Stephens,cal.stephens@airbnb.com,2024-02-14 22:59:59+00:00,fix warning from invalid character in cocoapods resource bundle identifier,False
+cb4698bf7bfa1829515183af3d76e38955b6101b,Cal Stephens,cal.stephens@airbnb.com,2024-02-14 22:59:50+00:00,fix crash in main thread rendering engine path interpolation implementation,False
+d4b75a089ef42d7c7db094671632aa311cbe1d83,Rhys,47733004+RhyG@users.noreply.github.com,2024-02-02 17:21:27+00:00,"omit privacy manifest from source files in podspec 
+
+co-authored-by: rhys geary <rhys.geary@ladbrokes.com.au>
+co-authored-by: cal stephens <cal@calstephens.tech>",False
+2aa558fbe0a76859e86f0fb3527a4ef5439c6d42,Cal Stephens,cal.stephens@airbnb.com,2024-02-01 00:27:20+00:00,update ci jobs to run on apple silicon macos 14 runner,False
+99c2f6875279a86204baa7e0cb988bc2fd37c59a,DevVenusK,44860045+DevVenusK@users.noreply.github.com,2024-01-25 20:48:47+00:00,"update `lottieanimationview.updaterasterizationstate` to simply call `lottieanimationlayer.updaterasterizationstate` 
+
+co-authored-by: hyosung <hyosung@finda.co.kr>
+co-authored-by: cal stephens <cal@calstephens.tech>",False
+6bb0f64e49d3896881de56cd43f185b4b0762d55,Kent Sutherland,git@ksuther.com,2024-01-23 16:09:08+00:00,replace os checks with canimport(uikit) to improve visionos support,True
+e276c62c67b67ac985cffdac37091beeacf582c0,Cal Stephens,cal.stephens@airbnb.com,2024-01-22 23:38:46+00:00,update version number to 4.4.0,False
+f522990668c2f9132323a2e68d924c7dcb9130b4,Cal Stephens,cal.stephens@airbnb.com,2024-01-22 22:23:18+00:00,update ci to build for visionos,False
+25ceccd2ada2fc22ec1764a3144315e2400fcd28,Miguel Jimenez,miguel.jimenez.0529@gmail.com,2024-01-20 02:19:35+00:00,update lottieview to display placeholder using overlay instead of zstack,False
+8430111d0aba82347c20f7c3f51486c07531d8ab,David Cacenabes,david.cacenabes@gmail.com,2024-01-12 17:09:47+00:00,use resource_bundles instead of resource,False
+7cae3aacd7170d4991456d7f729adde5622afa1b,Cal Stephens,cal.stephens@airbnb.com,2024-01-12 04:11:43+00:00,add time remapping support to core animation rendering engine,False
+55159274464ebffcd5977797a27938d72f201ce7,Cal Stephens,cal.stephens@airbnb.com,2024-01-11 22:54:28+00:00,fix issue where manually interpolated keyframes could animate incorrectly,False
+2562590cdf597277efbd3d9edaa65931b7cfd5b7,Cal Stephens,cal.stephens@airbnb.com,2024-01-08 22:05:44+00:00,fix issue where dotlottieimageprovider didn't handle base64 images,False
+9c1dac7dac817d7c0f86fb71f35d7cccb785503e,Cal Stephens,cal.stephens@airbnb.com,2024-01-08 21:03:50+00:00,"fix parsing issue, add support for dotlottieconfiguration in swiftui lottieview",False
+a9ac8e659498607bdf5e45735d15eb0b01bc7a03,Benedek Kozma,cyberbeni@gmail.com,2024-01-08 19:48:44+00:00,include dsyms in xcframework build,False
+4f4b5a194772af96ed346eb9319ebd03cd37e0a1,Cal Stephens,cal.stephens@airbnb.com,2024-01-08 19:17:41+00:00,fix issue where repeater layer could be displayed incorrectly,False
+9dc7d74b43b19bda54cfb863aa2eb433888b198f,Cal Stephens,cal.stephens@airbnb.com,2024-01-08 18:08:27+00:00,fix issue where animationkeypath in solidlayer could be incorrect,False
+c3d493b1fbe1368998ffb21110f0908078e108f3,Cal Stephens,cal.stephens@airbnb.com,2024-01-08 18:07:06+00:00,mark dotlottiecache as sendable,False
+3b805769105f481a03dc28851cb156df801ef498,Carsten Knoblich,carsten@staticline.de,2024-01-05 18:23:42+00:00,fix: added visionos and simplified conditional,False
+af18de29c846e92f5a038edd23eac9b6ba522055,Igor Sova,hardworker@users.noreply.github.com,2024-01-03 19:25:01+00:00,do not create `dotlottieimageprovider` instance if there's no image files,False
+9c1e7f1e96e77cef56004e77148964ef70c4fee8,Manuel Burghard,234355+mjburghard@users.noreply.github.com,2023-12-21 16:35:45+00:00,fix privacy manifest location for spm,False
+fe4f51c9a84e40aa75000b64c5ca01a2ff796c83,Hanton Yang,hanton.yang@gmail.com,2023-12-16 06:00:36+00:00,fix build warnings due to missing imports,False
+86e142e5ddca501773e3c9b6f3f665d5864686ac,Cal Stephens,cal.stephens@airbnb.com,2023-12-16 04:57:54+00:00,continue xcframework job if certificate install step fails,False
+abaf862d7e443bad829e13d53812caed40001fd9,Cal Stephens,cal.stephens@airbnb.com,2023-12-15 20:32:22+00:00,codesign lottie.xcframework,False
+f41ce9cd3bc80ef50f94b7e5ce288a6ebd84b109,Cal Stephens,cal.stephens@airbnb.com,2023-12-15 15:07:46+00:00,"adopt policy on minimum supported swift / xcode version, update minimum versions to swift 5.7 / xcode 14.1",False
+92f70b723735a148645cff8c0b58d44f733b5757,Cal Stephens,cal.stephens@airbnb.com,2023-12-12 00:33:32+00:00,fix issue where core animation rendering engine couldn't display last frame of animation when paused,False
+53b2c7368446e7ec34603bf6f2a3566c6d0bccf2,Hanton Yang,hanton.yang@gmail.com,2023-12-10 03:24:48+00:00,remove a few unused imports,True
+e7ed4b7f5c92408c3ff7714fcc1bbd51170b156b,Cal Stephens,cal.stephens@airbnb.com,2023-12-08 22:10:18+00:00,add privacy manifest,False
+3f1202f254ad5d71f6c5b518ed2d6b9e2abe6969,Cal Stephens,cal.stephens@airbnb.com,2023-12-01 23:56:28+00:00,bump current version to 4.3.4,False
+b3d81b4527002c0a193e66cf068ab06f82f2ea99,Cal Stephens,cal.stephens@airbnb.com,2023-12-01 23:10:25+00:00,fix issue where lottieview animation would restart from beginning after backgrounding app,False
+7873c030a2c2b87375a5a8306dcc32feb2c91d8d,Hanton Yang,hanton.yang@gmail.com,2023-11-25 16:43:58+00:00,clean up unused property in invertedmattelayer,True
+3d46f3fab87bc390466cbca9762cb290e95eae40,Eric Horacek,eric.horacek@openai.com,2023-11-07 18:52:05+00:00,"dispatch dot lottie file loading onto a single serial queue 
+
+a serial dispatch queue ensures that io related to loading dot lottie files don't overlap, which can trigger file loading errors due to concurrent unzipping on a single archive.",False
+f081afab0e4da9c0ae54e1db1c0f30b603f3eb03,Hyungyu Kim,ypsophila97@icloud.com,2023-11-02 13:30:51+00:00,"use `uitraitcollection.current.displayscale` instead of deprecated `uiscreen.main.scale` 
+
+co-authored-by: cal stephens <cal@calstephens.tech>",False
+cdf8499996eec658e62d1a116c1d87853d563101,Cal Stephens,cal.stephens@airbnb.com,2023-10-20 21:13:40+00:00,fix issue where repeater would be ignored if not at top level,False
+73280cbb54d656889283bea4da67547f57974ca7,Florian Rhein,86776319+florianrhein@users.noreply.github.com,2023-10-20 13:45:41+00:00,change pod dependencies `swiftui` and `combine` to `weak` to ensure compatibility with ios 12,False
+ffdd59203ff02332549ed48596cf219dc71ec026,Tyler Hedrick,tyler.hedrick@airbnb.com,2023-10-18 23:07:29+00:00,add option to remove animated bounds changes,True
+3421eeb99d84e525366def841b48937f73c31a0f,Ballad,junjielu1008@gmail.com,2023-10-18 13:34:54+00:00,remove old animation layer when creating a new animation layer,True
+ae48d2a86e2b96d4c3d81dae0459d9516d6bf672,Cal Stephens,cal.stephens@airbnb.com,2023-10-16 17:34:34+00:00,fix parsing regression in 4.3.0 from addition of parsing layer effects,False
+45517c3cfec9469bbdd4f86e32393c28ae9df0bc,Cal Stephens,cal.stephens@airbnb.com,2023-09-29 21:31:45+00:00,fix unexpected crossfade animation when updating lottie animation or rendering engine,False
+5197d6f06c00753ca299d8424c8e089c6a372f3c,Cal Stephens,cal.stephens@airbnb.com,2023-09-26 15:59:38+00:00,bump version to 4.3.2,False
+1945eb32829bfae0daee33e3fdb737144e7bd297,Matthew Cheok,matthewcheok@users.noreply.github.com,2023-09-26 03:34:21+00:00,"restructure lottieplaybackmode, add support for pausing at start or end of marker",True
+6617574b6d26257df2e9eaa2c8f9871c438c8711,Cal Stephens,cal.stephens@airbnb.com,2023-09-25 21:54:21+00:00,fix ci jobs using xcode 15.0 by disabling visionos build,False
+1760543c6e48e13fc76e9343f7006bcaee498a78,Cal Stephens,cal.stephens@airbnb.com,2023-09-20 21:36:27+00:00,fix test failure from race condition between #2194 and #2196,False
+68c334254529eff82a32f721d19f07c6433050fa,Cal Stephens,cal.stephens@airbnb.com,2023-09-20 18:25:33+00:00,reduce log volume from warning about after effects expressions,False
+01a3ac1b2b1f7f02f8f5b6c1e34e1343faaa46fe,Cal Stephens,cal.stephens@airbnb.com,2023-09-20 18:24:44+00:00,fix layout animation regression introduced in 4.3.0,False
+b1f170b46db347ecd36ffb8b03610c2cabead046,Taras Shevchuk,taras.v.shevchuk@gmail.com,2023-09-15 21:17:29+00:00,add support for using compatibleanimationview in xib files / storyboards,False
+2d626215ac8fd2f5893290e1a2c1c31b1d82b1c7,Cal Stephens,cal.stephens@airbnb.com,2023-09-14 20:19:08+00:00,update current version to 4.3.0,False
+4f8c7754b0d3c32ef6fd3ee323f1ba614a12b3c8,Cal Stephens,cal.stephens@airbnb.com,2023-09-14 19:56:07+00:00,fix issue where lottieanimationlayer.pause() didn't update currentplaybackmode,False
+dc9316c1094f5095ee84bc71112e47e6e44fc19b,Cal Stephens,cal.stephens@airbnb.com,2023-09-14 17:18:08+00:00,update text provider api to use full animationkeypath values,False
+ccd7a106dada9c94389c6cd48ec8e0d184cddf72,Cal Stephens,cal.stephens@airbnb.com,2023-09-14 17:11:59+00:00,add support for customizing gradient values using gradientvalueprovider,False
+f7d758cc37090fbfa06568b7b11067e4fc58c95b,Cal Stephens,cal.stephens@airbnb.com,2023-09-12 18:41:47+00:00,add support for customizing stroke width values using floatvalueprovider,False
+8bff4aa92fbd557d59977291dea8d3ebff9820fa,Matthew Cheok,matthewcheok@users.noreply.github.com,2023-09-12 14:42:06+00:00,"add support for configuring image content gravity 
+
+co-authored-by: cal stephens <cal.stephens@airbnb.com>",False
+6277300a597092547de9795c20f77419b026fa04,Cal Stephens,cal.stephens@airbnb.com,2023-09-11 23:35:28+00:00,add simplified `play()` api to lottieview,False
+70d39d2bb5d70cf76793b0217e193b655b3b5a61,Cal Stephens,cal.stephens@airbnb.com,2023-09-11 16:35:06+00:00,improve conversion from after effects shadow softness value to `calayer.shadowradius` value,False
+e94b888c862509dec508a7f06751fa4ca5baa36c,Cal Stephens,cal.stephens@airbnb.com,2023-09-08 04:04:57+00:00,fix issue where value providers could be ignored when falling back to main thread rendering engine,False
+97cea955f5b984b4ce9fc1d555b4be8799dabab4,Cal Stephens,cal.stephens@airbnb.com,2023-09-07 22:33:23+00:00,add lottieview.animationdidload api,False
+bc76b33a19d37a4373c177d5569ef312f60dbd0b,逸风,fanjiarong_haohao@163.com,2023-09-07 22:21:57+00:00,"add api for animationimageprovider to indicate that its results shouldn't be cached 
+
+co-authored-by: cal stephens <cal@calstephens.tech>",False
+4a9e46f639965944343f462ff774ec980ce0f278,Cal Stephens,cal.stephens@airbnb.com,2023-09-06 01:06:59+00:00,"add support for visionos, drop support for swift 5.5",False
+e7dc5c1b25bc501b54b9714912d348058ce380dd,Cal Stephens,cal.stephens@airbnb.com,2023-08-31 21:57:21+00:00,add option make main thread rendering engine force display update on every frame,False
+d70b7509abdc216a3c073b4bdcbcc8f5b8c21228,Cal Stephens,cal.stephens@airbnb.com,2023-08-25 01:09:26+00:00,fix issue where skew keyframes would unexpectedly not animate,False
+f864891db4d04cdf141b6b35f6467d2205c45197,Cal Stephens,cal.stephens@airbnb.com,2023-08-24 22:44:20+00:00,fix issue where shape items could be unexpectedly ignored,False
+759b1f2dc4e0d09ba7e394e2540103f5a83fa950,Cal Stephens,cal.stephens@airbnb.com,2023-08-24 20:14:41+00:00,fix support for customizing color of solidlayer using colorvalueprovider,False
+f98405320820f3e037bfb85796bf7c3ebaf5e075,Cal Stephens,cal.stephens@airbnb.com,2023-08-23 19:06:18+00:00,remove ios-only uikit example app in favor of multiplatform swiftui example app,True
+cba598409672cb03125b1d857d75b87b4394ef5e,Cal Stephens,cal.stephens@airbnb.com,2023-08-22 22:16:00+00:00,add support for rendering drop shadows,False
+80d7e9a81149a450b0ef96d0b856d1da1be06393,Mustafa Ateş Uzun,mustafauzun0@gmail.com,2023-08-19 14:06:10+00:00,fix: printed directory path name,False
+283a303fd461c7986481fc9834448a2f783e127e,Cal Stephens,cal.stephens@airbnb.com,2023-08-15 19:06:37+00:00,add cross-platform swiftui wrapper for animatedbutton,False
+acb433ef6a85a6071e7428fbd2ed750c5470195d,noahsmartin,noahm444@gmail.com,2023-08-15 17:42:33+00:00,add emerge pr uploads,False
+e2582dc2a9fbe6b05166ad945e3df5abf34cd805,noahsmartin,noahm444@gmail.com,2023-08-15 04:39:29+00:00,add size test,False
+25b87a8e16c5da28ccffc050e7fcff4955157673,Cal Stephens,cal.stephens@airbnb.com,2023-08-11 23:40:10+00:00,add `animationdidfinish` api to lottieview,False
+5290d194927ce77cbf4c26087dde543b372cdcf7,Cal Stephens,cal.stephens@airbnb.com,2023-08-11 22:40:30+00:00,add cross-platform swiftui wrapper for animatedswitch,False
+8b89a433e5ca71e9447352d56cfd4231b38f23f8,Cal Stephens,cal.stephens@airbnb.com,2023-08-10 16:18:39+00:00,fix unhandled file warning when building with spm,False
+46202c7c7f3c04e309d2d7b84fbfd2cf0cb2708a,Cal Stephens,cal.stephens@airbnb.com,2023-08-10 15:40:30+00:00,update to latest version of airbnb swift style guide,False
+70ef458c2a2169f41d13c91fa8df4d172465b764,Cal Stephens,cal.stephens@airbnb.com,2023-08-03 23:03:03+00:00,add swiftui apis for controlling playback behavior using `lottieplaybackmode`,False
+6126d6e05f830cec14c273841ae289187b5f636d,Miguel Jimenez,miguel.jimenez.0529@gmail.com,2023-08-03 21:14:09+00:00,"improve swiftui async animation loading apis 
+
+co-authored-by: cal stephens <cal.stephens@airbnb.com>",False
+25a50f2635766bfa4cf9530a8ea1e82c2ebded26,Cal Stephens,cal.stephens@airbnb.com,2023-08-03 19:41:39+00:00,support using swiftui lottieview with strict concurrency enabled,False
+3a0280114424c98dfad4b7fb0f227af1e3560ddc,Cal Stephens,cal.stephens@airbnb.com,2023-08-01 18:31:55+00:00,disable bitcode when building xcframework,False
+951daf7957b5bdb7942fc0102b03308d74d6699a,Miguel Jimenez,miguel.jimenez.0529@gmail.com,2023-07-27 21:11:25+00:00,add `loadanimationtrigger` to support calling `loadanimation` again after `onappear`,False
+5f21ab00a6ad2f8da1d799b130b2347370737ae4,miguel-jimenez-0529,miguel.jimenez.0529@gmail.com,2023-07-26 21:24:08+00:00,"add swiftui support for loading async lottieanimations and dotlottiefiles
+
+co-authored-by: cal stephens <cal.stephens@airbnb.com>",False
+edf0dd850fc123d0092380cdaf9304ff3375b48a,Cal Stephens,cal.stephens@airbnb.com,2023-07-25 19:36:19+00:00,fix default `reducedmotionoption`,False
+2f2ab3c3ab653c65c344c92fb806b6aaada387ca,Cal Stephens,cal.stephens@airbnb.com,2023-07-20 22:13:32+00:00,"play ""reduced motion"" marker if `uiaccessibility.isreducemotionenabled` is true",False
+14fd78f66c11b79c12377686671be1a98068331e,Cal Stephens,cal.stephens@airbnb.com,2023-07-20 21:15:09+00:00,add swiftui apis to get and set current progress / current frame,False
+dafefe19d3299e988569687fb33564c7756036ea,noahsmartin,noahm444@gmail.com,2023-07-18 14:31:27+00:00,remove unused class,True
+173b119ae867719cdfaec85bf0ae971848a38d26,Cal Stephens,cal.stephens@airbnb.com,2023-07-14 17:24:35+00:00,"improve swiftui apis for configuring value providers, image providers, etc",False
+a3fb3e4fe392373df82dd6a1020266c3a094e447,Cal Stephens,cal.stephens@airbnb.com,2023-07-12 23:29:03+00:00,add lottieview support on macos using epoxycore 0.10.0,False
+dd0854c8e18b2a3192c8bf582000fc5596231fc6,eromanc,eduardo.roman@gmail.com,2023-07-10 21:35:06+00:00,add public `animationlayer` property to `lottieanimationlayer`,False
+adef80913c9276a8ddeda3d5e69f0c5a0456af2d,Ikko Eltociear Ashimine,eltociear@gmail.com,2023-07-09 17:30:30+00:00,fix typo in transformanimations.swift,False
+079b12c5cb90f8d6ed67cea8f5aa62dadfb76be0,Bernhard Loibl,fonkadelic@users.noreply.github.com,2023-07-04 15:14:00+00:00,mark animation as optional in lottieview.init,False
+e9f2f93826e9f69bf67919d87a77f37f041e6bbc,Cal Stephens,cal.stephens@airbnb.com,2023-06-29 18:29:08+00:00,add public `configure` api to lottieview,False
+c7807b2f4e845d74333460238f0b49b86a31289d,Cal Stephens,cal.stephens@airbnb.com,2023-06-28 22:24:49+00:00,fix breaking api changes from #2073,False
+5189094838e7fadfec2bd1466aaddabcbb73742c,Cal Stephens,cal.stephens@airbnb.com,2023-06-28 18:53:54+00:00,add swiftui lottieview,False
+c4dc4d7e63adf67feb978d3e9bccfa9c22640027,Cal Stephens,cal.stephens@airbnb.com,2023-06-28 15:48:51+00:00,add source for epoxycore library to support open-source swiftui view implementation,False
+4ff81747f35b81fa087be20b41b87ca129b6a2d8,Kirti Verma,98816658+kirti-swiggy@users.noreply.github.com,2023-06-26 18:07:43+00:00,add helper method to initialize dotlottiefile with data,False
+598b677f77d0bd5075fcd5614908ed234c97c1cb,Cal Stephens,cal.stephens@airbnb.com,2023-06-22 18:38:53+00:00,add api for playing multiple markers sequentially,False
+fdd8b11c4698fb7dbdd03f614e37df5fdaf4f01e,Adam Stern,stern.adam1@gmail.com,2023-06-21 21:04:14+00:00,restructure `valueproviderstore` to not accumulate multiple values for the same key,True
+1f48b65c989bbcf2071472d0c8c055401a58da45,Evandro Harrison Hoffmann,evandro.hoffmann@gmail.com,2023-06-13 23:12:59+00:00,add support for multiple animations in dotlottie files,False
+ecdadec88b057e484b6a11a01454e7af343e3203,eromanc,eduardo.roman@gmail.com,2023-06-07 22:42:17+00:00,"add public lottieanimationlayer calayer subclass 
+
+co-authored-by: eduardo roman <eromanc@fb.com>
+co-authored-by: cal stephens <cal@calstephens.tech>",False
+b68c70572610afd14f013b5bd6473ac6f3fdaca2,Keith Smiley,keithbsmiley@gmail.com,2023-06-06 01:02:02+00:00,fix swift 5.9 warnings,False
+df55b4c72c64b0d688d1d24633fae9f1257fe82e,Cal Stephens,cal.stephens@airbnb.com,2023-05-20 04:09:07+00:00,fix issue where layers with negative x scale values could be pixelated,False
+731e349220bbcc37764ab3d000c170e027788042,reggian,1903894+reggian@users.noreply.github.com,2023-05-04 14:05:21+00:00,remove `.../zipfoundation/readme.md` from targets and `*.md` files from podspec,True
+a205eec34df7cb6155dadd93055f54349695a39c,Cal Stephens,cal.stephens@airbnb.com,2023-04-27 23:37:06+00:00,fix typo in package.swift,False
+165b8c6eaf609cb9fd180d462324a5ef55d62036,Cal Stephens,cal.stephens@airbnb.com,2023-04-27 23:36:39+00:00,update package.swift comment to mention lottie-spm,False
+d6feea26a370019b4d3a85f5984cb95a2734776f,Cal Stephens,cal.stephens@airbnb.com,2023-04-27 22:34:30+00:00,bump version to 4.2.0,False
+85586034ad2a4cac8aecfcf580676485f242f892,Cal Stephens,cal.stephens@airbnb.com,2023-04-27 22:27:47+00:00,fix issue where trim offset could be calculated incorrectly,False
+0fd25a1df8a7765f69fa226a7599108495196d27,Cal Stephens,cal.stephens@airbnb.com,2023-04-27 22:10:20+00:00,fix issue where calling `setvalueprovider` would reset animation progress,False
+11efcf9f58cb1db4f65c7776a518f799f8456d7b,Cal Stephens,cal.stephens@airbnb.com,2023-04-27 19:59:47+00:00,use `xctexpectfailure(strict: false)` for tests that are flaky in ci,False
+939613e4f627ef5a08854e214bc03642ad22b7fc,Cal Stephens,cal.stephens@airbnb.com,2023-04-27 18:43:12+00:00,fix issue where trim strokestart / strokeend could be rendered in incorrect order,False
+eb12040f8e0c16a8f46607c4a15162f82f332492,Cal Stephens,cal.stephens@airbnb.com,2023-04-27 16:05:05+00:00,"update minimum macos version to 10.11, fix build",False
+7ca907b841a2cd04f2f11be72958aa3a944b4340,Cal Stephens,cal.stephens@airbnb.com,2023-04-26 22:24:04+00:00,"add support for opacity, position, scale, and rotation value providers",False
+f8ff9a50a9648608ffe2abea0d1afb9e47d9ea15,Zheng Li,ainopara@gmail.com,2023-04-26 22:23:24+00:00,set `animationlayer` to `nil` when removing oldanimation,False
+6e5ad7a40eb3b5468f72679fb91f084866884345,Cal Stephens,cal.stephens@airbnb.com,2023-04-26 13:30:05+00:00,fix issue where trim could be applied to too many shape items,False
+43a8c7ff7109fcc0bde6366e2778d880d8bc3a06,Cal Stephens,cal.stephens@airbnb.com,2023-04-05 23:20:52+00:00,add support for configuring `lottiebackgroundbehavior` to objective-c `compatibleanimationview`,False
+cdc01fb5c82ef715bda4e9fc2375b3cc133f8fae,Rohit,rohit.sharma9934@gmail.com,2023-04-01 15:33:47+00:00,trim whitespaces and newlines before decoding base 64 string to image,False
+cc7b5c67189311fdaede48fcb18588d1ac1b4ff1,johnny-duo,108750639+johnny-duo@users.noreply.github.com,2023-03-28 19:49:07+00:00,add `lottieanimationview.maskanimationtobounds` configuration,False
+9c2d64e4e3232fb6a3bca6bae1f285e986ded07e,Cal Stephens,cal.stephens@airbnb.com,2023-03-27 15:30:57+00:00,log a warning when playing animation that uses unsupported after effects expressions,False
+695235179a36cca8e6c24dce0de5a594ff02656c,Bjorninn1,bjorninn11@gmail.com,2023-03-25 21:45:56+00:00,"add `lottieanimationview.allhierarchykeypaths()` to get list of keypaths in animation at runtime 
+
+co-authored-by: cal stephens <cal@calstephens.tech>",False
+8bf6161d81354b5fa231d0340f4e819f26b0153f,Cal Stephens,cal.stephens@airbnb.com,2023-03-11 16:35:43+00:00,add back public error values that were removed in #1969,True
+090913367d6118c9315403012adc2490a1669ad2,Cal Stephens,cal.stephens@airbnb.com,2023-03-11 16:35:21+00:00,fix issue where completion handler could be called unexpectedly when setting up animation,False
+4fedaf9bfb012b6aa6403edf8110590ad15f82df,Cal Stephens,cal.stephens@airbnb.com,2023-03-10 18:07:13+00:00,fix issue where ** wildcard incorrectly required matching at least one path component,False
+70e22dd49e9015c6dc12efc75ae70e52c6f1970f,Cal Stephens,cal.stephens@airbnb.com,2023-03-04 00:48:22+00:00,update zipfoundation to 0.9.16,False
+b407c1118bbdc5b44e5ed477ecda979a4f00c8ce,Matěj Kašpar Jirásek,matej.jirasek@me.com,2023-02-21 19:16:11+00:00,fix compilation of ios example project in xcode 14.3 beta,False
+acd56fa48b63e43a3ac262f9dc97bd5ebf305ce4,Muhammet Ilendemli,ilendemli@live.at,2023-02-21 19:03:08+00:00,add support for loading dotlottie animations synchronously,False
+e1a05adf37fb0557459a2628ef6089571d0bfbc0,Matěj Kašpar Jirásek,matej.jirasek@me.com,2023-02-21 17:48:51+00:00,improve error handling for dotlottie animation methods,False
+7987c88083f9799da43b99e8795bc731c9358702,Ben Sarrazin,b@srz.io,2023-02-17 21:41:43+00:00,rename bundle name to avoid conflict with the swift-generated module name,True
+951be44391283253d1576d8dc90683dc1d1c46d3,Cal Stephens,cal.stephens@airbnb.com,2023-02-17 21:24:33+00:00,fix issue where rounded corners algorithm would return incorrect path for shapes without any rounded corners,False
+4e51b71c6ef1b645c9a83de112d627c919143137,Cal Stephens,cal.stephens@airbnb.com,2023-02-15 19:14:10+00:00,fix macos build issues for apps using lottie-spm xcframework,False
+0e5d3c05d58e919fb260e82debaeec4367a3b6c4,TED,teddy5518@hotmail.com,2023-02-15 17:48:08+00:00,"fix typo in readme 
+
+fixed minor typo.",False
+439a5b4e8e3a022651ab1f0c9f16844a7f8ea744,Matěj Kašpar Jirásek,matej.jirasek.con@hotstar.com,2023-02-15 14:26:09+00:00,add dispatch queue parameter to dotlottie loading methods,False
+3dffa230e2a1da676c1bd4c5292c3b9fed9be907,Cheick Abba Cisse,cheick95@hotmail.com,2023-02-02 21:52:33+00:00,add `compatibledictionarytextprovider` for `compatibleanimationview`,False
+4247a7a57de59d5ca4922c38007d7a2355d6941a,Devin Lehmacher,lehmacdj@gmail.com,2023-01-26 20:42:48+00:00,mark `lottieanimationview` and `play` methods as `open`,False
+adda6ed625572745c98922c433a5434cfc5dfc1b,Cal Stephens,cal.stephens@airbnb.com,2023-01-24 01:14:46+00:00,update color parsing to ignore alpha values for consistency with other platforms,False
+4e7d954e054ca94eeb30b2ab8b7b9a9d43712e00,Marian Paul,marian.paul2@gmail.com,2023-01-23 23:57:07+00:00,"add support for 3d rotations on x and y axis 
+
+co-authored-by: cal stephens <cal.stephens@airbnb.com>",False
+440a6eebb8a8ae9c773e9a3e21021b72a74ffbb7,Cal Stephens,cal.stephens@airbnb.com,2023-01-23 17:30:48+00:00,bump version to 4.1.2,False
+420c411204208d0fa8ef12e8c847e93d93444191,Cal Stephens,cal.stephens@airbnb.com,2023-01-22 16:54:57+00:00,fix typo in readme.md,False
+f262407bfd6bb574ccfdb8a11367cac72804a58a,Cal Stephens,cal.stephens@airbnb.com,2023-01-20 17:43:52+00:00,bump version to 4.1.1,False
+4e60df97ded8e40a0dbc05aa8c4378c35731fa5a,Cal Stephens,cal.stephens@airbnb.com,2023-01-20 00:16:19+00:00,fix issue where xcframework archive built by ci was double-zipped and rejected by spm,False
+ad510b82ca6fe2117155b561380b7d1c02affb56,Cal Stephens,cal.stephens@airbnb.com,2023-01-19 19:51:18+00:00,update package.resolved version in lottie.xcodeproj to fix swift package index support xcode 13.2.1 / swift 5.5,False
+31c914b09949aafd9e91444561466b4b5051034d,Cal Stephens,cal.stephens@airbnb.com,2023-01-19 18:04:17+00:00,add info about lottie-spm repo,False
+2cdcb8ecf9d976bf41d198f806bb6bf5a438a363,Cal Stephens,cal.stephens@airbnb.com,2023-01-18 20:15:54+00:00,build xcframework using xcode 13.2.1 / swift 5.5.2,False
+f2ed8ef11d59bbfaae8797df4ecfc302c1d635ba,Cal Stephens,cal.stephens@airbnb.com,2023-01-18 03:47:30+00:00,add support for skew animations,False
+79ae25e2f2f3420b3d3ed4f0d0aa17425f06ece2,Cal Stephens,cal.stephens@airbnb.com,2023-01-09 21:52:13+00:00,"fix issue where `play(fromprogress: 1, toprogress: 0)` animation would not actually play",False
+25aa0ab6165eff14c34a35bfd300dce105b3ee16,Cal Stephens,cal.stephens@airbnb.com,2023-01-09 21:05:43+00:00,move issue_1902.json to correct folder,True
+d7568f720b59943da7eccc92bccb5b06bacfcb40,Cal Stephens,cal.stephens@airbnb.com,2023-01-09 20:04:50+00:00,"add script for building xcframework, instructions to readme",False
+1c40880652e7275784e42b0484b1beac7857c25c,Cal Stephens,cal.stephens@airbnb.com,2023-01-06 23:00:57+00:00,fix issue where stroke and fill could be rendered in incorrect order,False
+03eeda861705c742af3ede84711f7c3ace1ac7e2,Cal Stephens,cal.stephens@airbnb.com,2023-01-05 22:24:11+00:00,fix issue where shape items could be applied in incorrect order,False
+e2afbe58760c1b5d44fcf9c90cd9a46b0e26a5cc,Cal Stephens,cal.stephens@airbnb.com,2023-01-05 22:23:57+00:00,"fix issue where `lottieanimationview.currentframe` would be incorrect after playing animation with `lottieloopmode.playonce` 
+
+co-authored-by: anders hasselqvist <anders.hasselqvist@gmail.com>",False
+93ba02242acfacd7b47e05bdf39b6b72dfecc48e,Cal Stephens,cal.stephens@airbnb.com,2023-01-04 22:29:31+00:00,fix issue where negative `scale.x` values didn't render correctly on ios 14,False
+f1a853a89140058fcb078c3bcb930bf7f51b58e1,Cal Stephens,cal.stephens@airbnb.com,2023-01-01 15:56:15+00:00,fix issue where fill following other fill would be silently ignored,False
+f24ad558afc51b834ef78b776f41c774d099e4b9,Anders Hasselqvist,anders.hasselqvist@gmail.com,2022-12-30 14:35:56+00:00,decrease `verylargerect` size to fix issue with masks,False
+86f6fda7e120c6644504644f142f650cc1a8e5cd,Slava Dubovitsky,evil.mrfix@gmail.com,2022-12-28 01:15:24+00:00,"add support for displaying solid strokes around gradient fill shape items 
+
+co-authored-by: cal stephens <cal@calstephens.tech>",False
+85630ac494a7ed27f8bbca75c33ac81e9c90cdd0,Jeremy Snow,121244810+snow-google@users.noreply.github.com,2022-12-28 00:58:49+00:00,"remove `translatesautoresizingmaskintoconstraints = false` call from `compatibleanimationview` 
+
+co-authored-by: cal stephens <cal@calstephens.tech>",True
+0ea00b870501017bc9f8f098d13442da6eba13ea,Jeremy Snow,121244810+snow-google@users.noreply.github.com,2022-12-26 17:36:18+00:00,"add rendering engine configuration support to compatibleanimationview, and more convenience initializers",False
+3b907922757b550484405d6d708089d1941a9c47,Cal Stephens,cal.stephens@airbnb.com,2022-12-21 00:52:03+00:00,fix issue where some top-level shape items would be silently ignored,False
+b45fae1515fefec61ccde777d93ac93ca7f8b623,Cal Stephens,cal.stephens@airbnb.com,2022-12-21 00:39:42+00:00,fix issue where empty trim item would take precedence over non-empty trim item,False
+a651e3d7a59084f71d80f63c83b3403f2753886b,Cal Stephens,cal.stephens@airbnb.com,2022-12-20 20:56:04+00:00,fix issue where shapetransform could incorrectly affect stroke width,False
+2e9008d0e1bfb0bb4abf6b8c2f7538c54e43290c,Cal Stephens,cal.stephens@airbnb.com,2022-12-20 20:53:29+00:00,revert workaround for xcode 14.0 spm binary dependency issue,False
+3a0e11e28b7a8fdf9fc18b6ea2ced4679a07f98e,Alexis Bronchart,alexis.bronchart@gmail.com,2022-12-20 14:40:09+00:00,add support for configuring color space via lottieconfiguration.colorspace,False
+0ceb3ece6feffeb213e6cc6b9fcea0b3b8ad507f,Antti Laitala,antti.o.laitala@gmail.com,2022-12-16 14:57:24+00:00,fix heap buffer overflow in cgcolor+rgb extensions,False
+178cfeede1cb97858dd1ff15627fe5ada41cc10b,Keith Smiley,keithbsmiley@gmail.com,2022-12-13 14:31:04+00:00,remove unused cocoapods configuration,True
+9ce485d7b519a275628adb3667b483d5660524ff,Evandro Harrison Hoffmann,evandro.hoffmann@gmail.com,2022-12-09 17:47:48+00:00,made dotlottieanimation attributes optional to simplify manifest file,False
+a4622b4d6fdbe76cc5487bc27e84029abaf07217,Cal Stephens,cal.stephens@airbnb.com,2022-12-08 18:28:27+00:00,add more directories to .npmignore,False
+9cb0a2a3596316036ecf0d5bb21e21ef202292bd,Cal Stephens,cal.stephens@airbnb.com,2022-12-08 18:04:07+00:00,"revert ""use git large file storage for snapshot images """,False
+57fd1ec26f5cb00a8e5082f2b22ef300bda66ed5,cenx,cen0758@163.com,2022-12-06 16:11:25+00:00,bump cocoapods-downloader from 1.5.1 to 1.6.3,False
+6b96292ffa1b052b5c1b93f08f058c8bf19d5a56,Cal Stephens,cal.stephens@airbnb.com,2022-12-01 18:26:07+00:00,use git large file storage for snapshot images,False
+1007dda17bf5176e1982239b328507715568a0e4,Cal Stephens,cal.stephens@airbnb.com,2022-11-29 22:31:58+00:00,add completion callbacks to `lottieanimationview` dotlottie initializers,False
+50fddd3a84e1adaf17dce5967217787b303b0030,Gurrium,taira1999120@gmail.com,2022-11-28 14:12:14+00:00,update documentation link in readme,False
+51329d238e32dd492d19370e9a5da087987fec70,Boris,56770320+BugorBN@users.noreply.github.com,2022-11-21 17:47:33+00:00,set `masktobounds = true` on animation layer,False
+89cfc5f358b3e473cbd48b95d5a007f017990782,유재호,y73447jh@gmail.com,2022-11-14 18:01:01+00:00,fix typo in readme,False
+9e19fd1a62a1658538d2d1ec6f0e43b2cc989678,Cal Stephens,cal.stephens@airbnb.com,2022-11-07 20:27:35+00:00,update core animation rendering engine to use device rgb color space,False
+abe71a75e0ff9b1ac299962d749cc2a767fbc9d1,Cal Stephens,cal.stephens@airbnb.com,2022-11-04 23:56:37+00:00,add support for animating `startpoint` and `endpoint` of radial gradients,False
+be849b91a6020673ea0860972e1d9e4651494ed5,Cal Stephens,cal.stephens@airbnb.com,2022-11-03 16:24:58+00:00,add rounded corner support to core animation rendering engine,False
+c1626664963c4bd30a7a7bd01c85e8a88a2c1e45,Cal Stephens,cal.stephens@airbnb.com,2022-11-03 15:10:20+00:00,update to latest version of airbnb style formatter plugin,False
+0c43942d268e178c010360ef7d9b8f770d576086,Cal Stephens,cal.stephens@airbnb.com,2022-11-02 22:04:14+00:00,"add snapshot tests for dot lottie animations, and other cleanup",False
+982a8f16dd6c2680a879abff8e29d18235255a53,johnny-duo,108750639+johnny-duo@users.noreply.github.com,2022-11-02 19:55:11+00:00,add support for rounded corners to main thread rendering engine,False
+41b05ddc9b41b4aa728ec8d04f4ff06106503e03,Evandro Harrison Hoffmann,evandro.hoffmann@gmail.com,2022-11-01 16:21:37+00:00,add support for loading `.lottie` archives,False
+4be04995e8b7d079ef8a6fde79b449e3fa93487a,KYHyeon,run190822@gmail.com,2022-10-23 15:55:52+00:00,fix android link in readme.md,False
+e167559cd2bc969bb3b84aea1dc4cf790561e42c,Cal Stephens,cal.stephens@airbnb.com,2022-10-21 17:59:14+00:00,update minimum swift version to 5.5,False
+818cf21b6a9046a509fd2319e26485886d387077,Marcelo Fabri,me@marcelofabri.com,2022-10-19 18:42:22+00:00,replace `lruanimationcache` with a thread-safe `nscache`-based cache,True
+cb58033b5150b7d8596cbed327f43315f6284580,Marcelo Fabri,me@marcelofabri.com,2022-10-18 13:56:15+00:00,allow customizing default animationcacheprovider,False
+1f773c2a10209fdc267f708adb3159ae4786e0df,Marcelo Fabri,me@marcelofabri.com,2022-10-18 04:45:14+00:00,update lottieconfiguration to use decodingstrategy. dictionarybased by default,False
+b2614f8415149664b97bfc725914335484cd520c,Peter Tolsma,pejato@umich.edu,2022-10-17 23:37:13+00:00,change lottieanimationhelpers default animation cache to lruanimationcache.shared,False
+b2c2247297a2748268808844a61631e496521dc1,Lennart Stolz,lennartstolz@me.com,2022-10-17 15:58:10+00:00,adds ability to not play the frame of the end marker,False
+55616e9d17ad2b005d9b58dab3eec215e91ca661,Cal Stephens,cal.stephens@airbnb.com,2022-10-12 18:33:28+00:00,update `lottiebackgroundbehavior.default` from `.pause` to `.pauseandrestore` for main thread rendering engine,False
+d45521f9b7cc7a967515da267338be49c4552374,Cal Stephens,cal.stephens@airbnb.com,2022-10-12 00:45:53+00:00,"bump to 4.0.0, remove backwards compatibility typealiases",True
+36f9d958541eabde4c2bbaa3d63a413a4e6c47aa,Cal Stephens,cal.stephens@airbnb.com,2022-10-11 21:01:07+00:00,fix issue where inverted mask layer was clipped incorrectly,False
+bca47996ed902944410dc7e756ef2fbd3eaf6cc3,Cal Stephens,cal.stephens@airbnb.com,2022-10-11 16:09:46+00:00,use `renderingengineoption.automatic` by default,False
+3b0d2ec3e2ae3100e754201afdc7db61acad80ef,Cal Stephens,cal.stephens@airbnb.com,2022-10-11 15:51:26+00:00,fix deprecation warnings in ios example app,False
+b4bd0604ded9574807f41b4004b57dd1226a30a4,Cal Stephens,cal.stephens@airbnb.com,2022-10-10 23:45:04+00:00,rename public types that conflict with swiftui types,True
+54aa8747da6998a94c1e901dd70013b70e804333,Cal Stephens,cal.stephens@airbnb.com,2022-10-07 21:06:24+00:00,bump version to 3.4.4,False
+e9dbb07d4ce0d41334c89ac4642e5fd5497ceaed,Cal Stephens,cal.stephens@airbnb.com,2022-09-27 22:38:57+00:00,"clarify support links
+
+the best way to support the lottie project is through the open collective fund",False
+1d7eadb5fa3cfd8e8a8e3103429da75594a4cadf,Cal Stephens,cal.stephens@airbnb.com,2022-09-26 21:41:52+00:00,fix issue where manually-interpolated shape animations would ignore time remapping,False
+ff8642ec1b3f84ba477f758b643ea57ddbfebda4,Cal Stephens,cal.stephens@airbnb.com,2022-09-26 20:41:57+00:00,update snapshot testing package dependency,False
+3cf8ade4f14cb67fd06ee760e9b579eeb9ea31fb,Alexander Kvamme,alexanderkvamme@gmail.com,2022-09-19 17:52:06+00:00,use `warn` instead of `assertionfailure` when detecting repeater use in main thread rendering engine,False
+e142fa3fa32894507507e9726eee1bb4ebd9b606,Nicholas Maccharoli,nicko@screaming-cactus.com,2022-09-19 15:29:27+00:00,add option to `animatedswitch` to not animate update when changing animations,False
+671662e807223b4027d10519c394ac774bc6781d,kmcbride,kmcbride@users.noreply.github.com,2022-09-15 16:36:41+00:00,add marker duration support,False
+ad7ef4261c1cc44e2a25b95425b6b71db80321e1,Nicholas Maccharoli,nicko@screaming-cactus.com,2022-09-13 13:56:43+00:00,make begin / end tracking open to overriding in subclasses of animatedswitch and animatedbutton.,False
+b7fb43c7a71feeb629bb4307da3609609d180f29,Nicholas Maccharoli,nicko@screaming-cactus.com,2022-09-12 15:11:18+00:00,change `animationdidset` from public to open.,False
+314537ec697719fa33a9d48210f4d06a463286d3,Cal Stephens,cal.stephens@airbnb.com,2022-08-29 22:17:07+00:00,bump version to 3.4.3,False
+b3dd4d8a4fc6a5cdc50152b71b2c171100480d0c,Cal Stephens,cal.stephens@airbnb.com,2022-08-29 20:39:35+00:00,fix issue where alpha gradient could unexpectedly not render,False
+e618a02d46ea6211b6921f883e5a92e200f9a169,Cal Stephens,cal.stephens@airbnb.com,2022-08-29 19:25:38+00:00,fix performance issue with line dash patterns,False
+24bb0472986e5a764ba83ea46282e89ea13be98f,Cal Stephens,cal.stephens@airbnb.com,2022-08-26 23:43:24+00:00,fix issue where `cagradientlayer` locations / color stops were being ignored,False
+5965c206c980484e427f980f32af29a9c361697a,John Brunelle,anon4949@gmail.com,2022-08-26 15:09:09+00:00,added ability to use a custom urlsession in the animation downloader,False
+890b188ca8fc5efae9833ede9a77971c97e49c4f,Cal Stephens,cal.stephens@airbnb.com,2022-08-23 18:14:27+00:00,fix issue where `hidden` flag would be ignored on some shape items,False
+74d9394af32246a6a9942559d47d66dbd34dbd71,Joel Arvidsson,joel@oblador.se,2022-08-23 14:48:58+00:00,update `coreanimationlayer.isanimationplaying` to respect pending animation set by `animationview`,False
+477b364721c4a97c07eeb381f02baeed6b971ba3,Cal Stephens,cal.stephens@airbnb.com,2022-08-22 19:03:04+00:00,add support for time stretch to precomplayer,False
+91f46bf32205cf09ff9d9633d44d1ad563caf0c2,Igor Katselenbogen,underwoodkats@gmail.com,2022-08-19 16:25:48+00:00,"add `textprovider` support to core animation rendering engine 
+
+co-authored-by: cal stephens <cal@calstephens.tech>",False
+4ca8023b820b7d5d5ae1e2637c046e3dab0f45d0,Cal Stephens,cal.stephens@airbnb.com,2022-08-16 18:44:06+00:00,fix issue where large `gradientfill` / `gradientstroke` would be cut off,False
+d0aa8c24d20e1e19fddae779f71947e45015ba43,Cal Stephens,cal.stephens@airbnb.com,2022-08-15 23:58:47+00:00,fix issue where stroke with dash pattern could unexpectedly be rendered as pills instead of circles,False
+350b177177ea4bc3d4dddb370c5493506ef1dce0,Cal Stephens,cal.stephens@airbnb.com,2022-08-11 16:57:25+00:00,fix issue where some group items weren't represented in animationkeypath for children,False
+095f10cb3b1fba118644459efc3fbb9d6ca6923c,Cal Stephens,cal.stephens@airbnb.com,2022-08-10 21:15:13+00:00,fix issue where some spatial keyframes would be ignored,False
+1e4419e35d302c436ee8b7877e136cbf6c119e59,Cal Stephens,cal.stephens@airbnb.com,2022-08-10 18:51:18+00:00,add support for inverted matte layers,False
+25f6a430c589e821ce1d06599fa74d8688d04b81,Cal Stephens,cal.stephens@airbnb.com,2022-08-09 15:05:27+00:00,fix bug in `animationview.play(fromframe:toframe:)` with `fromframe: nil`,False
+e973fe89037b415122bcc69fc5ddefa9d41fe76b,Cal Stephens,cal.stephens@airbnb.com,2022-08-09 14:30:15+00:00,fall back to main thread rendering engine when attempting to apply `trim` to `fill`,False
+c23ff9ec3bb65ed9ef5037d18d0ebc3b04cdf110,Cal Stephens,cal.stephens@airbnb.com,2022-08-09 01:04:28+00:00,add workaround for issue where airbnb/swift dependency causes xcode to spin indefinitely at 100% cpu load,False
+2edfa5f6803e8b5acb178a760a5428d1c608febe,Wei Sun,30249590+weisunOW@users.noreply.github.com,2022-08-05 17:00:47+00:00,fix issue that caused descenders to be cut off when rendering some fonts,False
+f0205dddb000cfa2d15079d4549391d44e40283f,Cal Stephens,cal.stephens@airbnb.com,2022-08-04 23:43:57+00:00,add `fillmode` support to `gradientfill` shape items,False
+f2914c2c35f20e68f6cbc47753b3c3b8b150aa92,Cal Stephens,cal.stephens@airbnb.com,2022-08-04 20:52:37+00:00,support combining shapes with different keyframe timings into the same cashapelayer,False
+9573f2d5402fe54574bb23e259ff51dcb2e216cb,Cal Stephens,cal.stephens@airbnb.com,2022-08-04 19:55:50+00:00,fix issue where animation with negative stroke offset would render incorrectly,False
+6de67b5332dec0632c041b08ccc158ddf373ce68,Cal Stephens,cal.stephens@airbnb.com,2022-08-04 00:47:42+00:00,support non-integer animation widths/heights,False
+f7eff337c3d61f0e005dfe8457fd1288e7f7ef00,Cal Stephens,cal.stephens@airbnb.com,2022-08-04 00:08:51+00:00,ignore masks with `maskmode.none`,False
+897f243caf5cbe339bf5d14246530f5e8f2ddf3f,Cal Stephens,cal.stephens@airbnb.com,2022-08-03 17:18:04+00:00,support animating multiple properties of shape bezier paths,False
+8aadc1b43360986ab2efabbd226826c0110cc402,takeshi-komori,stubgurssy@gmail.com,2022-08-03 03:22:39+00:00,fix issue where stroke wouldn't render if `dashlengths` was zero,False
+9aaae6375410ed4330cfac8c9c316a01388f969d,Cal Stephens,cal.stephens@airbnb.com,2022-08-02 18:46:12+00:00,respect `layermodel.hidden` and `shapeitem.hidden` flags,False
+28c8eb174e2405d99b0e6e45d78ac56f276e8c53,Cal Stephens,cal.stephens@airbnb.com,2022-08-02 18:19:55+00:00,add support for repeater shape items,False
+c5fdf8a44ec244d2736abc0c6704ce64a45ff9c5,Cal Stephens,cal.stephens@airbnb.com,2022-08-01 00:28:25+00:00,fix regression where `invertedmattelayer`s wouldn't animate,False
+d286982eeadeadfc8206f3eaea94961ca1f1cf8a,Cal Stephens,cal.stephens@airbnb.com,2022-07-31 18:35:52+00:00,fix issue where `isanimationplaying` would be incorrect when using `lottieloopmode.playonce`,False
+b8e3cbe773daa9a78fb38cbb4e118ffe951cd2cc,rfigini,ricardo.figini@gmail.com,2022-07-29 19:43:17+00:00,change default behaviour when bundle image is not found from assertionfailure to warn (mr discussion #1677),False
+183f176948490565f014db844ea966ab00aa48ca,Cal Stephens,cal.stephens@airbnb.com,2022-07-29 16:48:08+00:00,fix performance test flakiness by reducing memory usage,False
+dd5873c3441cbbcc2d744e1fdafd1a080046ba28,Cal Stephens,cal.stephens@airbnb.com,2022-07-29 15:59:42+00:00,"automatically close issues marked as ""can't reproduce"" after two weeks of inactivity",False
+6d308e53a9c7e618b3ab9a32d5b502ae08c58355,Cal Stephens,cal.stephens@airbnb.com,2022-07-28 17:31:20+00:00,fix cocoapods installation issue by removing `.swift-version` file,False
+9708cbf3780f2756b6cd4e758a2c37d8f13717dd,Cal Stephens,cal.stephens@airbnb.com,2022-07-26 21:24:26+00:00,bump version in podspec and package.json,False
+b04b773957e3e359730590c2e7c16d8c3874ec50,Cal Stephens,cal.stephens@airbnb.com,2022-07-26 20:41:14+00:00,fix issue where lottielogger.shared.assertionfailure would unexpectedly crash in release builds,False
+f32f15f96fdde2ec387a317ed8f830760d14dc4d,sookim,55218398+sookim-1@users.noreply.github.com,2022-07-26 16:16:27+00:00,add a packagemanager support badge to readme.md,False
+9a7c40c8f44a6628da84d8d5a933a70565af578d,Jhen-Jie Hong,developer@jhen.me,2022-07-25 23:16:29+00:00,"update core animation engine to support negative speed values 
+
+co-authored-by: cal stephens <cal.stephens@airbnb.com>",False
+97c05f8272fc8e3a2cefb3d41c6bcb90c6d28739,Cal Stephens,cal.stephens@airbnb.com,2022-07-21 16:50:30+00:00,adopt airbnbswiftformatplugin for code formatting and linting,False
+aeb58cb47e7c74abef92ebfb7234a3100a164877,Jhen-Jie Hong,iainst0409@gmail.com,2022-07-19 01:38:14+00:00,add configuration parameter for initializers,False
+8a17f1719fd06d5048eaf76b27419d37ff33c86f,Cal Stephens,cal.stephens@airbnb.com,2022-07-18 23:12:39+00:00,fix issue where animationview.animationcontext could be put in an in an inconsistent state,False
+ead6c13170228c494f511b2ceffdfe6c0887093c,Kim Doy,heydoyhey@gmail.com,2022-07-17 15:03:39+00:00,update readme.md,False
+7ea321c13eecac6c3105c6542646943083f8f86d,Cal Stephens,cal.stephens@airbnb.com,2022-07-12 15:14:07+00:00,fix issue where shape fill would not be applied correctly,False
+40f407d9203396befc39d85fd7f62cde29478fa0,Cal Stephens,cal.stephens@airbnb.com,2022-07-11 22:41:32+00:00,fix issue where a `shapelayer` with no `group`s would fail to render,False
+48915a4f8cbfba064029b8c3cef0f65bd54be40c,Cal Stephens,cal.stephens@airbnb.com,2022-07-11 22:26:17+00:00,add support for mixed `ishold` / `!ishold` keyframes,False
+02128d8da44ba4796d135d6e1aea362485b1f73f,Cal Stephens,cal.stephens@airbnb.com,2022-07-11 18:13:11+00:00,improve support for gradients with alpha components,False
+bc354a6de156e197273370c69c99fd1f3736634f,Cal Stephens,cal.stephens@airbnb.com,2022-07-11 16:46:34+00:00,fix carthage support on macos,False
+6fa7292b7730af2a76f177ca2e057e8d58837174,Bryn Bodayle,bryn.bodayle@airbnb.com,2022-07-08 18:25:21+00:00,setting animatedcontrol/switch as a11y element,False
+375684e7c6914d01867fe5530ba9e30a90ee2d5a,Bryn Bodayle,bryn.bodayle@gmail.com,2022-07-08 00:33:15+00:00,fixed animated control accessibility configuration,False
+2ffab01fd221a776d209ebbb89c8532c9fa38b5f,Cal Stephens,cal.stephens@airbnb.com,2022-07-07 17:09:33+00:00,add support for gradients with alpha values,False
+01f151ec918aca1620ab03cc70fced09b7c274fe,Cal Stephens,cal.stephens@airbnb.com,2022-07-07 15:45:07+00:00,bump version number in package.json,False
+6f2e4da4b55e66e0b1822b4feaafaff386052f1f,Cal Stephens,cal.stephens@airbnb.com,2022-07-06 21:45:36+00:00,bump version in podspec,False
+2dadb679a3b0b2c25c7a20854d1b9192d7a5ced0,Cal Stephens,cal.stephens@airbnb.com,2022-07-06 21:30:59+00:00,"update readme, add info about contributing",False
+246bab7ef72bad56abefb88e84a08871cecf9cb8,Cal Stephens,cal.stephens@airbnb.com,2022-07-05 23:52:48+00:00,add `loghierarchykeypaths()` support to core animation rendering engine,False
+84f2a50ebfb2c03a7fd67c4f09a6b7fd4b989d20,Jasdev Singh,jasdevs@gmail.com,2022-07-05 16:37:28+00:00,`nsimage.cgimage` ⇒ `.lottie_cgimage` to avoid category warning.,False
+a89a677c17f1bbbb39df8b4a2488e3f92f649403,Cal Stephens,cal.stephens@airbnb.com,2022-06-22 23:57:49+00:00,add support for inverted masks,False
+f5f08feff765b1321c6a8d28c84fc8401753e8f4,JT Bergman,61445278+jtbergman@users.noreply.github.com,2022-06-21 16:40:03+00:00,"add support for trim offsets to core animation rendering engine 
+
+co-authored-by: cal stephens <cal.stephens@airbnb.com>",False
+b81beb678aceff7695130a0ff9420628b5a5e491,Cal Stephens,cal.stephens@airbnb.com,2022-06-07 17:55:21+00:00,add .spi.yml to generate documentation on swift package index site,False
+657ce821736fc6d9be02fbe3fad11f43a80fe888,Cal Stephens,cal.stephens@airbnb.com,2022-06-03 22:32:26+00:00,add a logger: lottielogger param to animationview,False
+897fd24f04bc4013e21620371ea94ff619054924,Cal Stephens,cal.stephens@airbnb.com,2022-06-02 17:50:56+00:00,"simplify issue template, link to github discussions page",False
+ba6df76bfb762b30864e7d3755f6e260a4f7d91e,Cal Stephens,cal.stephens@airbnb.com,2022-05-25 16:50:32+00:00,fix isanimationplaying for core animation engine,False
+aabab7ff7743b4e9ea76527a0a20407a314f9aa6,Koryttsev Denis,koden.u8800@gmail.com,2022-05-25 16:10:46+00:00,"blend mode support 
+
+co-authored-by: cal stephens <cal.stephens@airbnb.com>",False
+b8d5f86cd111ccdcc3c3e74fb097c5ca2fea8edb,Cal Stephens,cal.stephens@airbnb.com,2022-05-25 01:13:58+00:00,update gemfile.lock platforms,False
+298e948eb620ac5b98773bb8aa72defeac81b847,Cal Stephens,cal.stephens@airbnb.com,2022-05-25 00:54:27+00:00,fix mysterious crash due to reentrant precomplayer.init call,False
+edf0afcfaf7e0bd37f9311a3502b2981aa8a37f2,Cal Stephens,cal.stephens@airbnb.com,2022-05-25 00:06:13+00:00,fall back to main thread engine for animations using time remapping,False
+5b8ea6942ac143355b4b152847bc9e33247e4b26,Cal Stephens,cal.stephens@airbnb.com,2022-05-18 19:26:39+00:00,update core animation engine to explicitly not support time remapping keyframes with `ishold = true`,False
+264eaad59888325c98929b98eca4b2b05424169b,Cal Stephens,cal.stephens@airbnb.com,2022-05-18 17:59:17+00:00,fix issue where some animations would unexpectedly allocate a very large amount of memory,False
+0aab7e4a554d077d928d1b718711e64975a15521,Cal Stephens,cal.stephens@airbnb.com,2022-05-18 00:16:40+00:00,add support for stroke opacity animations,False
+98d465699a2229abc1e1d199b21b0a4edbaa8c8d,Cal Stephens,cal.stephens@airbnb.com,2022-05-16 18:00:07+00:00,tweak threshold for parsing performance test again,False
+a7defe0bf87e1b86051117a51aeb814e9f019bd2,liwenfei1991,76677267+liwenfei1991@users.noreply.github.com,2022-05-16 16:14:10+00:00,improve performance of invertedmattelayer,True
+c847ae3c73741d259c49131981c3093a31217e23,Jianjun Wu,105257537+jianjunwoo@users.noreply.github.com,2022-05-16 14:13:38+00:00,use image cached provider to reuse asset when creating rootanimationlayer,False
+0632ab9a76688b63d2639a965bcdc0118aad7c7f,Cal Stephens,cal.stephens@airbnb.com,2022-05-12 22:18:20+00:00,handle groups with multiple fill items,False
+4c0e1d8111120f25d798776e9a32d0ac6e78726a,Cal Stephens,cal.stephens@airbnb.com,2022-05-12 21:32:01+00:00,tweak threshold for parsing performance test,False
+8d14ebf86d9924b036f014768c62cf6feb33ab3a,Cal Stephens,cal.stephens@airbnb.com,2022-05-12 21:31:34+00:00,update precomp layers to mask sublayers to bounds,False
+9888e7852fab3df5648c9354659ef07967d91db8,Cal Stephens,cal.stephens@airbnb.com,2022-05-11 19:44:00+00:00,fix issue where fill opacity was ignored,False
+73644b1b50aaf0f69607cf06188192e33c990c16,Marcelo Fabri,me@marcelofabri.com,2022-05-11 01:33:36+00:00,fix searching layer by keypath,False
+046e4dd42e422d9de791088acd471f0b1f83f334,Cal Stephens,cal.stephens@airbnb.com,2022-05-11 00:12:32+00:00,fix issue where layer matte would fail to be applied,False
+76305a0532cf390adb071eb6901a8a564c0648ec,Cal Stephens,cal.stephens@airbnb.com,2022-05-09 17:47:13+00:00,fix issue where imagelayer could be sized incorrectly,False
+e4811e864395f44a056616c0159524c622145af4,Cal Stephens,cal.stephens@airbnb.com,2022-05-06 22:55:13+00:00,fix issue where rebuildcurrentanimation() would discard pending animation configuration,False
+b4eeb2ae34e2aa47506083418875b20ee15c72ea,Cal Stephens,cal.stephens@airbnb.com,2022-05-06 22:07:29+00:00,actually fix issue where animation could fail to start playing when using renderingengineoption.automatic,False
+c1ab03dee314b5aefa229448d451cdae764297d9,Cal Stephens,cal.stephens@airbnb.com,2022-05-06 19:02:05+00:00,add support for spatial keyframe animations,False
+a739f17af8e8d73e8cb1e45361de6c05270df9f7,Cal Stephens,cal.stephens@airbnb.com,2022-05-06 18:27:52+00:00,remove testautomaticenginedetection snapshot test results for private sample animations,True
+27a26cffe85438eba35b3ac65ac900b3d85194c5,Marcelo Fabri,me@marcelofabri.com,2022-05-06 13:47:22+00:00,allow loading animations with “.json” extension in name,False
+7484b4f4580116d7bf135b5b6097f38f801deaf8,Marcelo Fabri,me@marcelofabri.com,2022-05-05 22:27:46+00:00,"add alternative dictionary-based decoding 
+
+co-authored-by: zak forrest <zak.avila@hotmail.com>",False
+5c110f15d7af3025931af568b2cea77a9082076f,Cal Stephens,cal.stephens@airbnb.com,2022-05-05 20:41:41+00:00,fix issue where animation could fail to start playing when using renderingengineoption.automatic,False
+d6bb9f7fff558bc8b26026e62f6b74761b4288c6,Cal Stephens,cal.stephens@airbnb.com,2022-05-05 19:07:41+00:00,implement fallback behavior for renderingengineoption.automatic,False
+e808958fe7aee4848e99d4338c1e63fbef692cf6,Marcelo Fabri,me@marcelofabri.com,2022-05-05 18:26:48+00:00,improve gradient fill performance,False
+fa0d96d27b41033b92037bccc0c27d5086ee0997,Marcelo Fabri,me@marcelofabri.com,2022-05-05 17:52:05+00:00,"expose api to get original value from animation 
+
+fixes #1547",False
+167812e8ce59698144714b81a4132d3d188f2a39,Cal Stephens,cal.stephens@airbnb.com,2022-05-04 18:53:40+00:00,rename experimentalanimationlayer to coreanimationlayer,True
+ed31eae77802139d3bde067f3c38c253d483913f,Cal Stephens,cal.stephens@airbnb.com,2022-05-04 17:36:26+00:00,update core animation engine to support throwing an error when encountering a compatibility issue,False
+9127ced37d52f57d572f649c2f138fa324c77175,Cal Stephens,cal.stephens@airbnb.com,2022-05-02 23:47:00+00:00,add supporting infrastructure for `renderingengineoption.automatic`,False
+b4f9b2ea44fcc47628a27c1fb876314608f1736b,KAWASHIMA Yoshiyuki,ykawashi7@gmail.com,2022-04-11 17:02:29+00:00,fix github actions,False
+f99a37afd0269814477fd5c2dd7295d500f1fd83,Cal Stephens,cal.stephens@airbnb.com,2022-03-28 17:57:36+00:00,"fix issue with polygon rendering 
+
+co-authored-by: denis koryttsev <koden.u8800@gmail.com>",False
+49669f63e5acad3ac304751a58a878b071931e61,Cal Stephens,cal.stephens@airbnb.com,2022-03-11 00:39:36+00:00,add support for time remapping,False
+137770e503f44e6c8ecd72345bfaa25b72f429c6,Ian Rahman,ian@evergreenlabs.io,2022-03-09 19:48:04+00:00,use initializer argument to set the frame of an animationview at instantiation,False
+531522651a7fdc95960c3cec2f1a7084d0672b84,Cal Stephens,cal.stephens@airbnb.com,2022-03-08 03:16:47+00:00,fix issue where animations with a starttime greater than 0 would animate with incorrect duration,False
+2f9a47367d02d61321d4600af99ac98eafd2708b,Nicholas Mata,nicholas@matadesigns.net,2022-02-24 14:23:04+00:00,fix for nil host warning when data url is base64 encoded.,False
+e7712bebc50189ffea64585eb7ea616037ca1db0,Cal Stephens,cal.stephens@airbnb.com,2022-02-23 01:08:46+00:00,update airbnb.swiftformat to latest version from airbnb/swift,False
+234d3dce10f5b19e126567633725320a6a58a67c,Cal Stephens,cal.stephens@airbnb.com,2022-02-18 21:54:20+00:00,reduce number of individual ci jobs,False
+28520262d043826160e05590ac00c5fc797ac854,Cal Stephens,cal.stephens@airbnb.com,2022-02-18 21:26:09+00:00,improve performance by batching animation setup to next display() call,True
+4f284c3b1654fcc208170aa15a81a431049f0502,Cal Stephens,cal.stephens@airbnb.com,2022-02-17 22:02:07+00:00,"add performance tests, improve performance of core animation rendering engine",True
+0ba8b64d572b37966309bf5705afe8e6aa76b7e0,Cal Stephens,cal.stephens@airbnb.com,2022-02-12 02:44:20+00:00,add support for gradientstroke shape items,False
+80085ac1338fe8f89a2482dbd70a93109cb596a5,Cal Stephens,cal.stephens@airbnb.com,2022-02-11 18:02:04+00:00,"add textlayer support to core animation engine, fix #1488",False
+7af37f15ccdd3d5f6f7cfa545b499efa14b00aa0,Cal Stephens,cal.stephens@airbnb.com,2022-02-09 23:21:45+00:00,fix stroke trim support in cases where strokestart > strokeend,False
+1132c03a6e4917988d78f865c3f3a24f6f4a87c3,René Fouquet,mail@fouquet.me,2022-02-02 14:23:04+00:00,added loading animations stored in asset catalogs,False
+3cfde671834200447f7172fb21c96e582057be36,Cal Stephens,cal@calstephens.tech,2022-02-01 21:39:10+00:00,"fixed groupnode empty transform issue (#1372, #1510)
+
+default empty transform should match `shapetransform.swift`default empty state
+
+co-authored-by: sroik <vasili.kazhanouski@gmail.com>",False
+c2c1558e25eb77ba44df8ef459a16532e48c8318,Cal Stephens,cal@calstephens.tech,2022-02-01 02:50:09+00:00,add support for nested group items,False
+9ae7c84a34fa6ec98b036eb4474ba5ae7ac8c3cd,Cal Stephens,cal@calstephens.tech,2022-02-01 01:43:34+00:00,fix keypaths for positionx and positiony properties,False
+21e45912f0a99e961a0f2a4e2fe2b6cde8084ed8,Cal Stephens,cal@calstephens.tech,2022-02-01 01:14:56+00:00,don't crash if keyframegroup is empty,False
+616284aabc0f63acc8f8f2ac9eeac9e4a7a82242,Cal Stephens,cal@calstephens.tech,2022-02-01 00:29:24+00:00,improve support for groups with multiple shapes,False
+0335842f32a16a12033cce6ff8987a4b84d18d90,Cal Stephens,cal@calstephens.tech,2022-01-29 02:40:40+00:00,fix support for negative `transform.scale.x` values,False
+aa3123a4eb8b0e6b90a44f799dacc51540779e64,Cal Stephens,cal@calstephens.tech,2022-01-27 23:38:21+00:00,add support for matte layers,False
+e6d891a44c24dd73fbfbd7478cfde0af27a0812d,Cal Stephens,cal@calstephens.tech,2022-01-27 16:58:08+00:00,add @nonobjc to extension members of coreanimation / uikit / appkit types,False
+8f2d4dbf84b2985f26e588c76d51135dde73d471,Cal Stephens,cal@calstephens.tech,2022-01-26 22:06:20+00:00,add support for linedashphase and linedashpattern,False
+e16e3088380111f2677e38790f2758c265efa99a,Cal Stephens,cal@calstephens.tech,2022-01-26 18:12:35+00:00,add hashable / equatable conformance to lottieconfiguration type,False
+402ab24f10f1751ff326b75cb04dcd8ddad62ad4,Cal Stephens,cal@calstephens.tech,2022-01-25 22:32:44+00:00,fix issues with carthage build by reintroducing manually-managed xcode project,False
+ed67b62c71956d7e9ab8adbbf0e937fb9f411c2d,Cal Stephens,cal@calstephens.tech,2022-01-24 23:57:02+00:00,support wildcards in animationkeypaths,False
+edd908e43a7a76552c2992a4d0ce60129ff853e9,Cal Stephens,cal@calstephens.tech,2022-01-24 19:47:20+00:00,add keyframe animation support to valueproviders api,False
+8585e89bc5a3ad5512ad57248e86996ee6f881f6,Cal Stephens,cal@calstephens.tech,2022-01-21 22:24:00+00:00,make animationview.configuration public,False
+205bbc72769b0af7519c7ab959bc16470dd804e2,Cal Stephens,cal@calstephens.tech,2022-01-21 19:37:16+00:00,fix issue where animation would fail to play when currentframe is equal to animationcontext.playto,False
+a55aefdc872118de0b56158b3362b2c1b0dd04d2,Cal Stephens,cal@calstephens.tech,2022-01-21 19:24:23+00:00,rename experimentalfeatureconfiguration to lottieconfiguration,True
+822d6b4c0c5948988a919a10eabddeececd2b7e4,Cal Stephens,cal@calstephens.tech,2022-01-21 00:56:21+00:00,improve integration between animationview and experimentalanimationlayer,False
+ccf84158733d002f73c63fef5515f71c42abbc9a,Eric Horacek,eric.horacek@airbnb.com,2022-01-21 00:43:18+00:00,"rename lottieview to animationviewbase 
+
+this makes it more clear how this api is meant to be used (as an implementation detail to enable cross platform compatibility), and differentiates it from `animationview` to make it easier for consumers to understand that the public lottie api is available on `animationview`, not `lottieview`.",True
+2faa3ee8586ebf4d158e36ad0a80705c3903c7c2,Cal Stephens,cal@calstephens.tech,2022-01-20 20:16:21+00:00,add support for setting a custom animationimageprovider,False
+0514dd2222465fee8ea9a5f2e3373e063e6c943b,Cal Stephens,cal@calstephens.tech,2022-01-20 18:46:08+00:00,rebuild current animation after registering new value provider,False
+dcf5f75004b8e4bb7fe7770a9dd10a23319cfedd,Cal Stephens,cal@calstephens.tech,2022-01-14 18:19:55+00:00,support setting colorvalueproviders for animationkeypaths,False
+e7507182c6ad4e286a54cea306aae881dd7ab70b,Cal Stephens,cal@calstephens.tech,2022-01-14 02:51:18+00:00,fix keyframe timing regression when playing animations in real time,False
+dcd81f3ebee240c15e885c8a71e1ad3cb2185fdc,Cal Stephens,cal@calstephens.tech,2022-01-12 20:33:39+00:00,improve performance when interactively scrubbing complex animations,True
+96fa532b92085891e00bab6c069f3193a1e5bcc4,Cal Stephens,cal@calstephens.tech,2022-01-12 00:48:41+00:00,fix artifacts from implicit sublayer animation in shapeitemlayer,False
+689a99dacaebb82e87423138bee0a0383a18436f,Cal Stephens,cal@calstephens.tech,2022-01-11 21:33:51+00:00,"fix issues with layer ordering, support keyframe.ishold",False
+0372baac8d5ab5650d8c504ded67d1e3b33ea9ef,Eric Horacek,eric.horacek@airbnb.com,2022-01-11 19:22:19+00:00,"add matrix of xcode/swift versions to ci 
+
+this enables us to check that lottie compiles in swift 5.3, 5.4, and 5.5
+
+additionally fixes swift 5.3/5.4 compilation errors",False
+6c2c0fb20ea3115e7dfb42d987fecde881cbaeb7,Cal Stephens,cal@calstephens.tech,2022-01-11 18:57:03+00:00,"improve logging / assertions system, remove fatalerrors",True
+8d4911f0918947358de37cb19c7582b4989c7c9e,Cal Stephens,cal@calstephens.tech,2022-01-11 02:43:39+00:00,"support gradients, images, and polygons",False
+cb6bf4e49f6b55cf7da6e602e6d66fadc3137ed1,Cal Stephens,cal@calstephens.tech,2022-01-07 19:27:33+00:00,"adds support for layer masks, fix some misc layer visibility issues",False
+3f5c491cc586d7ab0157bca6932b1d70cc8560c3,Cal Stephens,cal@calstephens.tech,2022-01-06 22:49:42+00:00,prevent child layers from inheriting opacity of parent layer,False
+68dcaefa7c000f4ef71f8b07bd496ac67acbbdec,Cal Stephens,cal@calstephens.tech,2022-01-06 21:30:38+00:00,play new animations from current frame of existing animation,False
+7a8a4cd6d4e660082f22ce426e77c01191e3bcbc,Cal Stephens,cal@calstephens.tech,2022-01-06 16:59:07+00:00,support animating custom time ranges,False
+137c272d7e2d5fa8e9cea7f92dd98d118634071c,Cal Stephens,cal@calstephens.tech,2022-01-05 00:55:13+00:00,add demo of animatedswitch and animatedbutton to example app,False
+0c4f4dab34cdfcc35ff979d2cf7d696a32761e80,Cal Stephens,cal@calstephens.tech,2022-01-05 00:28:24+00:00,"support more shapelayer / layermodel features (trim, rectangle, inframe, outframe)",False
+36f9426c0d3fd2f3f90a624b5f72bb8f62e56b7e,Cal Stephens,cal@calstephens.tech,2022-01-05 00:08:39+00:00,"support more layer types (precomplayer, nulllayer) and animations (ellipses, custom shapes)",False
+f237d87961d78c08baefd2e134b72fd07eb5c98b,Cal Stephens,cal@calstephens.tech,2021-12-21 17:21:56+00:00,"rename carthage framework from ""lottiecarthage"" to just ""lottie""",True
+db1124f3e9a0fa49b4e2584107e9041d26998793,Cal Stephens,cal@calstephens.tech,2021-12-20 19:05:51+00:00,fix carthage support,False
+5bba5dcbb618ff392f916981bb730e2e68d3f57c,Cal Stephens,cal@calstephens.tech,2021-12-20 17:16:37+00:00,support locally including private sample animations in example app and regression suite,False
+5126a4bf1ced3c3445457a1dbcce297a1cf2fab5,Cal Stephens,cal@calstephens.tech,2021-12-17 23:57:36+00:00,support loopmode and accessing realtime animation progress,False
+6fa757bdac89d5ebd048007f190f65cf83f7cf0c,Cal Stephens,cal@calstephens.tech,2021-12-17 22:59:39+00:00,set up correct timing functions for cakeyframeanimations,False
+a6b41443fd55bac597a9aefca18db56314ce06cc,Cal Stephens,cal@calstephens.tech,2021-12-17 18:33:06+00:00,add interactive scrubbing support to experimental rendering engine,False
+cac9ede96fc134a2f96f923fdbb0cfa80246215a,Cal Stephens,cal@calstephens.tech,2021-12-16 20:55:25+00:00,update tests to support snapshotting in-flight caanimations,False
+69747d46223cf3108f0aa21fe56df709f57fd490,Cal Stephens,cal@calstephens.tech,2021-12-16 20:20:56+00:00,add barebones animation support to experimental shapelayer,False
+42dc2f40bbb7cbcff8866b369beea62683a50f36,Michael Berg,michael.berg@lovoo.com,2021-12-15 02:45:06+00:00,avoid automatic animations for rapid opacity changes,False
+fc6554c090bf52e03d921f482136b533cdea047d,Cal Stephens,cal@calstephens.tech,2021-12-14 22:14:18+00:00,add barebones support for filllayer and shapelayer to experimental rendering engine,False
+77be1ab18f35875c9d2d23adb1ab4696a3818cd4,Cal Stephens,cal@calstephens.tech,2021-12-14 21:37:12+00:00,bootstrap experimental rendering engine configuration / entry point,False
+4a6058cbbdfe4f74aeae92c8bd51ad3b0de2a1ee,George Waters,gwatersdev@gmail.com,2021-12-14 18:21:18+00:00,"fix layout jump 
+
+* fix layout jump
+
+if this is called multiple times, currently, we will get the ending
+position as the 'from' value. this results in a potential visual 'jump'
+in the view. but by using the presentation layer values, we get the
+values for where the layer is currently on screen, regardless of how
+many times this ends up running.
+
+* fall back to animationlayer if animationlayer.presentation() is nil
+
+co-authored-by: cal stephens <cal.stephens@airbnb.com>",False
+00952cf27663f081a4871be1c18e2a94196daa45,Cal Stephens,cal@calstephens.tech,2021-12-14 18:09:18+00:00,"fix cocoapod build, bump version to 3.3.0",False
+99129df52c66dffd47d536372ec7558b12e188a0,Cal Stephens,cal@calstephens.tech,2021-12-13 19:46:34+00:00,bump version of snapshottesting library,False
+06ad4df4c3124364ea6272ff53ab83ffba18e9f5,Cal Stephens,cal@calstephens.tech,2021-12-11 01:12:22+00:00,validate snapshot tests are set up properly and have no orphaned snapshot images,False
+6cc16994dea1e49d0e3dd7a86958c9d26e7f2c9d,Cal Stephens,cal@calstephens.tech,2021-12-10 23:59:34+00:00,update ios example app to support browsing all available sample animations,False
+4e0946890ea776a039c8049f298cdb2060418e7c,Cal Stephens,cal@calstephens.tech,2021-12-10 23:54:06+00:00,[#1407] fix contentscale regression,False
+1b0131689d6013bf51a7ab57ea21a0ba91e7ef9c,Cal Stephens,cal@calstephens.tech,2021-12-10 21:47:47+00:00,parallelize swift linters in ci,False
+1d3a19c374f01545d6e83b4d20c8eb4b5a4ff0ba,Cal Stephens,cal@calstephens.tech,2021-12-10 19:51:09+00:00,fix parsing failure in #1403,False
+38e7c7a8cb8365dbd2848ecf7b50075c19e52efc,Cal Stephens,cal@calstephens.tech,2021-12-10 17:47:02+00:00,add snapshot tests,False
+b0260e6b65fd403adcdce39ecff85fd981b6b578,Jan Damm,mail@jandamm.de,2021-12-09 14:09:34+00:00,allow subclassing animatedswitch and button,False
+ebcb4ed8c228dde43ac50479b16e5b63a252e53c,Cal Stephens,cal@calstephens.tech,2021-12-08 21:45:23+00:00,use xcbeautify for build log output,False
+3aafcaad7f21b6bc6dae87d1e48caf4522453b22,Cal Stephens,cal@calstephens.tech,2021-12-08 18:56:34+00:00,"add spm support for macos and tvos, build for all supported platforms in ci",False
+a08fea92fcc1f4b19812ad59c65ba68f09336805,Cal Stephens,cal@calstephens.tech,2021-12-08 18:34:35+00:00,update ci to build project and example app,False
+faeeed28ec3d1988179d549560176b0b444e01d8,Cal Stephens,cal.stephens@airbnb.com,2021-12-06 23:21:10+00:00,set up github actions to run swift linter in ci,False
+e9c52fa3e2f962febb6fcc27a94eff15292130b2,Tyler Hedrick,tyler.hedrick@airbnb.com,2021-09-07 23:17:49+00:00,"merge pull request #1387 from mattrobmattrob/mr/make.last.compatibleanimationview.init.public
+
+make -[compatibleanimationview initwithcompatibleanimation:] public",False
+4eecf031ee5f05ad6eca33fd6c89c076aff7d2cc,Matt Robinson,matt_rob@me.com,2021-08-26 20:04:04+00:00,make -[compatibleanimationview initwithcompatibleanimation:] public,False
+409cc3071f0c6c91cfd34f345f5eeb1dae9a5fc4,Tyler Hedrick,tyler.hedrick@airbnb.com,2021-06-16 23:41:56+00:00,"merge pull request #1368 from dflems/dflems/20210616-fix
+
+fix project after #1358",False
+5f111cb8317eec81e3b2800d16f558d46a0263fd,Dan Fleming,dflems@spotify.com,2021-06-16 22:15:53+00:00,fix project after #1358,False
+e07d358425d6993169d8baa5b699108b66350903,Tyler Hedrick,tyler.hedrick@airbnb.com,2021-06-14 22:53:55+00:00,"merge pull request #1319 from albgarciam/patch-1
+
+update readme.md",False
+4f85a38b50f6df51b949b9bea79657b13a6d1f57,Tyler Hedrick,tyler.hedrick@airbnb.com,2021-06-14 22:51:54+00:00,"merge pull request #1365 from balestrapatrick/patch-1
+
+use scanhexint64 instead of the deprecated scanhexint32 in ios 13",False
+5737b3ebfa3c2cd660b47a4407bbb12cb510f74b,Tyler Hedrick,tyler.hedrick@airbnb.com,2021-06-14 22:51:27+00:00,"merge pull request #1358 from dflems/nsdataasset
+
+support animations in asset catalogs (nsdataasset)",False
+bc72dc4c503260e1cca79128c51f661a9943307d,Patrick Balestra,me@patrickbalestra.com,2021-06-10 15:07:07+00:00,use scanhexint64 instead of the deprecated scanhexint32 in ios 13,False
+945f19d237bb0608cbeebd4542a0f7028586d7b4,Dan Fleming,dflems@spotify.com,2021-05-26 20:03:14+00:00,support animations in asset catalogs (nsdataasset),False
+79a0b70547f7c40ea54c67487f935fa2f2eaaadc,Brandon Withrow,buba447@gmail.com,2021-05-14 15:47:29+00:00,bump to 3.2.3,False
+6ad3252cd926375730c246dccf676422f51dc83f,Brandon Withrow,buba447@gmail.com,2021-05-14 15:43:57+00:00,"merge pull request #1135 from migs647/clipped-animation-view
+
+fixes zero based calayer for precomposition.",False
+e428f89675588f2fe58891eac5f7c971098cf1a0,Brandon Withrow,buba447@gmail.com,2021-04-30 16:48:12+00:00,bumped verison to 3.2.2,False
+64564c12ba0c258f5a5d9b1e81455b1f1da2315d,Brandon Withrow,buba447@gmail.com,2021-04-30 16:41:48+00:00,"merge pull request #1329 from niorko/feature/catalyst
+
+add support for catalyst",False
+0d060eb8b11afbe68fdd34281930d92eee0f9805,Brandon Withrow,buba447@gmail.com,2021-04-30 16:41:26+00:00,"merge pull request #1343 from keith/ks/fix-warnings-with-swift-5.4
+
+fix warnings with swift 5.4",False
+28db78c0fc8ef61c43ae101ace7b55d2dcad3b2b,Brandon Withrow,buba447@gmail.com,2021-04-30 16:34:03+00:00,"merge pull request #1328 from absolute-heike/master
+
+fix swift performance issues. remove renderscale and contentsscale",True
+9b16f6b0e5806e8324879e8003166dcd0572fe42,Keith Smiley,keithbsmiley@gmail.com,2021-04-29 16:20:04+00:00,"fix warnings with swift 5.4
+
+these are backwards compatible but using `class` here is deprecated with
+swift 5.4 so this fixes those warnings.",False
+bd5bcef4e964d71dd02c51038baa430f02743c14,Michael Berg,michael.berg@lovoo.com,2021-04-14 19:13:40+00:00,fix performance issues due to contentsscale,False
+2fbef2e6beeaa58202a7a813bf633e2c2d0b4181,Brandon Withrow,buba447@gmail.com,2021-04-13 17:41:39+00:00,"merge pull request #1337 from khalideali/textgeometry
+
+take flipped geometry into account when drawing text",False
+1c565db51f687f3faef884526a5659dc5e6ed2f8,khalid,khalid@wevideo.com,2021-04-13 14:28:53+00:00,take flipped geometry into account when drawing text,False
+a425f8a1cca5cf48660652e9e89ca4b4ef42eb3d,Filip Bajaník,filip.bajanik@gmail.com,2021-03-25 13:32:32+00:00,add support for catalyst,False
+62548e1bb885d97be19a905a219362ada8956d34,Alberto Garcia,45308839+AlbGarciam@users.noreply.github.com,2021-02-27 12:20:21+00:00,"update readme.md
+
+xcode raises this error: `dependency 'lottie' in target 'themetools' requires explicit declaration; provide the name of the package dependency with '.package(name: ""lottie"", url: ""https://github.com/airbnb/lottie-ios.git"", from: ""3.2.1"")'`
+
+in order to prevent it you should set the package's name",False
+b3c60ba1716baab6faeeb217d8ce1da336f92718,Brandon Withrow,buba447@gmail.com,2021-02-08 16:38:01+00:00,version bump 3.2.1,False
+8b2e9913361d0e3c5df40cac27ccda42831a62b9,Brandon Withrow,buba447@gmail.com,2021-02-08 16:34:59+00:00,"merge pull request #1286 from airbnb/lencioni-patch-1
+
+add open_collective to funding.yml",False
+3d27dc1775195648dc4a8eb2f6c535724908b7e3,Brandon Withrow,buba447@gmail.com,2021-02-08 16:34:08+00:00,"merge pull request #1301 from kiva/text-animation-keypaths
+
+append the textanimatornode as a child keypath",False
+e54a983c606253eb9725eb2ae0c5f7cdf57bb74a,Brandon Withrow,buba447@gmail.com,2021-02-08 16:05:05+00:00,"merge pull request #1313 from iftechio/master
+
+fix: remove flush",True
+180f56688839e7ff37dd7279e770e85125e7d16e,Brandon Withrow,buba447@gmail.com,2021-02-01 14:11:43+00:00,updated version to 3.2.0,False
+394b59db947119fbe34633f24ac7483b7783a177,Kael,kael.zs17@gmail.com,2021-01-29 09:42:03+00:00,"fix: animation container newframe getter logic, and prevent use flush in stop",False
+9dbc1c20d6669b060f6e5dc8f376eb7ba8356fc4,Eric Jensen,ericj@kiva.org,2020-12-10 20:34:08+00:00,"append the textanimatornode as a child keypath
+
+this allows for setting values on text animations. for example fill color, stroke color, stroke width, and tracking",False
+11d518841365b85b0dca7f7a55174d12911f05a0,Brandon Withrow,buba447@gmail.com,2020-11-21 16:26:06+00:00,"merge pull request #1282 from lottiefiles/lottiefiles/imageprovider
+
+fix: fixed imageprovider not loading animation image",False
+4d68bfb2d296d8a92c3293c8f8e4f6fc63d450ff,Evandro,evandro.hoffmann@gmail.com,2020-11-21 00:19:36+00:00,[chore] position layer imageprovider set with animationview imageprovider didset,False
+725c126453c5709b5a1d9e255d4d55f47946de79,Joe Lencioni,joe.lencioni@airbnb.com,2020-11-12 02:59:06+00:00,"add open_collective to funding.yml
+
+announcement:
+https://medium.com/airbnb-engineering/continuing-our-support-of-lottie-open-source-community-9e50e66ebb04
+
+documentation:
+https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository",False
+ebc0f1ce8dd0e7edd491a7573ffc40f7c528967a,Brandon Withrow,buba447@gmail.com,2020-11-09 22:23:11+00:00,"merge pull request #1283 from bachand/patch-1
+
+specify data collection practices of this sdk",False
+cf93a8fe5f45d868b360dc1bd5c9bd5a86faebac,Michael Bachand,michael.bachand@airbnb.com,2020-11-09 22:09:18+00:00,update readme.md,False
+47d7ef0aee4c2feea6e55f6db22e4d24ba85b4b2,Evandro,evandro.hoffmann@gmail.com,2020-11-04 13:52:39+00:00,"feat: fixed image provider not loading animation image.
+
+setting the imageprovider in the animationview did not update in animationlayer. this fix updates the animationlayer imageprovider with the animationview imageprovider",False
+77e28bb250fe9c19e85e356f15aaecc454dc17ff,Evandro Harrison Hoffmann,evandro.hoffmann@gmail.com,2020-11-04 07:43:29+00:00,"merge pull request #1 from airbnb/master
+
+[chore] updating fork from original",False
+e02e82c7c1b472e85e641a7624e99c855e21add1,Brandon Withrow,buba447@gmail.com,2020-11-02 16:20:30+00:00,"fixed build, version bump 3.1.9",False
+b90486fe0c309c66bdcd393a0e131987cac12973,Brandon Withrow,buba447@gmail.com,2020-10-27 17:16:08+00:00,"merge pull request #1269 from mqzkim/assetidpublic
+
+change id accessor from internal to public",False
+ae819637cdd683a5ce1fc80e12aae9d3a11f37dd,Brandon Withrow,buba447@gmail.com,2020-10-27 17:09:08+00:00,"merge pull request #1276 from campersau/isanimationplaying
+
+add isanimationplaying to compatibleanimationview",False
+26d33d92bb0311a266f2fed6fe3453c718fafabb,Brandon Withrow,buba447@gmail.com,2020-10-19 16:01:48+00:00,"merge pull request #1211 from jlukas/master
+
+add isanimationqueued to determine if animation will start when this view is added to a window",False
+24e8ca86f0e72356b136816da929e39643f51e86,campersau,buchholz.bastian@googlemail.com,2020-10-18 11:52:57+00:00,add isanimationplaying to compatibleanimationview,False
+7b796eb0efdee43458dcee3adda33dd4d80d4402,김진규,mqz@toss.im,2020-09-28 13:52:07+00:00,change id accessor from internal to public,False
+1692cb4d0fcf0406dcaf61bf7cafea49dca51354,Brandon Withrow,buba447@gmail.com,2020-08-31 14:47:20+00:00,"merge pull request #1250 from airbnb/btw/lineheightupdates
+
+updates to text rendering",False
+766f555fc4a5e5b1271f9dbd53d2500d47abb20a,Brandon Withrow,buba447@gmail.com,2020-08-31 14:45:57+00:00,updated text layer,False
+ed31fa34aa60651e5385ee1b1d0b013aa03b0c0d,Brandon Withrow,buba447@gmail.com,2020-08-21 19:19:23+00:00,fixes for text height rendering,False
+8def94c0fc611c548c983f19127f861573e73375,Brandon Withrow,buba447@gmail.com,2020-08-05 18:47:54+00:00,"merge pull request #1231 from nanatlantica/master
+
+fixed #944 images from assets.xcassets are not loading",False
+4b96201d07a7946cd2638e7d862f6bdf691fdc10,Brandon Withrow,buba447@gmail.com,2020-08-05 18:46:04+00:00,"merge pull request #1196 from dennishirschgaenger/master
+
+changed acl for animationview to public in animatedcontrol",False
+2679e0107b843f7d3ee20500cb22d034de32391a,Brandon Withrow,buba447@gmail.com,2020-08-05 18:43:45+00:00,"merge pull request #1159 from getfiit/update_access_for_vectors
+
+update vectors.swift",False
+1b7b58b7d19328eea4bde80f7e316bc13c921042,Brandon Withrow,buba447@gmail.com,2020-08-05 18:41:58+00:00,"merge pull request #1142 from druhin13/master
+
+optimized images",True
+6b0c6109f10cf367baa04e4fc4225f100e33e971,Brandon Withrow,buba447@gmail.com,2020-08-05 18:36:24+00:00,"merge pull request #1243 from airbnb/btw/lineheightrendering
+
+rewrite text rendering to support line height + added font provider",False
+db60b8bcb82d71cfa180bd0c74f10520711cce0a,Brandon Withrow,buba447@gmail.com,2020-08-05 18:30:32+00:00,"finished up new text renderer, added font provider",False
+8cce095acd1865751a6eba855b05761cfe73b7ce,Brandon Withrow,buba447@gmail.com,2020-08-04 20:16:49+00:00,initial pass at new text renderer,False
+203eda1620e6c6fb01b4f41be82f492ffa63a490,Dong Yi,dongyi@qiyi.com,2020-07-19 13:18:41+00:00,fixed #944 images from assets.xcassets are not loading,False
+eebcf80fa5c502159f9f61cbf84551766d8e2832,Brandon Withrow,buba447@gmail.com,2020-07-06 18:26:59+00:00,"merge pull request #1215 from danl3v/xcode12b1-changes
+
+work around xcode 12 beta 1 compilation issues",False
+01741fa415b6930b3d00bdc5e9ac431a17ee3140,Daniel Levy,me@danl3v.com,2020-06-23 17:38:04+00:00,work around xcode 12 beta 1 compilation issues,False
+c7d3407686051a1b68590a08bfd2cf7f8e011542,Jacob Lukas,jlukas@nighttimemidnight.com,2020-06-12 18:54:47+00:00,add isanimationqueued to determine if animation will start when this view is added to a window,False
+5ea144149f94b3d263f0594636a25b121f4d700f,Dennis Hirschgänger,dennis.hirschgaenger@tallence.com,2020-05-14 14:39:24+00:00,changed acl for animationview to public in animatedcontrol,False
+8a9f77c9fba240bdad05560cff386cdb27104718,Rolandas Razma,rolandas@razma.lt,2020-04-23 19:17:52+00:00,merge branch 'master' of https://github.com/airbnb/lottie-ios into update_access_for_vectors,False
+4e5877425dae5c10792fc9d22d53dc6bf6824dc1,Brandon Withrow,buba447@gmail.com,2020-04-23 17:29:58+00:00,3.1.8 release,False
+559594af40925aa57500fbe7267fec45334e47b5,Brandon Withrow,buba447@gmail.com,2020-04-23 17:17:02+00:00,fix build,False
+247b3e28bfd55ff88191b99367dba191c3783f8d,Brandon Withrow,buba447@gmail.com,2020-04-23 17:01:16+00:00,version bump 3.1.7,False
+b4502eb36d2a95db179605b611e0dc7074ff6f7f,Brandon Withrow,buba447@gmail.com,2020-04-23 16:48:16+00:00,"merge pull request #1165 from theinkedengineer/patch-1
+
+[fix] missing spacing inside braces",False
+f3b12bac69c2f38ed32e65b5ebd936cf06236599,Brandon Withrow,buba447@gmail.com,2020-04-23 16:47:48+00:00,"merge pull request #1163 from marciogranzotto/marcio/fix-scale-animation
+
+fix matching parent's animation if it's not a simple cabasicanimation",False
+1bececc2ca8f8b43a4f02435b67c1878bcca147f,Brandon Withrow,buba447@gmail.com,2020-04-23 16:46:35+00:00,"merge pull request #1147 from jorisbodin/master
+
+improve readme for spm",False
+01bf9b2a8d7631ae379c0abba2ca959eb7635acc,Brandon Withrow,buba447@gmail.com,2020-04-23 16:34:45+00:00,"merge pull request #1157 from 7jason/master
+
+fix animationview.stop()",False
+1b9acaba0ac4da3726e8dcc44f82b498f2e237a6,Brandon Withrow,buba447@gmail.com,2020-04-23 16:30:41+00:00,"merge pull request #1145 from nevil/typo-fix
+
+waitingtoplayaimation -> waitingtoplayanimation",False
+da8ecb86fc841cc900a7c06a86ee9d86342b009a,Brandon Withrow,buba447@gmail.com,2020-04-23 16:29:39+00:00,"merge pull request #1119 from benziahamed/patch-1
+
+fix lruanimationcache to evict cached items",False
+05d969640ea092b946c3047ba85ff24b9f58657d,Brandon Withrow,buba447@gmail.com,2020-04-23 16:21:26+00:00,"merge pull request #1118 from rapsssito/refactor-array
+
+refactor: keyframe<t> contiguous arrays",True
+86d9126e717cc2b83775d0a2de81340c07f94cf7,Brandon Withrow,buba447@gmail.com,2020-04-23 16:17:55+00:00,"merge pull request #1185 from airbnb/btw/textlayerparagraphposition
+
+fixedbug with paragraph text layer positions",False
+23571b5e67a692d95ed7b90044d6d695fedcbfd0,Brandon Withrow,buba447@gmail.com,2020-04-23 16:17:14+00:00,fixedbug with paragraph text layer positions,False
+ef3c43641c4f18c7e41a99e008a648366e1f111e,Brandon Withrow,buba447@gmail.com,2020-04-20 14:56:47+00:00,"merge pull request #1149 from liulichao123/master
+
+fix method :-animationmovedtowindow judgment logic",True
+c333dfeeecbc74d039bb56908660aa4a7939af5a,TheInkedEngineer,firas@theinkedengineer.com,2020-03-30 14:43:32+00:00,"[fix] missing spacing inside braces
+
+just a minor fix for people with swift ocd.",False
+beaacbec0c060a786b6114804a4bcf3758312d5b,Rolandas Razma,rolandas@razma.lt,2020-03-27 10:39:56+00:00,"update vectors.swift
+
+make properties public
+make vector3d immutable (same as vector1d)",False
+658f872a9ba2215966fe497ed875bb52c2dbc595,Marcio,oscensores@gmail.com,2020-03-26 17:26:28+00:00,fix matching parent's animation if it's not a simple cabasicanimation,False
+5ea3aeda7c153076f3ebc6788cee3a893452316a,Jason Knight,jason.knight@7shifts.com,2020-03-25 21:02:03+00:00,fix stop not working by putting in catransaction.flush in stop,False
+902b836aa4cb20d331a4dc541ce830db9951fbd7,Jason Knight,jason.knight@7shifts.com,2020-03-25 21:01:14+00:00,put catransaction completion listener inside the begin/end block.,False
+d26a398e43ace72dd23e8315a280fc4be25709da,liulichao,liulichao2014@xiaochuankeji.cn,2020-03-18 13:49:22+00:00,fix method :-animationmovedtowindow judgment logic,True
+fb596a114e067f9808191c4214478a23585e2308,Joris Bodin,joris.bodin@infomaniak.com,2020-03-11 16:07:21+00:00,improve readme for spm,False
+3e8d71af2fd91f49dcf3665febf223f1f6b0a832,Anders Hasselqvist,anders.hasselqvist@gmail.com,2020-03-09 10:52:19+00:00,waitingtoplayaimation -> waitingtoplayanimation,False
+891f4e2af0934285453bfd893bc08c311c160e9f,Druhin Tarafder,contact@druh.in,2020-03-05 13:42:16+00:00,"merge pull request #1 from druhin13/imgbot
+
+optimized images",True
+81ff763e6b5efec34917499cf4be969d09934279,ImgBotApp,ImgBotHelp@gmail.com,2020-03-05 13:37:43+00:00,"[imgbot] optimize images
+
+*total -- 473.13kb -> 326.08kb (31.08%)
+
+/_gifs/switch_enabled.png -- 78.90kb -> 47.14kb (40.25%)
+/_gifs/switch_disabled.png -- 83.77kb -> 50.57kb (39.64%)
+/_gifs/spm-branch.png -- 123.02kb -> 76.15kb (38.1%)
+/_gifs/aftereffectskeypath.png -- 62.91kb -> 39.01kb (37.99%)
+/_gifs/macexample.png -- 36.46kb -> 31.27kb (14.23%)
+/_gifs/iosexample3.png -- 22.26kb -> 19.87kb (10.74%)
+/_gifs/iosexample2.png -- 31.35kb -> 28.77kb (8.26%)
+/_gifs/iosexample1.png -- 34.46kb -> 33.31kb (3.34%)
+
+signed-off-by: imgbotapp <imgbothelp@gmail.com>",True
+934954c378fbd49f3798931cd314740ff3176972,Brandon Withrow,buba447@gmail.com,2020-03-03 15:45:47+00:00,"merge pull request #1138 from airbnb/btw/lineheight
+
+fix issue with text layer anchor points",False
+6d91cbeed4d79add3ea2efe30a15b14083f4442a,Brandon Withrow,buba447@gmail.com,2020-03-03 15:44:29+00:00,fix issue with text layer anchor points,False
+05055238c18fcb4c80dc58c29eb451f4d047bf75,Cody Garvin,cody.garvin@disney.com,2020-02-28 17:29:51+00:00,fixes zero based calayer for precomposition.,False
+beab7b65198d7528c409b749836bf9d45b9df6fb,Benzi,to.benzi@gmail.com,2020-01-28 17:08:34+00:00,"fix lruanimationcache to evict cached items
+
+this bug fix ensures that items stored in `cachemap` are also removed when an entry from `lrulist` is removed.",True
+f580eff1ace5f09f45c722a2cfe1c02d27b99677,Rapsssito,contact@rodrigomartin.dev,2020-01-27 19:45:38+00:00,removed prints,True
+16fe16c6c19d2eb4899a4021a5eadf58ee45077d,Rapsssito,contact@rodrigomartin.dev,2020-01-27 19:31:47+00:00,contiguous arrays,False
+8f81de8d81da8631fd95ff81a9db133b76e13ea4,Brandon Withrow,buba447@gmail.com,2020-01-27 16:06:51+00:00,"merge pull request #1116 from airbnb/btw/3.1.6
+
+3.1.6 release",False
+c38e96bfcb0db7230e942d7b711d475381d3bd95,Brandon Withrow,buba447@gmail.com,2020-01-27 16:06:25+00:00,3.1.6 release,False
+74453e754a1a7e2030b3093f9590b9ac80c56390,Brandon Withrow,buba447@gmail.com,2020-01-27 15:22:36+00:00,"merge pull request #1106 from mariuszwisniewski/bugfix/fix-issue-with-animating-frame-change
+
+fixes issue with layout changes being animated when it should be not.",False
+0c6bbf673e720cca22d0fa9b28b6fba36ecb0464,Brandon Withrow,buba447@gmail.com,2020-01-27 15:21:37+00:00,"merge pull request #1108 from joao360/bugfix/not-playing-negative-speeds
+
+fix animation not playing when dynamically using negative speeds",False
+95c8084422ea64bbf896c1610edc70c597b17fa4,Brandon Withrow,buba447@gmail.com,2020-01-27 15:20:52+00:00,"merge pull request #1110 from matthewdovey/readme/mention-of-objective-c
+
+update of readme to mention last supported version of objective c",False
+9d6dae0addf3706e79a8af5610911f5ff6bd866f,Brandon Withrow,buba447@gmail.com,2020-01-27 15:11:58+00:00,"merge pull request #1114 from zenangst/improve/animation-view
+
+improve animation view",False
+1c5c021b46893650e55d33f25986c89fc8626cbe,Christoffer Winterkvist,christoffer@winterkvist.com,2020-01-23 06:36:18+00:00,refactor guard syntax,True
+86a450ff4f1865561b629278c7f462ad61915656,Christoffer Winterkvist,christoffer@winterkvist.com,2020-01-21 17:50:32+00:00,"add guard in `animationmovedtowindow()`
+
+don't invoke any state updates when both the `window` and the `superview` is `nil`",True
+738109f79d4971cfcded04a51e8d12489cbd18f1,Christoffer Winterkvist,christoffer@winterkvist.com,2020-01-21 17:49:54+00:00,"don't invoke `removeobserver` in `deinit`
+
+according to apple's documentation, this method invocation should not be needed anymore.
+```
+if your app targets ios 9.0 and later or macos 10.11 and later, you don't need to unregister an observer in its dealloc method.
+```",True
+103119a2205e3113f9227ffd6560ced318929c6d,matthewdovey,matthewdovey@hotmail.co.uk,2020-01-15 13:52:45+00:00,addition of active objective-c branch and migration links to readme,False
+4d5ef38e3cc51e0be690e856c97194e7af5af70d,matthewdovey,matthewdovey@hotmail.co.uk,2020-01-15 11:55:42+00:00,update of readme to mention last supported version of objective c,False
+80547ccf761da8a7d62229d0781402c3a487d9f4,João Graça,jonymiguelgraca@gmail.com,2020-01-06 17:34:15+00:00,use abs function on layeranimation begintime calculation,False
+ca65c3759937b6b4abfb104dbeca3c842e11e6a3,Mariusz Wisniewski,mariusz@zmail.xyz,2019-12-30 10:20:13+00:00,fixes issue with layout changes being animated when it should be not.,False
+9d37b62452ae6e5f5f0d1c2857a60cc0fb62f966,Brandon Withrow,buba447@gmail.com,2019-11-26 16:44:20+00:00,add files via upload,False
+a090af282c224cc059b5856a0f775d2755fcb7ca,Brandon Withrow,buba447@gmail.com,2019-11-26 16:43:53+00:00,update readme.md,False
+35d6e09c632ba0e852372ce05c2758046a92fbdf,Brandon Withrow,buba447@gmail.com,2019-11-26 16:23:33+00:00,"merge pull request #1089 from airbnb/revert-1088-btw/updateswiftpackage
+
+revert ""updated swift package to include macos""",False
+c0e25888366a8ad6e6f7a3fb0c93fc9ba33a48aa,Brandon Withrow,buba447@gmail.com,2019-11-26 16:23:19+00:00,"revert ""updated swift package to include macos""",False
+dcabfc3f3cb1c546dcc9140721d01bcae88d084e,Brandon Withrow,buba447@gmail.com,2019-11-26 15:28:13+00:00,"merge pull request #1088 from airbnb/btw/updateswiftpackage
+
+updated swift package to include macos",False
+74a5eee36c561f2b1d664ff3f2fced6976360c73,Brandon Withrow,buba447@gmail.com,2019-11-26 15:26:51+00:00,updated swift package to include macos,False
+1520e3225108e85430dcaee992ce6f33d54e0118,Brandon Withrow,buba447@gmail.com,2019-11-26 15:02:57+00:00,"merge pull request #1087 from airbnb/btw/precompclipping
+
+fix bug that prevented precomp layers from clippng properly.",False
+6ede9ee115afc1114f8babe0f10f1217879fa0b7,Brandon Withrow,buba447@gmail.com,2019-11-26 15:00:38+00:00,fix bug that prevented precomp layers from clippng properly.,False
+477959517babbeb46e69a6e94ae1c666af559e96,Brandon Withrow,buba447@gmail.com,2019-11-13 15:22:08+00:00,"merge pull request #1074 from thejohnlima/master
+
+update project to swift 5",False
+eb0c853a1911b94fd5e8331370d22c4a104840ea,Brandon Withrow,buba447@gmail.com,2019-11-13 15:22:01+00:00,merge branch 'master' into master,False
+4c104ae94831c291b748e5104a15255d7df92e5a,Brandon Withrow,buba447@gmail.com,2019-11-13 15:20:02+00:00,"merge pull request #1076 from emrcftci/master
+
+refactor(textcompositionlayer): fix warning in textcompositionlayer",True
+c3d47602f88c5b41b087a3e52b6e14ba026c7adb,emrcftci,emreciftci541@gmail.com,2019-11-13 05:05:56+00:00,"refactor(textcompositionlayer): fix warning in textcompositionlayer
+
+ - fix warning related to unused property in textcompositionlayer
+
+ - add `@discardableresult` to `value(frame: ) -> any` function in keyframeinterpolator
+
+ - delete redundant `self` in keyframeinterpolator",True
+cdcc8fea9dda6d2189d4b73aa8ff729fdc808571,Brandon Withrow,buba447@gmail.com,2019-11-11 16:57:59+00:00,create funding.yml,False
+343eb7888cf7ce4717a2d4f102fd3e380c13723f,John Lima,thejohnlima@icloud.com,2019-11-10 15:43:37+00:00,update project to swift 5,False
+0004eaa039c37f0c0858a2bc398544d8adee586c,Brandon Withrow,buba447@gmail.com,2019-11-05 15:58:22+00:00,"merge pull request #1063 from enriquebk/enriquebk/colorsvalueprovider
+
+added value provider for gradient colors properties",False
+bf12361ad5b958281b010442f33a007f480c883a,Enrique,ebermudez.ing@gmail.com,2019-11-05 13:02:12+00:00,optimize gradientvalueprovider,True
+330bb25289718d0f2077a5d96b528be5808f0d42,Enrique,ebermudez.ing@gmail.com,2019-11-05 12:31:42+00:00,rename colorsvalueprovider to gradientvalueprovider,True
+eb115967234671b725264422d82c9d1d6b226e5a,Brandon Withrow,buba447@gmail.com,2019-11-04 22:02:15+00:00,bump to 3.1.5,False
+0525545293a8d8b729e3038c805b5c8c2c877b40,Brandon Withrow,buba447@gmail.com,2019-11-04 21:59:23+00:00,"merge pull request #1069 from airbnb/thedrick-3.1.4
+
+update to 3.1.4",False
+f1eab8c3f29d9980eadf89a08bbec1f21383f0a1,Brandon Withrow,buba447@gmail.com,2019-11-04 21:54:45+00:00,"merge pull request #1071 from airbnb/btw/releasefix
+
+fix build for all platforms",False
+44136b4613f530cba2464800750a50adfbfb660e,Brandon Withrow,buba447@gmail.com,2019-11-04 21:54:01+00:00,"merge pull request #1040 from airbnb/btw/renderscalebug
+
+fix render scales",False
+52e6cfdfb38f11d45c87a4f24b638f7640821451,Brandon Withrow,buba447@gmail.com,2019-11-04 21:53:53+00:00,merge branch 'master' into btw/renderscalebug,False
+2a6840f3fa904364a556de0ffeb420b3ea4023f9,Brandon Withrow,buba447@gmail.com,2019-11-04 21:43:38+00:00,fix build for all platforms,False
+5d836e57f735a60ca8f4adc66bfe6906158331ed,Brandon Withrow,buba447@gmail.com,2019-11-04 17:52:16+00:00,"merge pull request #1017 from flexibits/flexibits-objc-value-providers
+
+add method to compatibleanimationview to change color values",False
+37c6075e949d395d83dd669fd01668ba88fb5774,Brandon Withrow,buba447@gmail.com,2019-11-04 17:50:56+00:00,"merge pull request #1058 from rapsssito/perf/finalclasses
+
+performance: final classes & contiguous array",False
+2f593af75605f0a2447c5c386f54aee97f90fb9f,Brandon Withrow,buba447@gmail.com,2019-11-04 17:48:16+00:00,"merge pull request #1059 from theill/patch-1
+
+fix out of bound when accessing points",False
+57b58f9b4e7528d115b027b9244043ca4f11f88d,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-11-01 22:18:07+00:00,update to 3.1.4,False
+eb6948fa4a087a062c58808e35e90bb82e762480,Enrique,ebermudez.ing@gmail.com,2019-10-28 14:34:34+00:00,fix out of bound issue in gradientfillrenderer,False
+47c43e78f7b34a8fa3debf444756e78c6af5d2a4,Enrique,ebermudez.ing@gmail.com,2019-10-28 14:34:09+00:00,add value provider for key path property ‘colors’,False
+76880a03b08db47f620884af399cb50e01fc540c,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-10-25 02:22:49+00:00,"merge pull request #1061 from thephamiliar/jp--animation-speed-animated-control
+
+expose animation speed for animated control",False
+88a9d4337b9af32ca494b38e7773d7c95482d354,Jessica Pham,jessica.pham@airbnb.com,2019-10-25 00:44:54+00:00,address pr comments,False
+09912d0b85bbaa08100d1800306ac6e333572123,Jessica Pham,jessica.pham@airbnb.com,2019-10-23 22:34:18+00:00,expose animation speed for animated control,False
+fe4a6ddb120f5e5b12a5a13c909f05e2ebb8a135,Peter Theill,peter@theill.com,2019-10-18 21:20:07+00:00,fix out of bound when accessing points,False
+a46063d249a79a726935c8e3d319de35430e4ccc,rapsss,rapsss@iMac-de-rapsss.local,2019-10-15 20:58:08+00:00,refactor: final classes & contiguous array,True
+41ddfb81cc4c96b9379b0da96a3e1ecb110a4ff8,Brandon Withrow,buba447@gmail.com,2019-10-10 14:12:25+00:00,"merge pull request #1056 from airbnb/btw/threadcheck
+
+add a main thread check",False
+c83c15b73baade3d262ee78989d38ddf694c7b8d,Brandon Withrow,buba447@gmail.com,2019-10-10 14:11:23+00:00,add a main thread check,False
+7d47ec887414094a31cd5e5fc50328913609b561,Brandon Withrow,buba447@gmail.com,2019-10-02 16:30:08+00:00,"merge pull request #1051 from airbnb/btw/paragraphbounds
+
+added support for paragraph bounds and word wrapping",False
+fbb96259a8bed1f4d39d8f430447e7bcd0c0b843,Brandon Withrow,buba447@gmail.com,2019-10-02 16:28:41+00:00,added support for paragraph bounds and word wrapping,False
+a15f5b6af9c4076e29ecb46606ce440fbbca3d14,Brandon Withrow,buba447@gmail.com,2019-09-26 19:30:18+00:00,"merge pull request #1047 from airbnb/btw/textstroke
+
+added support for stroking text",False
+5d9e297f5bafdb95cd90c69abb9aec000f97d72f,Brandon Withrow,buba447@gmail.com,2019-09-26 19:29:49+00:00,added support for stroking text,False
+741c1bb5abef938f90a0732a87791b0893459299,Brandon Withrow,buba447@gmail.com,2019-09-26 17:29:04+00:00,fix render scales,False
+e77ab19a2e322232345ccf10bd8d6842204b3824,Brandon Withrow,buba447@gmail.com,2019-09-26 16:36:14+00:00,"merge pull request #1039 from airbnb/btw/unknownshapetype
+
+fix bug for unknown shape types",False
+2e4757a7b695897427c2051e8bc215b8bbc82b31,Brandon Withrow,buba447@gmail.com,2019-09-26 16:34:06+00:00,fix bug for unknown shape types,False
+f72e68f57b380f4d0dcf338a467ff84901a232bd,Brandon Withrow,buba447@gmail.com,2019-09-25 22:07:54+00:00,fix mathkit,False
+f76e5a2212af280fb2e9416134517fefc21d310d,Brandon Withrow,buba447@gmail.com,2019-09-25 21:55:02+00:00,"merge pull request #1035 from airbnb/btw/textfix
+
+fixed text alignment and rendering",False
+57e1481b5e0aaa41f3597141ad7f8628ede83148,Brandon Withrow,buba447@gmail.com,2019-09-25 21:53:08+00:00,fixed text alignment and rendering,False
+7977337f92be2b833ab501fe649b3f5cb1ee5596,Brandon Withrow,buba447@gmail.com,2019-09-25 15:49:50+00:00,fix for precomp keypaths,False
+860124f1e8fe2163a87c225a931132fc57324b26,Brandon Withrow,buba447@gmail.com,2019-09-19 19:10:20+00:00,made color values public,False
+57d3435a4c08cbc2a2a271c226672fb1f987baa5,Brandon Withrow,buba447@gmail.com,2019-09-17 17:57:35+00:00,"merge pull request #1032 from airbnb/btw/coloraddition
+
+added color format",False
+8478bd15e38da602e2d9105d9cfef7d9b567ec8f,Brandon Withrow,buba447@gmail.com,2019-09-17 17:57:05+00:00,added color format,False
+4ae303bdccd1379ee0a2d22b30cb3f1c9c764ab1,Brandon Withrow,buba447@gmail.com,2019-09-17 16:42:41+00:00,"merge pull request #1031 from airbnb/btw/nodeenablefix
+
+fix bugs with node disabling system",False
+ace3a9247922409b191ae3efd29f97c79363f8c9,Brandon Withrow,buba447@gmail.com,2019-09-17 16:42:11+00:00,remove unneeded commit,True
+266a93f9df59b652c65af2718d4a29598dec2662,Brandon Withrow,buba447@gmail.com,2019-09-17 16:38:54+00:00,fix bugs with node disabling system,False
+e85bf30b17ef30c51ff0b2278f4082d1007b05e6,Brandon Withrow,buba447@gmail.com,2019-09-16 22:40:23+00:00,fixed keypath bug,False
+0e9f6b90e65d6ebcba124ce75d1f1a5fedc6bad1,Brandon Withrow,buba447@gmail.com,2019-09-16 22:29:40+00:00,fixed keypath bug,False
+1e37c6ce26cc32c8685be98b207eccd922342602,Brandon Withrow,buba447@gmail.com,2019-09-16 21:34:18+00:00,"merge pull request #1030 from airbnb/btw/wildcardsearch
+
+added wildcard string search to keypaths",False
+fc3396a19189815bfab481b8693e47ee4a1aa1cd,Brandon Withrow,buba447@gmail.com,2019-09-16 21:33:41+00:00,added wildcard string search to keypaths,False
+061b520e96ba6595fc327c3be2dce55f45739e87,Kent Sutherland,git@ksuther.com,2019-09-15 14:23:35+00:00,rework p3 colorspace creation based on feedback,False
+b08b4f3d0101cd89471a4a25d7945e7f89d801b3,Brandon Withrow,buba447@gmail.com,2019-09-13 20:42:59+00:00,version bump 3.1.3,False
+f40d67611abfc92f64a223436b1104778262be77,Brandon Withrow,buba447@gmail.com,2019-09-13 20:33:30+00:00,"merge pull request #1028 from airbnb/btw/nodeenable
+
+adds new api for enabling / disabling animation nodes at runtime.",False
+886a1328121db7080183d8dc992a9a43b5201d48,Brandon Withrow,buba447@gmail.com,2019-09-13 20:20:17+00:00,updated docs,False
+449d1cd93c95658306fa103194cb667e7767dd2f,Brandon Withrow,buba447@gmail.com,2019-09-13 20:18:51+00:00,"added setnodeisenabled(isenabled, keypath)",False
+ac60daf7624532d435d9604b6762c58336458e85,Brandon Withrow,buba447@gmail.com,2019-09-13 19:00:00+00:00,added animator node search,False
+d7c97f80ec41eaebb2dad72febcd2a0e38ff843c,Brandon Withrow,buba447@gmail.com,2019-09-11 22:24:36+00:00,"merge pull request #1024 from airbnb/btw/viewportframe
+
+added viewportframe property to animationview",False
+43ac4b72ef53e6ff9b6a918b8b6a15d78346d178,Brandon Withrow,buba447@gmail.com,2019-09-11 22:20:59+00:00,added viewportframe property,False
+c86bbcb9c757baf35e13bb3edb22012467cc9ebb,Brandon Withrow,buba447@gmail.com,2019-09-11 16:06:21+00:00,"merge pull request #1002 from gabrielpeart/patch-3
+
+adjusted readme file adding support spm",False
+e783c85801f9c445b059ca2b9facc97aeee29beb,Brandon Withrow,buba447@gmail.com,2019-09-11 16:05:32+00:00,"merge pull request #998 from kernandreas/master
+
+update accessibility label in every case",False
+077d1707aa65471dd9c4761bd2f76f11bd57a281,Brandon Withrow,buba447@gmail.com,2019-09-11 16:02:56+00:00,"merge pull request #986 from erlendboe/master
+
+fix issue in compoundbezierpath",False
+c4e81d09001ff0bf49a9347cd5136114c1d8407c,Brandon Withrow,buba447@gmail.com,2019-09-11 16:01:26+00:00,"merge pull request #982 from coreyd303/fix-nan-issue
+
+fix nan issue",False
+8604c765cb73aafe0693c21871d6d7b05d8b9a0b,Brandon Withrow,buba447@gmail.com,2019-09-11 15:59:33+00:00,"merge pull request #946 from daveanderson/swift-package-manager-improvements
+
+improve compatibility with swift package manager for ios",False
+d1bb5cd0035c682396ea0c63d87be32d265a6c5c,Fabian Kreiser,fabian@fabian-kreiser.com,2019-09-06 13:57:44+00:00,added getcolorvalue to compatibleanimationview.,False
+1f9149acac1d349ed3e6b3a82cd63c9d9b2d85ae,Brandon Withrow,buba447@gmail.com,2019-09-05 16:10:05+00:00,"merge pull request #992 from eneko/master
+
+set minimum ios version to 9.0 for project and package.swift",False
+fb9f4a75f0dde48fd52230ed54e4e5c512718220,Fabian Kreiser,fabian@fabian-kreiser.com,2019-08-28 06:04:19+00:00,use cgcolor to get the components in order to preserve the color space.,False
+b4916e85545feff4082c436c9009bf830a9499c2,Fabian Kreiser,fabian@fabian-kreiser.com,2019-08-27 14:15:48+00:00,add method to compatibleanimationview to change color values.,False
+9cae0a2a03cee3229eac889c9b8ffbd048f8c70a,Kent Sutherland,git@ksuther.com,2019-08-26 19:13:01+00:00,[flexibits addition] cgcolorvalue now always returns colors using display p3 if available.,False
+792c272b0d77d368eac4c52d3ed2b97cf195d5a2,Gabriel Peart,gabriel.peart@me.com,2019-08-05 07:12:22+00:00,"adjusted readme file adding support spm
+
+is necessary to clearly explain to the users who want to consume this amazing library via spm, i believe that by editing the readme file and explicitly explain what is necessary to do and how to use will facilitate the adoption.",False
+e888152c7ce99cdcb29c43b5f980d9600c04ae4e,Andreas Kern,code@andreaskern.de,2019-07-29 13:23:04+00:00,update accessibility label in every case,False
+c7adb33068a2936eb0a1afc9b7d565a45403c610,Eneko Alonso,eneko.alonso@gmail.com,2019-07-19 16:06:36+00:00,set minimum ios version to 9.0,False
+531eb22d47a9439a2344fdaf96832189f2c6e925,Brandon Withrow,buba447@gmail.com,2019-07-17 13:50:00+00:00,"merge pull request #989 from airbnb/thedrick-version-bump
+
+bump version to 3.1.2",False
+387690e73c532dfecb90db8c8922d93dae2337cc,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-07-16 23:47:05+00:00,bump version to 3.1.2,False
+629c47f1be64bd6c21258a0827d1ca36fa453078,Brandon Withrow,buba447@gmail.com,2019-07-16 21:57:31+00:00,"merge pull request #985 from airbnb/thedrick-modes
+
+add cancelbehavior to animatedswitch",False
+af084ed14522c8a9ab4e28a6e9d1bcc0e8502e81,Erlend,erlend.vangsnes.boee@zkb.ch,2019-07-16 12:50:23+00:00,fix issue in compoundbezierpath,False
+df84d9c1bdf5cec6056997ce081348569758f9b8,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-07-15 22:47:13+00:00,add cancelbehavior to animatedswitch,False
+94913f5348ff8356e12da9c63e90911c0495efc5,Corey Davis,corey@pond5.com,2019-07-11 23:34:20+00:00,fix file name,False
+5a5e29edd447542b27d8c45ad1d4f06b950e482d,Corey Davis,corey@pond5.com,2019-07-11 23:34:13+00:00,"fix nan issue
+
+ it is possible for size.width or size.height to be zero, using this as a divisor results in nan. if the outcome of this method is nan i will cause a crash.
+
+this change simply replaces nan outcomes with zero preventing this crash",True
+6ab86d314c7f3d6a6f59548089031dced1b1874e,Brandon Withrow,buba447@gmail.com,2019-07-11 13:34:08+00:00,"merge pull request #980 from amlynarczyk/884/1
+
+fix alpha mask image rendering for gradients",False
+62bdeb0c6a1a522cbfef8b7daea9151fe5b30474,Arkadiusz Mlynarczyk,amlynarczyk@opera.com,2019-07-09 08:01:24+00:00,fix alpha mask image rendering for gradients,False
+b3340e6d687cd9a584df20b9ab2788abdad5e512,Brandon Withrow,buba447@gmail.com,2019-07-10 15:40:00+00:00,"merge pull request #971 from pchelnikov/fix/animationview-documentation
+
+fix documentation",False
+558f670c51a41cdaa92f3865270fcf2e36b8f1b7,Brandon Withrow,buba447@gmail.com,2019-07-10 15:39:15+00:00,"merge pull request #979 from rnishimu22001/fix-document-url
+
+fix url",False
+b8109a2edaa814ec752c048bc1e22963aa8784ef,Brandon Withrow,buba447@gmail.com,2019-07-10 15:38:40+00:00,"merge pull request #974 from ferico55/feature/performance_improvement
+
+resolve stop() not rewinding animation visually",False
+e1e235900d11eb567f231593cd8c58935c30ecd6,rnishimu22001,rnishimu22001@yahoo.co.jp,2019-07-10 14:39:00+00:00,fix document url,False
+2a2b216f835c1ce7686a4c9a562d65804d0d5656,Ferico Samuel,ferico55@gmail.com,2019-07-03 13:05:20+00:00,resolve stop() not rewinding to starting frame,False
+8e017d2788ccc149a1bd11727fda921e1d1b9214,Mikhail Pchelnikov,mikhail.pchelnikov@daresay.co,2019-07-02 20:39:59+00:00,fix documentation,False
+e1825c68af24dd367b278018c5fd7021a5564c94,Brandon Withrow,buba447@gmail.com,2019-07-01 17:59:40+00:00,version  bump,False
+8a4e1b3f7b10d8a3d1b9e3f225dcdc8cfb737d8f,Brandon Withrow,buba447@gmail.com,2019-07-01 17:52:56+00:00,"merge pull request #968 from airbnb/btw/documentationupdatew
+
+moved documentation to airbnb.io/lottie",True
+0caaf1b90593bdda1105d3671398d1e0979eb977,Brandon Withrow,buba447@gmail.com,2019-07-01 17:50:02+00:00,moved documentation to airbnb.io/lottie,True
+5fc0e59e0cb85d3586b1d0d1cf4a2c9669b91d15,Brandon Withrow,buba447@gmail.com,2019-07-01 17:24:09+00:00,"merge pull request #967 from airbnb/btw/switchfix
+
+added forcefinish background mode and implemented it on animated control",False
+fac3feba24bd58067a2fbaf643c0e52bc7833772,Brandon Withrow,buba447@gmail.com,2019-07-01 17:22:40+00:00,added forcefinish background mode and implemented it on animated control,False
+45aaf5c1d8938fc456cbcacb6c449b1b23246292,Brandon Withrow,buba447@gmail.com,2019-07-01 16:43:50+00:00,"merge pull request #966 from airbnb/btw/buildfix
+
+fix build",False
+0a5a4e304b0d0b45af0902d43c48b2eeae57156b,Brandon Withrow,buba447@gmail.com,2019-07-01 16:42:46+00:00,fix build,False
+abef492ef867e92c17be17b7eccd73826b222e9c,Brandon Withrow,buba447@gmail.com,2019-07-01 16:08:08+00:00,"merge pull request #938 from 0111b/dynamictext
+
+add dynamic text support",False
+3b7825a426c7d1b59291b4aaac54262efb70c506,Brandon Withrow,buba447@gmail.com,2019-07-01 16:08:01+00:00,merge branch 'master' into dynamictext,False
+99de62878574275afb571182f0991a5b6e0509cb,Brandon Withrow,buba447@gmail.com,2019-07-01 16:02:27+00:00,"merge pull request #949 from nirgin/patch-2
+
+update swift version in podspec",False
+5ee11002a14f9da47b09c92ea4a2c5da10d6754f,Brandon Withrow,buba447@gmail.com,2019-07-01 16:02:09+00:00,"merge pull request #953 from ferico55/feature/fix_documentation
+
+adjust documentation",False
+75a2bb182d4e1cdb62ac2b4598c707868f849df6,Brandon Withrow,buba447@gmail.com,2019-07-01 16:01:45+00:00,"merge pull request #956 from ferico55/feature/text_vertical_alignment
+
+fix text vertical alignment",False
+e5ebdda27fdfdc5095dc50a7ba079d2f25e967af,Brandon Withrow,buba447@gmail.com,2019-07-01 16:00:30+00:00,"merge pull request #961 from nekrich/master
+
+fix layer usage for macos platform",False
+3db6d74f2cbc08853885694dd9110aa789325bdf,Vitalii Budnik,inekrich@me.com,2019-06-24 14:22:45+00:00,fix layer usage for macos platform,False
+fc86d6ffca0318da13a56112d9c5fe2d9c67935b,Ferico Samuel,ferico55@gmail.com,2019-06-20 11:30:43+00:00,"possible fix
+
+doing some rough fix, assuming there will be much better way",False
+11edcd4602e82e670b9254c5761c7feb0f610f13,Ferico Samuel,ferico55@gmail.com,2019-06-19 13:55:03+00:00,support line height,False
+dcccd5a9cc75c9403688e8700ccc122ec9725cce,Ferico Samuel,ferico55@gmail.com,2019-06-18 14:35:25+00:00,adjust documentation,False
+d5103b21c4450b49b75ddfdc6f6a75e2ddc8fb04,Nir Ginzler,nirgin@users.noreply.github.com,2019-06-17 22:38:22+00:00,update swift version in podspec,False
+ba3ad8d08b29b9a98e5ad06c018e59a91f09e865,Dave Anderson,david.anderson@robotsandpencils.com,2019-06-14 22:20:55+00:00,"improve compatibility with swift package manager for ios
+
+does not resolve the inability to do a swift package manager build for macos but is a step in the right direction.",False
+ed31b9f14e1dbe27f5569f982c0a85ec95ebfbf7,Brandon Withrow,buba447@gmail.com,2019-06-07 14:43:36+00:00,"merge pull request #937 from statusquo/master
+
+swift package.swift to work at least with ios",False
+dc2213b01fc4ee8b293812eb9ed5eba28394cb5c,Brandon Withrow,buba447@gmail.com,2019-06-07 14:42:48+00:00,"merge pull request #918 from dpt/dpt/marker-names
+
+add markernames property",False
+bb8a938d65adff0459c4d34e53dbef7915d6f51d,Alexandr Goncharov,alexandr.goncharov@revolut.com,2019-06-07 14:19:05+00:00,fix target membership of a new files,False
+75e1903c27098acb938d4e03a51cac7dc4ccfe1e,Alexandr Goncharov,alexandr.goncharov@revolut.com,2019-06-07 14:13:03+00:00,add dynamic text support,False
+4386517bb4c464a97ed8c2cc588dcf97d8e7f965,StatusQuo,bastihumann@googlemail.com,2019-06-05 23:19:26+00:00,update package.swift,False
+6427b0f1ffefc35296f5b16c7a6512345b72a61d,StatusQuo,bastihumann@googlemail.com,2019-06-05 23:18:40+00:00,update package.swift,False
+9e5b160e19b75f8dc63adc84e678b126ed2b1a12,StatusQuo,bastihumann@googlemail.com,2019-06-05 23:17:26+00:00,update package.swift,False
+b2e1ced7704280127276fac199f8f2805c6c89de,StatusQuo,bastihumann@googlemail.com,2019-06-05 23:07:44+00:00,update package.swift,False
+aab9421c4d9a3d060056ded288d871b6b0d46282,StatusQuo,bastihumann@googlemail.com,2019-06-05 22:58:58+00:00,update package.swift,False
+b1e5b555f5b09146c1c5bee326f8d21bc4e47828,StatusQuo,bastihumann@googlemail.com,2019-06-05 22:54:45+00:00,update package.swift,False
+f0ee5aa1699a85c0ac463d021b970be75d669884,StatusQuo,bastihumann@googlemail.com,2019-06-05 22:51:07+00:00,update package.swift,False
+9a6da481bdd4be59799fab9bb6c352b21291710b,David Thomas,d.thomas@waracle.com,2019-06-03 11:48:40+00:00,fix more ‘loopmode’ parameter descriptions,False
+6eb2b262148b426aa718960cf44c1132bf1b053c,David Thomas,dpt@users.noreply.github.com,2019-06-03 11:47:31+00:00,"apply suggestions from code review
+
+co-authored-by: tyler hedrick <tylerhedrick@me.com>",False
+8e9ca48461c033be95b6e43949d66635e1c097cf,Brandon Withrow,buba447@gmail.com,2019-05-31 19:59:52+00:00,"merge pull request #932 from airbnb/btw/layoutanimations
+
+fix for implicit animations during layout",False
+6e5307148bb43281c0b67bd850601df4b4c6002f,Brandon Withrow,buba447@gmail.com,2019-05-31 19:54:03+00:00,fix for implicit animations during layout,False
+32c2c5598e43042a61e745a9fe8075f1d0d1dfae,Brandon Withrow,buba447@gmail.com,2019-05-29 19:41:27+00:00,version bump,False
+1d5031946f7b355d4acfddbaf3e38079a9152a15,Brandon Withrow,buba447@gmail.com,2019-05-29 19:40:03+00:00,"merge pull request #927 from airbnb/btw/swift5fix
+
+fix for swift 5 build",False
+3343b3752d7b10aa6c53e9e01fc33c12622b4a84,Brandon Withrow,buba447@gmail.com,2019-05-29 19:39:00+00:00,correct pods version,False
+98afd385d07d9b2916089138b7cdde93fca7d98f,Brandon Withrow,buba447@gmail.com,2019-05-29 19:36:11+00:00,fix for swift 5 build,False
+c3ca094ac71313a26ec3ecb26c01a35f347ace6a,Brandon Withrow,buba447@gmail.com,2019-05-29 18:35:17+00:00,"merge pull request #870 from amrangry/enhancement/swift5migration
+
+enhancement/swift5migration",False
+6983e157f358ea68f765459b52eebfe57a888682,Brandon Withrow,buba447@gmail.com,2019-05-29 18:17:45+00:00,version bump,False
+59f22a804012f8bb3baa6f4be64ba09644028db9,Brandon Withrow,buba447@gmail.com,2019-05-29 18:16:30+00:00,"merge pull request #926 from airbnb/btw/pausebug
+
+fix bug with background behavior / didmovetowindow",True
+7c22479625f49fd3e246c8edd37606b88aaf489c,Brandon Withrow,buba447@gmail.com,2019-05-29 18:11:57+00:00,fix for background behavior,False
+2ee654617742e92e89fba8b3d324af9819a12f16,Brandon Withrow,buba447@gmail.com,2019-05-29 17:04:28+00:00,"merge pull request #910 from daemedeor/lottie-forever
+
+enhancement: modified to allow for defined repeat counts",False
+2e6b2826fbef31af9102614e5e1e30d8a46b0e99,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-05-28 23:42:12+00:00,"merge pull request #921 from ivanvorobei/master
+
+small update readme",False
+b031dceeefc6b1691da7f325446a632a1c51c4a3,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-05-28 23:35:01+00:00,"merge pull request #913 from antonsergeev88/initialize-compatible-animation-property
+
+initialize compatibleanimation property within init",False
+62fe1234e7719fcc0583f7d70550b4a3e7a7fcac,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-05-28 23:34:05+00:00,"merge pull request #911 from antonsergeev88/fix-markdown-for-objc
+
+place markdown before declaration of @objc exproted entities",False
+5e0fd157bca5554a39e5431c21b13b5318aacaa8,Ivan Vorobei,ivanvorobei@icloud.com,2019-05-25 09:08:04+00:00,update readme.md,False
+f20ac749ba73e68c350b19538e8677fa3490e1d8,David Thomas,d.thomas@waracle.com,2019-05-21 16:47:18+00:00,rename ‘allmarkernames’ to ‘markernames’,True
+98387680cf751591b15f5c4e98685628d12256e0,David Thomas,d.thomas@waracle.com,2019-05-21 11:45:40+00:00,"add ‘allmarkernames’ computed property
+
+this returns the names of all markers, in order.",False
+2081bc98de56c67d18c6c7c1c0a5363c9eb9c7b2,David Thomas,d.thomas@waracle.com,2019-05-21 11:45:22+00:00,fix filename in prologue,False
+97b3e765fd95aa5901dc669dfb344116ee07b369,David Thomas,d.thomas@waracle.com,2019-05-21 10:41:45+00:00,fix ‘loopmode’ parameter description,False
+8998253df5983bd67195e26b575bc11430948b8a,Kingtak Justin Wong,k.just.wong@gmail.com,2019-05-20 02:13:42+00:00,renamed enum values to be more comptaible with other versions,True
+8ae72e8879ae98dc4a6bba9b360ffb9d06a29a48,Anton Sergeev,anton.sergeev@corp.vk.com,2019-05-16 12:23:53+00:00,initialize compatibleanimation property within init,False
+3559666080680a88e3957999c59a9b6864872f53,Anton Sergeev,anton.sergeev@corp.vk.com,2019-05-16 10:17:20+00:00,place markdown before declaration of @objc exproted entities,False
+8a9703b5ab298fd9067d0044eabf8fb79ba02ff8,Kingtak Justin Wong,k.just.wong@gmail.com,2019-05-15 09:47:42+00:00,"enhancement, looping: updating example view controller",False
+387f6bbaa173b35dbf919bdb258ee6e562b1212d,Kingtak Justin Wong,k.just.wong@gmail.com,2019-05-15 09:22:03+00:00,"enhancement, looping: update documentation about the loop types available",False
+1aae0dc4bdb6d6ac9d8dbe83ecacab2a9e55168a,Justin Wong,kingtak.w@kingtak.us,2019-05-14 23:26:57+00:00,enhancement: modified to allow for endless repeating,False
+fc01fd60e07e5cc0159a4aeff19eaff9c7d688f5,Brandon Withrow,buba447@gmail.com,2019-05-14 14:08:27+00:00,"merge pull request #906 from airbnb/thedrick-bump-3.0.6
+
+bump to 3.0.6",False
+edb5b3050d8edd2a4a7971cea636b153bd9e8ed5,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-05-13 19:15:32+00:00,bump to 3.0.6,False
+0cda40e6eb41b980a961a484fa8bb8d8d0c1edaa,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-05-13 19:35:08+00:00,merge branch 'master' into enhancement/swift5migration,False
+05d5af74fc82b12b990b5dacae45d5742157c82a,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-05-13 18:23:04+00:00,"merge pull request #867 from coeur/duplicatereference
+
+fix duplicate reference to textcompositionlayer.swift in project",False
+6122b4d6db8c52822eac7dd2ea4605e867d08040,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-05-13 18:22:33+00:00,"merge pull request #880 from nekrich/master
+
+macos. fix `'lottiecontentmode' has no member 'rawvalue'` compile error",False
+e734c532f7d1c79935fee9c97c9c3421e8d512cb,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-05-13 18:22:13+00:00,"merge pull request #881 from nekrich/lottiecontentmode_consistency
+
+lottie content mode consistency",False
+68948a613ad480f2b1bb3e75ad3f83f24bd5ae7f,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-05-13 18:21:38+00:00,"merge pull request #893 from yutae/support-require-only-app-extension-safe-api
+
+support require only app-extension-safe api",False
+b4fffa33595e61f5eaa7cfe542949f76dcf6a4fc,Brandon Withrow,buba447@gmail.com,2019-05-07 14:25:24+00:00,update readme.md,False
+18ccb870e0514e0aee76c13a9da07d42d48fe353,yutae,dev.yutae@gmail.com,2019-04-26 14:28:15+00:00,support require only app-extension-safe api,False
+e3ae1984865cbde0c1af20393854d66fbbb13821,Vitalii Budnik,inekrich@me.com,2019-04-22 11:38:39+00:00,skip unknown case check for lottiecontentmode on macos target,False
+9a680774458f666e415a06652d39be2fc1b3df2c,Vitalii Budnik,inekrich@me.com,2019-04-22 11:12:44+00:00,reorder lottiecontentmode to match uiview.contentmode,False
+cf093862e9a2759fd1280998be81360838e1ad51,Vitalii Budnik,inekrich@me.com,2019-04-22 11:12:27+00:00,make lottiecontentmode rawrepresentable,False
+84009f19580f9ad770a3b706e1ddfefc8a7a87e6,Brandon Withrow,buba447@gmail.com,2019-04-20 18:41:42+00:00,"merge pull request #878 from julienbodet/patch-4
+
+fixed typo in contributor.md",False
+6c598b360f30995542ce98f60a890eaa74010cf3,Julien Bodet,julien.bodet92@gmail.com,2019-04-19 00:29:37+00:00,"fixed typo in contributor.md
+
+complied --> compiled",False
+bd12950b498203ab058a512acdb87267537f52bb,Brandon Withrow,buba447@gmail.com,2019-04-18 19:52:59+00:00,"merge pull request #877 from airbnb/btw/buttonfix
+
+added fix for animatedbutton firing twice",False
+c1f49043e3bd0ef5d58ae8d8208f7abb3c806249,Brandon Withrow,buba447@gmail.com,2019-04-18 19:51:59+00:00,added fix for animatedbutton firing twice,False
+28610fc100588c23155a729a2a1459a3996affc5,Brandon Withrow,buba447@gmail.com,2019-04-18 19:43:44+00:00,"merge pull request #876 from airbnb/btw/kerningfix
+
+fixed kerning bug",False
+ff327bd43cb682fabef81ced13278802d5664ed8,Brandon Withrow,buba447@gmail.com,2019-04-18 19:42:21+00:00,fixed kerning bug,False
+0fe552dbf057fed61af1e58b71fe199001eb312f,Brandon Withrow,buba447@gmail.com,2019-04-17 15:01:20+00:00,"merge pull request #873 from airbnb/btw/visibilityupdate
+
+added performance update for layer visibility",False
+f89c86bcb8a2c051df34406ae576f565dfd571d0,Brandon Withrow,buba447@gmail.com,2019-04-17 15:01:03+00:00,"merge pull request #874 from airbnb/btw/masklayerdebug
+
+added initialized to masklayer",False
+39f808ec55045f8158bb296d9be6fb4b9eb3cb38,Brandon Withrow,buba447@gmail.com,2019-04-17 15:00:03+00:00,added initialized to masklayer,False
+c1eb585ad0342f141cee2161422a43ab0a5a9281,Brandon Withrow,buba447@gmail.com,2019-04-17 14:46:51+00:00,added performance update for layer visibility,False
+d6c476f88a074fe6cced93297efae9d8098baa1e,Brandon Withrow,buba447@gmail.com,2019-04-16 15:53:54+00:00,"merge pull request #860 from airbnb/thedrick-bump-3.0.5
+
+bump version to 3.0.5",False
+0a13a8c477af2e5a88582530b25369c032811345,Brandon Withrow,buba447@gmail.com,2019-04-16 15:34:29+00:00,"merge pull request #868 from coeur/unknowndefault
+
+switch covers known cases, but 'uiview.contentmode' may have additional unknown values",False
+2bc49f355b2f84abc83b8d38d31af2611c5df7a6,Brandon Withrow,buba447@gmail.com,2019-04-16 15:33:09+00:00,"merge pull request #863 from hustlion/patch-1
+
+fixed a typo",False
+25a3093d10ee039fb0017f9049c07c98b827f2cc,AmrAngry,c_amr.elghadban@smartdubai.ae,2019-04-16 14:56:10+00:00,changing swift_version to 5.0,False
+e787e838ccbc9ef7acc09969e2a371fbf0c42bc1,AmrAngry,c_amr.elghadban@smartdubai.ae,2019-04-16 14:53:34+00:00,"enable static analyzer check for missing localizbility for project configuration
+migrate for ensuring that all localized file goes to en.iproj not english.iproj",True
+f54e3c72b30917efe376229d241a150d815931e0,Antoine Cœur,antoine.coeur@ef.com,2019-04-16 06:41:12+00:00,"switch covers known cases, but 'uiview.contentmode' may have additional unknown values, possibly added in future versions",False
+3fd8df11ef523c93e4631befa748bc26cdb29dfc,Antoine Cœur,antoine.coeur@ef.com,2019-04-16 06:37:28+00:00,fix duplicate reference to textcompositionlayer.swift in project,False
+ecb574476d2c7994499be9402714444e9656982f,HustLion,hustlion_dev@163.com,2019-04-15 02:44:11+00:00,fixed a typo,False
+45b69be81c199b6e18b7bb0368567937a1da131b,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-04-11 20:51:34+00:00,bump version to 3.0.5,False
+5a174970afcc25b4d15c3d095e13287db89e972e,Tyler Hedrick,tylerhedrick@me.com,2019-04-11 20:45:14+00:00,"merge pull request #857 from thephamiliar/jp--value-provider-animated-control
+
+allow animatedcontrol to set a value provider",False
+8566553821a4a73ff62b65121bfe6971f71a2fae,Jessica Pham,jessica.pham@airbnb.com,2019-04-10 22:54:38+00:00,run pod install,False
+d5f1ae03b0d3f800d2b0aa1029e9cafd12aa8044,Jessica Pham,jessica.pham@airbnb.com,2019-04-10 21:55:39+00:00,allow value provider to be passed to animationview of animatedcontrol,False
+71e5f19087c78f9029ff812dccebcae0ddfd1b1f,Brandon Withrow,buba447@gmail.com,2019-04-09 18:42:39+00:00,version bump 3.0.4,False
+226f85be16cf665a9a3bb45d8bc2084bf14261ce,Brandon Withrow,buba447@gmail.com,2019-04-09 18:35:11+00:00,"merge pull request #856 from airbnb/thedrick-fix-haptics
+
+allow for programmatic animations in animatedswitch and fix haptics issue",False
+46d14c1c62e8b926ab1e921b973df1c3b3fe1b71,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-04-09 18:07:15+00:00,update pods in example project,False
+5ea293b6d5e0960f16823fa3f7cfa2584ece4623,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-04-09 18:07:07+00:00,update animatedswitch to allow for programmatic animated changes,False
+047d127d3e71dae89bb7459ed501175f09add7c1,Brandon Withrow,buba447@gmail.com,2019-04-01 16:59:34+00:00,"merge pull request #842 from acciosupport/master
+
+add basic swiftpm manifest file",False
+8d18ecff4460f1db83871e71d4d62ebe0178372d,Brandon Withrow,buba447@gmail.com,2019-04-01 16:59:18+00:00,"merge pull request #831 from nekrich/feature/build_fixes
+
+fix macos & tvos builds",False
+85ab3241029e6d915b06b7876d439cf7b789fca6,Brandon Withrow,buba447@gmail.com,2019-04-01 16:58:40+00:00,"merge pull request #830 from coeur/swiftversion
+
+lottie 3 currently only builds as a swift 4.2 or 5.0 target",False
+f07077bf767cd30f20b87abb979b61639417fca9,Brandon Withrow,buba447@gmail.com,2019-04-01 16:57:58+00:00,"merge pull request #829 from coeur/oldpodspec
+
+removing obsolete example file",False
+c5967d6a3472287fc798b7f0575177d1f4295a8f,Brandon Withrow,buba447@gmail.com,2019-04-01 16:57:32+00:00,"merge pull request #827 from coeur/swift5warning
+
+.index is deprecated in favor of .firstindex",False
+795d348d035f9a0bac1f7fd50878a6c36d9a7c44,Cihat Gündüz,commits@cihatguenduez.de,2019-04-01 15:08:06+00:00,add basic swiftpm manifest file,False
+782cb1309bf40904059925deb6176cc5406f58fd,Vitalii Budnik,inekrich@me.com,2019-03-27 10:58:15+00:00,remove duplicated entries of textcompositionlayer.swift from macos and tvos targets,True
+520a84c5544ecbca7f521fa195bcf6d1f7c1a2b7,Vitalii Budnik,inekrich@me.com,2019-03-27 10:57:49+00:00,don’t code sign frameworks,False
+d3541600d9d8304c6ef5b3fde302bf6c9e7935ca,Antoine Cœur,antoine.coeur@ef.com,2019-03-27 10:32:15+00:00,removing obsolete example file,False
+43894009bd11be7a48d27216c2fe7cc27f66bbe5,Antoine Cœur,antoine.coeur@ef.com,2019-03-27 10:30:28+00:00,lottie 3 currently only builds as a swift 4.2 or 5.0 target,False
+aba13d85873f35bad5da20db4039db587b10bc21,Antoine Cœur,antoine.coeur@ef.com,2019-03-27 10:15:53+00:00,.index is deprecated in favor of .firstindex,False
+32be591c8f5b278e54a8cffcc041787bf2a00acd,Brandon Withrow,buba447@gmail.com,2019-03-22 13:16:28+00:00,version bump,False
+290154b3fec81538096436070e73e15af670554a,Brandon Withrow,buba447@gmail.com,2019-03-22 13:01:06+00:00,"merge pull request #820 from airbnb/btw/contentmode
+
+added fix for aspectfill content mode",False
+208c55f0baf812b58e5b6d0c2fca6bb22fb85a53,Brandon Withrow,buba447@gmail.com,2019-03-22 13:00:25+00:00,added fix for aspectfill content mode,False
+135f83f0037cbccc62dff6e7a056ee28bfa81115,Brandon Withrow,buba447@gmail.com,2019-03-21 19:26:07+00:00,"merge pull request #816 from airbnb/btw/302
+
+version bump to 3.0.2",False
+83199ad968fad653c1600c7b0f58bd306e3f8196,Brandon Withrow,buba447@gmail.com,2019-03-21 19:25:37+00:00,version bump,False
+5362920418f7f5865f36fab2712ef2d0f2dd1f2c,Brandon Withrow,buba447@gmail.com,2019-03-21 19:15:52+00:00,"merge pull request #815 from airbnb/btw/windowplayfix
+
+fix for bug that caused animation to not play in certain circumstances",False
+914dca20dda8c47f598384c8b817d2e11c216ecf,Brandon Withrow,buba447@gmail.com,2019-03-21 19:13:36+00:00,fix for bug that caused animation to not play in certain circumstances,False
+c2d2c4e25afd5a4d54438cf25cb9190b00300f22,Brandon Withrow,buba447@gmail.com,2019-03-21 18:55:21+00:00,"merge pull request #814 from airbnb/btw/animationsubviewfix
+
+fix for adding subviews to animation",False
+2b07d6492bd2f020fb18036e2e0ff75f5315fab2,Brandon Withrow,buba447@gmail.com,2019-03-21 18:53:25+00:00,fix for adding subviews to animation,False
+8c3a6387acd416bc348d818e1bed88feb28caff8,Brandon Withrow,buba447@gmail.com,2019-03-21 13:43:46+00:00,"merge pull request #808 from airbnb/btw/ibdesignablefix
+
+fix for interface builder crash",False
+087505bd49df271917fd70e06605fbd51df1cd1e,Brandon Withrow,buba447@gmail.com,2019-03-21 13:43:00+00:00,fix for interface builder crash,False
+e969ee33e0fc5cf0d1fd34d8aff5bbb6c5507c75,Brandon Withrow,buba447@gmail.com,2019-03-21 12:50:22+00:00,"merge pull request #806 from chuganzy/remove-animation
+
+support removing animation by setting animationname to nil",True
+123090c9e1b2e56cfbc9cd9ef55a1a6c836385af,Takeru Chuganji,chu@ganzy.jp,2019-03-21 01:18:12+00:00,support removing animation by setting name to nil,False
+e48841ab5e71976ec3f79c3d933756bee7a9f756,Brandon Withrow,buba447@gmail.com,2019-03-20 19:24:30+00:00,set carthage version to 9.0,False
+e5aa23fba6d73035c203557f5fa7093b63900d6d,Brandon Withrow,buba447@gmail.com,2019-03-20 17:28:55+00:00,fix for macos,False
+cfef1439ee2602996912f56a302b625dc51fd97c,Brandon Withrow,buba447@gmail.com,2019-03-20 17:25:28+00:00,"merge pull request #802 from airbnb/btw/base64
+
+added base64 image support",False
+7d8e4bb097847fba4a3b2f45fc88a13439a2b36e,Brandon Withrow,buba447@gmail.com,2019-03-20 17:21:50+00:00,added base64 image support,False
+d58fd97f1bee2ec8de6ac38d1cf97b84f05937b9,Brandon Withrow,buba447@gmail.com,2019-03-20 16:32:36+00:00,version bump,False
+4e0b12114ce09f1901fb48a8dff15a5c1f62c153,Brandon Withrow,buba447@gmail.com,2019-03-20 16:31:31+00:00,"merge pull request #801 from airbnb/btw/animatedswitch
+
+added fix for animated switch",False
+44666829d4b725d2843cb93525408e53896f7921,Brandon Withrow,buba447@gmail.com,2019-03-20 12:47:16+00:00,added fix for animated switch,False
+21a72d94b49517e5154fa90e0b253b595ef73183,Brandon Withrow,buba447@gmail.com,2019-03-20 00:32:10+00:00,"merge pull request #800 from airbnb/thedrick-fix-switch
+
+fixes issue in animatedswitch when setting the same state",False
+ebae0b25650131d26b6bf34a866cebfae1b76be7,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-03-19 20:45:18+00:00,"fixes issue in animatedswitch when setting the same state
+
+there is an issue in animatedswitch right now where if you set ison to the same value multiple times it doesn't seem to update properly. this fixes that issue.",False
+51417c07b27b5a1ddee4589ad368237fdb1d18fa,Brandon Withrow,buba447@gmail.com,2019-03-18 19:36:40+00:00,"merge pull request #799 from airbnb/btw/trimpathfix
+
+fixed trim path bug",False
+57d652967f5dbe4de958623eec51f37e2573b4f0,Brandon Withrow,buba447@gmail.com,2019-03-18 19:35:08+00:00,reset animation,False
+86b8cd1fce9d28e275e36d07799e1e77f4a60592,Brandon Withrow,buba447@gmail.com,2019-03-18 19:33:30+00:00,fixed trim path bug,False
+14329aa026fcd7e0269b4907f56081cdd23d0dbd,Brandon Withrow,buba447@gmail.com,2019-03-18 14:21:45+00:00,"merge pull request #797 from airbnb/btw/controlstoryboard
+
+added storyboard fix for contorls",False
+3a4fc98b7e5d946bb543c7e8a24d56aea807af14,Brandon Withrow,buba447@gmail.com,2019-03-18 14:21:07+00:00,added storyboard fix for contorls,False
+86cca2f08dbb7d31384308dafdfd2501a46f2ff5,Brandon Withrow,buba447@gmail.com,2019-03-18 14:01:21+00:00,storyboard update,False
+a7dcc3628f6693ae0129eea978999cb84f8daa09,Brandon Withrow,buba447@gmail.com,2019-03-18 13:33:35+00:00,"merge pull request #796 from airbnb/btw/designable
+
+fix for storyboard crash",False
+7cf5ad5990327ee720b2e70e2acc4b397e335a25,Brandon Withrow,buba447@gmail.com,2019-03-18 13:32:13+00:00,fix for storyboard crash,False
+883239a68e3862010fcd30135e9103d0ab4215a5,Brandon Withrow,buba447@gmail.com,2019-03-18 13:04:58+00:00,"merge pull request #793 from airbnb/btw/swift42
+
+migrated to swift 4.2",True
+24df5014eb82f704c649457120d3158054d54d58,Brandon Withrow,buba447@gmail.com,2019-03-18 13:02:19+00:00,migrated to swift 4.2,True
+aa654eca2b12b17181e9791e03e0ad3a4c593961,Brandon Withrow,buba447@gmail.com,2019-03-17 15:43:56+00:00,updated podspec,False
+c859ad54832e3867b386db5487d0d11b0784b0f9,Brandon Withrow,buba447@gmail.com,2019-03-17 15:34:34+00:00,fix podspec,False
+1b1acc28a8405843090d90cf6fc22cd58d5d2dc1,Brandon Withrow,buba447@gmail.com,2019-03-17 15:28:59+00:00,update readme.md,False
+fe9ccb33b5f3baf53bb56f11b75950367313201a,Brandon Withrow,buba447@gmail.com,2019-03-17 15:25:05+00:00,"merge pull request #777 from airbnb/btw/lottie-swift
+
+lottie 3.0 - a complete rewrite of lottie in swift!",False
+e44bd65539679a734f0db4ac98669501738cfb9b,Brandon Withrow,buba447@gmail.com,2019-03-14 14:01:19+00:00,cleaned up podspec,False
+f5e125407a1b950ff397e5ae546f2d26508e16f6,Brandon Withrow,buba447@gmail.com,2019-03-14 12:59:10+00:00,"merge pull request #784 from airbnb/thedrick-fix-warnings
+
+fix warnings in xcode 10.2",False
+da1b423b1a39e3259dd9794b7ff8fdac794985dd,Tyler Hedrick,tyler.hedrick@airbnb.com,2019-03-14 00:23:32+00:00,"fix warnings in xcode 10.2
+
+this fixes warnings in xcode 10.2 related to access modifiers",False
+bc223d79f261005faac31a00367f6d07c279ae2d,Brandon Withrow,buba447@gmail.com,2019-03-13 16:32:49+00:00,small style updates,False
+93d49d12e1467f58aab0eafc84a1329dc35ade2a,Brandon Withrow,buba447@gmail.com,2019-03-12 13:36:48+00:00,"merge pull request #780 from coeur/spelling
+
+spelling",False
+af73426a83a3b58fd285f9fcf68fc5668ca4071a,Antoine Cœur,antoine.coeur@ef.com,2019-03-12 06:34:49+00:00,spelling,False
+b2bc7d5f336e4ed115f4f49bedc3a2183a997436,Antoine Cœur,antoine.coeur@ef.com,2019-03-12 06:21:11+00:00,spelling,False
+718f4aee72af77881ec15ac38ceb637b5aec7f65,Brandon Withrow,buba447@gmail.com,2019-03-11 16:48:54+00:00,updated issue template,False
+8e3af02fd622a86f963f4e0c2d657aa6e68eb88c,Brandon Withrow,buba447@gmail.com,2019-03-11 16:39:54+00:00,updated documentation:,False
+445379acb360053823b7dccde5f22e0de51def6a,Brandon Withrow,buba447@gmail.com,2019-03-08 02:11:36+00:00,updated compatibility and init,False
+63fb999a67302b5be87858968144ff0ef1e8f009,Brandon Withrow,buba447@gmail.com,2019-03-08 02:03:00+00:00,fixed init(layer) bug,False
+a607fc1c8f4a32cb1fa6fdc6bc760b3d1cc3355d,Brandon Withrow,buba447@gmail.com,2019-03-06 22:05:43+00:00,initial commit of lottie-swift,False
+65402f3cf81e9148bc6daad1d6e5f8e310169711,Brandon Withrow,buba447@gmail.com,2019-03-06 21:15:31+00:00,version bump 2.5.3,False
+ea40a8e4e5d7bfbd9dd1bd75350702be3168b645,Brandon Withrow,buba447@gmail.com,2019-03-06 21:09:49+00:00,"merge pull request #747 from liz-wilson/master
+
+fix for completion block not being restored when animation re-attached to window",False
+c75ac285c787243449f83ba071235a195ec9120e,Brandon Withrow,buba447@gmail.com,2019-03-06 21:07:34+00:00,"merge pull request #761 from loongliu/master
+
+support image in the disk for macos",False
+2a95d418d4a21194319a5c101dc807b1ffe83097,Brandon Withrow,buba447@gmail.com,2019-03-06 21:07:05+00:00,"merge pull request #771 from chuganzy/add-bundle
+
+add the ability to specify the bundle to use",False
+710f98d50fedcf7ef4971d868aa0db2377381782,Brandon Withrow,buba447@gmail.com,2019-03-06 21:06:31+00:00,"merge pull request #772 from chuganzy/fix-crashing-issue
+
+early return nil if animationname is nil to prevent a crashing issue",False
+8bb6ecfe46a148bab26963f2a359736ef6ad768a,Takeru Chuganji,chu@ganzy.jp,2019-02-12 23:20:40+00:00,early return nil if animationname is nil to prevent a crashing issue,False
+c93ad74165db00c7ea0829adc3e1c41e913aa041,Takeru Chuganji,chu@ganzy.jp,2019-02-12 04:11:21+00:00,add the ability to specify the bundle to use,False
+5a54b18137b3b03247138e929ac5760e1af7eadd,Brandon Withrow,buba447@gmail.com,2019-01-28 14:20:47+00:00,"merge pull request #766 from shvul/master
+
+fix deprecated method workaround name",False
+17e4268f0173a037ffbdaf161a4667a8080e4883,Pavel Serdziukou,iamshvul@gmail.com,2019-01-28 08:47:38+00:00,update doc for setvaluedelegate method,False
+ed0916e3d2731a5bd7be322afcbc2e88c92d3d24,Pavel Serdziukou,iamshvul@gmail.com,2019-01-28 08:27:45+00:00,fix deprecated method workaround name,False
+d8a3257f8a27bb93c15de73a3c7fe208b5d62e0d,LiuJilong,liujilong.me@gmail.com,2019-01-17 13:28:37+00:00,support image in the disk for macos,False
+113f4377127b0660b7ee775f9aa3775c41167bf1,Brandon Withrow,buba447@gmail.com,2019-01-11 14:22:59+00:00,"merge pull request #758 from airbnb/btw/fixmaster
+
+fix a bug that broke master in lotcomposition",False
+511cf65bea15d9b480e5150625e18aaf6c2220f7,Brandon Withrow,buba447@gmail.com,2019-01-11 14:21:36+00:00,fix a bug that broke master in lotcomposition,False
+f7f7763dfb700d0c85b3f457cdcb377a1ad2ffd4,Brandon Withrow,buba447@gmail.com,2018-12-19 19:43:23+00:00,"merge pull request #739 from bill350/setanimation-bundle
+
+improve setanimation: methods with bundle parameter",False
+32ba906b674108e826faaef125029441998ec712,Brandon Withrow,buba447@gmail.com,2018-12-19 15:01:16+00:00,"merge pull request #737 from federicohenze/safeareabottominsetdemo
+
+uitoolbar and safe area overlapping fixed",False
+e0ca6fed7e4b237a29e5dd1913ab8706227b80ec,Brandon Withrow,buba447@gmail.com,2018-12-19 15:00:34+00:00,"merge pull request #729 from valeriyvan/memoryissue
+
+adds checks against nil to solve three memory issues",False
+f7c2c68e0793658beb7f3c09601993fabe7e974f,Liz Wilson,Liz.Wilson@dyson.com,2018-12-10 13:53:54+00:00,"remember completion block to restore before it is nilled.
+fix for issue #746 https://github.com/airbnb/lottie-ios/issues/746",False
+e9afea754ec3bd56e0055ce2edc5b272cd45a74e,Jean-Charles SORIN,jean-charles.sorin@backmarket.com,2018-11-26 10:19:40+00:00,improve setanimation with configurable bundle in parameter,False
+8937211934640594f4285e56e3575bc097b4bf63,Federico Henze,henze.federico@gmail.com,2018-11-25 20:33:27+00:00,"uitoolbar and safe area overlapping fixed
+
+including the safe area bottom insets in the height calculation of the uitoolbar to avoid an overlapping between the toolbar and the safe area",False
+c9b5d82fcd324b4379e42adb893821084f52e9ad,Valeriy Van,github@w7software.com,2018-10-31 14:38:33+00:00,adds checks against nil to solve three memory issues,False
+4a4367659c0b8576d4a106669ff2ba129026085f,Brandon Withrow,buba447@gmail.com,2018-10-04 22:54:05+00:00,"merge pull request #716 from airbnb/btw/2.5.2
+
+fixed build",False
+977cea59d05ab4a8f746e0ef8070c72ce35eea87,Brandon Withrow,buba447@gmail.com,2018-10-04 22:53:41+00:00,fixed build,False
+d007890613f6f6bd13b675a31816db29d8751e8a,Brandon Withrow,buba447@gmail.com,2018-10-04 22:43:33+00:00,"merge pull request #715 from airbnb/btw/2.5.1
+
+fixed background bug + version bump",False
+dee3c7093d6f6c680963b8e397e32ac092ccb86c,Brandon Withrow,buba447@gmail.com,2018-10-04 22:43:10+00:00,fixed background bug + version bump,False
+76b30ff52c1aa05450ab93af8dc8b87bc5d43714,Brandon Withrow,buba447@gmail.com,2018-10-04 22:01:31+00:00,"merge pull request #714 from gabors/master
+
+adding missing public headers to the tvos target",False
+2a5ab59648194077139921a6d6aae0b8b54de119,Brandon Withrow,buba447@gmail.com,2018-10-04 22:01:08+00:00,"merge pull request #681 from ttanatb/image-catalogue-fix
+
+added fix for loading images from asset catalogue",False
+d239f4536a17d0c4f7338a5bf46d84fd7809f918,Brandon Withrow,buba447@gmail.com,2018-10-04 22:00:24+00:00,"merge pull request #694 from joomcode/issues/issue-693
+
+fix broken animation during scrolling",False
+f1abc7f640bb6983707bcd1be08a03ae571e7c09,Brandon Withrow,buba447@gmail.com,2018-10-04 21:59:54+00:00,"merge pull request #695 from joomcode/issues/shouldrasterizewhenidle-initialization
+
+initialize _shouldrasterizewhenidle flag to yes",False
+a1c2aa44f8f7d43fd2b8048aee7128effc099d8d,Brandon Withrow,buba447@gmail.com,2018-10-04 21:59:29+00:00,"merge pull request #704 from paul1893/patch-1
+
+update color section of readme.md",False
+73eb8d7b77f0b8703e47ceedaa8e4984dd1ed10f,Brandon Withrow,buba447@gmail.com,2018-10-04 21:58:28+00:00,"merge pull request #677 from chenxiaoping1/replaceloadwithonce
+
++load will slow startup speed, replace it with dispatch_once",True
+addcd18b86a0d44bb6b11e4a88929aa004555154,Brandon Withrow,buba447@gmail.com,2018-10-04 21:57:29+00:00,"merge pull request #665 from coeur/ideworkspacechecks
+
+xcode 9.3 recommended addition of ideworkspacechecks.plist",False
+b2ef2fa720e83463207063362d634ee2638dcaee,Brandon Withrow,buba447@gmail.com,2018-10-04 21:56:54+00:00,"merge pull request #670 from coeur/nsnumber
+
+fix xcode warning when using an nsnumber as a boolean condition.",False
+d56df07458f909d4e42fc354387047283a6ff330,Brandon Withrow,buba447@gmail.com,2018-10-04 21:56:36+00:00,"merge pull request #669 from coeur/rendererv2
+
+removing old unreachable code",False
+e551f123f2242029884deec9946f8dec9d0be349,Brandon Withrow,buba447@gmail.com,2018-10-04 21:56:13+00:00,"merge pull request #668 from coeur/bigtypo
+
+big typo",False
+809b48bd60eef49494fa046ad1679fe24c68ded4,Brandon Withrow,buba447@gmail.com,2018-10-04 21:55:44+00:00,"merge pull request #667 from coeur/mediumtypo
+
+medium typo",False
+106e5776d2c7f88d86fae717c5564a99302b4e67,Brandon Withrow,buba447@gmail.com,2018-10-04 21:54:55+00:00,"merge pull request #666 from coeur/smalltypo
+
+small typo",False
+06524e282363ad10de46ba5ff1ff384b0815d78e,Brandon Withrow,buba447@gmail.com,2018-10-04 21:53:33+00:00,"merge pull request #664 from coeur/gitignore
+
+factoring the gitignore rules",False
+1924a32d39524da24a1b69b6bbe7d5d2c747d26c,Gabor Shaio,gabor@voyagerweb.ca,2018-09-30 17:19:04+00:00,adding missing headers to public section for tvos target,False
+5fd95398c5ca5e7a1f8f100b941484083f39c669,Gabor Shaio,gabor@voyagerweb.ca,2018-09-30 17:11:14+00:00,adding missing public headers to the tvos target,False
+f1f442c3adfae0c5803343dc75915e8d0b74f1bc,Paul,pbancarel@octo.com,2018-09-06 11:47:18+00:00,update color section of readme.md,False
+4f60ccd1ed942d7c29ed661155f46993318346fb,Makarov Yury,makarov.yuriy@gmail.com,2018-08-21 17:22:30+00:00,"initialize _shouldrasterizewhenidle flag to yes
+
+according to documentation, the flag defaults to yes, but that's not the case",False
+ec672b14f278a77852cb2e74f17c1c45252c4959,Makarov Yury,makarov.yuriy@gmail.com,2018-08-21 17:11:23+00:00,"fix broken animation during scrolling
+
+use nsrunloopcommonmodes when calling -performselector:
+this way we make sure that _restore state is called when user scrolls. this fixes a case when -playtoframe:withcompletion: method is called during cell reuse.",False
+900a12b9c043d337f9b864160826c479f6187374,Tanat Boozayaangool,ttanatb@gmail.com,2018-07-26 19:52:03+00:00,added fix for loading images from asset catalogue,False
+035963eab61404ba1f3b1a37f9e86556b7dc1e9b,chenxiaoping02,chenxiaoping02@meituan.com,2018-07-19 09:30:48+00:00,"+load will slow startup speed, replace it with dispatch_once",True
+1e19b491bcea63a8992ad73d810f31773509b214,Antoine Cœur,antoine.coeur@ef.com,2018-07-11 14:18:40+00:00,fix xcode warning when using an nsnumber as a boolean condition.,False
+3686e3ce61538775e8a0049b34fbbf511f7de584,Antoine Cœur,antoine.coeur@ef.com,2018-07-11 14:13:59+00:00,removing old unreachable code,False
+a31680bd630099238ad876e921d265721d6d489f,Antoine Cœur,antoine.coeur@ef.com,2018-07-11 14:08:36+00:00,renaming folder to maccompatibility,False
+a5f12eca25d85f771bf63d75883b63c474d165ea,Antoine Cœur,antoine.coeur@ef.com,2018-07-11 14:01:16+00:00,renaming of function and variable,False
+dedbdcc9264d0dd2f81b56b849f2a3cac2a9fd80,Antoine Cœur,antoine.coeur@ef.com,2018-07-11 13:58:37+00:00,small typo,False
+027d738191467ccd5540e040e1d0f11587f24c1c,Antoine Cœur,antoine.coeur@ef.com,2018-07-11 13:49:22+00:00,xcode 9.3 recommended addition of ideworkspacechecks.plist,False
+3a78fed0e2a429b63dcee4b9dbf9b9c674364809,Antoine Cœur,antoine.coeur@ef.com,2018-07-11 12:54:58+00:00,factoring the gitignore rules,False
+21122a769ccc3e43ffd23f80b7c8c48247834900,Brandon Withrow,buba447@gmail.com,2018-06-28 15:08:51+00:00,"merge pull request #623 from garolla/patch-1
+
+calling boolvalue instead of converting nsnumber",False
+7437e77910414d0e3bcc3a1fc39108fcd8c39899,Emanuele Garolla,garolla.e@gmail.com,2018-06-28 14:46:56+00:00,"update lotcompositioncontainer.m
+
+changed to check for nil",False
+bd48d7702a5dd4202ccfddb98f64e4729c072bcf,Brandon Withrow,buba447@gmail.com,2018-06-28 14:36:54+00:00,"merge pull request #636 from daniele-pizziconi/master
+
+fixing issue: macos doesn't handle window changes as ios does.",False
+31a3bccba363051169a7f8555a2ebe24982bd10c,Brandon Withrow,buba447@gmail.com,2018-06-28 14:35:44+00:00,"merge pull request #627 from kgeorgy/issue626
+
+add the strong specifier for unspecified properties",False
+237254b13a6d5fcd4534ddc8c815d85d230ee086,Brandon Withrow,buba447@gmail.com,2018-06-28 14:32:56+00:00,"merge pull request #622 from haikuteam/master
+
+add basic support for base64 image asset urls.",False
+fc9ba3dea66599b82da8782058937c31097eb486,Daniele Pizziconi,daniele.pizziconi@gmail.com,2018-05-25 10:15:07+00:00,applying the same ios logic of handling window changes to macos,False
+ed80ee4830dc5f399ed8bd2469e214e1f559f4e2,Laura Skelton,lauraeskelton@gmail.com,2018-05-23 18:20:06+00:00,"merge pull request #630 from dimitryz-luxuryretreats/change_animation_with_json
+
+add ability to set a new json on an existing animation",False
+16c6548d0b6c5a124703b6dbf477bae1256aa3ab,Dimitry Zolotaryov,dimitry@luxuryretreats.com,2018-05-22 17:47:03+00:00,add ability to set a new json on an existing animation,False
+3a6ab27353aa6156ade950ad517a5dba2c6b6e55,Kevin Georgy,kevin.georgy@bienair.com,2018-05-15 08:52:41+00:00,add the strong specifier for unspecified properties,False
+0e15547807b4b930c319a3f7f4bbd8be1d13bbcb,Emanuele Garolla,garolla.e@gmail.com,2018-05-04 13:57:09+00:00,"calling boolvalue instead of converting nsnumber
+
+problem found with static analysis code of xcode 9.3.",False
+cabb7d4c9793cf73c9bf6c48d419eaf5b2ab4b9e,Brandon Withrow,buba447@gmail.com,2018-05-04 02:01:46+00:00,"merge pull request #618 from kgaidis/kg-fix-delay
+
+fixed an issue where animations would get delayed",False
+150881c80ea118fcd5331e1e24ab5e951cc5f69a,Brandon Withrow,buba447@gmail.com,2018-05-04 02:01:11+00:00,"merge pull request #614 from shinproxy/deadlinkurlfix
+
+remove dead-link url.",True
+f3e92dffd363622f97d2236d53b710cb76a412fd,Sasha Joseph,sasha.joseph@gmail.com,2018-05-04 00:14:04+00:00,add basic support for base64 urls.,False
+a0dc433a82a652bc97c41bf49e47c82953ee9802,kgaidis,kgaidis@gmail.com,2018-04-25 15:47:04+00:00,fixed a bug where setting cabasicanimation begintime would cause the animation to be delayed,False
+a370ff51bb61ee10829ee27fdf616e2e66930a40,Shin,shin@MBP.local,2018-04-23 06:29:50+00:00,remove dead-link url.,True
+23abc3a23997b8d4c16c89d29d34542dfeac040b,Brandon Withrow,buba447@gmail.com,2018-04-19 15:51:12+00:00,update readme.md,False
+40893c210b4a313b5030abccd3efed41fd4b8e34,Brandon Withrow,buba447@gmail.com,2018-04-19 15:44:23+00:00,"merge pull request #596 from uberjason/assetcatalog
+
+find asset images from asset catalogs using uiimage imagenamed:.",False
+358422a4ec1f7cb3ffdaaf9f1f320d9766459946,Brandon Withrow,buba447@gmail.com,2018-04-19 15:42:03+00:00,"merge pull request #605 from daniele-pizziconi/master
+
+create the macos static library, as done for ios",False
+2d5e186251b87261a82828ce9d82ef900fc16d94,Brandon Withrow,buba447@gmail.com,2018-04-19 15:41:26+00:00,"merge pull request #598 from revolter/patch-1
+
+fix typo in code documentation",False
+ec39f31c4bd9f59c1cbbc60bf7a6a8df368c31d8,Brandon Withrow,buba447@gmail.com,2018-04-19 15:41:05+00:00,"merge pull request #599 from revolter/patch-2
+
+add loopanimation default value in documentation",False
+7358387890a0707937450190ea0dbc402936c050,Brandon Withrow,buba447@gmail.com,2018-04-19 15:40:39+00:00,"merge pull request #612 from revolter/hotfix/variable-typo
+
+fix typo in variable name",False
+dfbe31e2c51f7cfc4ccb0e17ccaa38a479ca9867,Iulian Onofrei,iulian.onofrei@yahoo.com,2018-04-19 07:42:45+00:00,fix typo in variable name,False
+16d1dab7a903f34e66f4232fb17d9870bf19b041,Daniele Pizziconi,daniele.pizziconi@gmail.com,2018-04-11 09:42:34+00:00,"create the macos static library, as done for ios",False
+54bfbb2b1da9743c2a0f56a5bffd4022ea04100c,Iulian Onofrei,6d0847b9@opayq.com,2018-04-03 10:07:43+00:00,add loopanimation default value in documentation,False
+04743f9c24a623a2037b2027e1677310c5c70f20,Iulian Onofrei,6d0847b9@opayq.com,2018-04-03 10:04:17+00:00,fix typo in code documentation,False
+a3ed98359b286c071f3e7c79e626cff5bf98c0ac,Jason Ji,Jason.Ji@capitalone.com,2018-03-29 21:22:58+00:00,find asset images from asset catalogs using uiimage imagenamed:.,False
+8c9a728676d19c470548cf2d5b8c0368ad51ad7d,Brandon Withrow,buba447@gmail.com,2018-03-23 16:25:29+00:00,"merge pull request #592 from revolter/fork
+
+fixed animation loading from asset catalog",False
+c70c1cbbba1f35a33743a4f49e0216dae947a75f,Brandon Withrow,buba447@gmail.com,2018-03-23 16:23:37+00:00,"merge pull request #590 from sanekgusev/idle-rasterization
+
+rasterize _compcontainer when not animating",False
+7ec99812165d0a20ea64c273f09d3109983ff8f7,Iulian Onofrei,iulian.onofrei@yahoo.com,2018-03-21 12:50:10+00:00,fixed animation loading from asset catalog,False
+4e7d864d3c8b33e0d086c79b0dd1e0a86f68b212,Aleksandr Gusev,sanekgusev@gmail.com,2018-03-19 22:04:26+00:00,simplify the logic around _shouldrasterizewhenidle,False
+35432383d81d405a18a2f59769a33830e032b0f1,Brandon Withrow,buba447@gmail.com,2018-03-19 20:17:16+00:00,"merge pull request #589 from sanekgusev/fix-inititilizer-chaining
+
+fix initializer chain",False
+208e00824f28a5c5f04a2c167dafac69c6c3c89e,Aleksandr Gusev,sanekgusev@gmail.com,2018-03-19 17:52:07+00:00,add support for automatically rasterizing _compcontainer layer's contents when not animating,False
+13b9dab478cb5ec6c0b7b4424a7455067d7f3797,Aleksandr Gusev,sanekgusev@gmail.com,2018-03-19 16:50:15+00:00,correctly override -initwithframe: in lotanimationview and funnel other initializers through it,False
+647247eb758138d77057ed116a0caa5794c8a757,Brandon Withrow,buba447@gmail.com,2018-03-14 21:23:12+00:00,replaced viewer,True
+2eac210bf7ad866c785d8546ce6cfba858aa45be,Brandon Withrow,buba447@gmail.com,2018-03-14 21:21:03+00:00,"merge pull request #582 from airbnb/btw/addview
+
+added viewer build",False
+95bf643b197a60fe0b872dd2122d8c7320edbf84,Brandon Withrow,buba447@gmail.com,2018-03-14 21:14:05+00:00,added viewer build,False
+9b277f76dba14fe1297521ea320ef6f12790278b,Brandon Withrow,buba447@gmail.com,2018-03-11 05:21:14+00:00,"merge pull request #572 from kayak/tvos-fix
+
+add `lotkeypath` to tvos target to fix broken build",False
+9ddc9834ff855f5846445c61fb2632b4f47627e7,Johannes Marbach,JohannesMarbach@gmail.com,2018-03-06 12:38:38+00:00,add `lotkeypath` to tvos target to fix broken build,False
+551eba407724ae6190225c8911e24c1f9bc88b7e,Brandon Withrow,buba447@gmail.com,2018-02-20 20:02:42+00:00,"merge pull request #559 from jorgefrazaocosta/jcosta/animation_name_ibinspectable
+
+adds ibinspectable to set animation name via interface builder",False
+e323ab7d9b950c46c2dac71f92ecc60baee0eebc,Brandon Withrow,buba447@gmail.com,2018-02-20 20:02:13+00:00,"merge pull request #560 from tikoyesayan/xcode-warning-fix
+
+xcode warning fix",False
+231c660179b37b2c6d1b99ddf8ec35362eb3a08f,Brandon Withrow,buba447@gmail.com,2018-02-20 20:01:31+00:00,"merge pull request #554 from sujaypat/animationviewspelling
+
+fix spelling errors in lottie-ios",False
+eed375cfed07e6513ebdba43a67f7322a0d3644d,Tigran Yesayan,tigran.yesayan@picsart.com,2018-02-18 13:47:29+00:00,xcode warning fix,False
+c002b2c39ad4b2385e3b71366882d4d4b75c5a04,Jorge Costa,jorge.costa@thing-pink.pt,2018-02-15 11:39:19+00:00,adds ibinspectable to set animation name via interface builder,False
+80fdfe6cd809c675ec646d0ecedfc6209cf21213,Brandon Withrow,buba447@gmail.com,2018-02-09 19:22:50+00:00,update issue_template.md,False
+c4080a253f0240e87e144c7eed14cc525e18536f,Sujay,sujay.patwardhan@gmail.com,2018-02-05 18:36:21+00:00,more spelling fixes,False
+5354b974ff4a8e3805f53b081004830ac99cbe6d,Sujay,sujay.patwardhan@gmail.com,2018-01-26 05:14:53+00:00,fix spelling,False
+d1008701a0dc6ec82f8040503bafb3746fda318a,brandon_withrow,brandon.withrow@airbnb.con,2018-01-23 21:47:50+00:00,version bump,False
+961877ed686ddd44c4f19bd49c286b2ce06ffaf6,Brandon Withrow,buba447@gmail.com,2018-01-19 19:40:44+00:00,"merge pull request #482 from meta-craft/feature/tvos_framework
+
+added a new tvos target",False
+7072abeba961b3e8610a2edcc20dfe0f6d420c09,Brandon Withrow,buba447@gmail.com,2018-01-19 19:38:02+00:00,"merge pull request #511 from axoic/bugfix
+
+[bugfix] fix collision of images with same name in different bundles.…",False
+60affeeb51f2da513fd88a48faf6dd2ee58e387e,brandon_withrow,brandon.withrow@airbnb.con,2018-01-19 19:36:19+00:00,cleanup,False
+dd03fa4e9a7358d458cc3ebd11a104c7d8478d83,Brandon Withrow,buba447@gmail.com,2018-01-19 19:30:36+00:00,"merge pull request #533 from floschliep/master
+
+fix convenience class methods of public classes",False
+84d36703fcbdc9994896906c1f77172bffb42b06,Brandon Withrow,buba447@gmail.com,2018-01-18 17:17:34+00:00,"merge pull request #539 from dmaclach/sim
+
+add targetconditionals.h",False
+cc578ce0df7c528b24187d8cf70543dc03a1575f,Dave MacLachlan,dmaclach@gmail.com,2018-01-18 17:09:31+00:00,"add targetconditionals.h
+
+many files were referencing macros defined by targetconditionals before
+including it.
+
+also updates one macro from the deprecated target_iphone_simulator to
+target_os_simulator.",False
+8d1b6d6afeb5d2e6a57110f4d68132116f2a4e84,Florian Schliep,florian@appiculous.com,2018-01-14 16:02:50+00:00,"fix convenience class methods of public classes
+
+lots of the classes the framework exposes publicly offer convenience class methods for their instantiation. unfortunately those class methods don’t create instances of their respective instancetype as declared, but create instances of hardcoded classes.
+
+this means subclasses cannot take advantage of those convenience methods without introducing bugs. when using an instance that is expected to inherit from the subclass but does in fact inherit from the superclass, calling methods of the subclass will throw an exception. furthermore, it’s not possible to add variables to those instances without causing a buffer overflow.
+
+while it is possible to work around this using the objective-c runtime, it would cause unnecessary overhead. as the return type of those class methods is declared as instancetype, it is expected that they return an instance of the current class, self.",False
+6b8358b82ce576d452327b0fa8bbcb44b7f4397f,Brandon Withrow,buba447@gmail.com,2018-01-11 18:37:36+00:00,"merge pull request #530 from airbnb/btw/headersupdate
+
+add missing headers to static library",False
+caedbd81d2e92397a8323a252bc11b3f17b46f0c,brandon_withrow,brandon.withrow@airbnb.con,2018-01-11 18:36:43+00:00,add missing headers to static library,False
+983ad4ee32a5440ccb0e9dfe8e6c4c1d3f8de629,Brandon Withrow,buba447@gmail.com,2018-01-11 18:34:52+00:00,"merge pull request #528 from 50percentgrey/public_headers
+
+set public headers",False
+71103ddaf75aff369c479162da46031d9be96c7a,Antonio Junior,Antonio.Junior@rga.com,2018-01-10 19:57:59+00:00,"set lotblockcallback.h, lotinterpolatorcallback.h and lotvaluecallback.h as public to avoid error on carthage",False
+d61c03406d5944b06b0bf6a2c0b05cca56bf75c5,Brandon Withrow,buba447@gmail.com,2018-01-10 17:13:46+00:00,"merge pull request #527 from wduk/patch-1
+
+fix analyser warning in lotradialgradientlayer",False
+29244d87cffbc9d95f208557b681857c6c6d5c18,Brandon Withrow,buba447@gmail.com,2018-01-10 17:12:53+00:00,"merge pull request #526 from xeaza/enable-use-of-lotanimationview-in-ib
+
+add helper method to load animation on view loaded in interface builder",False
+16ef457087b550bd681d7fe8110daa7fda6298c1,David Stockley,WDUK@users.noreply.github.com,2018-01-10 11:48:26+00:00,"fix analyser warning in lotradialgradientlayer
+
+the static analyser (using xcode 9.2) was complaining about `gradientcomponents` being a variable length array with the possibility of having 0 length. this could occur with `numberofcomponents` keeping the value of 0 if no colours exist. having a vla with size 0 causes undefined behaviour.
+
+the change is to bypass rendering the lotradialgradientlayer if there are no colours provided, as it doesn't make sense to render anything without a colour, and to presume a default colour may not be the right solution.",False
+ee0adace10c42910f2056db9f782b754335827d2,Taylor Wright-Sanson,taylor@thelevelup.com,2018-01-10 00:05:13+00:00,add helper method to load animation on view loaded in interface builder,False
+d3b770ef9b3a1810f49c648c45f1a0eecf41f611,Brandon Withrow,buba447@gmail.com,2018-01-09 18:27:51+00:00,update license,False
+5a75d50609612c131f2b3b263ef524f351e16591,Brandon Withrow,buba447@gmail.com,2018-01-09 00:38:09+00:00,"merge pull request #520 from airbnb/btw/interactiveprops
+
+btw/interactive props",False
+3734b32c6d34892cffae2841044f9bcbfdfc472d,brandon_withrow,brandon.withrow@airbnb.con,2018-01-09 00:06:46+00:00,comment update,False
+bdbc94b669e83884c8409ffc1b74717c220d006c,brandon_withrow,brandon.withrow@airbnb.con,2018-01-09 00:00:15+00:00,updated variable names,False
+ab29a4a2a7be6db7d3b01826a15fd127e648a0af,brandon_withrow,brandon.withrow@airbnb.con,2018-01-08 23:56:31+00:00,updated examples,False
+43a47f46a08af7f1defa8f422383bc7467ab03bd,brandon_withrow,brandon.withrow@airbnb.con,2018-01-06 00:36:17+00:00,update example projects,False
+ed54ece9bc10f4e95c651a493231e3005546fa58,brandon_withrow,brandon.withrow@airbnb.con,2018-01-05 22:59:05+00:00,refactor callbacks into delegates,True
+4f4719d2ddc73994ff9e6af29374089b8ce7df37,brandon_withrow,brandon.withrow@airbnb.con,2018-01-05 18:31:58+00:00,"added example app, fixed play bugs",False
+a084c37025d3360ab9ed6a4a4030d4e5f9141790,brandon_withrow,brandon.withrow@airbnb.con,2018-01-03 23:48:13+00:00,check,False
+6434ec156fcbbba5f3ac87da66b1d4e24b6e837b,brandon_withrow,brandon.withrow@airbnb.con,2018-01-03 22:50:47+00:00,enable time remapping,False
+650a82eb2dd7ec14cf707f5d5475a41ceb38b62d,brandon_withrow,brandon.withrow@airbnb.con,2018-01-03 19:09:20+00:00,code cleanup,True
+5aa515818fc7d1819eca3a04686ce11c89a984e0,brandon_withrow,brandon.withrow@airbnb.con,2017-12-19 00:22:58+00:00,add documentation,False
+a2275e92278de87aec8ca8b24bdef8a4ff03bfc7,brandon_withrow,brandon.withrow@airbnb.con,2017-12-18 23:10:28+00:00,initial work on interactive props,False
+48778ebaa3ffb604c9a1b6b49681c2fdb3cc4ab6,Jeff Wang,jeff@axoic.com,2017-12-06 05:03:11+00:00,[bugfix] fix collision of images with same name in different bundles. refers to issue: https://github.com/airbnb/lottie-ios/issues/295,False
+e42812f94f97eb0f5e26cdf5ab559af2fcb61cb1,brandon_withrow,brandon.withrow@airbnb.con,2017-11-30 23:52:29+00:00,bump to 2.1.5,False
+deb1d934981764b22371a5b1b21bb954a99edbcb,Brandon Withrow,buba447@gmail.com,2017-11-30 23:49:04+00:00,"merge pull request #492 from mattlisiv/master
+
+stop animation before leaving screen to prevent freezing",False
+bde23a44b467c48c19436e92fa3e7d571e22bc0e,mlisivick,matt2014!,2017-11-30 21:59:10+00:00,change animation control from pause to stop,False
+8a576dffe8a3ead5d20a09a8153b345011d79e1a,Brandon Withrow,buba447@gmail.com,2017-11-30 18:09:56+00:00,"merge pull request #487 from wangyaqing/master
+
+remove unnecessary newlines",True
+7303a7be94fcf5eee1d082d2baf7e366f3289c89,Brandon Withrow,buba447@gmail.com,2017-11-30 18:08:20+00:00,"merge pull request #495 from kyle-fox/patch-1
+
+issue template edits",False
+7dc3d6a1cf3e02df537c4ed9d5ef4db2f78faf09,Brandon Withrow,buba447@gmail.com,2017-11-30 18:06:50+00:00,"merge pull request #499 from ansman/fix/implement-init-with-coder-in-lotanimatedcontrol
+
+implement initwithcoder: in lotanimatedcontrol",False
+98dfcf725cb8236732730c692aff83d152d70302,Brandon Withrow,buba447@gmail.com,2017-11-30 18:05:25+00:00,"merge pull request #506 from wlei-fx/master
+
+fix crash by addding @synthesize to [lotlayercontainer display]",False
+197455f4e72c9c28387c676572b74996f7b00032,leiwei.lw,leiwei.lw@alibaba-inc.com,2017-11-28 08:34:57+00:00,synchronize thread when update lottie animation to protect from crash,False
+8393870653b3e6b386bba30713e5bccd82073dad,Nicklas Ansman Giertz,nicklas@ansman.se,2017-11-22 19:41:24+00:00,"implement initwithcoder: in lotanimatedcontrol
+
+without it you cannot use lotanimatedcontrol in interface builder.",False
+ba8381592c26527b6c1ac157e19dc1c62b472e02,Kyle Fox,kyle.fox55@gmail.com,2017-11-21 22:34:36+00:00,further edits,False
+08822c86b495d01906ba69f3930a85e0531e609e,Kyle Fox,kyle.fox55@gmail.com,2017-11-21 22:27:17+00:00,further edits,False
+05a771f560d174fb55c8124225df910716aab6b2,Kyle Fox,kyle.fox55@gmail.com,2017-11-21 22:24:27+00:00,issue template edits,False
+34604b11183a383cb935470d5a9cef406a27669e,mlisivick,matt2014!,2017-11-20 22:57:48+00:00,stop animation before leaving screen to prevent freezing,False
+248b325595013fe6befb8ad6541c4f3b51bba733,arkin,wangyq@zenmen.com,2017-11-14 07:50:57+00:00,remove unnecessary newlines,True
+88eb6106ceff2ec0d33f55d910ba06b506b6ecd5,Ricardo Barroso,ricardo.barroso@gmail.com,2017-11-09 12:16:35+00:00,"updated targeted device family for ""lottie_tvos"" framework target.",False
+f245c9deab0dc5ab29c6fa93f6bdcfe493da2707,Ricardo Barroso,ricardo.barroso@gmail.com,2017-11-09 11:32:54+00:00,added a tvos framework target (for supporting tvos).,False
+3b9c05ac85e7a7daf70c85bc56ae043038655679,Brandon Withrow,buba447@gmail.com,2017-11-08 22:07:39+00:00,"merge pull request #471 from wing0wind/bugfix/xcode8builderror
+
+fix:r2.1.4 build error in xcode8.x",False
+a1db810c97d2a14c68146b4474709ad49de8ba70,wing0wind,wing0wind@gmail.com,2017-11-02 10:21:59+00:00,version check code cause build error in xcode 8.x .,False
+2ca061681ac5c1ad67df2d4a04b645620634d73b,Brandon Withrow,buba447@gmail.com,2017-11-01 18:38:04+00:00,"merge pull request #468 from airbnb/btw/trimbugs
+
+fix for trim path bugs",False
+4cad1cb0298843f21dabd0b851e3dc6e48225f88,Brandon Withrow,buba447@gmail.com,2017-11-01 18:37:52+00:00,"merge pull request #467 from benjaminbarbe/master
+
+begintime now use the animation speed value for proper transition",False
+e4217a606779e1034e5e48496342f59af8133d1e,brandon_withrow,brandon.withrow@airbnb.con,2017-11-01 18:29:40+00:00,fix for trim path bugs,False
+fbd51fc393480fee62044b4345aece12928a50df,Benjamin Barbe,benjamin@beingenious.com,2017-11-01 12:58:42+00:00,begintime now use the animation speed value for proper transition,False
+c5f9f5bc1a75499a31b389addc870760e4e26dc1,brandon_withrow,brandon.withrow@airbnb.con,2017-10-30 22:22:37+00:00,bump version to 2.1.4,False
+0427c2263ee1143b1059b52e0165fd2710efa709,brandon_withrow,brandon.withrow@airbnb.con,2017-10-30 22:00:26+00:00,remove file,True
+78961d5ba83de90531c86f1a88ca4d42e3a81f6e,Brandon Withrow,buba447@gmail.com,2017-10-30 21:59:02+00:00,"merge pull request #466 from airbnb/btw/keypathsfix
+
+fix for log keypaths bug",False
+ea3102696643d93f0f8a5585ce238888e6df82b8,brandon_withrow,brandon.withrow@airbnb.con,2017-10-30 21:58:31+00:00,fix for log keypaths bug,False
+ac2a06ac5a380827782a8a02aa813546579c5eb3,Brandon Withrow,buba447@gmail.com,2017-10-30 21:41:39+00:00,"merge pull request #442 from meiwin/animationbug
+
+fix bug where animation stop playing",False
+b2162028b7c88b9ea612f54d5c149474c04e8d4a,Brandon Withrow,buba447@gmail.com,2017-10-30 21:40:14+00:00,"merge pull request #454 from akwilliamson/master
+
+add @available check to silence warning for userinterfacelayoutdirect…",False
+909860769f094a2ec0005a35863dce041d6ea520,Brandon Withrow,buba447@gmail.com,2017-10-30 21:39:01+00:00,"merge pull request #460 from eskerber/extension-safe-setting
+
+mark lottie as extension safe",False
+e36deebd3c97da43d454fa6ae0fc6aad48ef8644,Erik Kerber,erik.kerber@target.com,2017-10-22 02:39:29+00:00,mark lottie as extension safe,False
+a49379fcaa9427cfeab2f07ae41b5d98da398a17,Aaron,=,2017-10-19 03:48:07+00:00,add @available check to silence warning for userinterfacelayoutdirectionforsemanticcontentattribute ios 9.0 availability,False
+07c236808fc9d600a6b49f7bb395facca056025d,Meiwin Fu,venansius.meiwin@gmail.com,2017-10-09 10:07:19+00:00,"fix bug where animation stop playing after leaving the screen and coming back, e.g. presenting a modal view controller.",False
+973c08da8ccf3dbc171bcd9e8748e6368c5a2107,Brandon Withrow,buba447@gmail.com,2017-09-26 17:35:38+00:00,"merge pull request #428 from dabbott/da--fix-osx-layer-contents
+
+fix images crashing due to layer contents bug on osx",False
+93f9a238de5790fd963354cefbdeee0dff11edfa,Brandon Withrow,buba447@gmail.com,2017-09-26 17:35:09+00:00,"merge pull request #431 from behdad-keynejad/patch-1
+
+change all ""macos""s to ""macos""",False
+866e3e51bc4f9330d919276911a5ca6b1cbdc9e3,Behdad Keynejad,behdad.keynejad@gmail.com,2017-09-25 10:28:25+00:00,"change all ""macos""s to ""macos""
+
+apple market their operating system as macos, not macos, as seen here: https://www.apple.com/macos",False
+4ab43571ce3a33b96d2f9ed093127ae08a78cc16,Devin Abbott,devinabbott@gmail.com,2017-09-21 22:54:52+00:00,fix images crashing due to layer contents bug on osx,False
+62bd5416b664c2a303efca58b4b04b9f99903f9a,Brandon Withrow,buba447@gmail.com,2017-09-19 17:52:45+00:00,"merge pull request #422 from blackm00n/support.ib
+
+support lotanimationview instantiation from ib",False
+57a1dab16f64cc888c86a4c4fd90fc410ce75243,Brandon Withrow,buba447@gmail.com,2017-09-19 17:51:28+00:00,"merge pull request #424 from blackm00n/fix.backwards.animation
+
+fix backwards playback",False
+23743af4f78d19640d7dba78c193f5c12374a45a,Aleksey Kozhevnikov,aleksey.kozhevnikov@gmail.com,2017-09-19 16:15:36+00:00,fix backwards playback,False
+bd8c741444a281a1878dbeb2dba64f7724f11671,Aleksey Kozhevnikov,aleksey.kozhevnikov@gmail.com,2017-09-19 10:56:55+00:00,support lotanimationview instantiation from interface builder,False
+10568b55d86c42f4ab374888ffd38605411ea7ed,Brandon Withrow,buba447@gmail.com,2017-09-18 18:51:40+00:00,"merge pull request #421 from davinci42/master
+
+spell fix",False
+8dfa4bd1230d333329d311b66750b599aa811eb6,Brandon Withrow,buba447@gmail.com,2017-09-18 18:50:55+00:00,"merge pull request #414 from hansemannn/resolve-analyser-warnings-vol-2
+
+fix memory-leaks, analyser warnings and code-style",False
+81dafb1c9bdbf23c4acfef207c52a433decdcae4,DaVinci42,starrynight.ying@gmail.com,2017-09-18 10:51:17+00:00,spell fix,False
+016162b18bb021fb570c5a7156758643c827ee03,Hans Knöchel,hansemannn@users.noreply.github.com,2017-09-15 18:10:39+00:00,restore currentpoint = topoint assignment,False
+e342b086785fed2e93c70bb75780811762904655,Hans Knöchel,hans.knoechel@hs-osnabrueck.de,2017-09-10 10:06:44+00:00,"fix memory-leaks, analyser warnings and code-style",False
+861c517d163812d7eebc9a570e89a88786a1bf55,Brandon Withrow,buba447@gmail.com,2017-09-01 18:23:38+00:00,"merge pull request #402 from airbnb/btw/interactive
+
+updated interactive api",False
+3f004a02de15eb0445592151f3eb42da9339f08c,brandon_withrow,brandon.withrow@airbnb.con,2017-09-01 18:21:17+00:00,updated interactive api,False
+b6b3cb51bbbaa11781d889c4f21b8bd144366184,Brandon Withrow,buba447@gmail.com,2017-08-31 16:51:11+00:00,"merge pull request #400 from rishabhtayal/master
+
+code formatting in readme.md",False
+8b4d14c4331d4ffe7dcc30ceffcf12d27034e331,Rishabh Tayal,rtayal11@gmail.com,2017-08-31 14:56:35+00:00,code formatting in readme.md,False
+44b4086801baaa74d25a0accec4251112aa6a9b5,Brandon Withrow,buba447@gmail.com,2017-08-30 17:34:19+00:00,update issue_template.md,False
+bcc794ee8ce96dac979629bf549cd00ce51e0c87,Brandon Withrow,buba447@gmail.com,2017-08-30 02:05:46+00:00,update readme.md,False
+773353738a7e989e06fc3df68a620bc8939b8ae0,brandon_withrow,brandon.withrow@airbnb.con,2017-08-30 01:56:41+00:00,fix,False
+c172c5eb816dbbf77bbba8558dea84f11f96c1f6,brandon_withrow,brandon.withrow@airbnb.con,2017-08-30 01:36:13+00:00,version bump,False
+b3a122342b8b3521764ba851dc3ccb587a5709ae,Brandon Withrow,buba447@gmail.com,2017-08-30 01:35:04+00:00,"merge pull request #398 from airbnb/btw/accessibility
+
+btw/accessibility",False
+4e7a0a667355dc22536f3d127d4b18e43dae9caf,brandon_withrow,brandon.withrow@airbnb.con,2017-08-30 01:34:15+00:00,added interactive gesture support,False
+4c23c50907c2eaf78300c59d9cf21b8ebbdba1ec,brandon_withrow,brandon.withrow@airbnb.con,2017-08-30 01:32:44+00:00,added interactive gesture support,False
+80da652f331d81779f5d5546726091854563c0f1,brandon_withrow,brandon.withrow@airbnb.con,2017-08-29 23:59:58+00:00,added accessibility to lotanimatedcontrol,False
+6b2c7603f546873237c01cff3c444c7f65038a43,brandon_withrow,brandon.withrow@airbnb.con,2017-08-29 22:48:28+00:00,version bump,False
+7cdb48cce740405d07abe2e362c650b8fcf22790,Brandon Withrow,buba447@gmail.com,2017-08-29 19:05:24+00:00,"merge pull request #395 from airbnb/btw/presentationcrash
+
+fix for ios 8.1 and presentation layer crash",False
+72035acf2a8b0c1bd3a5ad9bf03a55a37329a8be,brandon_withrow,brandon.withrow@airbnb.con,2017-08-29 19:01:45+00:00,fix for ios 8.1 and presentation layer crash,False
+1c815ddc14a7161f16291b8da04fd153643785de,brandon_withrow,brandon.withrow@airbnb.con,2017-08-28 22:25:42+00:00,version bump,False
+7c3ccace59d2131b81b3d132f9c369571f5b554b,brandon_withrow,brandon.withrow@airbnb.con,2017-08-28 22:23:47+00:00,more readme,False
+0151778787c85e79b7937eee85b3456d3ce7e2d4,brandon_withrow,brandon.withrow@airbnb.con,2017-08-28 22:23:05+00:00,update readme,False
+1ab27f870b325c7e24f22dae64d4e8cbed6505a4,brandon_withrow,brandon.withrow@airbnb.con,2017-08-28 22:21:18+00:00,readme update,False
+5ae458fd70e2fec9bded3498194e1a8ef4d46514,brandon_withrow,brandon.withrow@airbnb.con,2017-08-28 22:19:06+00:00,update documentation and examples,False
+4038d3a7c312584624f54c0affcc26c7cc216b22,brandon_withrow,brandon.withrow@airbnb.con,2017-08-28 21:57:31+00:00,updated example,False
+b0ddddac01347b593b11c5e6be8778e2e801e607,Brandon Withrow,buba447@gmail.com,2017-08-28 21:42:40+00:00,"merge pull request #394 from airbnb/btw/animatedcontrols
+
+added animated controls and switches",False
+adc7b9a661471b3adcd3f3e14d85a426aae6478f,brandon_withrow,brandon.withrow@airbnb.con,2017-08-28 21:39:42+00:00,added animated controls and switches,False
+3ee585614b58118fa1c311b9178a84666dce5e1a,Brandon Withrow,buba447@gmail.com,2017-08-25 20:31:10+00:00,"merge pull request #391 from airbnb/btw/compconvenience
+
+moved convenience intializers to lotcomposition",True
+9edf5689f4dcf3631f8070358d911d4c4deaa2aa,brandon_withrow,brandon.withrow@airbnb.con,2017-08-25 20:28:01+00:00,moved convenience intializers to lotcomposition,True
+8069d2301ad233f0b71769b77c835a28f46a65aa,Brandon Withrow,buba447@gmail.com,2017-08-25 00:03:53+00:00,"merge pull request #389 from airbnb/btw/subviewfix
+
+btw/subview fix",False
+2fc468c8020ac78f7d3804e42594786c27efcb46,brandon_withrow,brandon.withrow@airbnb.con,2017-08-25 00:02:07+00:00,more fixes,False
+40b51de5fe90f35f03f06b253252d89e2662f321,brandon_withrow,brandon.withrow@airbnb.con,2017-08-24 21:47:05+00:00,fix add subviews coordinate bug,False
+85f1fa9602b42ab8abd5fd536fb89ca977fae580,Brandon Withrow,buba447@gmail.com,2017-08-23 20:02:20+00:00,update issue_template.md,False
+40cd431d149d1c8022b8ab67db77fa4ef92dc564,brandon_withrow,brandon.withrow@airbnb.con,2017-08-23 18:47:00+00:00,version bump,False
+bda0f82330aec2809967c22d0c3f63e49d597fce,brandon_withrow,brandon.withrow@airbnb.con,2017-08-23 18:45:57+00:00,crash fix,False
+8f86819ffff85ae4786393a07f453fefb80cfbec,Brandon Withrow,buba447@gmail.com,2017-08-17 22:04:30+00:00,"merge pull request #377 from welshm/reversesupport
+
+add better support for negative animation speeds",False
+fbf6ca56864a45b377e961a7cf5f7f4462e2c9db,Brandon Withrow,buba447@gmail.com,2017-08-17 22:04:12+00:00,merge branch 'master' into reversesupport,False
+805a67144889a9845905cc32febe2898365230a5,Michael Welsh,mike@ritual.co,2017-08-17 21:41:50+00:00,update lotanimationview header to have better comments,False
+b0b7b7c8cb5ff06d8b9f20109ca70d2839fc3cda,Michael Welsh,mike@ritual.co,2017-08-17 21:37:15+00:00,rename _isplayingforward to _isspeednegative to be more clear what it's checking,True
+ab75236c5f0dcbedfaa6af51b182a75c0413a93f,Michael Welsh,mike@ritual.co,2017-08-17 21:05:20+00:00,"revert some of the animationprogress changes to revert to reflect absolutes
+
+- update header documentation to make it clear how animatinospeed and animationprogress interact
+- leave fixes in there that stop reversed animations ""snapping"" back",False
+e15565420c72426f0754e41cca4a2cd1b0d5c231,Brandon Withrow,buba447@gmail.com,2017-08-17 19:53:04+00:00,"merge pull request #376 from louisdh/typos-fix
+
+fix typos in lotanimationview.h",False
+0896678088f95fd29265f43737be4c443b155dde,Michael Welsh,mike@ritual.co,2017-08-17 15:16:59+00:00,merge branch 'reversesupport' of https://github.com/welshm/lottie-ios into reversesupport,False
+3e0790a41387c963aad29afb58c6a75e6251d33e,Michael Welsh,mike@ritual.co,2017-08-17 14:16:47+00:00,"add better support for negative animation speeds
+
+- the progress can be calculated basd on negative speed
+  + the end frame would be a progress of 0 and the start frame a progress of 1
+  + recalculate progress when the speed changes, otherwise a ""jump"" will be seen when restarting animation
+
+- the frame for the progress can be calculated using the newly inverted progress
+  + determine the absolute progress based on current progress and determine which frame to use based on animation speed
+
+- this fixes issues of animations playing with negative speeds ""bouncing"" back to their final position
+  which was caused by the final frame being calculated based on a completed progress of 1 which then did not take into
+  account the negative animation speed.",False
+a53bbe99cabb93eed27d34c22fdbad896c3f853d,Michael Welsh,mike@ritual.co,2017-08-17 14:16:47+00:00,"add better support for negative animation speeds
+
+- the progress can be calculated basd on negative speed
+  + the end frame would be a progress of 0 and the start frame a progress of 1
+  + recalculate progress when the speed changes, otherwise a ""jump"" will be seen when restarting animation
+
+- the frame for the progress can be calculated using the newly inverted progress
+  + determine the absolute progress based on current progress and determine which frame to use based on animation speed
+
+- this fixes issues of animations playing with negative speeds ""bouncing"" back to their final position
+  which was caused by the final frame being calculated based on a completed progress of 1 which then did not take into
+  account the negative animation speed.",False
+2ef6f1d19f9f3e2e5bc9ba246aa574b284f91324,Louis D'hauwe,louisdhauwe@silverfox.be,2017-08-17 09:09:09+00:00,update lotanimationview.h,False
+b795c24ad809e51cdf734236a65a68e9bd07fd2d,Brandon Withrow,buba447@gmail.com,2017-08-16 17:09:10+00:00,"merge pull request #374 from calvix-xu/master
+
+fix the memory leak in lotbezierpath.m file",False
+bc3d4edc9b44d399f8cf0142e49e46d8446fe8d5,XuHongjian,xuhja@yonyou.com,2017-08-16 06:10:01+00:00,fix the memory leak in lotbezierpath.m file,False
+f71cf24bfd3b8bfba79b522f37314d5f6607f1a2,Brandon Withrow,buba447@gmail.com,2017-08-15 21:36:57+00:00,update issue_template.md,False
+ec65175769dfccdca922046e2626b3a983a75de9,Brandon Withrow,buba447@gmail.com,2017-08-15 21:33:04+00:00,update issue_template.md,False
+eaad28f4cef5fb7fc93e176fcce3a84fb688224e,Brandon Withrow,buba447@gmail.com,2017-08-15 21:30:38+00:00,create issue_template.md,False
+32530474da2b1c8d3cbb0d199780f308d5ef4c0f,Brandon Withrow,buba447@gmail.com,2017-08-15 21:22:16+00:00,update readme.md,False
+555b7a4a5897f7e2d40ac39ddc96c08d86f2e7bc,brandon_withrow,brandon.withrow@airbnb.con,2017-08-15 19:27:52+00:00,bump version,False
+c9cf9c047d3929cff740a0a024bc57a05882db23,Brandon Withrow,buba447@gmail.com,2017-08-15 19:25:36+00:00,"merge pull request #371 from airbnb/btw/compleitoncrashfix
+
+fix for completion block crash",False
+9b6d3c9569193451fdad1233b020dc64c8736f6b,brandon_withrow,brandon.withrow@airbnb.con,2017-08-15 19:23:44+00:00,fix for completion block crash,False
+88d38f3b169f9e2e8b50b4a0a17faa12fbbe71f9,brandon_withrow,brandon.withrow@airbnb.con,2017-08-15 00:08:02+00:00,bump master,False
+7bb96f0d20fe83b281def1a23d413ff26ffb9272,brandon_withrow,brandon.withrow@airbnb.con,2017-08-15 00:05:32+00:00,superview fix,False
+d221525b6325e2860aeb2d7a43464b2fc1b401d1,Brandon Withrow,buba447@gmail.com,2017-08-15 00:00:15+00:00,"merge pull request #366 from airbnb/btw/playfix
+
+fix for play logic and render group bug",False
+9434c0ef1de8d566f3d71eec483ed2104d0e967b,brandon_withrow,brandon.withrow@airbnb.con,2017-08-14 23:59:04+00:00,fix for play logic and render group bug,False
+e2365eead5e0bc557969d2ac16cd3a558aebff94,Brandon Withrow,buba447@gmail.com,2017-08-09 18:51:02+00:00,update readme.md,False
+3d41ca895cacf11d3c57bbdedcb7fd8e26fb6a44,Brandon Withrow,buba447@gmail.com,2017-08-08 21:48:26+00:00,update readme.md,False
+8a358a65e8400b84ca4841b7f8b232fbc7f32d66,Brandon Withrow,buba447@gmail.com,2017-08-08 21:44:33+00:00,add files via upload,False
+1a9af1d9dfaf9a71134ce33bfc2f62331afd0338,Brandon Withrow,buba447@gmail.com,2017-08-08 21:00:21+00:00,update readme.md,False
+602c405e3d24b6e2e641ca653640d1f705e226f7,Brandon Withrow,buba447@gmail.com,2017-08-07 22:18:26+00:00,update readme.md,False
+457769b4a383cbcc1a1ca9a3420b6c7a58c534fe,Brandon Withrow,buba447@gmail.com,2017-08-07 18:04:50+00:00,"merge pull request #350 from fabionuno/paste-support-macos
+
+add support to paste animation url from lottiefiles",False
+c81a21b2fb773c065b38642def9be7e4fb77cec5,Brandon Withrow,buba447@gmail.com,2017-08-07 16:21:38+00:00,"merge pull request #353 from airbnb/btw/animationduration
+
+fix for missing animation duration",False
+29222b210b329518a40fdc01a65eef1253b9effd,brandon_withrow,brandon.withrow@airbnb.con,2017-08-07 16:20:55+00:00,fix for missing animation duration,False
+48101fd550af883cc2b0be0b1edb8639deaea06e,Fabio Nuno,fabio.nuno@gmail.com,2017-08-07 02:19:40+00:00,"add support to paste animation url from lottiefiles
+
+add support to paste animation's url from lottiefiles to preview on
+lottie viewer",False
+e84ae526fdc59bcc5fc94eddc30446468fe47b24,brandon_withrow,brandon.withrow@airbnb.con,2017-08-04 23:20:08+00:00,update podspec,False
+e6120bc97f006872a2ce7c3a780cb2682bb2fa61,brandon_withrow,brandon.withrow@airbnb.con,2017-08-04 23:13:42+00:00,bump version,False
+76753bd9c87099b76196dcf26f4869c539a797c4,brandon_withrow,brandon.withrow@airbnb.con,2017-08-04 23:12:57+00:00,readme update,False
+68f4fe87c66ad0eea600e58843bb3c85f1b6a968,Brandon Withrow,buba447@gmail.com,2017-08-04 23:10:43+00:00,"merge pull request #349 from airbnb/btw/gradientfix
+
+fix for gradients",False
+4b747e19d5f42385c7fc0d88021f1a9686d65dd8,brandon_withrow,brandon.withrow@airbnb.con,2017-08-04 23:10:11+00:00,fix for gradients,False
+2bb2399d4a1623001f5fce2567f9717cc6d7aa2e,Brandon Withrow,buba447@gmail.com,2017-08-04 22:40:07+00:00,"merge pull request #348 from airbnb/btw/radialgradient
+
+add support for radial gradient",False
+44997f6280d41e793c4906a9a0f5985f054ea5fe,brandon_withrow,brandon.withrow@airbnb.con,2017-08-04 22:35:08+00:00,disable debug,False
+0cfc57650d11144428eeedf12c7dfa7303a5df63,brandon_withrow,brandon.withrow@airbnb.con,2017-08-04 22:34:12+00:00,add support for radial gradient,False
+a45b8064bfe8e22cb5adcdf10d7b1f2c1176a83f,Brandon Withrow,buba447@gmail.com,2017-08-04 21:42:11+00:00,"merge pull request #347 from airbnb/btw/setanimation
+
+add support for setting animation after init",False
+fe00994124c15fcb1c00e918ae093eccba7bc6f9,brandon_withrow,brandon.withrow@airbnb.con,2017-08-04 21:39:51+00:00,add support for setting animation after init,False
+54fa86a693b2bd091691afbbc20573a5a1ea8186,Brandon Withrow,buba447@gmail.com,2017-08-04 20:40:56+00:00,"merge pull request #346 from airbnb/btw/keypathwarning
+
+add log warning for missing keypath",False
+8067262ebfef2a8db76c36b3adee8c8d048cd35b,brandon_withrow,brandon.withrow@airbnb.con,2017-08-04 20:40:18+00:00,add log warning for missing keypath,False
+1d136c40347629b4f39adde4bbb67fc0fd025610,Brandon Withrow,buba447@gmail.com,2017-08-04 20:37:05+00:00,"merge pull request #345 from airbnb/btw/keypaths
+
+added logging for keypaths",False
+8be9ea150c125361535c2080d7e5d2bf6765d1c9,brandon_withrow,brandon.withrow@airbnb.con,2017-08-04 20:36:23+00:00,added logging for keypaths,False
+bebfce57b9102567cdc740cd13dbd70585f3a401,Brandon Withrow,buba447@gmail.com,2017-08-03 23:37:44+00:00,"merge pull request #342 from airbnb/btw/podupdate
+
+update podfile",False
+5756072a8f102bbb8dd0d7a6e0f2fab6181901bf,brandon_withrow,brandon.withrow@airbnb.con,2017-08-03 23:37:15+00:00,update podfile,False
+276513876dcbe5b75b6cea984dc516489b218692,Brandon Withrow,buba447@gmail.com,2017-08-03 23:22:52+00:00,"merge pull request #341 from airbnb/btw/removescreenshots
+
+removed screenshot tests and updated example app",True
+db46a3fe74b126a2f898491a822832d4925ab7b3,brandon_withrow,brandon.withrow@airbnb.con,2017-08-03 23:22:16+00:00,removed screenshot tests and updated example app,True
+7cc71d1e41e0aa8d0c9432bcd5a0e0bb35e13fdf,Brandon Withrow,buba447@gmail.com,2017-08-03 23:09:58+00:00,"merge pull request #336 from panmingyang2009/imagecache
+
+allow custom image cache for 'animationwithfilepath'",False
+2abaf6251552fecb12611efef2e227d8dac7ad1e,Brandon Withrow,buba447@gmail.com,2017-08-03 23:05:19+00:00,"merge pull request #340 from airbnb/btw/readmeupdate
+
+update readme",False
+367312cd1a2dab2720bef388eb52cd26b2696ba1,brandon_withrow,brandon.withrow@airbnb.con,2017-08-03 23:04:08+00:00,update readme,False
+6ba84363c3f38ceed0f3035c88be7a00e593025b,Brandon Withrow,buba447@gmail.com,2017-08-03 21:28:15+00:00,"merge pull request #339 from airbnb/btw/examplefix
+
+fix for example apps",False
+820b78863eb95c2d4fba2bfc501e4b267a1442f8,brandon_withrow,brandon.withrow@airbnb.con,2017-08-03 21:27:36+00:00,fix for example apps,False
+cf001de30d31c05b0c5681f10ca018f91e72a7aa,Brandon Withrow,buba447@gmail.com,2017-08-03 20:41:13+00:00,"merge pull request #338 from airbnb/btw/forceupdatefix
+
+fix for force update",False

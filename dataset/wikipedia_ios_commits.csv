@@ -1,0 +1,1473 @@
+SHA,Author Name,Author Email,Author Date,Message,Refactor
+23ffa1719b4377e3d5a032d7299d208b5de542f0,golson-wmf,golson@wikimedia.org,2025-01-03 21:51:00+00:00,french,False
+2d9a4ce3a6279cb20a7734735c02429cb7c7ecc7,Marina Azevedo,mazevedo@wikimedia.org,2025-01-03 16:50:15+00:00,"merge pull request #5120 from wikimedia/t363511-zh-cn
+
+add zh-cn",False
+38ee7abc784b1b1a983273c6c8dae0a5036e0a51,Marina Azevedo,mazevedo@wikimedia.org,2025-01-03 12:10:11+00:00,merge branch 'main' into t363511-zh-cn,False
+11d6d7070eb16cf7f1c640a78a6a08510aad6e6c,Marina Azevedo,mazevedo@wikimedia.org,2025-01-03 12:09:49+00:00,"merge pull request #5122 from amire80/agraph
+
+remove redundant words from an accessilibity message",True
+b88aa290d35424b7e57a276f752d87ebcc754e36,Marina Azevedo,mazevedo@wikimedia.org,2025-01-02 19:15:14+00:00,merge branch 'main' into agraph,False
+61b6d1759c5607531df91144ce1f2811add5fa73,Marina Azevedo,mazevedo@wikimedia.org,2025-01-02 19:11:29+00:00,"merge pull request #5119 from wikimedia/t381330-v2-ins
+
+t381330: yir v2 instrumentation",False
+310fc8f3668d6d25fe111cc95debe2741ca3eaac,golson-wmf,golson@wikimedia.org,2024-12-20 15:58:16+00:00,ddloglevel,False
+ba505903cd0f30771b784a49a87a766a2717ac2f,golson-wmf,golson@wikimedia.org,2024-12-20 15:39:15+00:00,update events to profile entry b,False
+89683c8591f8a10269a619afb7d9eb960e8a6232,golson-wmf,golson@wikimedia.org,2024-12-20 15:11:25+00:00,inst pt 1,False
+a5ecd97fb99853b9223cefa71447d38c4a69c1fe,golson-wmf,golson@wikimedia.org,2024-12-20 19:37:01+00:00,add zh-cn,False
+230b758310aa141fc4967516f744741ede0d7351,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2025-01-02 14:39:47+00:00,"merge pull request #5117 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+900904553a0a1d2875eec1ff13fa2da3921f4b53,github-actions,github-actions@github.com,2025-01-02 12:25:56+00:00,import translations from translatewiki,False
+6e97fe6e978e01f45c271d7dd553dd20e45ff1a2,translatewiki.net,l10n-bot@translatewiki.net,2025-01-02 12:25:27+00:00,localisation updates from https://translatewiki.net.,False
+372261dd21205f405c530899a589175382ccd02b,Amir E. Aharoni,amir.aharoni@mail.huji.ac.il,2024-12-23 19:26:41+00:00,add a missing article in a message,False
+c3452dfec3928817f95d92547d56f796f5146da0,Amir E. Aharoni,amir.aharoni@mail.huji.ac.il,2024-12-23 19:26:07+00:00,add a missing article to a message,False
+62c611ad522b5fcb02bbd77611bfec600670e404,Amir E. Aharoni,amir.aharoni@mail.huji.ac.il,2024-12-23 19:19:03+00:00,remove redundant words from an accessilibity message,True
+507f56bf1dd725c6b9c9cde822056b53fce76af5,Toni Sevener,tsevener@wikimedia.org,2024-12-19 20:53:40+00:00,"merge pull request #5118 from wikimedia/yir2_touchups
+
+design feedback",False
+b16a867d73e2c29e76ac4343d3aa909352e8d18d,golson-wmf,golson@wikimedia.org,2024-12-19 19:37:35+00:00,subtitle -> formatted number,False
+24d6d630ef9d2d9debf2ce04c7d0711292a8ed9b,golson-wmf,golson@wikimedia.org,2024-12-19 16:06:49+00:00,formatting,False
+09a227ba0fc726b21b057ea2f988e8e7ba51eede,golson-wmf,golson@wikimedia.org,2024-12-19 15:39:50+00:00,undo indent,False
+71c883a2e6621e17c5e84f009f021839e09c9b2d,golson-wmf,golson@wikimedia.org,2024-12-19 15:24:03+00:00,format number + add shouldhidedonatebutton,False
+40e1a7f8fd7ce320f82432bc888d5ece5cbb4d0e,Toni Sevener,tsevener@wikimedia.org,2024-12-18 18:11:19+00:00,"merge pull request #5115 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+2ad41d405ab44ae60e5606055ad59f611bed6e69,Toni Sevener,tsevener@wikimedia.org,2024-12-18 17:38:52+00:00,strings changes from building,False
+9cdff5526c7ad8a1bd325487b95009f39bc82ca5,Toni Sevener,tsevener@wikimedia.org,2024-12-18 17:38:18+00:00,merge branch 'main' into twn,False
+d734210cd072dc7a7fa266d4c329f489486071cd,Toni Sevener,tsevener@wikimedia.org,2024-12-18 17:35:30+00:00,"merge pull request #5116 from wikimedia/t381332
+
+t381332",False
+70864acbb6c52d527113e3e9cea8aa99e202fd72,Toni Sevener,tsevener@wikimedia.org,2024-12-18 17:09:16+00:00,use string instead of url,False
+ebfbe78af81d314d4837001d84ba02c324834be8,golson-wmf,golson@wikimedia.org,2024-12-18 16:56:56+00:00,update blog url,False
+0a9af95ac03a0ba561f6f5a616bc0ea354c53ce3,Toni Sevener,tsevener@wikimedia.org,2024-12-18 16:55:19+00:00,fix test failures,False
+385f02aa75c6382327a018e652a7e69c802736e1,golson-wmf,golson@wikimedia.org,2024-12-18 16:50:06+00:00,"localized strings -> computed var, update a11y",False
+ce5f2e852044c5a3190826f6a3023df3ca503fec,golson-wmf,golson@wikimedia.org,2024-12-17 20:50:18+00:00,update string,False
+9cdbb2aef3c26e227fd0f739fbd8aeda659f5957,golson-wmf,golson@wikimedia.org,2024-12-17 19:17:04+00:00,update detents,False
+03b03ca200e03883f91f5fb0a147ebdfa89027ed,golson-wmf,golson@wikimedia.org,2024-12-17 15:27:42+00:00,"add ui tweaks, pass alt text",False
+084da3a1aecb1b0b7b58172ee66ee30c3b62f782,golson-wmf,golson@wikimedia.org,2024-12-16 20:30:12+00:00,"update accessibility labels, etc.",False
+4125597fba9c6a4060f63c6c2f54ef5780f5563d,golson-wmf,golson@wikimedia.org,2024-12-16 16:21:33+00:00,display english slides,False
+bbcdedfb792caad08cc40dc4131faa6b31964cbb,github-actions,github-actions@github.com,2024-12-16 12:25:21+00:00,import translations from translatewiki,False
+e3e8e218731fafd39d687b7fa90601416696c198,translatewiki.net,l10n-bot@translatewiki.net,2024-12-16 12:24:01+00:00,localisation updates from https://translatewiki.net.,False
+71bdf196dd70d11286bf268cf54191f54a6b38bf,golson-wmf,golson@wikimedia.org,2024-12-13 19:22:48+00:00,html text working for ol slide,False
+3fbe73e1ef2ad1f74cdf86b4eda74d5cf96055ad,golson-wmf,golson@wikimedia.org,2024-12-13 00:12:02+00:00,merge branch 'main' into t381332,False
+decf385db6c894e44d07fbb0376b7434289d8a9c,golson-wmf,golson@wikimedia.org,2024-12-13 00:11:34+00:00,english copy,False
+8d94905c0b3e83d398cc83cbe2fb783d6c02c7cb,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-12 23:21:39+00:00,"merge pull request #5114 from wikimedia/fix-yir-login-state-bugs
+
+[yir] fix yir feature announcement login state bug",False
+e06ffc1f4c2afef805e2b483f4427006190ce2f5,Toni Sevener,tsevener@wikimedia.org,2024-12-12 22:22:05+00:00,maybe fix yir feature announcement login state bug,False
+f221d6689e2dd9cac1ed3d1f8d6b3440d3591aa1,golson-wmf,golson@wikimedia.org,2024-12-12 20:57:01+00:00,pr feedback from t381331,False
+fa85ceaab57449f671370a3260008791ef0680d1,Toni Sevener,tsevener@wikimedia.org,2024-12-12 16:54:10+00:00,"merge pull request #5113 from wikimedia/gif-architecture
+
+gif architecture",False
+0b79a2b819ed437a79fb8254c821953448e2ea92,golson-wmf,golson@wikimedia.org,2024-12-11 20:01:05+00:00,uncomment out preview,False
+ab4794fba5f42ce26201138fa1960d79a0935106,golson-wmf,golson@wikimedia.org,2024-12-11 19:33:25+00:00,announcement,False
+912c8fb2fed8b826a33fb90d1db835768ea78e44,golson-wmf,golson@wikimedia.org,2024-12-11 18:06:50+00:00,"extra space in copy, update alt",False
+3dc72266bf3f5c538d84f1c85d2686778fc5abc3,golson-wmf,golson@wikimedia.org,2024-12-11 18:03:21+00:00,alt text + imagery touchups,False
+779049effba2db9a750a69ae5142d4e9eef8cecd,golson-wmf,golson@wikimedia.org,2024-12-10 21:03:03+00:00,personalized + non english slides copy,False
+1351f9383d36875f7be08ad1e890160fb7a9508a,golson-wmf,golson@wikimedia.org,2024-12-10 15:45:01+00:00,merge branch 'main' into gif-architecture,False
+911df457784c46ea0d1949d828b85f4cff592d58,Toni Sevener,tsevener@wikimedia.org,2024-12-10 14:42:03+00:00,"merge pull request #5111 from wikimedia/yir-fix-read-count
+
+[yir] fix read count",False
+5b4c0d0d2d408f7847849f916fc443f365a3bf7c,Toni Sevener,tsevener@wikimedia.org,2024-12-10 14:22:34+00:00,minor renames that were missed,True
+a695dd41968d0b1c1ea3d051139b92e7a1f0d661,Toni Sevener,tsevener@wikimedia.org,2024-12-10 14:19:02+00:00,merge branch 'main' into yir-fix-read-count,False
+fa49e5c3aae3c031eacc91227fde33e7f589f87a,golson-wmf,golson@wikimedia.org,2024-12-09 21:37:04+00:00,"fallback images, clean up, removing unused bits from slideshowcontent",True
+470c00283640f819b8166753d175278bc475af39,golson-wmf,golson@wikimedia.org,2024-12-09 20:02:02+00:00,upload personal 02,False
+8d59316bf68cb6afcf6c4faa9fd971e942aad4fd,golson-wmf,golson@wikimedia.org,2024-12-09 19:58:44+00:00,add gifs + pngs,False
+9b5427490cb155a89e52cf8d279bbe0d20b6878f,golson-wmf,golson@wikimedia.org,2024-12-09 18:39:18+00:00,merge branch 'main' into gif-architecture,False
+25557e8d63b70e418ea4795d12041b7beed26532,Toni Sevener,tsevener@wikimedia.org,2024-12-09 18:14:26+00:00,"merge pull request #5109 from wikimedia/t376353
+
+t376353",False
+40cdb5aec6d4ac05fcd9390901a128228d2b3293,Toni Sevener,tsevener@wikimedia.org,2024-12-09 17:50:49+00:00,"fix warnings, hide personalized slides from logged out users",False
+64735bc2aad96c0494d25558f23bdb0f6ee31c0a,golson-wmf,golson@wikimedia.org,2024-12-09 17:44:35+00:00,rebase cleanup,False
+3791200e3f072575b770ddbe53a19a7a1ce8ed02,golson-wmf,golson@wikimedia.org,2024-12-09 17:07:19+00:00,"merge branch 'main' into t376353
+
+# conflicts:
+#	wmfdata/sources/wmfdata/data controllers/year in review/wmfyearinreviewdatacontroller.swift
+#	wikipedia/code/yearinreviewcoordinator.swift",False
+eed0cc56266b406048e688ffc066deb8f08d4599,golson-wmf,golson@wikimedia.org,2024-12-09 17:03:01+00:00,final (?) clean up,True
+6c08aa22f88c1b9d323d03cb15b6a8a1974c7266,golson-wmf,golson@wikimedia.org,2024-12-09 16:53:11+00:00,merge branch 'main' into gif-architecture,False
+f9b8ecd1f69f25befa9a3ef63e085972108fbf6c,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-09 16:39:27+00:00,"merge pull request #5085 from wikimedia/t379796
+
+[yir] update flow to show collective for logged out users",False
+aef5e5eb70db9841a02525b682661ccd0b281fc2,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-09 16:25:40+00:00,merge branch 'main' into t379796,False
+ceceaca030afe0fea7939d7e2d28e41b4bb5bee3,golson-wmf,golson@wikimedia.org,2024-12-09 16:02:43+00:00,rename/clean up,True
+6527ab11d4f72ae8b05faa88e779711a453bfed1,golson-wmf,golson@wikimedia.org,2024-12-09 16:02:43+00:00,rename/clean up,True
+790b8a83c70e0bb20fc1e1bdd0c74b32d6dc86ef,golson-wmf,golson@wikimedia.org,2024-12-09 14:43:31+00:00,update show logic,False
+7066466bab75cf3438616f3c4ed4e179672a1658,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-07 03:59:18+00:00,"merge pull request #5110 from wikimedia/t347999-dr
+
+create account username error design review tweaks",False
+5e6efeb2ccd708e738452d24d5b8f4100c3ce781,golson-wmf,golson@wikimedia.org,2024-12-07 03:49:30+00:00,gif support,False
+8414f464237c3243649d9b141f85422b416cb055,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-07 03:49:12+00:00,merge branch 'main' into t347999-dr,False
+c442e17e2862a246513ba595149114876b853bcd,golson-wmf,golson@wikimedia.org,2024-12-07 03:37:16+00:00,update slide order,False
+5d9c0c95cb3c1d36103351ff23578881993cdd39,Toni Sevener,tsevener@wikimedia.org,2024-12-06 22:58:47+00:00,fix tests,False
+8134dd8632d76702df900bb5951d40083d334ed0,Toni Sevener,tsevener@wikimedia.org,2024-12-06 22:54:06+00:00,add some extra safety,False
+df9c009f10fb8425c7bf30c2b26d3cdb40070d98,Toni Sevener,tsevener@wikimedia.org,2024-12-06 22:51:58+00:00,fix tests,False
+f8a83e19f7b7ac101a4189cfd8ddd5683296d37d,Toni Sevener,tsevener@wikimedia.org,2024-12-06 22:23:28+00:00,some cleanup to background tasks,False
+2d4bf78e2fd287203a79717ca12408f0f1837fee,Toni Sevener,tsevener@wikimedia.org,2024-12-06 22:07:04+00:00,populate initial view count slide upon upgrade,False
+e720266eb067e4192781fee2dd89b0a3f70f7a01,Toni Sevener,tsevener@wikimedia.org,2024-12-06 21:47:39+00:00,little tweaks,False
+1d0508f7e4ef659f30cc76ba62d9355f2c60af49,Toni Sevener,tsevener@wikimedia.org,2024-12-06 21:30:49+00:00,use background tasks in case user backgrounds during data population,False
+cbc014c80cc01ea6150adeda7ae2192c83afd7a7,golson-wmf,golson@wikimedia.org,2024-12-06 21:20:09+00:00,separate network/core data,False
+ff03af145647e43a27c56c38ed663fff5c7cdf3a,golson-wmf,golson@wikimedia.org,2024-12-06 20:51:28+00:00,update threading,False
+c5f687bdf375ad66a98e9216281012a9e32b6af1,golson-wmf,golson@wikimedia.org,2024-12-06 20:11:17+00:00,networking,False
+9b6913d239fa85691582e31f42a62ae469fe494f,Toni Sevener,tsevener@wikimedia.org,2024-12-06 20:04:00+00:00,"rework so that readcount and mostreadday slides are based on legacy database
+
++ rename wmfpageviewimportrequest > wmflegacypageview",True
+bfe387fe2656baa1ea638f53b8cd44da4c3e7d44,golson-wmf,golson@wikimedia.org,2024-12-06 19:43:48+00:00,most refactor - break on 760 data controller,True
+b1629a58b7e164950181128352f17bf8f75c2e06,golson-wmf,golson@wikimedia.org,2024-12-06 17:47:07+00:00,update copy,False
+ddc52da812422948dac5a4039c8824731badf038,golson-wmf,golson@wikimedia.org,2024-12-06 15:58:38+00:00,tests,False
+4d4854b55a399c4bb36b9157cee3d8d610536f79,golson-wmf,golson@wikimedia.org,2024-12-06 15:52:33+00:00,merge conflict clean up,True
+bfeb7831c163a2e88a1f2d6421c1384dd99aec0a,golson-wmf,golson@wikimedia.org,2024-12-06 15:44:40+00:00,"merge branch 'main' into t376353
+
+# conflicts:
+#	wmfdata/sources/wmfdata/data controllers/year in review/wmfyearinreviewdatacontroller.swift
+#	wmfdata/tests/wmfdatatests/wmfyearinreviewdatacontrollercreateorretrievetests.swift
+#	wmfdata/tests/wmfdatatests/wmfyearinreviewdatacontrollertests.swift
+#	wikipedia/code/wmfappviewcontroller+extensions.swift
+#	wikipedia/code/yearinreviewcoordinator.swift
+#	wikipedia/code/yearinreviewsettingsviewcontroller.swift
+#	wikipedia/ios native localizations/en.lproj/localizable.strings",False
+0815af129ea326ccd1a504bfdf2d4f2a13202077,golson-wmf,golson@wikimedia.org,2024-12-06 15:20:33+00:00,change passing of userid,False
+e612e505aeeada8486fb657747dd5e851f538782,Toni Sevener,tsevener@wikimedia.org,2024-12-06 01:50:25+00:00,fix core data threading complaint from main branch,False
+57f903b104ea5a5e48cb325bd3f04ba7297fe73c,Toni Sevener,tsevener@wikimedia.org,2024-12-05 23:02:01+00:00,merge branch 'main' into t379796,False
+0618a525fcaf9cbd677b3cfc2110b5acdd9dd0a2,Toni Sevener,tsevener@wikimedia.org,2024-12-05 23:01:45+00:00,"merge pull request #5108 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+58168ef7e67c80ada2e4162fd5d7e7f6cff3578a,Toni Sevener,tsevener@wikimedia.org,2024-12-05 23:01:10+00:00,tweaks based on task requirements,False
+90ef9722fda2ab23686bbccb7cb79bf80b57f64f,Toni Sevener,tsevener@wikimedia.org,2024-12-05 22:43:06+00:00,merge branch 'main' into t379796,False
+427bce23d499cef3c91b857aac84e20a0a23e082,Toni Sevener,tsevener@wikimedia.org,2024-12-05 22:35:49+00:00,strings changes from building,False
+29671217eaecad46d31b69b2f1d80fa0e85147a3,Toni Sevener,tsevener@wikimedia.org,2024-12-05 22:34:51+00:00,merge branch 'main' into twn,False
+6f2e125cc46927725e870d962fa9792700ef3bb7,Toni Sevener,tsevener@wikimedia.org,2024-12-05 22:32:01+00:00,add changes in pr #5104 and #5102 in source code,False
+71ce7a818c53070167a8781c3404afc05f2eef6d,Toni Sevener,tsevener@wikimedia.org,2024-12-05 22:04:39+00:00,"merge pull request #5098 from wikimedia/yir-saved-slide
+
+[yir] v2 - saved articles slide",False
+759c379f68033c769d4dba5e9b19795d8aad4409,Toni Sevener,tsevener@wikimedia.org,2024-12-05 22:04:09+00:00,fix test failures,False
+8f8305367fdb427f78685d77ff35d5088c51aa68,Toni Sevener,tsevener@wikimedia.org,2024-12-05 21:37:18+00:00,merge branch 'main' into yir-saved-slide,False
+f222aa1af8e716a7aa938722e470e36d3f1b35ea,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-05 21:30:13+00:00,"merge pull request #5094 from wikimedia/most-read-fix
+
+[yir] populate initial most read slide if needed",False
+e3ee83bf226ce849812ab50229544c08c74bda28,Toni Sevener,tsevener@wikimedia.org,2024-12-05 21:29:53+00:00,fix compile failure,False
+f1193cc6c197778f22d4f246a1b3b9d4fa664718,Toni Sevener,tsevener@wikimedia.org,2024-12-05 21:22:23+00:00,strings changes from building,False
+7fbaa29e166567f4aa2e4ccbc49c0464b36a32f2,Toni Sevener,tsevener@wikimedia.org,2024-12-05 21:17:37+00:00,merge branch 'main' into yir-saved-slide,False
+b36e393b84e1de8a870e9dbeecfed91cb59c70c9,Toni Sevener,tsevener@wikimedia.org,2024-12-05 21:09:11+00:00,make some slide wording more consistent,False
+12a607a841aeaeeedce87b39965cf5d9dd7679bc,Toni Sevener,tsevener@wikimedia.org,2024-12-05 21:08:49+00:00,merge branch 'main' into most-read-fix,False
+7b88708fdd4b9ac972f423e2d2b49a7e1e07dcf5,Toni Sevener,tsevener@wikimedia.org,2024-12-05 21:08:21+00:00,"merge pull request #5086 from wikimedia/t379794
+
+pop up log in for logged out users",False
+ba422404a707c692031d77f22376e34e06241e92,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-05 21:06:16+00:00,merge branch 'main' into most-read-fix,False
+9ae042554c3d1f7583c8e94f0efeba64cd05dfa0,golson-wmf,golson@wikimedia.org,2024-12-05 20:57:07+00:00,update tests,False
+a2b0a555c936baace30b5c412a93fd357f8d3f49,Toni Sevener,tsevener@wikimedia.org,2024-12-05 20:52:40+00:00,add private,False
+3a16fe1f38601804372e124e2307a13e3acd62c9,golson-wmf,golson@wikimedia.org,2024-12-05 20:50:47+00:00,move actions,True
+6d3ff11883d68276035ec96d841161f8eb1a2882,golson-wmf,golson@wikimedia.org,2024-12-05 20:49:42+00:00,"merge branch 'main' into t379794
+
+# conflicts:
+#	wikipedia/code/yearinreviewcoordinator.swift
+#	wikipedia/ios native localizations/en.lproj/localizable.strings",False
+c49601044ea91d20a509492d275c66715eafa0ff,golson-wmf,golson@wikimedia.org,2024-12-05 20:40:10+00:00,"merge branch 'main' into t376353
+
+# conflicts:
+#	wmfdata/tests/wmfdatatests/wmfyearinreviewdatacontrollercreateorretrievetests.swift
+#	wmfdata/tests/wmfdatatests/wmfyearinreviewdatacontrollertests.swift
+#	wikipedia/code/yearinreviewcoordinator.swift
+#	wikipedia/ios native localizations/en.lproj/localizable.strings",False
+436e4474385507d939e5d85fdd0e8d02248c2ecd,Toni Sevener,tsevener@wikimedia.org,2024-12-05 20:39:11+00:00,remove unnecessary @objc call,True
+25804b4d4035db148dba6dbdda6c7e095eeb38ef,Toni Sevener,tsevener@wikimedia.org,2024-12-05 20:30:45+00:00,delete empty env variable that slipped in,False
+6d022310e81271caf129a2433ec6fec8852955fb,golson-wmf,golson@wikimedia.org,2024-12-05 20:25:17+00:00,"finish up ui + data for view count, moved icon down 5 px",True
+24700acb4f56c719ae0afb729daec8b195c30e4c,Toni Sevener,tsevener@wikimedia.org,2024-12-05 20:24:59+00:00,update region,False
+848767ebf42f25135b91fb8067b9024dc9b2370d,Toni Sevener,tsevener@wikimedia.org,2024-12-05 20:24:44+00:00,pr feedback,False
+96c5c71f7996d05f6021085342a18d6172cdf999,golson-wmf,golson@wikimedia.org,2024-12-05 15:57:44+00:00,data tinkering,False
+e7651fde685085365f182dcbbf3b51e22d31b567,Toni Sevener,tsevener@wikimedia.org,2024-12-05 13:52:09+00:00,"merge pull request #5099 from wikimedia/yir-accessibility-improvements
+
+[yir] accessibility improvements",False
+6ca51082c3bea9c795dff64219d2ff8f4950f023,github-actions,github-actions@github.com,2024-12-05 12:23:19+00:00,import translations from translatewiki,False
+0027aa98a6c2b3276ce034ac5b29df46d1ce42df,translatewiki.net,l10n-bot@translatewiki.net,2024-12-05 12:22:55+00:00,localisation updates from https://translatewiki.net.,False
+ee05694060a34fdd782b6b5dd8f844877cd70b2f,Toni Sevener,tsevener@wikimedia.org,2024-12-04 21:36:29+00:00,merge branch 'main' into yir-accessibility-improvements,False
+797dcdfb0d5df2ea4554b1cc94b4802ae80d86e8,Toni Sevener,tsevener@wikimedia.org,2024-12-04 21:14:13+00:00,"merge pull request #5106 from wikimedia/add-image-page
+
+update insert image wizard mediawiki links to consider device language",False
+a80803e3b50904ef7ee0fcb1c2a8c2f7d668a59b,Toni Sevener,tsevener@wikimedia.org,2024-12-04 21:13:40+00:00,strings changes from building,False
+04907d11a5ae03c053d3cf54b3f8f9494f2ac11b,Toni Sevener,tsevener@wikimedia.org,2024-12-04 21:12:09+00:00,merge branch 'main' into yir-accessibility-improvements,False
+a76dafcbd8d9609e959882cf2d9db5d4645d306b,Toni Sevener,tsevener@wikimedia.org,2024-12-04 21:09:40+00:00,"avoid double ""image""s",False
+60dfeeb784f5724375359b1b922b4ce217c9116f,Toni Sevener,tsevener@wikimedia.org,2024-12-04 21:06:42+00:00,fix missing foundation logo accessibility label,False
+4ed0e5b4247c9a33571f828253d6275be1997c82,Toni Sevener,tsevener@wikimedia.org,2024-12-04 20:22:03+00:00,merge branch 'main' into add-image-page,False
+95d8c8030415731b02c22eb46952f8b70bb503f5,Toni Sevener,tsevener@wikimedia.org,2024-12-04 19:43:45+00:00,"add missing get case in mediawikifetcher, add missing userid passthrough in settings",False
+a166fe52198dfd5ef81d0f70a80fcf9c58cdcfbb,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 18:12:25+00:00,"merge pull request #5101 from wikimedia/show-survey-yir
+
+[yir] show survey for users that reached second slide",False
+6392b47ae08888d0e7310a09f7539d3586da170a,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 15:42:01+00:00,merge branch 'main' into show-survey-yir,False
+06dd596a81533c4f253d3054ff4b0d818e99db89,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 15:13:47+00:00,"merge pull request #5104 from amire80/fullstop
+
+consistent use of full stop next to links and parentheses",False
+ffc83f7325f72f9d3df7dbf95a1584399e858a06,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 15:07:26+00:00,merge branch 'main' into fullstop,False
+c69b1836e0fa0fb5d42fbbe8fed11ae0c5c0b780,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 15:04:51+00:00,"merge pull request #5102 from amire80/this-year
+
+make ""this year"" less repetitive in a message",False
+98af46101c359bdc6a6aa41077866bc709c3cfa4,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 15:04:36+00:00,merge branch 'main' into this-year,False
+868a82ebeda2370dafdc8cb0d4b9454a703c5710,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 14:54:25+00:00,merge branch 'main' into fullstop,False
+7cc1ffd8025a3c1b9869db67168a0001abcc1fad,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 14:47:51+00:00,"merge pull request #5105 from wikimedia/link-webview
+
+[yir] open learn more link with in app webview",False
+e0237b1b5875498e8c6213a2b20c4ef1f140642c,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 00:23:10+00:00,merge branch 'main' into link-webview,False
+3a62e93e6d9dce540fd6e79028038733364d4ded,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 00:19:13+00:00,merge branch 'main' into this-year,False
+6da1d5738a96a2bbe882132082a9f0354b242207,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 00:16:13+00:00,"merge pull request #5100 from wikimedia/hide-donate
+
+[yir] hide donate buttons from countries we cannot fundraise",False
+2dd3bfb5321a4199ae214075f4316a1f3f8f7659,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 00:08:29+00:00,merge branch 'main' into link-webview,False
+cff11ae94fafe519ba4d9e89662e524e6a255a31,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-04 00:02:15+00:00,merge branch 'main' into fullstop,False
+5cd76d2a9c7121a5a1e6d9011c6e208ae1d89766,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-03 23:59:15+00:00,merge branch 'main' into this-year,False
+b7c96267db05487bc40f0fbdc07459602bab9b36,golson-wmf,golson@wikimedia.org,2024-12-03 23:54:25+00:00,hidedonatebutton -> shouldhidedonatebutton,False
+1d6b7f70bde7a71b5b9decf0bdcea3a692cb6970,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-12-03 23:50:12+00:00,merge branch 'main' into hide-donate,False
+52dcfe4ff7a14bd02834e40f1bfae1f26d7dfa46,golson-wmf,golson@wikimedia.org,2024-12-03 23:39:31+00:00,whitespace + logging logic,False
+26f22aed2878244af53247efdefd0e1e6468d049,Toni Sevener,tsevener@wikimedia.org,2024-12-03 21:29:06+00:00,prefer alpha to preserve whitespace,False
+5695bbf0a28aeed0927c5020b01a5e8819ac2422,Toni Sevener,tsevener@wikimedia.org,2024-12-03 21:17:32+00:00,maybe fix jump,False
+be0580c013108ebb2e661c423de1cdf6ecb88d18,golson-wmf,golson@wikimedia.org,2024-12-03 20:01:29+00:00,merge branch 'main' into t379794,False
+1659b832ecd4c15c606d768b6a26ad2974b8b2ca,golson-wmf,golson@wikimedia.org,2024-12-03 20:01:12+00:00,#,False
+1d5d09a3d8e6267f3be84d783cdb9f6728fba5f7,mazevedo,mazevedo@wikimedia.org,2024-12-03 19:13:04+00:00,merge branch 'yir-saved-slide' of https://github.com/wikimedia/wikipedia-ios into yir-saved-slide,False
+dee3c9bade1ba3cbbc6748891756378f8f5b5382,mazevedo,mazevedo@wikimedia.org,2024-12-03 19:12:21+00:00,add missing argument to localized string comment,False
+01bb55a87bedbdbceaee2f2d2825bcb0fbdd0bbb,mazevedo,mazevedo@wikimedia.org,2024-12-03 19:09:48+00:00,add missing prop to tests,False
+48f7f2a719c92b0adfc027aae3510b8bafa7c107,Marina Azevedo,mazevedo@wikimedia.org,2024-12-03 17:25:16+00:00,merge branch 'main' into yir-saved-slide,False
+9400d08bee83e6c2393f4acef6fbd0533b13a35b,mazevedo,mazevedo@wikimedia.org,2024-12-03 17:12:08+00:00,display saved count personalized slide to logged-in users,False
+f934217c086a4cbc1204123fb9ebdad36ffcbf61,mazevedo,mazevedo@wikimedia.org,2024-12-03 17:11:08+00:00,adjust slide content,False
+62376c644678d4c137fda865de53cccde82e4f4d,Toni Sevener,tsevener@wikimedia.org,2024-12-03 15:08:27+00:00,merge branch 'main' into t379796,False
+102f96aea8b20bfb9e67ff06b1c92a94ed39d186,golson-wmf,golson@wikimedia.org,2024-12-03 14:55:41+00:00,merge branch 'main' into t376353,False
+843921dbc7991737684eb2a3c4c6f64353aaea3d,golson-wmf,golson@wikimedia.org,2024-12-03 14:39:15+00:00,passing userid,False
+4bd36970b16bedccad7c62c134e6307b7f94c5b5,Toni Sevener,tsevener@wikimedia.org,2024-12-02 21:22:57+00:00,merge branch 'main' into most-read-fix,False
+05cb9bfa4e9ef3dadc375da12ad3cfea25e6a957,Toni Sevener,tsevener@wikimedia.org,2024-12-02 21:22:45+00:00,"merge pull request #5103 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+ad74766bf08bf9aea2e19bb58172e290d13f523a,Toni Sevener,tsevener@wikimedia.org,2024-12-02 21:21:40+00:00,merge branch 'main' into most-read-fix,False
+828a1566e3cfac83ac6eb6ef3495c84578ef4efa,Toni Sevener,tsevener@wikimedia.org,2024-12-02 20:48:48+00:00,fix tests,False
+273ecd817e051c5cba7c6bc0d6d44a964a6a4ea3,Toni Sevener,tsevener@wikimedia.org,2024-12-02 20:19:35+00:00,add missing slide id,False
+b52d102a2599119018d0a9c43723ea2c776f2ced,golson-wmf,golson@wikimedia.org,2024-12-02 19:24:15+00:00,begin getting userid,False
+50191ec8210e0c03297b2d92af95ad7967ec5688,mazevedo,mazevedo@wikimedia.org,2024-12-02 19:20:27+00:00,adjust learn more url to fallback to english if translation is not available,False
+82794342da01a882ef2115a8476af7b09d2e3b65,mazevedo,mazevedo@wikimedia.org,2024-12-02 19:05:39+00:00,add uselang query item to url,False
+ba49d3ff3e875746460e912b700b3a62c6736067,golson-wmf,golson@wikimedia.org,2024-12-02 16:49:14+00:00,data 1/?,False
+80ffec4eb517b9fe9444c96d020ffaeb56476e72,mazevedo,mazevedo@wikimedia.org,2024-12-02 16:15:02+00:00,fix schema,False
+2fa485e4985cfcf7140323ac8bd1be17fe1c1e37,mazevedo,mazevedo@wikimedia.org,2024-12-02 16:10:05+00:00,open learn more link with in app webview,False
+d66b2ae1282e8f03dc688d1440345f64bd53d078,Amir E. Aharoni,amir.aharoni@mail.huji.ac.il,2024-12-02 15:35:59+00:00,"consistent use of full stop next to links and parentheses
+
+in all other instances of links and parentheses,
+the full stop is after the closing parenthesis.",False
+37b038f7e87586d936ec68f6470e7c1d198c9d1c,mazevedo,mazevedo@wikimedia.org,2024-12-02 14:14:21+00:00,use special:mylanguage for mediawiki links,False
+43ef9ac2616f920646694ecd9842c4c513f359d0,github-actions,github-actions@github.com,2024-12-02 12:23:12+00:00,import translations from translatewiki,False
+364e458d6ec71708f51a3814f155023aa925d06e,translatewiki.net,l10n-bot@translatewiki.net,2024-12-02 12:22:43+00:00,localisation updates from https://translatewiki.net.,False
+62371dda90442145f1a61143c9738ce00d2ca312,Amir E. Aharoni,amir.aharoni@mail.huji.ac.il,2024-12-02 12:15:08+00:00,"make ""this year"" less repetitive in a message",False
+0a99348d287ee392e8d6c1f327a8c3eb9f29fd44,mazevedo,mazevedo@wikimedia.org,2024-11-29 14:22:21+00:00,check if slide is last,False
+0d740ff80cdeb3e040b4624f62c5042a23d54371,mazevedo,mazevedo@wikimedia.org,2024-11-29 14:15:53+00:00,display yir survey for users after two slides,False
+666ef4117d9f432f4a8df54432865b961325b225,mazevedo,mazevedo@wikimedia.org,2024-11-28 19:59:30+00:00,fix tests,False
+3b4b959352c78f0daed8b70a2ff30a0752688858,mazevedo,mazevedo@wikimedia.org,2024-11-28 19:36:49+00:00,hide donate buttons from countries que cannot fundraise,False
+83ede1b9a5c0ae14d50aae0c5bbd2cb280c25bb4,Marina Azevedo,mazevedo@wikimedia.org,2024-11-28 17:38:11+00:00,merge branch 'main' into yir-accessibility-improvements,False
+3e4186fadce5c644cfff8b1a8707cd2c887685d9,mazevedo,mazevedo@wikimedia.org,2024-11-28 17:35:41+00:00,add secondary style to wmflarge button for better tap area,False
+f3a229a2847917bdc2fbf869c8c0e14da3c727d0,mazevedo,mazevedo@wikimedia.org,2024-11-28 17:26:58+00:00,adjust accessibility labels,False
+8dd63bc450f0d461a80ec219a8e5ff8e16508213,Marina Azevedo,mazevedo@wikimedia.org,2024-11-28 15:32:25+00:00,"merge pull request #5097 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+166b075d9702aa94723f33abbc12778857d92775,mazevedo,mazevedo@wikimedia.org,2024-11-28 14:44:15+00:00,"adjust threading, add slide to report",False
+702b5b993b5742dc2856444eef5fb3bbd21f0bd0,github-actions,github-actions@github.com,2024-11-28 12:23:21+00:00,import translations from translatewiki,False
+1a171d40811a2c6ef980ded7778eb9b6c7df6f8c,translatewiki.net,l10n-bot@translatewiki.net,2024-11-28 12:22:55+00:00,localisation updates from https://translatewiki.net.,False
+e83d2ff6502982bf5845a19dae9b5b0013d878fb,golson-wmf,golson@wikimedia.org,2024-11-27 18:57:53+00:00,set up viewcount,False
+38c2629a2f98be9c31a14dc47688918d5698d28d,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-27 16:18:21+00:00,merge branch 'main' into t379794,False
+4f504ea3228a70b80562722ba448fbd6eefed129,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-26 17:58:29+00:00,"merge pull request #5096 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+e6b7fbca499b57a3bba6d407f148e770b2586f73,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-26 16:20:16+00:00,merge branch 'main' into twn,False
+880cfe7ed88131248b953004fc37ba3e8216a699,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-26 16:20:01+00:00,"merge pull request #5090 from wikimedia/feat/username-verification-dr
+
+create account username verification feedback",False
+e4cdd164cc825ac2f7dcc4d0f3e1eeb2f3155918,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-26 16:14:22+00:00,merge branch 'main' into twn,False
+8ef220b85904bb4050d06cdfe540dd5b39b2dc64,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-26 15:37:02+00:00,merge branch 'main' into most-read-fix,False
+e79fc1c6eb8eca500497f79a4d312a3e874f8069,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-26 15:26:19+00:00,merge branch 'main' into feat/username-verification-dr,False
+dee8dd370a7550046fc57aeb85dbac4077a71693,mazevedo,mazevedo@wikimedia.org,2024-11-26 14:08:13+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-saved-slide,False
+942dd52e5bce58b0c1757ed2771e65883271b63d,mazevedo,mazevedo@wikimedia.org,2024-11-26 12:50:18+00:00,use delegate to trigger saved articles data population,False
+fd46a1cab8ae2465beb57518507f758a908e3d24,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-25 21:01:47+00:00,merge branch 'main' into t379794,False
+15dd5a9d6420ec276ef07138e3fd80ffbadf0bbb,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-25 20:00:27+00:00,"merge pull request #5083 from wikimedia/fix-console-merge-complaint
+
+[yir] only populate after login if app has resumed",False
+dcabc4325b9a3cd46365a8a48d39c57e43dde323,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-25 19:47:30+00:00,merge branch 'main' into fix-console-merge-complaint,False
+df09fdb60185a61aade5bde1956c3397dbe128e3,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-25 19:35:00+00:00,"merge pull request #5071 from wikimedia/fix-tests-2
+
+use shared settings in wmfdata tests",False
+830181297fc116407b864904da2d315f7c816c61,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-25 19:18:50+00:00,merge branch 'main' into fix-tests-2,False
+decb006f33b453eb722baa9092f022b322cd25f6,golson-wmf,golson@wikimedia.org,2024-11-25 19:09:25+00:00,update analytics,False
+b81ba920f198ef755a9bc68b9efd040afc4952d6,golson-wmf,golson@wikimedia.org,2024-11-25 14:43:38+00:00,"merge branch 'main' into t379794
+
+# conflicts:
+#	wikipedia/ios native localizations/en.lproj/localizable.strings",False
+08cd839aa7ec9fda87e170608fc60ef38fe4ac3f,github-actions,github-actions@github.com,2024-11-25 12:23:20+00:00,import translations from translatewiki,False
+5d01dd014df27ca988e13adebee607ec86581f1e,translatewiki.net,l10n-bot@translatewiki.net,2024-11-25 12:22:55+00:00,localisation updates from https://translatewiki.net.,False
+a62c4320b4eda53237b56fdc316644ba0c37afcb,Toni Sevener,tsevener@wikimedia.org,2024-11-22 22:30:42+00:00,populate initial most read slide if needed,False
+bdc134d54c28a0d80c99961b1aff7ee21654222a,Toni Sevener,tsevener@wikimedia.org,2024-11-22 22:05:57+00:00,fix presentation,False
+3ebfb8a03124e5999f231945e25284776c0dcfc4,golson-wmf,golson@wikimedia.org,2024-11-22 21:45:57+00:00,updating views logic,False
+34a851f81dbc8283da8f251331cc9c4d1d805685,golson-wmf,golson@wikimedia.org,2024-11-22 20:54:26+00:00,update strings,False
+d8ad9ce1da2408978d25624116abe578a24e82a9,golson-wmf,golson@wikimedia.org,2024-11-22 19:36:11+00:00,merge branch 'main' into t379794,False
+0613f61bf600b0bb34a0777c4163f5a4351ba6df,Toni Sevener,tsevener@wikimedia.org,2024-11-22 19:26:33+00:00,"merge pull request #5084 from wikimedia/t376069
+
+t376069",False
+a565221c48b7eaaabdacb6034a7592e0519e31ac,mazevedo,mazevedo@wikimedia.org,2024-11-22 17:34:28+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-saved-slide,False
+a143a2dcf4bb277c81e5c0a0ec804024bbbb3676,Toni Sevener,tsevener@wikimedia.org,2024-11-22 17:27:17+00:00,fix mock that causes test failures,False
+b2864d1c227d5d18bcbc74269bf8f0728d5f8b7e,golson-wmf,golson@wikimedia.org,2024-11-22 17:01:59+00:00,merge branch 'main' into t376069,False
+32ccdd1ca953bc8d43ea2157133a86730475da1c,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-22 17:00:32+00:00,"merge pull request #5093 from wikimedia/yir-deserialization-fix
+
+loosen up yir config object deserialization",False
+53a717f31412bad9b4159489eceeed66c22d134c,mazevedo,mazevedo@wikimedia.org,2024-11-22 16:59:46+00:00,retrieve radom saved articles title,False
+0fb2b0e0c4f8bed9fd34c4c8093f87db5fafb1a3,Toni Sevener,tsevener@wikimedia.org,2024-11-22 16:46:16+00:00,merge branch 'main' into yir-deserialization-fix,False
+f7b399b7993edfb2203a026fff95689df427a5c5,Toni Sevener,tsevener@wikimedia.org,2024-11-22 16:46:03+00:00,"merge pull request #5079 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+7be22b7cead31bc310b540ed2f1577ebb96d11f8,Toni Sevener,tsevener@wikimedia.org,2024-11-22 16:41:35+00:00,fix tests,False
+9fc4bf6c0039c8a1f00fcc835c696f8919a73baa,Toni Sevener,tsevener@wikimedia.org,2024-11-22 16:22:32+00:00,loosen up yir config object deserialization,False
+4a740c093d750466618be973831849f35c2c5ae0,golson-wmf,golson@wikimedia.org,2024-11-22 15:38:56+00:00,2024.1 -> 2024.2,False
+916083b1e95f89cc2bbb34ca29ec21390794dc83,golson-wmf,golson@wikimedia.org,2024-11-22 15:29:26+00:00,"merge branch 'main' into t376069
+
+# conflicts:
+#	wmfdata/sources/wmfdatamocks/resources/feature-get-config.json
+#	wmfdata/tests/wmfdatatests/wmfyearinreviewdatacontrollercreateorretrievetests.swift
+#	wmfdata/tests/wmfdatatests/wmfyearinreviewdatacontrollertests.swift",False
+690bb0c512abb413c991148c95b304a218a70c70,golson-wmf,golson@wikimedia.org,2024-11-22 15:24:48+00:00,updates 1/?,False
+3f6c8715f008bd60d8330cf16e657fb9223456e1,Toni Sevener,tsevener@wikimedia.org,2024-11-22 15:11:18+00:00,merge branch 'main' into twn,False
+65093e4bfbc695f82cf276ba3992109271bcab77,Marina Azevedo,mazevedo@wikimedia.org,2024-11-22 15:09:48+00:00,"merge pull request #5091 from wikimedia/release/7.6.2
+
+release 7.6.2 back to main",False
+0e2f2b1b7a78aadc6fee29b0a323ca8a0b5b1993,mazevedo,mazevedo@wikimedia.org,2024-11-22 15:01:07+00:00,save article titles to core data,False
+c896875757db15c2d78be8b99d5e61d608afdce7,Toni Sevener,tsevener@wikimedia.org,2024-11-22 14:47:48+00:00,merge branch 'main' into release/7.6.2,False
+be83aa5dfed68efe625849f4ed70b7493659d74d,Toni Sevener,tsevener@wikimedia.org,2024-11-22 14:47:18+00:00,"merge pull request #5092 from wikimedia/new-year-id
+
+use new yearid for yir v2",False
+a008b9967a5e7cfa64e37f49880607e6f0b80743,Toni Sevener,tsevener@wikimedia.org,2024-11-22 14:32:01+00:00,update tests,False
+417ee70976d902b321a960fdc3458ddf3b954bf4,Toni Sevener,tsevener@wikimedia.org,2024-11-22 14:07:08+00:00,use new yearid for yir v2,False
+bc2a1b39fd96d74c720151ad397dcf54449c9338,Toni Sevener,tsevener@wikimedia.org,2024-11-21 22:21:44+00:00,merge branch 'main' into twn,False
+7f1f9b7a769be54f66fbe576abd57f563301720e,Toni Sevener,tsevener@wikimedia.org,2024-11-21 22:00:09+00:00,merge branch 'main' into feat/username-verification-dr,False
+f821a451dd30a817c49b48b3cc5608a4a446e40f,Toni Sevener,tsevener@wikimedia.org,2024-11-21 21:59:30+00:00,"merge pull request #4647 from b-onc/feat/username-verification
+
+feature: check username validity on text field return",False
+2968af491879a63f047bca27c31bf46abac9f4ac,mazevedo,mazevedo@wikimedia.org,2024-11-21 21:58:23+00:00,add personlized saved count slide,False
+b6879eb413c004d840cb178f5ca2597e0da5eeb0,Toni Sevener,tsevener@wikimedia.org,2024-11-21 21:51:52+00:00,merge branch 'main' into feat/username-verification,False
+e49304e013b6bed7dd5036cf02f684f42b3a1da8,Toni Sevener,tsevener@wikimedia.org,2024-11-21 21:48:54+00:00,design and pr review feedback,False
+4690e8ca21e3b2b5f989b6f4b57d22b3729ccc21,mazevedo,mazevedo@wikimedia.org,2024-11-21 20:39:40+00:00,move cout of of view modekl into data controller,True
+75142e5788398d5c7aa57f0e777faecac5b7a37e,mazevedo,mazevedo@wikimedia.org,2024-11-21 20:19:49+00:00,"get saved articles per period, whitespace fixes",False
+334b2ea6fee43beebea3c38755e824f6f2559a4d,Toni Sevener,tsevener@wikimedia.org,2024-11-21 17:15:14+00:00,in progress,False
+1e6ccbccf276c46ec579eb4f5eca8d0611d292c0,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-21 15:29:13+00:00,"merge pull request #5089 from wikimedia/spanish
+
+update faq link",False
+490e1c65c7b8ea821d0a50705ed645acc74ecadb,golson-wmf,golson@wikimedia.org,2024-11-21 14:51:09+00:00,ctrl z,False
+0f4340a23976f743a7fdf3512562b339dbbc53ef,golson-wmf,golson@wikimedia.org,2024-11-21 14:42:44+00:00,update to use 1,False
+e3522deddd7a6c40e09ed7919537db799d4742da,golson-wmf,golson@wikimedia.org,2024-11-21 14:32:52+00:00,update faq link,False
+fbc550968329873a6e1ba5c1690867cbb6e616dc,Marina Azevedo,mazevedo@wikimedia.org,2024-11-21 14:14:54+00:00,"merge pull request #5087 from wikimedia/fix-sharing-2
+
+[yir] fix sharing bugs",False
+21875f0e48345619eb0b359dbac0619ab7eda68e,github-actions,github-actions@github.com,2024-11-21 12:24:33+00:00,import translations from translatewiki,False
+5d8c1b22d5706b54da2eb2e8d897e0cc98e903d0,translatewiki.net,l10n-bot@translatewiki.net,2024-11-21 12:24:06+00:00,localisation updates from https://translatewiki.net.,False
+4c51bdeabfafd23acf6c82d03f764e9dde9ea044,Toni Sevener,tsevener@wikimedia.org,2024-11-20 22:22:43+00:00,"share slide fixes
+
+- use attributed string instead of displaying markup
+- fix layout issue when there's an image overlay",False
+88e7b9e3750d5ca8668cfc6a87155946768701e3,Toni Sevener,tsevener@wikimedia.org,2024-11-20 21:39:45+00:00,ignore sharing text for facebook and instagram,False
+cfdae5d495b05a30cc746184d577ad17dd317a4a,golson-wmf,golson@wikimedia.org,2024-11-20 19:39:02+00:00,pop up log in for logged out users,False
+72c722ff3f6a17f38a0fcbddae5aaca6060eb4e8,Toni Sevener,tsevener@wikimedia.org,2024-11-20 19:37:22+00:00,fix unit tests,False
+e9b9555a52219d0da661bf155f3b4cef05038ce1,Toni Sevener,tsevener@wikimedia.org,2024-11-20 18:37:45+00:00,fix bug from testing,False
+7b2348157a1b03a17734c75b15443b3a3431d9d2,Toni Sevener,tsevener@wikimedia.org,2024-11-20 18:09:58+00:00,remove personalized slide requirement from shouldshowyearinreviewentrypoint method,True
+4c210c29a0546b7d4c5eab6e6863f676f47438dd,Toni Sevener,tsevener@wikimedia.org,2024-11-20 18:08:49+00:00,do not insert personalized slides if user is logged out,False
+07e47ebf3a0245fbbd31e8629410181acc972e89,golson-wmf,golson@wikimedia.org,2024-11-20 16:01:43+00:00,update config,False
+e346fe3524e4685fe334bbd35aa809b85bffefc3,golson-wmf,golson@wikimedia.org,2024-11-20 15:26:01+00:00,updating tests,False
+811687d230cabd3cf673170377d03cb894b7408f,golson-wmf,golson@wikimedia.org,2024-11-20 14:48:34+00:00,localization update,False
+576dc95deacd0116e31abc1cf92c53673de19dfb,golson-wmf,golson@wikimedia.org,2024-11-19 20:43:29+00:00,localizations,False
+168b2d37be79a2263f2b20aff4cbc358d4d0df3c,golson-wmf,golson@wikimedia.org,2024-11-18 21:39:24+00:00,get most common day passed,False
+2f5494a116ffe4217b1325e4da04f96bbabca358,golson-wmf,golson@wikimedia.org,2024-11-18 20:26:24+00:00,add missing insert,False
+70c1f6efbd35eac814c99059f53c3e1a7f4c1cdc,golson-wmf,golson@wikimedia.org,2024-11-18 15:22:44+00:00,data part 1 most read day,False
+bb7adfad5b53b7cd4b2c6dc8192463b6e757e515,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-19 21:15:33+00:00,"merge pull request #5082 from wikimedia/article-view-link-bug
+
+fix article web view link bug",False
+5065409b348aab8c9ea3299f9575535b13150117,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-19 21:01:03+00:00,merge branch 'main' into article-view-link-bug,False
+449b0c4ce745d82c799387732d58f2f8438947b2,Toni Sevener,tsevener@wikimedia.org,2024-11-19 13:53:08+00:00,"merge pull request #5068 from wikimedia/t376350
+
+[yir] prompt user to log in after survey",False
+3a17d4228b6f2b9f9e84fd438aa8f31975289225,Toni Sevener,tsevener@wikimedia.org,2024-11-19 00:13:24+00:00,merge branch 't376350' of https://github.com/wikimedia/wikipedia-ios into t376350,False
+f24901454704f5efc7ca419b7fdb9eac67694e3b,Toni Sevener,tsevener@wikimedia.org,2024-11-19 00:13:12+00:00,fix bug from merge,False
+6d059ec9f1fdf56388192d1ac5e14369f9039fe8,Toni Sevener,tsevener@wikimedia.org,2024-11-19 00:06:07+00:00,merge branch 'main' into t376350,False
+6772850f14971753da2a1949f14bca3359503008,Toni Sevener,tsevener@wikimedia.org,2024-11-19 00:05:37+00:00,"merge pull request #5081 from wikimedia/cleanup
+
+remove unused props",True
+bcbaab904abbbe29a9419a06b9da661dd129e855,Toni Sevener,tsevener@wikimedia.org,2024-11-18 23:52:41+00:00,only populate after login if app has resumed,False
+4ed886a2b124bad93ecea8d97df03db04ea580f5,Toni Sevener,tsevener@wikimedia.org,2024-11-18 23:19:20+00:00,strings changes from building,False
+525c364d2c72c7ffedda5d86274c7c10a68f6056,Toni Sevener,tsevener@wikimedia.org,2024-11-18 23:17:06+00:00,merge branch 'main' into t376350,False
+6ec6417bfb6bf0a07f2511982898d7ce1dacd6f8,mazevedo,mazevedo@wikimedia.org,2024-11-18 17:44:05+00:00,"make webview first reposnder
+
+when hiding find in page, it's also necessary to set the fin in page view as nil. this forces the view to stop being first reponder as it updates canbecomefirstresponder to false.",False
+2b5206477788029839afa672aa6f072f77262d59,Marina Azevedo,mazevedo@wikimedia.org,2024-11-18 14:24:48+00:00,merge branch 'main' into cleanup,False
+5877d73e9f2e707a7faad15280289df28e5e96d3,mazevedo,mazevedo@wikimedia.org,2024-11-18 14:22:10+00:00,remove unused props,True
+6f79593b9d875ea15719f8bae80d24ed3746f323,Toni Sevener,tsevener@wikimedia.org,2024-11-18 14:09:46+00:00,"merge pull request #5080 from wikimedia/version-bump
+
+bump app version to 7.6.3",False
+3d264c75a1814ee38c025fe9811e6fd382b40895,mazevedo,mazevedo@wikimedia.org,2024-11-18 13:59:20+00:00,bump app version to 7.6.3,False
+e1e635633e90530fd462bb37c259298d7e753495,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-15 19:24:45+00:00,"merge pull request #5074 from wikimedia/yir-data-population-cleanup
+
+[yir] clear out edit data upon logout, populate data upon login and settings toggle",False
+f0b132d546ba291a5762ea8c5a329cbb00530d8d,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-15 19:12:08+00:00,merge branch 'main' into yir-data-population-cleanup,False
+0519898ff39f97547d2808c09264d78415f47d96,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-15 18:26:48+00:00,"merge pull request #5077 from wikimedia/fix-translations
+
+[yir] fix some translations",False
+6ce72174b13aec4771a77a3a67d385c7c0686a1b,Toni Sevener,tsevener@wikimedia.org,2024-11-15 17:12:12+00:00,merge branch 'main' into fix-translations,False
+c51d2b00dd2c64d931d640e33fe68e282aa8c768,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-15 16:24:19+00:00,"merge pull request #5075 from wikimedia/undo-toolbar-change
+
+[yir] remove toolbar appearance change",True
+87da82ad122a0c08a9c068577ed3540ac771e1ac,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-15 16:09:55+00:00,merge branch 'main' into undo-toolbar-change,False
+bd7492714ad38da1a2d7e57b1ec6ff29d119ee6c,Toni Sevener,tsevener@wikimedia.org,2024-11-15 16:05:56+00:00,"merge pull request #5078 from wikimedia/remove-username
+
+remove username",True
+a3be37ec96beddea636e370553bc8954a11a59c2,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-15 16:04:54+00:00,merge branch 'main' into undo-toolbar-change,False
+c1e391ccc3e8e9bc63944dfdc6477d7709f721cd,Toni Sevener,tsevener@wikimedia.org,2024-11-15 15:57:45+00:00,more fixes,False
+29b338b49613ca2037dc36f97828265bf44d542e,golson-wmf,golson@wikimedia.org,2024-11-15 15:49:58+00:00,remove username,True
+d9dde1ed561b5839dd3f0b8f0d3bb688a17f50ed,Toni Sevener,tsevener@wikimedia.org,2024-11-15 15:21:41+00:00,add more missing translations,False
+86328bc1e2717a0761f19d0eaa9dbb110d6ada33,Toni Sevener,tsevener@wikimedia.org,2024-11-15 14:59:39+00:00,strings changes from building,False
+0a5818912527d4e7ec5e3200e83761522f8b87e0,Toni Sevener,tsevener@wikimedia.org,2024-11-15 14:59:33+00:00,modify personalized slide overlays to avoid unnecessary translations,False
+62f8194b6f295e0bd8b21b2577cb754ff70c3b7c,Toni Sevener,tsevener@wikimedia.org,2024-11-15 14:57:58+00:00,add missing spanish translations,False
+2650b2fcbb05bd32d058eaaab70b9b98feb87a2c,Toni Sevener,tsevener@wikimedia.org,2024-11-14 22:30:36+00:00,"merge pull request #5076 from wikimedia/t377899
+
+update it to shouldshowdonatebutton, logic",False
+d714967b2d996b5d5d00d03e0843ede1884c7b32,Toni Sevener,tsevener@wikimedia.org,2024-11-14 22:05:47+00:00,"remove toolbar appearance change
+
+fixes https://phabricator.wikimedia.org/t379779",True
+2f6bd34ce05ccad96a87c6353f7f11e8c69dd495,Toni Sevener,tsevener@wikimedia.org,2024-11-14 21:56:06+00:00,populate year in review report upon login and settings toggle,False
+c4d859a94ffb3991ae2b254d02ac3ae9728973cd,Toni Sevener,tsevener@wikimedia.org,2024-11-14 21:55:42+00:00,fix deleting editing data bug,False
+7b2fd8595d68518757e9b0db6ff70b887baca334,golson-wmf,golson@wikimedia.org,2024-11-14 21:51:55+00:00,"update it to shouldshowdonatebutton, logic",False
+b87de4e5ab5442e67170a41d76534ea77300d01e,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-14 21:52:34+00:00,"merge pull request #5073 from wikimedia/donate-x-button
+
+[yir] show x button on native donate form modal",False
+e992fbc08880da97227997d410e613821a23911d,Toni Sevener,tsevener@wikimedia.org,2024-11-14 21:38:04+00:00,delete personalized editing data upon logout,False
+53df569705be9a6af53bd453b4f565f2292294b9,Toni Sevener,tsevener@wikimedia.org,2024-11-14 21:37:47+00:00,add missing cleanup,False
+8737c097c97308f38b5c88ba0dd7cd171ba025e4,Toni Sevener,tsevener@wikimedia.org,2024-11-14 20:38:39+00:00,minor cleanup - reference year in one area of the codebase,False
+d4fdf8209c97a4335ff97af3bf1b9918ff894535,Toni Sevener,tsevener@wikimedia.org,2024-11-14 20:18:19+00:00,"show x button on native donate form modal, update x button on web donate form",False
+ae80a8669fbe34561f8f75cbe3ceb63bda837ce7,Marina Azevedo,mazevedo@wikimedia.org,2024-11-14 15:53:26+00:00,"merge pull request #5062 from wikimedia/t376355-info-icon
+
+t376355 info icon",False
+e297c55595e5c4762491baacb1a6cd6ecde96386,mazevedo,mazevedo@wikimedia.org,2024-11-14 15:39:27+00:00,open info in in-app webview,False
+bdcb6061c0feb77929895a9a1e93fea3b2affc95,mazevedo,mazevedo@wikimedia.org,2024-11-14 15:33:18+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into t376355-info-icon,False
+1fc5806da5f83d36246cb97f019de2dffd9c0428,Marina Azevedo,mazevedo@wikimedia.org,2024-11-14 14:57:04+00:00,"merge pull request #5070 from wikimedia/yir-metrics-2
+
+[yir] metrics part 2",False
+ce8674fed3ef0b6b4d277ec876b1d1f4659dbe5d,Marina Azevedo,mazevedo@wikimedia.org,2024-11-14 14:42:19+00:00,merge branch 'main' into yir-metrics-2,False
+b71acc70946eafc7d12e88814e42e1012b8f6a82,Toni Sevener,tsevener@wikimedia.org,2024-11-13 22:08:27+00:00,merge branch 'main' into feat/username-verification,False
+39ef05b94bf09b36a0754cbb0261c5eb05eea354,Toni Sevener,tsevener@wikimedia.org,2024-11-13 20:44:00+00:00,use shared settings in wmfdata tests,False
+0585b137ba288fd588f3a4b8b72ccc7c90269ea8,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-13 20:23:39+00:00,"merge pull request #5069 from wikimedia/fix-tests
+
+specify language and region for test plans, remove from schemes",True
+90d7109dfd5d149ecf6dc5b6b035cdb47439394d,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-13 20:11:22+00:00,merge branch 'main' into fix-tests,False
+8fb57c0239f9f15d952eea985568d9e9ed70717b,Toni Sevener,tsevener@wikimedia.org,2024-11-13 20:04:18+00:00,merge branch 'main' into feat/username-verification,False
+61039a56674dba6e7b75319f2e71f42237aac880,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-13 19:40:01+00:00,"merge pull request #5066 from wikimedia/yir-localizations
+
+[yir] add localizations for it and es",False
+6af676fc7be56980ec235604646b74560d357d64,Toni Sevener,tsevener@wikimedia.org,2024-11-13 19:24:47+00:00,"specify language and region for test plans, for test stability",False
+d0e45852d325d839fa4f8091ed219ed61dbb1292,golson-wmf,golson@wikimedia.org,2024-11-13 17:41:56+00:00,"update navigate action, coordinator",False
+88e202d67f8c293a090bbdf0979fee0bbfb9f537,Toni Sevener,tsevener@wikimedia.org,2024-11-13 16:58:51+00:00,strings changes from building,False
+129ab76ebb50e0486e59636bc7fdbe845fbea1f7,Toni Sevener,tsevener@wikimedia.org,2024-11-13 16:57:24+00:00,add login prompt translations manually,False
+c33922eaed2d91687f54e284f2579953eff9fd57,Toni Sevener,tsevener@wikimedia.org,2024-11-13 16:38:37+00:00,add logging,False
+5f4f8ed6a9e6df2f4620433b8545e99ff18f8a21,Toni Sevener,tsevener@wikimedia.org,2024-11-13 16:17:25+00:00,present login prompt after survey,False
+ef35a3c0c80c80de81e3d09af5360263961815e2,golson-wmf,golson@wikimedia.org,2024-11-13 16:17:14+00:00,alignment + adding icon,False
+0bb5b5056cb29fb00fbc938a42d27b6d69a003e7,golson-wmf,golson@wikimedia.org,2024-11-13 15:50:37+00:00,"merge branch 'main' into t376355-info-icon
+
+# conflicts:
+#	wikipedia/code/yearinreviewcoordinator.swift
+#	wikipedia/localizations/en.lproj/localizable.strings
+#	wikipedia/ios native localizations/en.lproj/localizable.strings",False
+0ba5945a827c0e0bd20e87b15310a1636b000ab6,mazevedo,mazevedo@wikimedia.org,2024-11-12 21:49:21+00:00,fix it localization,False
+4695b0b94adf9e8d567920dde7db3a49ba628d62,mazevedo,mazevedo@wikimedia.org,2024-11-12 21:35:39+00:00,add localization,False
+2c262b6ee8a9f4a102fdf479b8ca52ec772158e6,mazevedo,mazevedo@wikimedia.org,2024-11-12 21:29:18+00:00,add es localizations,False
+9490890d9dfee98085e5a737470826eb5dec62c7,Toni Sevener,tsevener@wikimedia.org,2024-11-12 20:53:24+00:00,move logging level back down,True
+28c5868b3975346e614d48476f58bfbd6c66bdaf,Toni Sevener,tsevener@wikimedia.org,2024-11-12 20:51:44+00:00,log learn more link > web view events,False
+08883077f81f2ecaa9fc7aead55cd48cc3362cfe,Toni Sevener,tsevener@wikimedia.org,2024-11-12 20:24:17+00:00,log survey events,False
+6a3bd1a1ee3fd16a19110115d3699206cc7348eb,mazevedo,mazevedo@wikimedia.org,2024-11-12 18:50:20+00:00,move yir keys to yer-in-review,True
+6753034dea43957606f2496bb76d2a123ad1aa19,mazevedo,mazevedo@wikimedia.org,2024-11-12 18:44:09+00:00,move file to group without system folder,True
+50186c33a2594780dc17e308df3fda2854489fc6,Toni Sevener,tsevener@wikimedia.org,2024-11-12 17:26:02+00:00,bug fix - missing toasts with native apple pay,False
+0d4c567db462eb52e4697c1a986afe0b28dc8a40,Toni Sevener,tsevener@wikimedia.org,2024-11-12 17:15:15+00:00,log share tap,False
+3d87b717d210db2ea522556543fd552f935601aa,mazevedo,mazevedo@wikimedia.org,2024-11-12 16:46:50+00:00,add it localizations,False
+972a1942935404b35a8a9e1c9721300ed6046c55,Toni Sevener,tsevener@wikimedia.org,2024-11-12 15:27:29+00:00,cleanup - make donate logging calls through wmfyearinreviewloggingdelegate for consistency,False
+349058c8dbc20aa99f5464a58c6bd97f3eb5875b,Marina Azevedo,mazevedo@wikimedia.org,2024-11-11 16:57:04+00:00,"merge pull request #5065 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+eec763aa5675baea5548cef0a5c9bea6573c8911,mazevedo,mazevedo@wikimedia.org,2024-11-11 16:07:52+00:00,merge branch 'twn' of https://github.com/wikimedia/wikipedia-ios into twn,False
+46e35d98ffda5cf311d2dcdcba9abf76aa66fa13,Marina Azevedo,mazevedo@wikimedia.org,2024-11-11 16:01:50+00:00,"merge pull request #5064 from wikimedia/t378507-ui-fixes
+
+t378507 ui fixes",False
+13648d985d751524dea21e3bf247a85398a4d242,Marina Azevedo,mazevedo@wikimedia.org,2024-11-11 15:47:15+00:00,merge branch 'main' into t378507-ui-fixes,False
+313784f2231e8aca0bc041b134363177da2c9a49,Marina Azevedo,mazevedo@wikimedia.org,2024-11-11 15:16:56+00:00,"merge pull request #5060 from wikimedia/hide-yir
+
+[yir] allow option to hide yir in settings, remove developer settings flag",True
+e5277b14c269e440b8e60cbf3c7129848f7e0885,mazevedo,mazevedo@wikimedia.org,2024-11-11 14:56:06+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into hide-yir,False
+c337a6d54ed3c2d8dacdabbe0b77999d239ac9bd,github-actions,github-actions@github.com,2024-11-11 12:22:33+00:00,import translations from translatewiki,False
+927b2b2c713a75bfa50895c58a64d576bb1a6cf0,translatewiki.net,l10n-bot@translatewiki.net,2024-11-11 12:22:02+00:00,localisation updates from https://translatewiki.net.,False
+d8e252aecfb820dbfa31130784f6b2bbe1cd4d5d,golson-wmf,golson@wikimedia.org,2024-11-08 20:47:25+00:00,update drag background,False
+a4c66e9e9af86afdda7f6fa20b1f289f86d2dbf8,golson-wmf,golson@wikimedia.org,2024-11-08 19:49:25+00:00,update w image,False
+6568c7de8a1f7bec03d1d19eb0dc65c300fc52a9,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-08 19:43:53+00:00,"merge pull request #5063 from wikimedia/update-slides
+
+[yir] update slides copy",False
+ca07a77dcd1c8bc589d500a1d042024f79c8bf9c,Marina Azevedo,marina.mafs@gmail.com,2024-11-08 19:14:21+00:00,updated copy and url,False
+86095a8c114fe2a0282c9919c98345bcfbe4d4d9,Marina Azevedo,marina.mafs@gmail.com,2024-11-08 19:13:28+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into update-slides,False
+d5a9e74f28e4435b5ccd5f3fba0064bcb85fa1d0,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-08 18:33:19+00:00,"merge pull request #5061 from wikimedia/fix-profile-user-nav
+
+fix navigation for profile user and talk pages",False
+a4a06ca58fed8656a75d728b967133fb4cd652d0,golson-wmf,golson@wikimedia.org,2024-11-08 18:08:17+00:00,"update padding, add url",False
+5a5067bae39b27fb4b10817195f3b490dd8eef1b,Toni Sevener,tsevener@wikimedia.org,2024-11-08 17:41:46+00:00,fix navigation for profile user and talk pages,False
+87f75a5838ce318a7f5069cf3d65da1978e34b2c,Toni Sevener,tsevener@wikimedia.org,2024-11-08 16:32:09+00:00,merge branch 'main' into hide-yir,False
+76f916f3e7b7db6d1eaeef83b56898ed928811b5,Toni Sevener,tsevener@wikimedia.org,2024-11-08 16:31:51+00:00,update copy,False
+f092333ad4caf79c81b8a45f264fe0e570776a18,golson-wmf,golson@wikimedia.org,2024-11-08 16:26:13+00:00,merge branch 'main' into t376355-info-icon,False
+692eb117236eb4b6c2deb78983102453aa819650,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-08 16:19:37+00:00,"merge pull request #5058 from crozario/t377633
+
+fixed bug t377633",False
+593085e5a44a828acd93905f43798f5638c517ca,golson-wmf,golson@wikimedia.org,2024-11-08 16:19:09+00:00,"update url, styling according to robin",False
+2347fa273e34f391059c722b4c7b23d6d90ff95c,golson-wmf,golson@wikimedia.org,2024-11-08 14:37:59+00:00,"merge branch 'main' into t376355-info-icon
+
+# conflicts:
+#	wmfcomponents/sources/wmfcomponents/components/year in review/wmfslideshow.swift
+#	wmfcomponents/sources/wmfcomponents/components/year in review/wmfyearinreviewviewmodel.swift
+#	wikipedia/code/yearinreviewcoordinator.swift",False
+d646e6b8edf23789a6536d0a042c996c3d7c297e,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-08 14:33:25+00:00,merge branch 'main' into t377633,False
+b5cac6839e1a4d7873317966702705991b3123bf,mazevedo,mazevedo@wikimedia.org,2024-11-08 14:26:09+00:00,update copy for yir intro slide,False
+a0a1c4b4335e7e9607b5dfd0c8ed69da9a8009f6,Marina Azevedo,mazevedo@wikimedia.org,2024-11-08 13:35:02+00:00,"merge pull request #5059 from wikimedia/yir-profile-button-fix
+
+[yir] fix explore profile button",False
+363d29750352a67f370a5e1ceb8993c2da6338cb,Marina Azevedo,mazevedo@wikimedia.org,2024-11-08 12:38:49+00:00,merge branch 'main' into yir-profile-button-fix,False
+13e3e8145b1c8099439158f8e4311f720779b029,Crossley Rozario,crozariodev@gmail.com,2024-11-08 03:54:01+00:00,merge branch 'wikimedia:main' into t377633,False
+52628d797e34c5f1fd04f983eb7fa328c96f15bc,Toni Sevener,tsevener@wikimedia.org,2024-11-07 23:58:01+00:00,"fix conflicts, strings changes from building",False
+2f15351a390749b2a17e37e5dc4385109f1074a7,Toni Sevener,tsevener@wikimedia.org,2024-11-07 23:55:38+00:00,merge branch 'main' into hide-yir,False
+c998716bc02f0e3c2dc62e978da4d193e6e0ee6e,Toni Sevener,tsevener@wikimedia.org,2024-11-07 23:53:06+00:00,"merge pull request #5053 from wikimedia/update-share
+
+[yir] update share slide",False
+7a80d88b73aa5828f96aede4b7fa4211962652db,Toni Sevener,tsevener@wikimedia.org,2024-11-07 23:52:24+00:00,strings changes from building,False
+0d5feb2fe5a2e5279c34b809e324ff879c452cd9,Toni Sevener,tsevener@wikimedia.org,2024-11-07 23:50:31+00:00,merge branch 'main' into hide-yir,False
+3ea0352c02a85b7c63a3f1634bfaaf1f1c26e9d3,Toni Sevener,tsevener@wikimedia.org,2024-11-07 23:17:19+00:00,fix theming bugs,False
+f38a5334a01759621851896c3575fad5cffcff13,Toni Sevener,tsevener@wikimedia.org,2024-11-07 23:04:07+00:00,strings changes from building,False
+bbf6a9356807908068ed0ec9224c91f5c84402b6,Toni Sevener,tsevener@wikimedia.org,2024-11-07 22:58:10+00:00,merge branch 'main' into update-share,False
+c51e406e952c159fa21045fe4e4cc38c5e287677,Toni Sevener,tsevener@wikimedia.org,2024-11-07 22:55:00+00:00,"merge pull request #5054 from wikimedia/yir-donate-ui
+
+[yir] add donate slide ui",False
+3fd3795430146fe4f2200b9a7cc032d9c85d91e2,Toni Sevener,tsevener@wikimedia.org,2024-11-07 22:37:46+00:00,add icon to yir settings,False
+a50ad508a3a0ede78d02c6ba17e576f597247a39,Toni Sevener,tsevener@wikimedia.org,2024-11-07 22:11:05+00:00,set article yirdatacontroller to computed property,False
+9a734d4eab9dbb75a01509ed67403ed0867489f5,Toni Sevener,tsevener@wikimedia.org,2024-11-07 22:06:56+00:00,fix race condition where lazy properties were init to nil,False
+57528654e79dc234bafc76ebc8df661b3070020e,Toni Sevener,tsevener@wikimedia.org,2024-11-07 21:19:15+00:00,strings changes from building,False
+3ae043ff4b39576e18404974e1a54a6ccb357396,Toni Sevener,tsevener@wikimedia.org,2024-11-07 21:17:58+00:00,merge branch 'main' into yir-donate-ui,False
+826a973904cdaa93820b2d9e15ebab8542fadb93,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-07 21:09:27+00:00,merge branch 'main' into t377633,False
+eb1d4dba0a2d0f0e08fc99de55fcd1c7f2a9245d,Toni Sevener,tsevener@wikimedia.org,2024-11-07 21:08:49+00:00,"merge pull request #5052 from wikimedia/yir-learn-more-web-view
+
+[yir] learn more web view",False
+8d3455171e2a31e06568e47e5aafbcae94855b61,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-07 21:08:48+00:00,merge branch 'main' into t377633,False
+b2923af4b19dfde03f7696f61d33f9e4a6a5ea59,Toni Sevener,tsevener@wikimedia.org,2024-11-07 21:08:11+00:00,"change intro button to learn more, send to safari url",False
+16dfc6a65376840f9f2a29a9644fcf9ea09b5378,golson-wmf,golson@wikimedia.org,2024-11-07 20:44:47+00:00,merge branch 'main' into t376355-info-icon,False
+3c11c59945f704abc082f9f13ebc03114862337b,golson-wmf,golson@wikimedia.org,2024-11-07 20:44:17+00:00,"info icon ui work
+
+remaining: proper url",False
+c2f68b99306bb97bdb869d30aaf91171101fb041,Toni Sevener,tsevener@wikimedia.org,2024-11-07 20:35:47+00:00,bring back en in scheme,False
+6e2a723b13edb8909d1986fe1c2d0cfa29a4ce40,Toni Sevener,tsevener@wikimedia.org,2024-11-07 20:25:50+00:00,"strings changes from building, revert scheme change",False
+4840c71598121b2094747be29e82282e72025371,Toni Sevener,tsevener@wikimedia.org,2024-11-07 20:17:11+00:00,merge branch 'main' into yir-learn-more-web-view,False
+bf1a92bc48f8f0af05416368f27bd1116e749ad8,Marina Azevedo,mazevedo@wikimedia.org,2024-11-07 19:29:07+00:00,"merge pull request #5044 from wikimedia/improve-test-stability
+
+improve core data error handling in wmfdata tests",False
+a584ef60dea4b9a725b3d599e9330c09f2b09cde,Toni Sevener,tsevener@wikimedia.org,2024-11-07 16:53:15+00:00,"remove developer settings feature flag, default settings flag to true",True
+a876032a5c9191ea4817b6b2fe5040c7cb335820,Crossley Rozario,crozariodev@gmail.com,2024-11-07 16:31:50+00:00,fixed bug t377633,False
+b17acb552ef918e3efbab4aa5f480c7b3b4fb269,Toni Sevener,tsevener@wikimedia.org,2024-11-07 16:25:47+00:00,"check flag in data controller methods
+
+- don't show feature announcement
+- don't show entry point
+- don't populate report data",False
+5d46cf7b48ccdd63d9e46ca97d23ac039b7e0e78,Toni Sevener,tsevener@wikimedia.org,2024-11-07 16:01:49+00:00,clear year in review reports when toggle is switched off,False
+8832618646ddfd7cf60faac63739fab96fa48d09,Marina Azevedo,mazevedo@wikimedia.org,2024-11-07 15:50:26+00:00,merge branch 'main' into improve-test-stability,False
+a5d59c43c2374bb2468043d69a9cb1072c60b13b,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-07 15:49:42+00:00,"merge pull request #5056 from wikimedia/yir-badge
+
+[yir] display profile button badge and notification badge",False
+95d16c1d79f91b8c40a3c01e496fd693e1d04c49,Marina Azevedo,mazevedo@wikimedia.org,2024-11-07 15:48:40+00:00,merge branch 'main' into improve-test-stability,False
+0577d0178def87d21a79a8a2f9fce6cd3febe0be,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-07 15:32:43+00:00,merge branch 'main' into yir-badge,False
+0e70a6f6072f57504dcca9e5cd31cb1be4729793,Toni Sevener,tsevener@wikimedia.org,2024-11-07 14:40:55+00:00,"merge pull request #5057 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+88563b58f3bd983e7edb88d3628b6bbfa220d68e,github-actions,github-actions@github.com,2024-11-07 12:22:47+00:00,import translations from translatewiki,False
+b36fc69a92ed5c5db7aa484976f7895638dab1a0,translatewiki.net,l10n-bot@translatewiki.net,2024-11-07 12:21:54+00:00,localisation updates from https://translatewiki.net.,False
+3e5b98545cb276a366b736a23511e673145050ff,Toni Sevener,tsevener@wikimedia.org,2024-11-06 23:17:28+00:00,wrap up yir settings item in remote config check,False
+65cd310935a424c163cfea62b8b8c32d2e8c4f29,Toni Sevener,tsevener@wikimedia.org,2024-11-06 22:54:32+00:00,add year in review settings view,False
+2ca4fd2a3e35c9a31e120a42db1f1b55bcfe55d0,Toni Sevener,tsevener@wikimedia.org,2024-11-06 21:52:54+00:00,"merge pull request #5055 from wikimedia/number-formatting
+
+update number formatting",False
+6045e165ab4d94fbac10029acadfc9e0ef78dbf3,Toni Sevener,tsevener@wikimedia.org,2024-11-06 21:34:49+00:00,tweak numbers for t378515,False
+648565e315942da78f6d25f0dfe6d126a785d591,mazevedo,mazevedo@wikimedia.org,2024-11-06 19:27:33+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-badge,False
+6fda8201a564ef8fee20faa31a154fcba542c6c1,mazevedo,mazevedo@wikimedia.org,2024-11-06 19:21:40+00:00,adjust logged out notification logic,False
+6183cb88248dd98f909e5336c21ab952bd8e967d,mazevedo,mazevedo@wikimedia.org,2024-11-06 19:16:51+00:00,add delegate method to update badge after seeing yir,False
+27ee326a809ab1a8f6fa062010114eb0acbf1031,golson-wmf,golson@wikimedia.org,2024-11-06 18:54:39+00:00,"merge branch 'main' into number-formatting
+
+# conflicts:
+#	wikipedia/ios native localizations/pa.lproj/localizable.strings",False
+851d68adac45d55484a8c6d5aa8ad0a95e6fe428,golson-wmf,golson@wikimedia.org,2024-11-06 18:54:09+00:00,pull out format func,False
+c4e894141699ac18bb1ab904ba7febfff50a48cc,mazevedo,mazevedo@wikimedia.org,2024-11-06 18:28:30+00:00,display profile button badge and notifiction badge for yir,False
+a065d08cceef526a87d336c3166784143b2da2b0,Toni Sevener,tsevener@wikimedia.org,2024-11-06 18:10:17+00:00,maybe fix other slides,False
+38476a1f4185fa72b3d32182793c1929b336c080,golson-wmf,golson@wikimedia.org,2024-11-06 17:21:08+00:00,"testing out other slides
+
+base slide subtitle 1 is for testing without function to see if function is breaking",False
+3e704edb07413bb3d52dbe60ffbfb5c1bada4288,Toni Sevener,tsevener@wikimedia.org,2024-11-06 17:19:40+00:00,"merge pull request #5050 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+2c37e6e02c0ceb24ad1468d3c8ea8b48b65a2ac7,Toni Sevener,tsevener@wikimedia.org,2024-11-06 16:59:52+00:00,merge branch 'main' into twn,False
+b07b1a13feb2bab06aa0763317add91ea0a0a560,Toni Sevener,tsevener@wikimedia.org,2024-11-06 16:58:58+00:00,"merge pull request #5049 from wikimedia/t378019-yir-landscape
+
+t378019 yir landscape",False
+8800405c95c5057bc52ad899137bc29e6bfe06d7,golson-wmf,golson@wikimedia.org,2024-11-06 16:45:58+00:00,update number formatting,False
+c748c6a7dfcc96b6daca607987a3f06ce68c2073,Toni Sevener,tsevener@wikimedia.org,2024-11-06 15:58:50+00:00,merge branch 'main' into t378019-yir-landscape,False
+5306c6903a0008791913e51497b9644d4e11b21d,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-06 15:39:52+00:00,"merge pull request #5051 from wikimedia/web-donations
+
+move delete donation history to main settings vc",True
+3c4b69ad7c29f95925a7a2538ff00b86b36af459,golson-wmf,golson@wikimedia.org,2024-11-06 14:40:38+00:00,merge branch 'main' into t378019-yir-landscape,False
+2e62a95bb18621d23ece901eaedcf36566c16f2b,golson-wmf,golson@wikimedia.org,2024-11-06 14:38:42+00:00,pr updates,False
+c3d531bd83e3e02cfe4fc2441c07938a77a8f158,Toni Sevener,tsevener@wikimedia.org,2024-11-06 14:10:12+00:00,merge branch 'main' into twn,False
+a9d0b9bb480da3316725dc3946ca197522c263b4,Marina Azevedo,mazevedo@wikimedia.org,2024-11-06 00:16:09+00:00,merge branch 'main' into web-donations,False
+3b6c0ed5902118be841d7a5f2d4d79b9206fe7b7,Toni Sevener,tsevener@wikimedia.org,2024-11-05 23:54:17+00:00,maybe fix sizing bug on iphone,False
+05de1fd4e27cde01ffca87a9b6226acaf6b5792f,Toni Sevener,tsevener@wikimedia.org,2024-11-05 23:36:48+00:00,"use finish copy, hide donate button",False
+377a28147e81b07787039082c181c496a940c94b,Toni Sevener,tsevener@wikimedia.org,2024-11-05 23:10:55+00:00,improve donate web view button,False
+2e7b1d37efb013607d24da335ba6c4deb133d3a2,Toni Sevener,tsevener@wikimedia.org,2024-11-05 22:48:13+00:00,navigate to learn more web view,False
+df3c73cd884a4ddc843df1ebb32fe5fc8800cb4f,Toni Sevener,tsevener@wikimedia.org,2024-11-05 22:34:03+00:00,fix learn more link,False
+e334e985c066e09db6d1660e2f123465e244c366,Toni Sevener,tsevener@wikimedia.org,2024-11-05 21:27:16+00:00,overlay wmf logo,False
+28f9b25da15f85a66aa6f4ead0808360c5c5c74e,Toni Sevener,tsevener@wikimedia.org,2024-11-05 21:16:37+00:00,insert correct donate slide view model,False
+1fe10d1f3bcab35f2249b1576dbe40ed02d29ae5,Toni Sevener,tsevener@wikimedia.org,2024-11-05 21:16:19+00:00,save fake donation to history if bypass toggle is on,False
+b4cd3f092bb97d782f07f76c53e5fd30332daa68,Marina Azevedo,mazevedo@wikimedia.org,2024-11-05 20:39:00+00:00,merge branch 'main' into update-share,False
+4ca3b34f201600e20e3a903cf6a9ce774da7c219,Marina Azevedo,mazevedo@wikimedia.org,2024-11-05 20:35:22+00:00,"merge pull request #5048 from wikimedia/yir-donate-present
+
+[yir] present donation flow on top of yir",False
+69f42f6ce53ca3da4f830a862f19c310eb219881,mazevedo,mazevedo@wikimedia.org,2024-11-05 19:01:28+00:00,fix logo theming,False
+afaaeb695a6b4a70e022b07da4f8096d9c99d07a,mazevedo,mazevedo@wikimedia.org,2024-11-05 18:57:03+00:00,update yir shareable view layout,False
+51947b4f21b2cfddeea0df3cadfe79e6348515af,Toni Sevener,tsevener@wikimedia.org,2024-11-05 17:38:45+00:00,fix tests,False
+d01af0fbee15555280741dbcf3d74406d94851cd,mazevedo,mazevedo@wikimedia.org,2024-11-05 17:18:02+00:00,update string,False
+ac59c77d223444ace30ac9336ac9375389aa59d8,Toni Sevener,tsevener@wikimedia.org,2024-11-05 16:58:59+00:00,remove test code,True
+eef3e1dd458b82365084f9aa1941ff583e649bcb,Toni Sevener,tsevener@wikimedia.org,2024-11-05 16:58:38+00:00,bug fixes from testing,False
+a913880383b1c47b6abc1558981dcae02d836884,mazevedo,mazevedo@wikimedia.org,2024-11-05 16:28:15+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into update-share,False
+e4ee3336e5fee7f0ca74f2dfb69ec6d46f6fdc50,Toni Sevener,tsevener@wikimedia.org,2024-11-05 16:24:14+00:00,merge branch 'yir-donate-present' into yir-learn-more-web-view,False
+cd4f7aa5abc330ec40d2323fd2b1c08e3db86786,Toni Sevener,tsevener@wikimedia.org,2024-11-05 16:23:58+00:00,merge branch 'main' into yir-donate-present,False
+1b608430e1def2afdbf686baadc12374b9811bd5,mazevedo,mazevedo@wikimedia.org,2024-11-05 16:20:55+00:00,move delete donation history to main settings vc,True
+dfad1bd23af231eb2950bec6fe1733bebe81995f,github-actions,github-actions@github.com,2024-11-05 14:39:43+00:00,import translations from translatewiki,False
+7af2fd2c178b5153f1b27b1926d9ed3e76d0d55c,translatewiki.net,l10n-bot@translatewiki.net,2024-11-05 14:39:15+00:00,localisation updates from https://translatewiki.net.,False
+36e3554bdf1ee3f8ad22e61cb0f5c98013d80147,Toni Sevener,tsevener@wikimedia.org,2024-11-05 00:50:35+00:00,remove temp code,True
+e422aaac7c95b095e1e7396105b3c19bc789c783,Toni Sevener,tsevener@wikimedia.org,2024-11-05 00:49:45+00:00,"fix theming, retain cycle",False
+a4230c17a9fcb69052c83f1e414fce558e051204,Toni Sevener,tsevener@wikimedia.org,2024-11-04 23:48:51+00:00,fix warnings,False
+37098006128b04c2e2ce4076a64a5c8778bee064,Toni Sevener,tsevener@wikimedia.org,2024-11-04 23:47:35+00:00,add spinner to learn more donate button,False
+69a2e857992324d3c976cc401663050e8d7b0552,Toni Sevener,tsevener@wikimedia.org,2024-11-04 23:32:26+00:00,allow bypassing a donation via developer settings,False
+5d785c84877eed1266ea44364f28c84fa1bed24d,Toni Sevener,tsevener@wikimedia.org,2024-11-04 23:09:56+00:00,present learn more temporarily from last slide,False
+a582e56e6ea1b0412eb961ba7ac796f0699f5e43,Toni Sevener,tsevener@wikimedia.org,2024-11-04 22:39:47+00:00,remove unused flag,True
+3014ba6576957c2b03e01e0758051ae73c0105c6,Toni Sevener,tsevener@wikimedia.org,2024-11-04 22:27:08+00:00,merge branch 'main' into yir-learn-more-web-view,False
+67e14544d90cfa440cb298be08cc9d68bcdbd32a,Toni Sevener,tsevener@wikimedia.org,2024-11-04 22:26:53+00:00,refactor / cleanup singlepagewebviewcontroller configurations,True
+9cf176480205eb27283d2f9389d8142cc70029dd,Toni Sevener,tsevener@wikimedia.org,2024-11-04 21:14:44+00:00,merge branch 'yir-donate-present' into yir-learn-more-web-view,False
+e916500f0515ee93369410b433553bd4ebc5989c,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-04 21:06:56+00:00,"merge pull request #5046 from wikimedia/donate-slide-data
+
+[yir] donate slide (part 1 - data)",False
+9006e66fa7bba9c7f6401ee86fa6339b21e2b9ab,golson-wmf,golson@wikimedia.org,2024-11-04 20:59:39+00:00,"use navigationcontroller, update dismiss and present",False
+e4117798a1cc4c9671d278a93ba4a7029c3b305c,golson-wmf,golson@wikimedia.org,2024-11-04 19:57:02+00:00,"undo hosting / view controller, lock navigation root view",False
+d0ac86fdfe6c62b790d7cde1ed549d396c8ee5f3,golson-wmf,golson@wikimedia.org,2024-11-04 15:27:46+00:00,"tweak hosting/view controllers, add globeyir",False
+1cebbabd7693e91a7449a75d95e1725c4c3a47fa,golson-wmf,golson@wikimedia.org,2024-11-04 14:36:56+00:00,hosting + view controller,False
+62c5404d2293649db1adeb8a58ef67ccc552e59c,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-04 20:54:59+00:00,merge branch 'main' into donate-slide-data,False
+4e8b3470aabff3b09dc782f184f4e70464de6331,Toni Sevener,tsevener@wikimedia.org,2024-11-04 20:45:46+00:00,"merge pull request #5043 from wikimedia/update-announcement
+
+[yir] update feature announcement",False
+99011e4cea053547593d40607727d639cfbf43ce,Toni Sevener,tsevener@wikimedia.org,2024-11-04 19:06:55+00:00,increase web view size,False
+5c5e27d05990b5e2a98d86a4013c316523b12ac0,Toni Sevener,tsevener@wikimedia.org,2024-11-04 17:00:38+00:00,in progress,False
+477264ff5ed0555340f6ddb916d0a9d2a7f9d375,Marina Azevedo,mazevedo@wikimedia.org,2024-11-04 15:42:55+00:00,merge branch 'main' into update-announcement,False
+24846d6df6e5103ce145979b8f2b38e37f7acc82,mazevedo,mazevedo@wikimedia.org,2024-11-04 15:41:48+00:00,merge branch 'update-announcement' of https://github.com/wikimedia/wikipedia-ios into update-announcement,False
+ed71573a312bcad9227f062440222df05f88a1c5,mazevedo,mazevedo@wikimedia.org,2024-11-04 15:41:24+00:00,adjust feature announcement frame,False
+6167260953801c255a68cb5b708c4397bb22a5a1,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-04 14:41:57+00:00,"merge pull request #5047 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+9008aa41615d0353809d53a67f231df5de6a9b49,Toni Sevener,tsevener@wikimedia.org,2024-11-04 14:35:25+00:00,remove test code,True
+4ca931264af9e40e56b42c70b066d88c16ac6fe9,github-actions,github-actions@github.com,2024-11-04 12:21:34+00:00,import translations from translatewiki,False
+988ab13b56ecc3682408291de8806597daa45c4a,translatewiki.net,l10n-bot@translatewiki.net,2024-11-04 12:21:09+00:00,localisation updates from https://translatewiki.net.,False
+86a2a293e632b65aaa2dd63c6a4697cb3d32306e,Toni Sevener,tsevener@wikimedia.org,2024-11-02 01:54:53+00:00,fix theming on web view,False
+12e4800ec9796b622ee3a6dc66866e6e8ff223a8,Toni Sevener,tsevener@wikimedia.org,2024-11-01 22:23:55+00:00,progress presenting donate form from yir,False
+b6cca4fe3a7f77dc5769c5d525d418e4ede0675c,Toni Sevener,tsevener@wikimedia.org,2024-11-01 22:02:38+00:00,remove presentation logic that is no longer needed,True
+6f089ff3db516290302c850ad5bdea10da57313a,Toni Sevener,tsevener@wikimedia.org,2024-11-01 21:52:27+00:00,fix tests,False
+f040961138596396d39b61eb94d22b2fa76cb5b2,Toni Sevener,tsevener@wikimedia.org,2024-11-01 21:36:02+00:00,confirm donatecount extracts here,False
+c847907be663272875d0c162da7c1887fbcc4eab,Toni Sevener,tsevener@wikimedia.org,2024-11-01 21:29:16+00:00,fetch local donation history and save to new report slide,False
+658db8dc2aef385f24bfccab4dd9e8c2c4aae7de,Toni Sevener,tsevener@wikimedia.org,2024-11-01 20:13:44+00:00,add donatecount to feature config,False
+b77c71e987f05d4aa6f72677c14e293eee0f3418,Marina Azevedo,mazevedo@wikimedia.org,2024-11-01 17:38:13+00:00,"merge pull request #5017 from spatel/t374331
+
+fix retain cycle in articleviewcontroller",False
+e9f17a8115515814df54cef8ec361022ccf0c992,Marina Azevedo,mazevedo@wikimedia.org,2024-11-01 17:27:07+00:00,merge branch 'main' into t374331,False
+e389478cb312c30863b5298d8d926c65785f8cdf,Toni Sevener,tsevener@wikimedia.org,2024-11-01 16:49:24+00:00,merge branch 'main' into improve-test-stability,False
+2fdbf063a0f894c4734e20bd2d82ed9a55d0a068,Marina Azevedo,mazevedo@wikimedia.org,2024-11-01 16:39:40+00:00,merge branch 'main' into update-announcement,False
+189516109f0d23554982a6df4626fa67755ac56f,Toni Sevener,tsevener@wikimedia.org,2024-11-01 16:22:23+00:00,strings changes from building,False
+be64e9f3edfa58123b392bc1bf1c37e2dd145825,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-01 15:34:09+00:00,"merge pull request #5003 from christianbilodeau/t374566
+
+filter out plug-in wkwebview log from displayed errors",False
+08d83715d432a74a7040617c8bb0c56db5405308,mazevedo,mazevedo@wikimedia.org,2024-11-01 14:50:02+00:00,add globe illustration,False
+a3f96bad36027514ae80ed8509ee9a42896c3e52,Toni Sevener,tsevener@wikimedia.org,2024-11-01 14:24:20+00:00,merge branch 'improve-test-stability' of https://github.com/wikimedia/wikipedia-ios into improve-test-stability,False
+45c789bb17f5096db3fcc26c223e48bc6ffffd81,Toni Sevener,tsevener@wikimedia.org,2024-11-01 14:24:18+00:00,make wmfcoredatastore init async to improve test stability & speed,False
+2a1a8da2593cfbb53f4b22a9c1dc64c9ada1e5b3,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-11-01 14:18:27+00:00,merge branch 'main' into t374566,False
+827c0c4561960f168bc086417434a4a791c97acd,mazevedo,mazevedo@wikimedia.org,2024-11-01 13:47:39+00:00,add yir content provider,False
+828d533fc9232c491ba23d3e8f233c48050e741d,mazevedo,mazevedo@wikimedia.org,2024-11-01 13:18:07+00:00,adjustsharaeable view to add w icon at the top,False
+98b7ad0cd0050ffeb6421f6bbeddd914b6536954,Toni Sevener,tsevener@wikimedia.org,2024-10-31 21:24:05+00:00,merge branch 'main' into improve-test-stability,False
+484ff677014070334159e26beb8891bee9f26d6e,Marina Azevedo,mazevedo@wikimedia.org,2024-10-31 21:13:15+00:00,merge branch 'main' into update-announcement,False
+01c31e1f5c4060504fece0116d4daed44a30f036,Marina Azevedo,mazevedo@wikimedia.org,2024-10-31 21:10:29+00:00,"merge pull request #5040 from wikimedia/t378491-update-slides
+
+t378491: update slides",False
+120548bffb3b0b5447733f58f55ac9c553b8df39,Toni Sevener,tsevener@wikimedia.org,2024-10-31 20:58:16+00:00,improve core data error handling in wmfdata tests,False
+d7adf95fe20eda8059577c16ffa5be31609f8da6,golson-wmf,golson@wikimedia.org,2024-10-31 20:26:12+00:00,remove unneeded images,True
+370c2d33590d065d8d391acfe3505b8581d8eac7,golson-wmf,golson@wikimedia.org,2024-10-31 20:25:28+00:00,"merge branch 'main' into t378491-update-slides
+
+# conflicts:
+#	wikipedia/ios native localizations/en.lproj/localizable.strings",False
+9530ba1651577f193df13d1d64c236cd29bc194c,Toni Sevener,tsevener@wikimedia.org,2024-10-31 20:19:11+00:00,merge branch 'main' into update-announcement,False
+26b4428b59438b3aa6c44f0720d23339ce93efbb,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-31 20:00:58+00:00,merge branch 'main' into t374566,False
+d49c093be446cf067d87dacf34220f6f1624116a,Toni Sevener,tsevener@wikimedia.org,2024-10-31 19:59:04+00:00,"merge pull request #4790 from rajparad/t212318
+
+add logic to show introduction paragraph is presented differently in the editing view",False
+c2b6959f180f3752f0d991dd14c8a00d94377937,Toni Sevener,tsevener@wikimedia.org,2024-10-31 19:51:47+00:00,strings changes from building,False
+b2759893c3fbe756f89ec960daa5ebdeba46dde9,Toni Sevener,tsevener@wikimedia.org,2024-10-31 19:48:20+00:00,merge branch 'main' into t212318,False
+f6a176405b47ca473cee711341ecaafc525cb3f8,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-31 19:21:57+00:00,merge branch 'main' into t374566,False
+bc1519be2274b5e2881f99d7ffc4e730d0a55482,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-31 19:13:27+00:00,"merge pull request #5042 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+7724511fc3e9f796fec4d75213a0367bb3317e7a,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-31 18:53:31+00:00,merge branch 'main' into t374566,False
+082dd0e6dd344856186d3e96d2d4d8daf3a228f5,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-31 18:42:27+00:00,merge branch 'main' into twn,False
+41e0d28107093a73a4b1388fb3170f3bc1fad201,mazevedo,mazevedo@wikimedia.org,2024-10-31 15:54:18+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into update-announcement,False
+61b0bebb79ec59d52f0221abcccfce8c6c7ff7c1,mazevedo,mazevedo@wikimedia.org,2024-10-31 15:41:49+00:00,adjust radius,False
+19a7c671a97113c4ef3e8baa1bf3faef2a6c9121,mazevedo,mazevedo@wikimedia.org,2024-10-31 15:38:53+00:00,adjust padding,False
+424c61d493991809ac7b570ba0b8a005934eeece,mazevedo,mazevedo@wikimedia.org,2024-10-31 15:28:54+00:00,update yir announcement image,False
+18276078e04d5d753e4aaf798a03182afc6b7a82,golson-wmf,golson@wikimedia.org,2024-10-31 15:21:20+00:00,fix merge error,False
+c34350bb30b0a1d88b19f802be8b8483e7eeef0a,golson-wmf,golson@wikimedia.org,2024-10-31 15:06:42+00:00,update localizable,False
+5b786a72a4a1800551e3b88199a424a44ce5ab5b,golson-wmf,golson@wikimedia.org,2024-10-31 14:51:43+00:00,"merge branch 'main' into t378491-update-slides
+
+# conflicts:
+#	wikipedia/code/yearinreviewcoordinator.swift
+#	wikipedia/ios native localizations/en.lproj/localizable.strings",False
+17d4a450bc351b03942e1c94817c23fa4bc06439,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-31 14:49:37+00:00,"merge pull request #5041 from wikimedia/t376319
+
+[yir] present survey after last slide (part 1)",False
+0dcc0c5d692303036d51c02b11b3979de8e43b99,github-actions,github-actions@github.com,2024-10-31 12:23:11+00:00,import translations from translatewiki,False
+53fc098985ea32916d81dda99c20f501dd444074,translatewiki.net,l10n-bot@translatewiki.net,2024-10-31 12:22:47+00:00,localisation updates from https://translatewiki.net.,False
+05b209d9c718bfe50e0a83657930890e4f6da20e,Toni Sevener,tsevener@wikimedia.org,2024-10-30 19:35:03+00:00,merge branch 'main' into t376319,False
+9895842420021d93e3d42cfc80e1106a22621e5a,Toni Sevener,tsevener@wikimedia.org,2024-10-30 19:22:10+00:00,"minor renames, warning fixes",True
+f053607fd87b8470fc77fc0257a1f09fb7f43a81,golson-wmf,golson@wikimedia.org,2024-10-30 19:20:55+00:00,localizable update,False
+8ad89526e877f91265ef20fa8eb60dee1a6c8082,Toni Sevener,tsevener@wikimedia.org,2024-10-30 19:10:15+00:00,clean up explore modal presentations,True
+fd8399a7219190c7decc10805e77e32de11f7b53,golson-wmf,golson@wikimedia.org,2024-10-30 18:55:35+00:00,missing $1,False
+d932c291e9b387a471c1fa534497e751e3ab1315,golson-wmf,golson@wikimedia.org,2024-10-30 18:38:37+00:00,images + tweaks,False
+3913bc0e2bab5f0a22aae94bf0e21984d2779de2,golson-wmf,golson@wikimedia.org,2024-10-30 18:05:07+00:00,added w image,False
+0c39d8691b596fbfc77f5585761920c7e6ca0bb2,golson-wmf,golson@wikimedia.org,2024-10-30 17:52:09+00:00,fill out rest of text/numbers for slides,False
+570d369ae11ce5ea309d82a4ac9f24e4c9b52f2c,golson-wmf,golson@wikimedia.org,2024-10-30 17:37:26+00:00,"set up ui work, start of passing variables/ pictures",False
+7ed8b5eb0e3ea7c464e6fc9bf99d15e8072ecaf6,golson-wmf,golson@wikimedia.org,2024-10-30 14:02:55+00:00,start work with gradients,False
+bbac1ff766d20878054a431316b6f2544205f31a,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-30 18:44:12+00:00,"merge pull request #5038 from wikimedia/track-web-donation
+
+save web donations locally",False
+7bab287a1ef21b698a5687126d5573f7131b5f96,Toni Sevener,tsevener@wikimedia.org,2024-10-30 18:42:08+00:00,clean up article modal presentations,True
+d88c571f121097e5f3d8cb3c35c09b5ce839b01c,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-30 18:13:34+00:00,merge branch 'main' into track-web-donation,False
+5e2dfcb3484797a98f1eb90b924e84a5a463b14b,Toni Sevener,tsevener@wikimedia.org,2024-10-30 18:10:55+00:00,"add feedback submitted toast
+
+- reuse localization from alt text experiment",False
+9a3a147b90ec6665dc5b7cb18b57fed40aef411b,Toni Sevener,tsevener@wikimedia.org,2024-10-30 16:25:05+00:00,share some instances of yir coordinator so needssurveypresentation flag is shared,False
+750a7fb78909ee32c09d79574c4c6f85530dc13f,Marina Azevedo,mazevedo@wikimedia.org,2024-10-30 15:38:15+00:00,"merge pull request #5039 from wikimedia/fix-thankyou-routing
+
+route thankyou page to in-app web view for deep links",False
+3248dab1d4e4519fe60b1420f36d31917763b576,Toni Sevener,tsevener@wikimedia.org,2024-10-30 15:26:09+00:00,present survey in article after returning from donate,False
+49078dad54d054123181f0979570a85435ff91d3,Toni Sevener,tsevener@wikimedia.org,2024-10-30 14:10:21+00:00,cleanup - use one enum case for dismiss,False
+0ce2dd833849ae6f71bb9449c7d6131baae34a5a,mazevedo,mazevedo@wikimedia.org,2024-10-30 13:48:44+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into track-web-donation,False
+9b91848cf3d5b2b411b708b2fd4c9f641257fb86,Toni Sevener,tsevener@wikimedia.org,2024-10-30 13:45:57+00:00,have thankyou page routing default to in-app web view,False
+bfef2e3eb9e6838554a697c06c9cf6247c66e1fe,mazevedo,mazevedo@wikimedia.org,2024-10-30 13:26:48+00:00,adjust the parsing of the recurring parameter on the tahnk you url,False
+0989488e6c3f815e50153aaa6002dec5b1be09fc,mazevedo,mazevedo@wikimedia.org,2024-10-29 20:57:55+00:00,parse thankyou url to locally store donation,False
+2c7eaf3fe6c681a4bae3ab7be8265e0bdab19bd4,Toni Sevener,tsevener@wikimedia.org,2024-10-29 20:13:11+00:00,"update survey component to allow single select
+
+- also update tabs > spaces in wmfsurveyview",False
+e21640fefd1529c5e791da1ccac2854e261a978d,Toni Sevener,tsevener@wikimedia.org,2024-10-29 20:00:44+00:00,use localized strings for copy,False
+80b74768ac81158226f21b5e488235e6647dcc96,Toni Sevener,tsevener@wikimedia.org,2024-10-29 19:40:47+00:00,merge branch 'main' into t376319,False
+d4cab246938759ec5ee25b018d5288db05ac9c12,Toni Sevener,tsevener@wikimedia.org,2024-10-29 17:17:30+00:00,"merge pull request #5035 from wikimedia/yir-metrics-pt1
+
+[yir] metrics part 1",False
+8d0b2c52880f0adb6a5ec6df7c4828f089548a0d,Toni Sevener,tsevener@wikimedia.org,2024-10-29 16:55:25+00:00,merge branch 'main' into yir-metrics-pt1,False
+447015da4b8a0d37550a6d455dff64aa95ab62e6,Toni Sevener,tsevener@wikimedia.org,2024-10-29 16:55:10+00:00,maybe fix mysterious test failures,False
+a7e8f0a78ed0ccd7dfacaf0e5ec59b813559a4ec,Toni Sevener,tsevener@wikimedia.org,2024-10-29 14:27:43+00:00,present mock survey from final slide,False
+75332bf5bf1dfc996371a78893273544144f9b95,Toni Sevener,tsevener@wikimedia.org,2024-10-29 14:05:35+00:00,move donepressed into yearinreviewcoordinatordelegate for consistency,True
+ac115cbcac6a241abe46d9d0f94430924a477b3f,Toni Sevener,tsevener@wikimedia.org,2024-10-29 13:56:14+00:00,minor rename for old use of survey,True
+a1b40dd6778c0970e3160f7a276a7f45897ecab0,Toni Sevener,tsevener@wikimedia.org,2024-10-29 13:55:10+00:00,"reorder data controller methods, add marks, add survey user defaults flag",False
+c2f25ff947cf4f0366385ba6b7bfdd30ce066b58,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-28 15:52:08+00:00,"merge pull request #5036 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+d42d69aa8e652b979f23a2274c9c9b39e7d9ab15,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-28 15:10:13+00:00,merge branch 'main' into twn,False
+e445f6abe2aaad72dffc544a88d790b4b0525b15,mazevedo,mazevedo@wikimedia.org,2024-10-28 15:09:26+00:00,merge branch 'yir-metrics-pt1' of https://github.com/wikimedia/wikipedia-ios into yir-metrics-pt1,False
+ccc4e7c34230343577255ee853ff441bba968e9c,mazevedo,mazevedo@wikimedia.org,2024-10-28 15:08:39+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-metrics-pt1,False
+65a4e5bc10f0256e69d107e5c498d6ea4ed9a019,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-28 14:48:49+00:00,"merge pull request #5034 from wikimedia/share-yir
+
+[yir] share slide",False
+c73a315f187badba76228f62e675c462df57f265,Marina Azevedo,mazevedo@wikimedia.org,2024-10-28 14:45:58+00:00,merge branch 'main' into yir-metrics-pt1,False
+53ca0236313a9a4b6eae38b4261c07f06a0cbbf9,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-28 14:30:34+00:00,merge branch 'main' into share-yir,False
+58cb46cc19656cd801f4acfeb8271b2fc00d4926,github-actions,github-actions@github.com,2024-10-28 12:28:07+00:00,import translations from translatewiki,False
+45e9f5747e388a3a6cbb72b2cce2e654e5e76422,translatewiki.net,l10n-bot@translatewiki.net,2024-10-28 12:26:24+00:00,localisation updates from https://translatewiki.net.,False
+bf7eb09af2ec42a5c72d341ef018e4142030ef22,Toni Sevener,tsevener@wikimedia.org,2024-10-25 19:59:23+00:00,"merge pull request #5033 from wikimedia/t375320-pt3
+
+t376320 clean up, optionals",True
+56336792a333b26af73f5ca91ee223378e2329bf,Toni Sevener,tsevener@wikimedia.org,2024-10-25 19:35:51+00:00,added comment,False
+a414dba5fb2e3af7e2f1423fef5903aa434ce1b2,golson-wmf,golson@wikimedia.org,2024-10-25 19:27:07+00:00,"start = end, end = start (dates)",False
+c7d86da75576f6ea2d483d9d3548477e024f95d2,mazevedo,mazevedo@wikimedia.org,2024-10-25 19:16:44+00:00,add correct share link for campaign,False
+3f015cd5b7f46ab97fad89a4608c68c0895b2e77,Toni Sevener,tsevener@wikimedia.org,2024-10-25 19:10:21+00:00,fix from testing,False
+ee7c71b73c7f78d1fc894faa9923f6671f892b2d,mazevedo,mazevedo@wikimedia.org,2024-10-25 19:03:30+00:00,pass hashtag into view,False
+3d8f6e7fb95594ca771d5177a28541f865ce05f3,mazevedo,mazevedo@wikimedia.org,2024-10-25 19:01:02+00:00,"fix font size, pass hashtag to view model",False
+2d86bebe51906a8db514d0c8175cb3d8d4400e36,Toni Sevener,tsevener@wikimedia.org,2024-10-25 18:43:51+00:00,log donate events,False
+d9dd032458cec9baa194231de3c70d4a181e8f86,mazevedo,mazevedo@wikimedia.org,2024-10-25 18:32:38+00:00,"remove popover arrow, remove unecessary size argument on snapshot creation, fix coordinator retention",True
+e385d7991276664220793fa7f997cb248081bd38,golson-wmf,golson@wikimedia.org,2024-10-25 18:28:36+00:00,small fixes,False
+1ee1a28ae004345621164e183d12ebbb134b493f,mazevedo,mazevedo@wikimedia.org,2024-10-25 17:58:35+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into share-yir,False
+dda3be9382fad6bd1fc4bd14df55d4b89be6199e,mazevedo,mazevedo@wikimedia.org,2024-10-25 17:28:29+00:00,"delete share hosting controller, skip preview step, use fixed size for shred yir slide",False
+fc521a18853c1d40174f03a54ba02367e3362d16,golson-wmf,golson@wikimedia.org,2024-10-25 14:23:27+00:00,start/end date in tests,False
+2db0e84e67ace53c54c384b63a2da2daca23805c,golson-wmf,golson@wikimedia.org,2024-10-25 13:51:55+00:00,"clean up, optionals",True
+136e3cdfb4fb4428845644e3540e804aaf57b044,Toni Sevener,tsevener@wikimedia.org,2024-10-25 13:34:02+00:00,log feature announcement events,False
+8db761f368fa8af31b328f3a7410f5d28434f75e,mazevedo,mazevedo@wikimedia.org,2024-10-24 23:06:32+00:00,"add extension to export view as image, add show uiactivityviewcontroller upon viewdidappear in wmfyearinreviewshareableslideviewcontroller to allow slide sharing",False
+f79553dcdb89f2cc61339f25322e7e3be9d54e11,mazevedo,mazevedo@wikimedia.org,2024-10-24 23:03:54+00:00,add localized strings,False
+b7fc25b8a691196a4ce28e437cb82ce346187320,Toni Sevener,tsevener@wikimedia.org,2024-10-24 21:45:32+00:00,compile fixes after merge,False
+da9d7c8e7b2807caa56d411df6a727c73dc90466,Toni Sevener,tsevener@wikimedia.org,2024-10-24 21:39:16+00:00,merge branch 'main' into yir-metrics-pt1,False
+b46f7a71747a9a91c4a0b3111ba2b87a5e3f5868,mazevedo,mazevedo@wikimedia.org,2024-10-24 21:30:25+00:00,ajust yir shareable view,False
+b3d79b8bf019710adb1568cf1dec161237da880d,Toni Sevener,tsevener@wikimedia.org,2024-10-24 20:09:14+00:00,"merge pull request #5030 from wikimedia/t375320-pt2
+
+t375320",False
+4df66b5e9d62bcc619adb4b6823a536a0edbb23d,Toni Sevener,tsevener@wikimedia.org,2024-10-24 19:35:28+00:00,merge branch 'main' into t375320-pt2,False
+30eb8a5befd4a50b17c5c9b5502b5cb3ae134748,Toni Sevener,tsevener@wikimedia.org,2024-10-24 19:20:13+00:00,strings changes from building,False
+2b7d0f3bfa66228ef87f47ee4e74c92fa3e91e97,Toni Sevener,tsevener@wikimedia.org,2024-10-24 19:09:43+00:00,"merge pull request #5032 from wikimedia/yir-annoucement-bugfix
+
+yir announcement bugfix",False
+1cd2181e1e5c56389ba3a881d1e748191b30caa0,Toni Sevener,tsevener@wikimedia.org,2024-10-24 16:06:03+00:00,merge branch 'main' into yir-annoucement-bugfix,False
+141da940322317e615fa9123e081a2d5313cac22,Toni Sevener,tsevener@wikimedia.org,2024-10-24 16:05:50+00:00,"merge pull request #5031 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+4128f90ef66f741c4352ea7e481af120490e6db6,Toni Sevener,tsevener@wikimedia.org,2024-10-24 15:38:58+00:00,merge branch 'main' into twn,False
+ffd108611c0754638b8a8d4dafab893a2daae978,mazevedo,mazevedo@wikimedia.org,2024-10-24 15:23:23+00:00,add data controller check to yir announcement on article view,False
+49d1358ed646fec92b5e5f60ccf37e3afa1e9547,Toni Sevener,tsevener@wikimedia.org,2024-10-24 15:19:11+00:00,merge branch 'main' into t375320-pt2,False
+07e835dbd8278fe658e28a26e2abe68a31f9c832,Toni Sevener,tsevener@wikimedia.org,2024-10-24 15:12:03+00:00,"merge pull request #5029 from wikimedia/yir-donate-logic
+
+[yir] attach donate logic to yir donate button",False
+fd3344557612a387a3e4ded87ece9034ac1b0298,Toni Sevener,tsevener@wikimedia.org,2024-10-24 13:45:54+00:00,fix donate popover placement,False
+5a34c8e33779a0b6dc0d33dba39b77526524bf79,mazevedo,mazevedo@wikimedia.org,2024-10-24 13:55:07+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-donate-logic,False
+1985a12430dd2b8e84cb01b0fbc6039b7c1b258a,Grey Olson,golson@wikimedia.org,2024-10-24 13:49:15+00:00,"merge branch 'main' into t375320-pt2
+
+# conflicts:
+#	wikipedia/ios native localizations/en.lproj/localizable.strings",False
+3756132c36c09c7b1592a280dfabee636c3ee8d1,Grey Olson,golson@wikimedia.org,2024-10-24 13:47:18+00:00,override test func,False
+089b4b318aa00e05b8e58bb66738877f82da325f,github-actions,github-actions@github.com,2024-10-24 12:28:02+00:00,import translations from translatewiki,False
+4762d6994878b795b6dc58db030dde1e67498a2c,translatewiki.net,l10n-bot@translatewiki.net,2024-10-24 12:27:38+00:00,localisation updates from https://translatewiki.net.,False
+0c6e56c278f4e42e1fc1f9c304a669db2719d598,Toni Sevener,tsevener@wikimedia.org,2024-10-23 22:41:45+00:00,"merge pull request #5025 from wikimedia/yir-feature-announcement
+
+[yir] feature announcement",False
+08b35b21d9ab24c7151fde69c7de05223136adcf,Toni Sevener,tsevener@wikimedia.org,2024-10-23 22:03:24+00:00,merge branch 'main' into yir-feature-announcement,False
+583eb3b1d390d3dd62bf451fa9d5aebc21d086db,mazevedo,mazevedo@wikimedia.org,2024-10-23 19:30:14+00:00,add yir share view and hosting controller,False
+308416f269452ed204eeaa0db5febaea53ac7d20,Grey Olson,golson@wikimedia.org,2024-10-23 18:23:31+00:00,merge branch 'main' into t375320-pt2,False
+987e4d8f24caaf0d923d541a7c5db3e15f79656a,Grey Olson,golson@wikimedia.org,2024-10-23 18:19:56+00:00,add username to tests,False
+9977365839ce8b1a5230414c0e89bd77e03cb814,Grey Olson,golson@wikimedia.org,2024-10-23 18:08:11+00:00,localized strings,False
+c37c1fa88d4d276ce0a2360ba698c0953437df95,Grey Olson,golson@wikimedia.org,2024-10-23 18:07:00+00:00,add 500+ logic,False
+f85386a34358cb138e6ba35194e23ca9931231de,Grey Olson,golson@wikimedia.org,2024-10-23 17:58:19+00:00,update languages image,False
+f1c7dbe621c2270120927188c92c860b8c99fc6a,Toni Sevener,tsevener@wikimedia.org,2024-10-23 17:54:34+00:00,"merge pull request #5027 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+44aa711f975e88161874bc83062ebda563c19fad,Grey Olson,golson@wikimedia.org,2024-10-23 17:45:56+00:00,display edit slide when necessary,False
+88dd53939c9ad76622f0cde35873e801e2ffd08d,Toni Sevener,tsevener@wikimedia.org,2024-10-23 17:38:29+00:00,fix extra curly braces in translation test failure,False
+3aeba1d05eca933dd077049697f51bba832c5666,Toni Sevener,tsevener@wikimedia.org,2024-10-23 17:34:48+00:00,fix translation with html test failure,False
+f3a8098c28cc101dc6feee42b19d048c6f75fec4,Toni Sevener,tsevener@wikimedia.org,2024-10-23 17:08:09+00:00,maybe fix tests,False
+b0b22b2fd5aed391c20dded21c4e7d4af4fa3dd7,mazevedo,mazevedo@wikimedia.org,2024-10-23 16:34:14+00:00,add share action to yir coordinator delegate,False
+256043296ef6abe86d2a0d8caaad9d35efd87b22,mazevedo,mazevedo@wikimedia.org,2024-10-23 16:29:44+00:00,update yir coordinator delegate to allow actions to pass in needed props,False
+860b2e99d8e671e95bc07346ee60d895e68d0eaa,mazevedo,mazevedo@wikimedia.org,2024-10-23 15:09:32+00:00,"adjust yir feature announcement prsentation, retain coordinator",False
+195e120d47e2db02cf760effc6f304ff41518234,mazevedo,mazevedo@wikimedia.org,2024-10-23 14:46:02+00:00,adjust yir feature announcement presentation,False
+dc1c8fda5cd0a5133d6540b6a6b24b712d66eb3a,Toni Sevener,tsevener@wikimedia.org,2024-10-22 16:13:58+00:00,log swipe to dismiss,False
+b2ea14dccdf32c6ee6c0205c5047daae84ca3690,Toni Sevener,tsevener@wikimedia.org,2024-10-22 15:14:05+00:00,"rename wmfyearinreview > wmfyearinreviewview
+
+- distinguishes it from a model class",True
+7fe777ff648e8666c0ed93a1d866b6ffcd90f647,Toni Sevener,tsevener@wikimedia.org,2024-10-22 15:02:13+00:00,some fixes to logging next and impressions,False
+c72b1adac7367869d893423d78c311ec9a055a9d,Toni Sevener,tsevener@wikimedia.org,2024-10-22 14:19:49+00:00,merge branch 'main' into yir-metrics-pt1,False
+f5d2502e966b14c81465c1badd349a0a2fc98379,Toni Sevener,tsevener@wikimedia.org,2024-10-22 14:15:11+00:00,"fix slide impressions, log next tap",False
+03f673aa379c3b3f456301aa84f942c7270a66a4,Toni Sevener,tsevener@wikimedia.org,2024-10-22 14:09:38+00:00,log impressions for other slides,False
+fba582743a7121e6dd1c7f1e9b9d0db71d76d09f,Toni Sevener,tsevener@wikimedia.org,2024-10-22 14:05:56+00:00,"log intro impression and buttons, done button",False
+2a30959b326fab0a0d54131a5fa3713687c667d4,Toni Sevener,tsevener@wikimedia.org,2024-10-22 14:04:58+00:00,add missing entry point logging,False
+710494ea2ebda98866530a81a9195324927579ce,mazevedo,mazevedo@wikimedia.org,2024-10-22 13:21:57+00:00,remove unused code,True
+beb15504504878ef0c103e5ca62608759d8937a1,Marina Azevedo,mazevedo@wikimedia.org,2024-10-22 13:12:34+00:00,merge branch 'main' into twn,False
+f28e0e27c7a81302f33122c2fbcfc664d9cc5585,mazevedo,mazevedo@wikimedia.org,2024-10-22 13:12:01+00:00,adjust yir feature announcement display,False
+d4f7117b0e15111c4ae95c5286a482161f2c2e48,Toni Sevener,tsevener@wikimedia.org,2024-10-21 21:59:21+00:00,remove outdated comment / code,True
+312fbc0ab0b70ca5d0499a8de4be0b6680474e03,Toni Sevener,tsevener@wikimedia.org,2024-10-21 21:39:38+00:00,"wrap fetchusercontributionscount back up into evaluated conditional
+
+- prevents us from fetching and calculating edit count more than once",False
+4c128915b5444362b1a1c031ca8c73bb433e6d41,Toni Sevener,tsevener@wikimedia.org,2024-10-21 19:47:16+00:00,move fetch contributions call up outside of backgroundcontext.perform,True
+883c61692c782453beab1d6e7ad4c12e727888f7,mazevedo,mazevedo@wikimedia.org,2024-10-21 19:40:36+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-feature-announcement,False
+ddc5f61032de62f57414941a56cf24981189376d,mazevedo,mazevedo@wikimedia.org,2024-10-21 19:34:35+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-donate-logic,False
+3f380926fc3cf099f4608a2094caa28d6b6f0b14,mazevedo,mazevedo@wikimedia.org,2024-10-21 19:34:24+00:00,undo prop change,False
+21294b9cd108691b47c8b3e4080aa00ba09e22c8,Grey Olson,golson@wikimedia.org,2024-10-21 19:31:37+00:00,update async,False
+0c854b3917544f44a22982e7eb61409ee13bb946,mazevedo,mazevedo@wikimedia.org,2024-10-21 19:17:09+00:00,add donate cordinator to donate button action on the yir slides,False
+7fb3ca720b798942623e47b653c874e1234dec4b,Toni Sevener,tsevener@wikimedia.org,2024-10-21 19:02:40+00:00,log entry point tap,False
+32b7c0cec08e3e5c5f53335d3c13d45280e8b6cb,Grey Olson,golson@wikimedia.org,2024-10-21 18:58:25+00:00,add async bridge,False
+07f65c91d777eb9ba2e9dccb2a8c5ae630a31adc,Grey Olson,golson@wikimedia.org,2024-10-21 18:46:38+00:00,"merge branch 'main' into t375320-pt2
+
+# conflicts:
+#	wmfdata/sources/wmfdata/data controllers/year in review/wmfyearinreviewdatacontroller.swift",False
+cf64c862f70a4dd719223f2f35ba8cd55ab2e5e8,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-21 18:44:48+00:00,"merge pull request #5028 from wikimedia/7.6.1-main-merge
+
+update main with 7.6.1",False
+a5f487591b6e7d52d33d8feec7c75d5d441d1a4d,Toni Sevener,tsevener@wikimedia.org,2024-10-21 15:23:48+00:00,test compile fixes,False
+15c2c63eeee9d2fbad366e30e9faf8fd5d3991e9,Toni Sevener,tsevener@wikimedia.org,2024-10-21 15:23:38+00:00,merge branch 'main' into 7.6.1-main-merge,False
+1e0b8c23ccfe2fccb10b13d40b28b0848cc7d178,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-21 12:41:23+00:00,"merge pull request #5026 from wikimedia/yir-year-id
+
+[yir] add yearid to feature config",False
+b7a09a1a9e8fe8b4c327389113e85a237161548e,github-actions,github-actions@github.com,2024-10-21 12:25:39+00:00,import translations from translatewiki,False
+c1688509bff08c30ae8cf085ed5af2ddd72728c1,translatewiki.net,l10n-bot@translatewiki.net,2024-10-21 12:25:12+00:00,localisation updates from https://translatewiki.net.,False
+9eaf7d996b15c59fb6503089f9c0ba9da9743cd7,Toni Sevener,tsevener@wikimedia.org,2024-10-18 19:58:33+00:00,add yearid to yir feature config,False
+f23bab1bf85293dfb991db228c20ae363bcda5ea,mazevedo,mazevedo@wikimedia.org,2024-10-18 19:39:25+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-feature-announcement,False
+c4f7f04d381672c25bb440fcca029515476005c5,mazevedo,mazevedo@wikimedia.org,2024-10-18 19:30:08+00:00,update valid language codes,False
+04119c7ecd9a124e2e200e08d0d7b8817cba5ce8,Grey Olson,golson@wikimedia.org,2024-10-18 19:04:49+00:00,add grabbing the edits information,False
+74d21e0a087a40fef0b3d35847165f501b5c862c,mazevedo,mazevedo@wikimedia.org,2024-10-18 18:19:10+00:00,add yir coordinator delegate,False
+fe17863ef13747f38269776d38cd36c1d4841033,Toni Sevener,tsevener@wikimedia.org,2024-10-18 15:35:56+00:00,"merge pull request #5023 from wikimedia/t376320-you-edited
+
+t376320: part 1",False
+3a78efe38829486756b7fee9eb5ac03a8162a5ed,Grey Olson,golson@wikimedia.org,2024-10-18 15:20:59+00:00,readd function,False
+19d09b774f9466e043abe34c88440e2e46006ba3,mazevedo,mazevedo@wikimedia.org,2024-10-18 15:17:48+00:00,"make prop prublic, update test calss init",False
+8cf113aa73fa75dbb4f63185e35916d365a5ffbd,Grey Olson,golson@wikimedia.org,2024-10-18 15:04:22+00:00,conflict fix,False
+38a102ea2d5ee19feaba6e62ee6056cff776bb7c,mazevedo,mazevedo@wikimedia.org,2024-10-18 15:03:31+00:00,remove unecessary change,True
+bc9ea057d97aee23e634df4d5fcab0f03ccd4d11,Grey Olson,golson@wikimedia.org,2024-10-18 15:02:52+00:00,"merge branch 'main' into t376320-you-edited
+
+# conflicts:
+#	wmfdata/sources/wmfdata/data controllers/year in review/wmfyearinreviewdatacontroller.swift
+#	wikipedia/code/yearinreviewcoordinator.swift",False
+d9a13c00a03ab360dab4390e5c079d18675a1816,mazevedo,mazevedo@wikimedia.org,2024-10-18 14:54:48+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-feature-announcement,False
+0a85cf2130bf75b46ff2b6a93ad4cc12e5e7f36b,mazevedo,mazevedo@wikimedia.org,2024-10-18 14:39:34+00:00,"pass rect to announce feature func, undo button changes to lazy var",False
+94c560a6e69ac4cdea892710661107f905694e9c,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-18 14:32:12+00:00,"merge pull request #5024 from wikimedia/t376066
+
+[yir] add personalized article total slide",False
+d8985afb61ea09bbcefd14fcfe2081b3b7f0ce20,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-18 14:02:14+00:00,merge branch 'main' into t376066,False
+3d4d0724b7baf72419cd3ec6c6788435e679965d,Grey Olson,golson@wikimedia.org,2024-10-17 19:57:46+00:00,pr updates,False
+a817747d038b71b8784308a099dc533054d96688,Grey Olson,golson@wikimedia.org,2024-10-17 15:06:05+00:00,remove other changes,True
+e3ca9668849c1673c8af34e2de89feebf72d84fe,Grey Olson,golson@wikimedia.org,2024-10-17 13:40:16+00:00,remove print,True
+bbbcd4f6136fc3771d11fa876c12a991a1cb2b91,Grey Olson,golson@wikimedia.org,2024-10-17 13:34:59+00:00,username,False
+5cdc1059ff312e53a77cc1189877aa41949862da,Grey Olson,golson@wikimedia.org,2024-10-17 13:34:20+00:00,conflict updates,False
+a4403f7081eff41e0dc3b06661507735301089db,Grey Olson,golson@wikimedia.org,2024-10-15 13:50:18+00:00,update text,False
+6998b60c4aecda0c2055d1f2fc14a903ea5a5e10,Grey Olson,golson@wikimedia.org,2024-10-13 04:37:17+00:00,fix threading,False
+9a52a918e91786e9fa772e46937401da6988bd2a,Grey Olson,golson@wikimedia.org,2024-10-11 18:36:09+00:00,"update to use parameters
+
+has known error - return 0 always",False
+f99a4d955f2384aeadb91c0b82d56811e7bc17f6,Grey Olson,golson@wikimedia.org,2024-10-11 16:44:42+00:00,get counts,False
+2581bc8fc0cf23477b10d05b56d1a9f1c4579e08,Toni Sevener,tsevener@wikimedia.org,2024-10-17 22:35:16+00:00,"merge pull request #5020 from wikimedia/ui-touchups
+
+ui touchups yir",False
+52831f8ef9055b352c6d59f11612d696a1b9c98c,Toni Sevener,tsevener@wikimedia.org,2024-10-17 21:17:03+00:00,merge branch 'main' into ui-touchups,False
+94886ae84f069f26aad2d86ee5c9cab7a0a51245,Grey Olson,golson@wikimedia.org,2024-10-17 19:27:19+00:00,ui image,False
+131a10a5e01e08a0fb3bd0a4f5f0103db28e1ace,mazevedo,mazevedo@wikimedia.org,2024-10-17 19:08:18+00:00,adjust profile button to be lazily constructed to try and avoid race conditions,False
+5f67312898af5adec9d3f31ce134ac2e4f2fa1c6,Grey Olson,golson@wikimedia.org,2024-10-17 18:57:44+00:00,switch to native sf,False
+7762c7c222a58c130bdf42e51ac3a6d38ce6ee94,Grey Olson,golson@wikimedia.org,2024-10-17 18:37:50+00:00,updates re: robin,False
+88c94a5fd1f458c8bc3c4526db99fa87006d54af,Toni Sevener,tsevener@wikimedia.org,2024-10-17 15:10:04+00:00,merge branch 'main' into t376066,False
+f076840f8351692ce8375c8b4a3c9ed8df234387,Toni Sevener,tsevener@wikimedia.org,2024-10-17 15:09:34+00:00,"maybe fix tests, bring mock back into wmfdatatests",False
+965410ca2db1d11ae40c344b64ee77c5ac446e16,Toni Sevener,tsevener@wikimedia.org,2024-10-17 14:14:07+00:00,clean up personalized localized strings + localize collective strings,True
+6f787fba1fda4656b6944514e124046e73a95b7c,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-17 13:30:17+00:00,"merge pull request #5022 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+a9495f7ec7e4347b606a6a89669a9f03267213d9,Grey Olson,golson@wikimedia.org,2024-10-16 14:24:29+00:00,tabview,False
+b1f69525f3ef3c4a519dc8b5e7117aeef5a7e73c,Grey Olson,golson@wikimedia.org,2024-10-16 13:28:02+00:00,"pr updates, get rid of shadow, remove excess code",True
+9baddbfeac68c727d5cc1ea7efc4a0f227655ea8,Grey Olson,golson@wikimedia.org,2024-10-15 20:03:53+00:00,refactor slideshow to use scrollview,True
+7b1c130a70360727bc88735f1921032227e1c430,Grey Olson,golson@wikimedia.org,2024-10-15 19:19:47+00:00,update more,False
+f504fd796c281ca18690350469f1d580d14d4a26,Grey Olson,golson@wikimedia.org,2024-10-15 18:28:21+00:00,update ui for t376071,False
+46b30b938ce9a57c4a33327d2c4a92b5d5c5502b,github-actions,github-actions@github.com,2024-10-17 12:27:11+00:00,import translations from translatewiki,False
+8cc31dc40dc6f962f93ca938ae41e686c43e4e43,translatewiki.net,l10n-bot@translatewiki.net,2024-10-17 12:26:46+00:00,localisation updates from https://translatewiki.net.,False
+fb49dfd2490e0466600b18f92ff15cda8d678c14,Toni Sevener,tsevener@wikimedia.org,2024-10-16 23:47:33+00:00,present personalized reading slide from yearinreviewcoordinator,False
+4ec7f85b2d8eaad02d771d02abd0cccbfed21563,Toni Sevener,tsevener@wikimedia.org,2024-10-16 20:37:31+00:00,"address entry point todos, move data controller mock, fix tests",True
+f9a4b4fd687fa541b82ed1a8835b7b8cc0113c33,mazevedo,mazevedo@wikimedia.org,2024-10-16 20:31:31+00:00,fix typo,False
+fd16777d883a032763c92560cbe1cf3e227f08df,mazevedo,mazevedo@wikimedia.org,2024-10-16 20:24:05+00:00,use bar button item with popover,False
+9fd9d27f0c5cbb50d898486c5fb4a58d1853fad6,Toni Sevener,tsevener@wikimedia.org,2024-10-16 19:52:23+00:00,use data population dates from remote config,False
+d61862e1c8d43f05e9689298f624cdbbb7ce4fd0,Toni Sevener,tsevener@wikimedia.org,2024-10-16 19:26:55+00:00,"populate readcount data in populateyearinreviewreportdata
+
+- plus more renames",True
+ef2c0d6fc75da6ee9f8e67ad046c015b65224e88,Toni Sevener,tsevener@wikimedia.org,2024-10-16 17:21:13+00:00,"minor renaming, add both readcount and editcount as initial slides",False
+08f6c043c576cea25a1e77c22bc060e30b7ba601,mazevedo,mazevedo@wikimedia.org,2024-10-16 16:51:06+00:00,set flag to true after displaying feature announcement,False
+c9dfe77d1014067b08104739bd93e0f30a14cdaf,mazevedo,mazevedo@wikimedia.org,2024-10-16 16:43:57+00:00,add yir feature announcement to article view,False
+413464f4b847e5da4281337adea5ee6da3367ea1,Toni Sevener,tsevener@wikimedia.org,2024-10-16 16:32:21+00:00,cleanup - remove unnecessary entityname param,True
+18a1ccf232efd35632860fffe918d105cc8b796e,mazevedo,mazevedo@wikimedia.org,2024-10-16 16:13:49+00:00,add localized strings,False
+f0985f94c8bddeaa00b1bb9bd53e18293732cdbd,mazevedo,mazevedo@wikimedia.org,2024-10-16 16:13:38+00:00,add localized strings,False
+e8c49a8e0ac483503afff3fd1ae2464cada3bd2e,mazevedo,mazevedo@wikimedia.org,2024-10-16 14:53:47+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-feature-announcement,False
+60879df2e2709a2ad7827b57bcd9e75659b5d1d7,mazevedo,mazevedo@wikimedia.org,2024-10-16 14:49:57+00:00,add yir feature announcemnt method in explore view controller,False
+0c914b3573e87bcd6d16bffe9f6efabcf1ce40f9,Toni Sevener,tsevener@wikimedia.org,2024-10-16 14:12:23+00:00,"merge pull request #5021 from wikimedia/increment-version
+
+increment version of main to 7.6.2",False
+82a02de0034bc1f9a0ea2d5b7cbcc3a5a54e850b,Grey Olson,golson@wikimedia.org,2024-10-16 13:30:31+00:00,increment version,False
+3f7595ce38e21925b67d50f4bef449cae92c2db9,Toni Sevener,tsevener@wikimedia.org,2024-10-15 16:45:58+00:00,"merge pull request #5010 from wikimedia/yir-profile-entry-method
+
+add year in review entry method visibility logic (part 1)",False
+ca8bb1f240ebeea08a278b97dc0f2a2d7f163194,Toni Sevener,tsevener@wikimedia.org,2024-10-15 16:09:26+00:00,merge branch 'main' into yir-profile-entry-method,False
+028f835be74d5f41a4900e11d302757e42ed63c3,Toni Sevener,tsevener@wikimedia.org,2024-10-15 16:07:17+00:00,compile fixes after merge,False
+b26deb47a6398b8a2377ac2dcabe2de76641114a,Toni Sevener,tsevener@wikimedia.org,2024-10-15 16:07:03+00:00,merge branch 'main' into yir-profile-entry-method,False
+b554fca67668c185944e2bbfb8110fa8f0174b42,Toni Sevener,tsevener@wikimedia.org,2024-10-15 14:06:35+00:00,"merge pull request #5019 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+bf8c428787843f7832d93688c01dac20e2cae502,github-actions,github-actions@github.com,2024-10-14 12:25:44+00:00,import translations from translatewiki,False
+e485acf7459b926793d1e0b99279690d278a1e5e,translatewiki.net,l10n-bot@translatewiki.net,2024-10-14 12:25:20+00:00,localisation updates from https://translatewiki.net.,False
+552c22806274d89450027920e7e45ac9e0b3ca18,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-13 04:37:37+00:00,"merge pull request #5012 from wikimedia/t376403
+
+send is_temp and user_is_temp to mep",False
+735e86ac433679e43e881e7048f9d767031c6ddc,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-13 04:12:54+00:00,merge branch 'main' into t376403,False
+e72b9f1eb0dc2619bc1232f73e226ee91872d4a3,Marina Azevedo,mazevedo@wikimedia.org,2024-10-11 21:53:42+00:00,"merge pull request #5018 from wikimedia/yir-data-controller
+
+[yir] add data controller with basic methods",False
+83dcb79129821cdf811d3ba5dfdcbff1381e7427,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-11 19:15:53+00:00,merge branch 'main' into t376403,False
+b5b677bafb1ea5961854bdd1ef75a7fe5a10c97b,mazevedo,mazevedo@wikimedia.org,2024-10-11 19:05:56+00:00,use discardable return in func return to allow better tetsing,False
+5b213a76c51e27cd568bc7b0ac59e689860946a4,mazevedo,mazevedo@wikimedia.org,2024-10-11 18:37:56+00:00,remove return from func,True
+5c7cd62e81654ec8cf79b2aad2044c705f0cf68b,mazevedo,mazevedo@wikimedia.org,2024-10-11 18:05:30+00:00,remove return from function,True
+c6a8035968da3e11b12c4b0e85c370fb0ac1c728,mazevedo,mazevedo@wikimedia.org,2024-10-11 18:02:38+00:00,add verification for yir on app resume,False
+0bce3349289340aef1023547967d462531444fc4,mazevedo,mazevedo@wikimedia.org,2024-10-11 15:57:37+00:00,"add func to fetch report by year, make report year and slide id non-optionl, make slide ids unique",False
+1b089c22609db633a59930fc11d9f75d0ae8288b,mazevedo,mazevedo@wikimedia.org,2024-10-11 15:06:30+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into yir-data-controller,False
+24800e6cb20df2f13ad2b6c8e330c61ef2927c80,Shilan Patel,shilan.patel@gmail.com,2024-10-11 14:42:16+00:00,fix retain cycle in articleviewcontroller,False
+a4e2f5f77cad815a8f9df893f5ee05e432a93552,mazevedo,mazevedo@wikimedia.org,2024-10-11 14:37:33+00:00,revert to old xcdatmodel version,False
+07ed2c7fb8de51005cfd57a66e3b7b322705e702,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-11 13:45:17+00:00,"merge pull request #5014 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+eca92a73b5e92e2d53fc69aedaf85c617de3eddd,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-11 13:29:29+00:00,merge branch 'main' into twn,False
+1cf680bd68d4c9acea883ef1c46dc339d1a5787f,Toni Sevener,tsevener@wikimedia.org,2024-10-10 23:40:51+00:00,merge branch 'main' into t376403,False
+90722f9010ee348bbeb69d9ce67f39d0443ab385,Toni Sevener,tsevener@wikimedia.org,2024-10-10 23:40:29+00:00,strings changes from building,False
+71fcdbbbc078331d1f75469ae5db42364d8ef2a0,Toni Sevener,tsevener@wikimedia.org,2024-10-10 22:52:57+00:00,merge branch 'main' into yir-profile-entry-method,False
+666899efcc479234e464ca3eca79aecb60b199ed,Toni Sevener,tsevener@wikimedia.org,2024-10-10 22:52:14+00:00,"merge pull request #5015 from wikimedia/t376044-paging-components
+
+t376044 paging components",False
+9c6083af164c26754b13a6a5ef22c5c0a601a51c,Toni Sevener,tsevener@wikimedia.org,2024-10-10 21:39:00+00:00,lint change,False
+71c79f059e15da8d76455af715487799c58eac96,Toni Sevener,tsevener@wikimedia.org,2024-10-10 21:33:00+00:00,comment out some tests,False
+501661d09d0b1333e38423de914dfb10d54b5405,Toni Sevener,tsevener@wikimedia.org,2024-10-10 21:31:14+00:00,bring back tests,False
+71906f8eb9a4e55c8be31d468db4c8bd21402e0e,Toni Sevener,tsevener@wikimedia.org,2024-10-10 21:31:07+00:00,compile fixes after merge,False
+1c4863f50a8d6c2330b7f45ac56b12526bdb8686,Toni Sevener,tsevener@wikimedia.org,2024-10-10 21:16:21+00:00,merge branch 'main' into yir-profile-entry-method,False
+5784c5b8e8b392b14748f7ae91c77012dc174db4,Toni Sevener,tsevener@wikimedia.org,2024-10-10 21:05:32+00:00,strings changes from building,False
+a6ce70ccbca8bc6f5e36be5d366bf43d26ee3cd5,Toni Sevener,tsevener@wikimedia.org,2024-10-10 21:04:30+00:00,merge branch 'main' into t376044-paging-components,False
+b8d6504b8740c9ba0d7c5e461576788b98224e89,Toni Sevener,tsevener@wikimedia.org,2024-10-10 21:01:54+00:00,"use different method in commented strings translations
+
+- prevents translations from getting exported by build script",False
+c5ef9ad8216bb9f44d2d94a292b08e7e4abca427,mazevedo,mazevedo@wikimedia.org,2024-10-10 20:47:17+00:00,"rename entities to start with the cd prefix, update yir models",True
+532f66f6a02a4e27d8706b0a205918f94d1f53f4,Toni Sevener,tsevener@wikimedia.org,2024-10-10 20:45:01+00:00,merge branch 'main' into twn,False
+b9759353e6f6417a44516e027f1f0374f30c3ff8,Toni Sevener,tsevener@wikimedia.org,2024-10-10 20:44:20+00:00,merge branch 'main' into t376403,False
+1ba143c3fbd7553d40666d45125a8d5abcb7c2d8,Toni Sevener,tsevener@wikimedia.org,2024-10-10 20:44:03+00:00,"merge pull request #5013 from wikimedia/remove-flaky-tests
+
+remove flaky tests",True
+2a76772eb892b83a15f03473250a1bb2410d1b1f,Toni Sevener,tsevener@wikimedia.org,2024-10-10 20:43:42+00:00,merge branch 'main' into t376403,False
+fede6704ba7d64683996b93fc444b1c53f848430,Toni Sevener,tsevener@wikimedia.org,2024-10-10 20:42:26+00:00,update comment,False
+76c3a8d7c80be2f6120b5a1f4221578c13fee37d,Toni Sevener,tsevener@wikimedia.org,2024-10-10 20:38:48+00:00,check that cookie value is not empty,False
+c95e2a5a6de562c33fa961ffee387797d3f84aa7,Toni Sevener,tsevener@wikimedia.org,2024-10-10 20:35:14+00:00,modify to match android's logic,False
+2d744768e1fa162f3fb2dc98465730ba41357eff,Toni Sevener,tsevener@wikimedia.org,2024-10-10 20:29:57+00:00,merge branch 'main' into remove-flaky-tests,True
+d00d0956404dfb9ca53438c212d41e19bd13a486,Marina Azevedo,mazevedo@wikimedia.org,2024-10-10 20:29:25+00:00,"merge pull request #5016 from wikimedia/add-dev-seetigs-yir
+
+add yir dev settings",False
+2d0c2632295cd860204823444a67184a59744b90,Toni Sevener,tsevener@wikimedia.org,2024-10-10 20:12:59+00:00,merge branch 'main' into remove-flaky-tests,True
+ef23cdd1de6a55e1038feeca0d51a5da6650bb1c,mazevedo,mazevedo@wikimedia.org,2024-10-10 19:49:26+00:00,rename class,True
+9ba47a9f795922ce1c4284c5a17a4e6233e5d2e7,mazevedo,mazevedo@wikimedia.org,2024-10-07 16:43:02+00:00,add dev settings,False
+178db54e01db87772cb9d6240cac7bfaf45cd138,mazevedo,mazevedo@wikimedia.org,2024-10-10 18:29:38+00:00,wip - renaming,False
+1ef86a0d415a5d0b34245d16907e3c09970cd036,Marina Azevedo,mazevedo@wikimedia.org,2024-10-10 17:41:52+00:00,"merge pull request #5009 from wikimedia/remote-feature-config
+
+add remote config for year in review",False
+ef3013a5f8cd1d8abd6bf82aebeb38dcda7a208c,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-10 16:05:27+00:00,merge branch 'main' into twn,False
+88bd329de998a17d1e3909723354a09523bf8a6c,Marina Azevedo,mazevedo@wikimedia.org,2024-10-10 16:00:29+00:00,merge branch 'main' into remote-feature-config,False
+d5f70a0780f648063c3b81b331a37dac3180b302,Toni Sevener,tsevener@wikimedia.org,2024-10-10 15:53:48+00:00,merge branch 'main' into t376403,False
+457094cfec253ba159df315434cc8d07c1bd56d2,Toni Sevener,tsevener@wikimedia.org,2024-10-10 15:51:48+00:00,better pattern matching,False
+b51a2be5a1ce27c96be04ffd9b1c11dc33513b96,Grey Olson,golson@wikimedia.org,2024-10-10 15:48:27+00:00,remove entry point,True
+2655547f08fcd9ba8047ad6e953de909dbdfe624,Grey Olson,golson@wikimedia.org,2024-10-10 15:14:52+00:00,updated to use hardcoded strings for now,False
+948743c739ef6267a0d325ed7ecfd649a0d0740b,Grey Olson,golson@wikimedia.org,2024-10-10 14:29:50+00:00,fourth slide + localizations,False
+dd458231712558b6dfe274ee83f3569bb622923d,Grey Olson,golson@wikimedia.org,2024-10-10 14:11:04+00:00,second slide,False
+6fc310876d84a73c6ee079fc90b06848027cd952,Grey Olson,golson@wikimedia.org,2024-10-09 23:40:50+00:00,first slide,False
+d89b865fef101671264925d093340ec0ada79fe3,Toni Sevener,tsevener@wikimedia.org,2024-10-10 13:39:29+00:00,"merge pull request #5011 from wikimedia/t376071-intro-screen
+
+t376071 intro screen",False
+3e51cf0908f401e42d14bfcab276514c7e24f6c5,Toni Sevener,tsevener@wikimedia.org,2024-10-10 13:08:21+00:00,fix get started button,False
+c668a358b08e4999c713e9f547aeeeb63df9c23b,github-actions,github-actions@github.com,2024-10-10 12:23:44+00:00,import translations from translatewiki,False
+a6b5756b3216ba6060e879a033fa5854cba4344f,translatewiki.net,l10n-bot@translatewiki.net,2024-10-10 12:23:21+00:00,localisation updates from https://translatewiki.net.,False
+d1b78f0c6b50b9dd678ed8860b426f402f2f8e10,Grey Olson,golson@wikimedia.org,2024-10-09 23:09:52+00:00,remove whole file,True
+3d0f9abf395ee217c3f0b7de15b2351fde6ff09c,Toni Sevener,tsevener@wikimedia.org,2024-10-09 22:16:37+00:00,add missing is_anon to editattemptstep,False
+731982805580f5546908452e32eb502676682c34,Toni Sevener,tsevener@wikimedia.org,2024-10-09 22:00:58+00:00,bug fixes from testing,False
+c79c2eecfcde9de52936c5e621ce7521f19471a4,Toni Sevener,tsevener@wikimedia.org,2024-10-09 19:58:44+00:00,add user_is_temp separately to editattemptfunnel,False
+8d4c85cdb11f211521686845c599673ba343be21,Toni Sevener,tsevener@wikimedia.org,2024-10-09 19:58:26+00:00,send is_temp to eventplatformclient for all events,False
+39773ab2655cbd562703d41c074de82e78acc34d,Grey Olson,golson@wikimedia.org,2024-10-09 19:47:05+00:00,pr fixes,False
+aaa7189ed8226f8aab12bad0c9d355b544aaab78,mazevedo,mazevedo@wikimedia.org,2024-10-09 19:41:51+00:00,add unit tests,False
+d1fa1e76fff0edb553ca4e457325ed4b8a8e15bf,Toni Sevener,tsevener@wikimedia.org,2024-10-09 19:39:03+00:00,bump version numbers,False
+f142829beabf7f6985213c0c742c122d04bfffd3,mazevedo,mazevedo@wikimedia.org,2024-10-09 19:08:48+00:00,"add new coredata version, add yir models and basic methods to data controller",False
+e45938ea6ddfb77a3cf67195cd393e7c1f9c47be,Grey Olson,golson@wikimedia.org,2024-10-09 18:32:30+00:00,remove testbasicarticleload,True
+f6e750e8de30349c486418adf9cb52dbe2173b6b,Grey Olson,golson@wikimedia.org,2024-10-09 17:27:00+00:00,remove entry point,True
+0bb3ccd8ceea435a74bffdd10a3a2ff10c2b9363,Grey Olson,golson@wikimedia.org,2024-10-09 17:08:18+00:00,readding entry point for build,False
+8dc1ebda1a165435727eec8ac9e6475ba4c5e41f,Toni Sevener,tsevener@wikimedia.org,2024-10-09 16:46:24+00:00,comment out tests until todos are addressed,False
+0d8cc53ca4e7110000b5ef76aa168dafb867bf35,Grey Olson,golson@wikimedia.org,2024-10-09 16:42:28+00:00,rehide yir,False
+7b184773f82cd3fb5ddc3f1d0c8fcb55959cdccf,Grey Olson,golson@wikimedia.org,2024-10-09 16:41:25+00:00,localized strings,False
+4624656bce3861cc577fb9a1a3d90a1c0847a118,Grey Olson,golson@wikimedia.org,2024-10-09 16:25:21+00:00,first pass - ui,False
+b3f1c9d19257317c0f040ae517526b06d62d9436,Toni Sevener,tsevener@wikimedia.org,2024-10-08 23:05:28+00:00,use localized strings for year in review profile item,False
+64e2b1f3015833ef14060bfadfabbe4729980516,Toni Sevener,tsevener@wikimedia.org,2024-10-08 22:50:04+00:00,lean on new method for inserting item in profile menu,False
+bbc3a4460e652ce9bc750e8962de1d01469e9c81,Toni Sevener,tsevener@wikimedia.org,2024-10-08 22:16:25+00:00,merge branch 'remote-feature-config' into yir-profile-entry-method,False
+1b876ca9f68aa490c38c76c7883bf46827248b5f,Toni Sevener,tsevener@wikimedia.org,2024-10-08 22:16:04+00:00,cleanup - shorten struct name,False
+9b94b5adad95bdd06c51d682e7bf73ebeea84cda,Toni Sevener,tsevener@wikimedia.org,2024-10-08 22:15:02+00:00,fixes after merging config nested yir changes,False
+4896d3e656a1a9e3923893d576bfde98ac2873fb,Toni Sevener,tsevener@wikimedia.org,2024-10-08 22:02:15+00:00,merge branch 'remote-feature-config' into yir-profile-entry-method,False
+9e7a9cfc8dd342f386115e5fc23596fe64718b70,Toni Sevener,tsevener@wikimedia.org,2024-10-08 21:58:37+00:00,nest config values under a yir key,False
+4a02ddcf3946332caf9ae05cab2d15f865ec4cdc,Toni Sevener,tsevener@wikimedia.org,2024-10-08 21:26:21+00:00,create profile entry method + tests,False
+636fbebba140821de75e7200a198461caa19aa2d,Toni Sevener,tsevener@wikimedia.org,2024-10-07 20:33:58+00:00,merge branch 'main' into remote-feature-config,False
+2455acf6054ca7fd72bee2cf0cb4de36a2b2acdb,Toni Sevener,tsevener@wikimedia.org,2024-10-07 20:15:28+00:00,update config mock,False
+9168a5e46de29c8de11a423f78f753486ac4c31c,Toni Sevener,tsevener@wikimedia.org,2024-10-07 19:59:21+00:00,bug fixes after testing,False
+d3e396cfae05d18728978c29318c9a88a07e4ad4,Toni Sevener,tsevener@wikimedia.org,2024-10-07 19:38:29+00:00,"merge pull request #5008 from wikimedia/7.6.0_final
+
+7.6.0 final",False
+533694d61ca9de80265fb24777e885a89b908700,Grey Olson,golson@wikimedia.org,2024-10-07 18:41:53+00:00,update version number,False
+2f03e7f3b05080a0829ed7873c44dab12c883ce7,Grey Olson,golson@wikimedia.org,2024-10-07 18:32:16+00:00,"merge remote-tracking branch 'origin/main' into 7.6.0_final
+
+# conflicts:
+#	wikipedia/ios native localizations/en.lproj/localizable.strings",False
+18e2f74b772238dafcc1e7419de73c2ed93f434d,Toni Sevener,tsevener@wikimedia.org,2024-10-07 18:31:53+00:00,fix tests,False
+96ee2089d8105063c954b97044ef62f52bebd68a,Toni Sevener,tsevener@wikimedia.org,2024-10-07 18:17:11+00:00,fetch feature config from old config fetch location,False
+83fad0349fe2ae0c17290b8dba2d0c082711a29f,Toni Sevener,tsevener@wikimedia.org,2024-10-07 17:46:54+00:00,create fetchfeatureconfigifnecessary,False
+d845097027271f0009a2c13e190a3c74c3ef5729,Toni Sevener,tsevener@wikimedia.org,2024-10-07 17:46:43+00:00,reorder wmfappviewcontroller+extensions methods,False
+780bb98b9005614b40ee7007a49b183e0acf6d25,Toni Sevener,tsevener@wikimedia.org,2024-10-07 17:41:54+00:00,add feature config fetching and loading in wmfdevelopersettingsdatacontroller,False
+cbde819b741aa0e2735dc087966d178ecbbc0d60,Marina Azevedo,mazevedo@wikimedia.org,2024-10-07 16:55:44+00:00,"merge pull request #5005 from wikimedia/fix-nav-items-disappearing
+
+some fixes to fix disappearing nav bar items",False
+a2105af08a2f505bfa7d3006b7c7ab147fd0ea76,mazevedo,mazevedo@wikimedia.org,2024-10-07 16:43:02+00:00,add dev settings,False
+0424d5f67d2ec83c4d1fd1797733ee4ff45462c9,Toni Sevener,tsevener@wikimedia.org,2024-10-07 16:23:30+00:00,"merge pull request #5006 from wikimedia/translations
+
+translations",False
+19ba767ddbf52177c34d30b8baa4cacd8ada16d2,Grey Olson,golson@wikimedia.org,2024-10-07 15:29:10+00:00,update strings,False
+e864b5d1e349a129241143de17a7db660f11aacb,Grey Olson,golson@wikimedia.org,2024-10-07 15:16:06+00:00,"revert ""localisation updates from https://translatewiki.net.""
+
+this reverts commit c0a720f179efdde42fbfa147410b7a4a081542d1.
+
+# conflicts:
+#	wikipedia/localizations/hy.lproj/localizable.strings
+#	wikipedia/localizations/tcy.lproj/localizable.strings",False
+30b3e630222ef329d24645242d9ba9770f88ad8c,Grey Olson,golson@wikimedia.org,2024-10-07 15:15:07+00:00,"revert ""import translations from translatewiki""
+
+this reverts commit 1eb6e2b499e4227d8a8f10f638c58ebc55be9cd0.
+
+# conflicts:
+#	wikipedia/ios native localizations/ar.lproj/localizable.strings
+#	wikipedia/ios native localizations/ast.lproj/localizable.strings
+#	wikipedia/ios native localizations/ba.lproj/localizable.strings
+#	wikipedia/ios native localizations/bg.lproj/localizable.strings
+#	wikipedia/ios native localizations/br.lproj/localizable.strings
+#	wikipedia/ios native localizations/bs.lproj/localizable.strings
+#	wikipedia/ios native localizations/ca.lproj/localizable.strings
+#	wikipedia/ios native localizations/ckb.lproj/localizable.strings
+#	wikipedia/ios native localizations/cs.lproj/localizable.strings
+#	wikipedia/ios native localizations/cy.lproj/localizable.strings
+#	wikipedia/ios native localizations/da.lproj/localizable.strings
+#	wikipedia/ios native localizations/eo.lproj/localizable.strings
+#	wikipedia/ios native localizations/es.lproj/localizable.strings
+#	wikipedia/ios native localizations/eu.lproj/localizable.strings
+#	wikipedia/ios native localizations/fa.lproj/localizable.strings
+#	wikipedia/ios native localizations/fi.lproj/localizable.strings
+#	wikipedia/ios native localizations/fr.lproj/localizable.strings
+#	wikipedia/ios native localizations/ga.lproj/localizable.strings
+#	wikipedia/ios native localizations/gl.lproj/localizable.strings
+#	wikipedia/ios native localizations/he.lproj/localizable.strings
+#	wikipedia/ios native localizations/hi.lproj/localizable.strings
+#	wikipedia/ios native localizations/hr.lproj/localizable.strings
+#	wikipedia/ios native localizations/hsb.lproj/localizable.strings
+#	wikipedia/ios native localizations/hu.lproj/localizable.strings
+#	wikipedia/ios native localizations/hy.lproj/localizable.strings
+#	wikipedia/ios native localizations/ia.lproj/localizable.strings
+#	wikipedia/ios native localizations/id.lproj/localizable.strings
+#	wikipedia/ios native localizations/is.lproj/localizable.strings
+#	wikipedia/ios native localizations/it.lproj/localizable.strings
+#	wikipedia/ios native localizations/ja.lproj/localizable.strings
+#	wikipedia/ios native localizations/jv.lproj/localizable.strings
+#	wikipedia/ios native localizations/kcg.lproj/localizable.strings
+#	wikipedia/ios native localizations/km.lproj/localizable.strings
+#	wikipedia/ios native localizations/ko.lproj/localizable.strings
+#	wikipedia/ios native localizations/krc.lproj/localizable.strings
+#	wikipedia/ios native localizations/lb.lproj/localizable.strings
+#	wikipedia/ios native localizations/lmo.lproj/localizable.strings
+#	wikipedia/ios native localizations/lt.lproj/localizable.strings
+#	wikipedia/ios native localizations/mk.lproj/localizable.strings
+#	wikipedia/ios native localizations/ml.lproj/localizable.strings
+#	wikipedia/ios native localizations/ms.lproj/localizable.strings
+#	wikipedia/ios native localizations/my.lproj/localizable.strings
+#	wikipedia/ios native localizations/nb.lproj/localizable.strings
+#	wikipedia/ios native localizations/ne.lproj/localizable.strings
+#	wikipedia/ios native localizations/nl.lproj/localizable.strings
+#	wikipedia/ios native localizations/nqo.lproj/localizable.strings
+#	wikipedia/ios native localizations/or.lproj/localizable.strings
+#	wikipedia/ios native localizations/pl.lproj/localizable.strings
+#	wikipedia/ios native localizations/pt-br.lproj/localizable.strings
+#	wikipedia/ios native localizations/pt.lproj/localizable.strings
+#	wikipedia/ios native localizations/ro.lproj/localizable.strings
+#	wikipedia/ios native localizations/ru.lproj/localizable.strings
+#	wikipedia/ios native localizations/sah.lproj/localizable.strings
+#	wikipedia/ios native localizations/sd.lproj/localizable.strings
+#	wikipedia/ios native localizations/se.lproj/localizable.strings
+#	wikipedia/ios native localizations/sk.lproj/localizable.strings
+#	wikipedia/ios native localizations/sl.lproj/localizable.strings
+#	wikipedia/ios native localizations/sr-ec.lproj/localizable.strings
+#	wikipedia/ios native localizations/sr-el.lproj/localizable.strings
+#	wikipedia/ios native localizations/sv.lproj/localizable.strings
+#	wikipedia/ios native localizations/tcy.lproj/localizable.strings
+#	wikipedia/ios native localizations/te.lproj/localizable.strings
+#	wikipedia/ios native localizations/th.lproj/localizable.strings
+#	wikipedia/ios native localizations/tr.lproj/localizable.strings
+#	wikipedia/ios native localizations/uk.lproj/localizable.strings
+#	wikipedia/ios native localizations/ur.lproj/localizable.strings
+#	wikipedia/ios native localizations/uz.lproj/localizable.strings
+#	wikipedia/ios native localizations/vi.lproj/localizable.strings
+#	wikipedia/ios native localizations/zh-hant.lproj/localizable.strings",False
+9c97293a28efcb1f0a635110d4585ece3219b5ad,Toni Sevener,tsevener@wikimedia.org,2024-10-04 21:55:07+00:00,some fixes to fix disappearing nav bar items,False
+b5cdbbdf994cf479edf8dff97fe699f061bd939e,Marina Azevedo,mazevedo@wikimedia.org,2024-10-03 22:58:01+00:00,"merge pull request #4999 from wikimedia/viewed-articles-coredata
+
+add core data stack to wmfdata and persist page views",False
+11105d81d24c41696366c5ff222024173cce5687,Marina Azevedo,mazevedo@wikimedia.org,2024-10-03 21:22:14+00:00,merge branch 'main' into viewed-articles-coredata,False
+83f4f679e6cc1785ba56b3489e1550e0679a1e67,Christian Bilodeau-Calame,5870571+christianbilodeau@users.noreply.github.com,2024-10-03 11:03:00+00:00,merge branch 'main' into t374566,False
+5bc4d64a8be617018e1ee9681ab42d9f457214e0,Christian Bilodeau-Calame,5870571+christianbilodeau@users.noreply.github.com,2024-10-03 10:44:02+00:00,filter out plug-in wkwebview log from displayed errors,False
+85695936d8f3473d39af7d0794e8d3fa12a2ff7f,Toni Sevener,tsevener@wikimedia.org,2024-10-02 20:21:22+00:00,"merge pull request #5002 from wikimedia/rename
+
+rename 7.6.1 -> 7.6.0",True
+78d910a4f81bf318397dd0af024f6232fa043f03,Toni Sevener,tsevener@wikimedia.org,2024-10-02 20:20:56+00:00,"merge pull request #5001 from wikimedia/update-alt-text-percentage
+
+update alt text percentage and image recs announcement modal",False
+7da0db99a0bf4a35dee715db6e65c569c28e5b8d,Grey Olson,golson@wikimedia.org,2024-10-02 20:18:59+00:00,7.6.1 -> 7.6.0,False
+f4f60cd017ab0a252f8109fe8f2b3bfe61efc979,Marina Azevedo,mazevedo@wikimedia.org,2024-10-02 18:29:28+00:00,"merge pull request #5000 from wikimedia/t375566-wikiwrapped
+
+t375566 : wikiwrapped pt 1",False
+7e1168d44d234b3c264f06ddfa4647d8af641c2d,Grey Olson,golson@wikimedia.org,2024-10-02 18:06:49+00:00,pr cleanup,False
+17e858dcc16d83379f8430bd1087c4d562902bb8,mazevedo,mazevedo@wikimedia.org,2024-10-02 17:54:29+00:00,extend image recs feature announcement expiration date,False
+fa7b5e28ffb853af346a21b1bd6b5ab0785447c5,mazevedo,mazevedo@wikimedia.org,2024-10-02 17:54:01+00:00,update alt text percentage to 100 percent of users,False
+8a078cb62cf872c2aefe4d745f88722748b47fcd,Toni Sevener,tsevener@wikimedia.org,2024-10-02 16:10:31+00:00,"merge pull request #4960 from wikimedia/locally-save-donation
+
+locally save native donations",False
+af83674241a38823450c5deb25e7d22d2ac662ba,Grey Olson,golson@wikimedia.org,2024-10-02 15:48:15+00:00,pr improvements,False
+376cac50cb7e1aad8299314a1584616f78b04b3e,mazevedo,mazevedo@wikimedia.org,2024-10-02 13:51:53+00:00,rename prop,True
+8f039c3a7fb618193971b2b29440aa3e7faaa952,mazevedo,mazevedo@wikimedia.org,2024-10-02 13:49:41+00:00,remove unused code,True
+590c6b460e79b826851ff54c27760c17cb127670,mazevedo,mazevedo@wikimedia.org,2024-10-01 20:52:12+00:00,add subtitle,False
+266c036e46c0263664c2facef9b7ffb02063a667,Toni Sevener,tsevener@wikimedia.org,2024-10-01 20:22:18+00:00,merge branch 'viewed-articles-coredata' of https://github.com/wikimedia/wikipedia-ios into viewed-articles-coredata,False
+9414947c18cb9e32ef8d711f2a1493a6955bf08f,Toni Sevener,tsevener@wikimedia.org,2024-10-01 20:22:07+00:00,remove unused persistent history tracking,True
+e12b23ec1b15f12eb9ba460f1a8fed4ef388ad46,Toni Sevener,tsevener@wikimedia.org,2024-10-01 20:16:58+00:00,merge branch 'main' into viewed-articles-coredata,False
+6401b80ee8361750eb95f881ee22c17ca2000e68,Grey Olson,golson@wikimedia.org,2024-10-01 19:53:37+00:00,remove entry point,True
+e0e485069546b2094ecd8609f588013940f7ee1c,Grey Olson,golson@wikimedia.org,2024-10-01 19:49:20+00:00,images + localizations,False
+b3a56af388a8addedfb6010dc123570d68dc00cc,Grey Olson,golson@wikimedia.org,2024-10-01 19:09:20+00:00,tapping / swiping next,False
+087df54e1cdd8cafef6b16824da0c054b6c83e43,Grey Olson,golson@wikimedia.org,2024-10-01 14:58:25+00:00,back to coordinator presentation,False
+a665254be4b127d877f4ab1ebeaa42101d19b2af,Grey Olson,golson@wikimedia.org,2024-10-01 01:55:34+00:00,update to use sheet within sheet,False
+c143477c1742db64fc27046668861cfe07094109,Grey Olson,golson@wikimedia.org,2024-09-30 20:27:37+00:00,"wiki wrapped start - slideshow, coordinator",False
+9466d429ce85548725f4a6139411cb5c982f6c39,Toni Sevener,tsevener@wikimedia.org,2024-10-01 15:47:47+00:00,"merge pull request #4998 from wikimedia/7.6.0
+
+update main to match 7.6.0",False
+0762f53c16152f9616922b7e4f2fcaeae82d6f53,mazevedo,mazevedo@wikimedia.org,2024-10-01 14:36:48+00:00,merge branch '7.6.0' of https://github.com/wikimedia/wikipedia-ios into locally-save-donation,False
+0430938348bb61ca38619e99f1e6b8fe6fc264af,mazevedo,mazevedo@wikimedia.org,2024-10-01 14:27:35+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into locally-save-donation,False
+aa1c97ad3c86abbeaa06a75072c7bcc44e73c439,Toni Sevener,tsevener@wikimedia.org,2024-10-01 14:09:26+00:00,merge branch 'main' into 7.6.0,False
+056ea559bbf3790c12a67e01f4289bc65513fe7a,Toni Sevener,tsevener@wikimedia.org,2024-10-01 14:06:48+00:00,use preferred feature phrasing,False
+2f41e5377381aacb8bbc3ed1647a3cc970e0eab3,mazevedo,mazevedo@wikimedia.org,2024-10-01 13:58:40+00:00,delete test code,False
+38382744b936f381d972499904bdfd5eb2056f39,Toni Sevener,tsevener@wikimedia.org,2024-09-12 21:57:20+00:00,"remove generic sharedcontainercache class, make methods generic",True
+a55dff2d10df4267fe2c53f806a88e07933345d7,mazevedo,mazevedo@wikimedia.org,2024-10-01 13:49:15+00:00,"delete dead code from sections moved to profile page, fix tableview reloading after deleting items",True
+db12feffbb132ad378a03cef0aa851b76a62e585,mazevedo,mazevedo@wikimedia.org,2024-10-01 13:23:16+00:00,show alert to conform deletion,False
+162e590f6901b7c313f6459ff3abde4bb015b0cd,mazevedo,mazevedo@wikimedia.org,2024-10-01 13:22:47+00:00,create flag for local donations,False
+0166067d4c14853c03cbd0ac5f37ca5af471788c,mazevedo,mazevedo@wikimedia.org,2024-10-01 13:21:50+00:00,"update donate history - remove list of donations, prompt deletion on tap",True
+78d3ef62a06c945f3c5ac5d67a1dc26e8a34ca9d,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-10-01 01:36:41+00:00,"merge pull request #4997 from wikimedia/tweak_campaign_id
+
+tweak campaign metric ids",False
+c1931453229784ed0d431c9016f8355643465513,Toni Sevener,tsevener@wikimedia.org,2024-09-30 22:10:53+00:00,explicitly prepend country code to campaign metricsid,False
+a7e6b3640bf0dfb841c5caed43a1a8c2870998c4,Toni Sevener,tsevener@wikimedia.org,2024-09-30 21:55:41+00:00,add wmfpageviewsdatacontrollertests,False
+8940d48ff9797bb4ea35c3fc0699c7c075c9f584,Toni Sevener,tsevener@wikimedia.org,2024-09-30 21:55:31+00:00,"rename to wmfpageviewsdatacontroller, year in review",True
+f218c2863eb951167fd21914e92454f1cb1d697e,Toni Sevener,tsevener@wikimedia.org,2024-09-30 20:44:20+00:00,merge branch 'main' into viewed-articles-coredata,False
+9f3ddb714e8b5205dc3e5da9d4da62f62438fd97,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-09-30 16:15:44+00:00,"merge pull request #4995 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+9f44a67c1aa3ae36e86249dec18807d9960dcc75,mazevedo,mazevedo@wikimedia.org,2024-09-30 16:02:36+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into locally-save-donation,False
+02da0de137b22a50c3d97379da891867f2573d7b,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-09-30 15:49:50+00:00,merge branch 'main' into twn,False
+41e90797f4b5e49f676587d0a789008963af38e2,Marina Azevedo,mazevedo@wikimedia.org,2024-09-30 15:07:11+00:00,"merge pull request #4996 from wikimedia/fix-core-data-concurrency
+
+fix core data threading complaints + auth suggested edits card appearance",False
+af85b00528d61ce4bfe2ceee2709ce70069c59ca,Toni Sevener,tsevener@wikimedia.org,2024-09-30 14:05:04+00:00,pr feedback - handle auth language switching bug,False
+f162376fcfc4de655618129ae2eb61c395d292e0,Toni Sevener,tsevener@wikimedia.org,2024-09-30 13:36:29+00:00,"merge pull request #4994 from wikimedia/version-bump
+
+bump version",False
+1aa5392d221c81f887a1e04a1c07aa53faa8733a,Toni Sevener,tsevener@wikimedia.org,2024-09-18 15:05:01+00:00,maybe fix coredata threading complaints,False
+aa36e3bd01841e00fd50a4e762e024adfb8bfc1d,github-actions,github-actions@github.com,2024-09-30 12:26:06+00:00,import translations from translatewiki,False
+3d5ebcc627571fea6d047f32c5ee415f1f07bb05,translatewiki.net,l10n-bot@translatewiki.net,2024-09-30 12:25:10+00:00,localisation updates from https://translatewiki.net.,False
+5a9404968ed5ceb03e7eebdbf825b092fb3267c0,Grey Olson,golson@wikimedia.org,2024-09-27 18:51:11+00:00,increment,False
+913b520d6487f218477df48b8b861bf82d80cdc0,Toni Sevener,tsevener@wikimedia.org,2024-09-27 17:47:41+00:00,"merge pull request #4992 from wikimedia/t375416-add-an-image
+
+t375416 add an image",False
+9ef97dd262b515636847b7e7b19354006edc330a,Grey Olson,golson@wikimedia.org,2024-09-27 17:17:53+00:00,bug fix,False
+98998d261a50344224331d3ace906159295776b2,Grey Olson,golson@wikimedia.org,2024-09-27 13:41:50+00:00,fixes,False
+2f2d15d054696d3095db89756cd7642ba003ad2a,Grey Olson,golson@wikimedia.org,2024-09-26 20:20:23+00:00,"renaming, moving",False
+6613f94a8822d3d48a02971c13e5ca6e7c3830f8,Grey Olson,golson@wikimedia.org,2024-09-25 18:59:02+00:00,first pass,False
+9b84857d9a2c08a116b9842d2dd940dad2dadaae,Toni Sevener,tsevener@wikimedia.org,2024-09-27 15:47:13+00:00,"merge pull request #4993 from wikimedia/final-fr-metric-tweaks
+
+final fr metric tweaks",False
+ec8eda4e0a4f16d309a70ea8c9125c8d657c9319,Toni Sevener,tsevener@wikimedia.org,2024-09-27 14:26:51+00:00,fixes after testing,False
+721a5eb07964dc0c9f220773205448a187578d0c,Toni Sevener,tsevener@wikimedia.org,2024-09-26 23:40:38+00:00,add success toast logging,False
+deeaf0258733dca3632919fb0027a44bf12611f7,Toni Sevener,tsevener@wikimedia.org,2024-09-26 23:33:24+00:00,"pass along project for article profile button events, which should set wiki_id in payload",False
+e51ff8f663e68dd450980e1ee34287ff51603432,Toni Sevener,tsevener@wikimedia.org,2024-09-26 23:15:08+00:00,fix other compile failures,False
+4451073d17d69c71cc9cc32fbd3356eda82451e6,Toni Sevener,tsevener@wikimedia.org,2024-09-26 23:01:53+00:00,some compile fixes,False
+50b80802eb4f49654cd8e569dbbbeeb471c4aa42,Toni Sevener,tsevener@wikimedia.org,2024-09-26 22:50:07+00:00,update so that every funnel method passes a campaign_id,False
+e42de34f7af2edd26c9ea2fce35bc9fdfc675636,Toni Sevener,tsevener@wikimedia.org,2024-09-26 22:28:28+00:00,add campaign_id to all campaign modal donate flow events,False
+d0fb55c90356a476b559eacd330dae620c02e855,Toni Sevener,tsevener@wikimedia.org,2024-09-26 22:08:44+00:00,add languagecode and countrycode to settings donate url,False
+515049848d3efb0ef91fd50f45282baffeac9650,Toni Sevener,tsevener@wikimedia.org,2024-09-26 17:10:52+00:00,"merge pull request #4991 from wikimedia/t374160
+
+ui adjustments",False
+cc25fa5f04d6f98fd053795005bfb7a69aabcdde,Grey Olson,golson@wikimedia.org,2024-09-26 16:37:29+00:00,adjust color,False
+7ef56a4737bd77f32929f9038b2fd518120e9537,Grey Olson,golson@wikimedia.org,2024-09-26 13:55:17+00:00,ui adjustments,False
+8a31677ae0ef280bae0422c6335b1341e9dfb510,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-09-26 15:39:04+00:00,"merge pull request #4990 from wikimedia/t375445
+
+fix ipados18 push navigation bar bugs",False
+de8dc48cf0b8354f442588375033d2bf465ca4ce,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-09-26 15:21:11+00:00,merge branch 'main' into t375445,False
+626392869c2c523b6041f85a71aa93013c5525e9,Toni Sevener,tsevener@wikimedia.org,2024-09-26 13:59:44+00:00,"merge pull request #4987 from wikimedia/t374169-analytics-navigation-refresh
+
+t374169: navigation refresh instrumentation",False
+4c68c060aaed691dd5415d5fdd02dad5d2f5609c,Toni Sevener,tsevener@wikimedia.org,2024-09-26 13:40:36+00:00,merge branch 'main' into t374169-analytics-navigation-refresh,False
+e339705761be1d50e7001fb9a13d9e98175f82bc,Toni Sevener,tsevener@wikimedia.org,2024-09-26 13:39:11+00:00,"merge pull request #4985 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+e39b05ecc31854b837d81f40a14b1f05d528c785,Grey Olson,golson@wikimedia.org,2024-09-26 13:27:11+00:00,add call to opt out,False
+1eb6e2b499e4227d8a8f10f638c58ebc55be9cd0,github-actions,github-actions@github.com,2024-09-26 12:30:38+00:00,import translations from translatewiki,False
+c0a720f179efdde42fbfa147410b7a4a081542d1,translatewiki.net,l10n-bot@translatewiki.net,2024-09-26 12:30:10+00:00,localisation updates from https://translatewiki.net.,False
+ebaebb53417ed2e32bde70a4601faf97d2d58ccb,Toni Sevener,tsevener@wikimedia.org,2024-09-25 22:23:53+00:00,fix ipados18 push navigation bar bugs,False
+43caf34191b57915b9e4f1b91e603fa1e17c9948,Toni Sevener,tsevener@wikimedia.org,2024-09-25 20:26:37+00:00,comment out outdated logging call,False
+6ba02fbf13d6172dd3fdbd20574b3c26d061b4fe,Grey Olson,golson@wikimedia.org,2024-09-25 17:02:49+00:00,pr fixes,False
+166f1ae162320c776b57239ffdf8766dc8c14cc6,Grey Olson,golson@wikimedia.org,2024-09-25 14:18:07+00:00,pr fix pt 2,False
+fbc36e44df1dd33782d630c04f022b0af5362239,Grey Olson,golson@wikimedia.org,2024-09-25 14:04:21+00:00,pr fixes,False
+d1166725f0d554842658173575ab4b4cd7dc7d33,Grey Olson,golson@wikimedia.org,2024-09-24 14:14:26+00:00,update objc,False
+79dc59d9df490eec3446aec7becfba7a11012ba3,Grey Olson,golson@wikimedia.org,2024-09-24 13:55:16+00:00,turn all logging off,False
+804451e661caffb775b0e6abb137e5d65c064488,Grey Olson,golson@wikimedia.org,2024-09-24 13:24:23+00:00,explore opt out and source page,False
+a31a32186b9ae5fae52bf9abae675bfbaf84a9d7,Grey Olson,golson@wikimedia.org,2024-09-23 19:24:14+00:00,"beginning of analytics
+
+not explore disabled yet",False
+243f93585878bb76cce9460be4e83048c4f71dcc,Toni Sevener,tsevener@wikimedia.org,2024-09-25 17:29:32+00:00,"merge pull request #4989 from wikimedia/t375452-alt-text-date
+
+update dates for alt text experiment",False
+817f513ed6b579c58a48cd017531449a9addf1e7,Grey Olson,golson@wikimedia.org,2024-09-25 15:05:36+00:00,update dates,False
+f196e60cd56f2dff998b296d83e9c295c2055e1c,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-09-24 19:20:16+00:00,"merge pull request #4988 from wikimedia/t374167
+
+update profile nav button accessibility labels",False
+aec660f48972b6f52ccd082daaa709ff3b6203f7,Toni Sevener,tsevener@wikimedia.org,2024-09-24 19:06:09+00:00,fix missing accessibility hint bug,False
+7c281e40c9d70609fd970fbbd64e54b87430cdbf,Toni Sevener,tsevener@wikimedia.org,2024-09-24 16:27:43+00:00,hint progress,False
+3e2b29c22e4dd9c4ef2065647cb8d8350e46017a,Toni Sevener,tsevener@wikimedia.org,2024-09-23 23:26:52+00:00,update profile nav button accessibility labels,False
+3bc933d8a92407b4aa189eb853eaf963930c495c,Toni Sevener,tsevener@wikimedia.org,2024-09-20 22:01:32+00:00,"merge pull request #4984 from wikimedia/t374163-remove-duplicates
+
+remove unnecessary components",True
+7dd5b94657237f2c00878958b2b442de73736f4c,Toni Sevener,tsevener@wikimedia.org,2024-09-20 21:33:52+00:00,merge branch 'main' into t374163-remove-duplicates,True
+e51af4ef64ad90b386ef207e8cafbbb99e6cc619,Toni Sevener,tsevener@wikimedia.org,2024-09-20 21:33:41+00:00,"merge pull request #4983 from wikimedia/profile-view-donate-link
+
+implement coordinator-based navigation for donate",False
+0ce1a05a1819f4de0ff39dfe71475c67c9d642ef,Toni Sevener,tsevener@wikimedia.org,2024-09-20 21:29:34+00:00,"strings changes from building
+
++ from removal of ""your talk page"" string",False
+dfde4432066df4dd9c462ffe0c1d718a8feb095d,Toni Sevener,tsevener@wikimedia.org,2024-09-20 21:25:34+00:00,merge branch 'main' into t374163-remove-duplicates,True
+a487b6cf8e4b4cf062e8be5213a43d0528fc3afa,Toni Sevener,tsevener@wikimedia.org,2024-09-20 21:17:18+00:00,fix empty talk page,False
+58a43b970e3bfb6dd12f319d7b9345c8b2c107e9,Toni Sevener,tsevener@wikimedia.org,2024-09-20 21:11:46+00:00,compile fix,False
+c3b4763b14d29117a68fb0308e0eb704d1cec28c,Toni Sevener,tsevener@wikimedia.org,2024-09-20 21:11:38+00:00,merge branch 'main' into profile-view-donate-link,False
+3d581d167598037976467cdb5e625826866900b1,Toni Sevener,tsevener@wikimedia.org,2024-09-20 20:47:37+00:00,"merge pull request #4982 from wikimedia/profile-coord-cont
+
+implement coordinator-based navigation for new profile view - execept donate",False
+9489fb9963af48a452b62661f03e14b82a1cde6f,Grey Olson,golson@wikimedia.org,2024-09-20 20:30:14+00:00,remove duplicates,True
+800ee19f431dbf657d7d29fe60d2a0163e858743,Toni Sevener,tsevener@wikimedia.org,2024-09-20 20:29:15+00:00,add logout delegate for articleviewcontroller profile entry point,False
+bca52139405fac5dfc7c8305057f7aa6e627b404,Toni Sevener,tsevener@wikimedia.org,2024-09-20 20:28:55+00:00,merge branch 'main' into profile-coord-cont,False
+1a911c817c549396c3ef0b5d2497eddb1f16f1d7,Toni Sevener,tsevener@wikimedia.org,2024-09-20 20:21:52+00:00,pr feedback - set wmfsettingsviewcontroller as logoutdelegate when embedded in explore tab,False
+e482463fda298e32ed7d0edff24f025eeee510bf,Toni Sevener,tsevener@wikimedia.org,2024-09-20 20:07:55+00:00,pr feedback - push user page instead of present,False
+780c1eaba48b3ccfc540ca41b61e8a41cb805bb2,Toni Sevener,tsevener@wikimedia.org,2024-09-20 19:40:50+00:00,"merge pull request #4979 from wikimedia/t374164-avc-profile
+
+add profile view to article",False
+6d5211fd65737e53abd9e4d3c280335d2680e066,Toni Sevener,tsevener@wikimedia.org,2024-09-20 19:13:26+00:00,fix tests,False
+6366e19706fdd5043fea6ff1e76ecd28deeded96,Toni Sevener,tsevener@wikimedia.org,2024-09-20 18:40:17+00:00,fix some bugs from testing,False
+e2146a464ae2ddc03e1c5a400067f995388ddbd1,Toni Sevener,tsevener@wikimedia.org,2024-09-20 18:17:16+00:00,fix warning,False
+897e95bc61405fc7e66519e675a4972ae755a660,Toni Sevener,tsevener@wikimedia.org,2024-09-20 18:14:00+00:00,"refactor to use donate coordinator and logging delegate methods, clean up singlepagewebviewcontroller",True
+8bf3b28bfc27a8d8a1b0c8b6752923327fc4eb95,mazevedo,mazevedo@wikimedia.org,2024-09-20 17:56:56+00:00,cleanup,False
+41ff79a294d636788184d5d0eba9f21095989b15,mazevedo,mazevedo@wikimedia.org,2024-09-20 17:55:11+00:00,remove unused code,True
+907c964736987bd5f6fc4a027ade34263a1eac98,mazevedo,mazevedo@wikimedia.org,2024-09-20 17:50:53+00:00,remove dead code,True
+dea4aded1063bde813e8132b1e05581e86a9642b,Grey Olson,golson@wikimedia.org,2024-09-20 17:49:51+00:00,updates to ui,False
+7100387a2d9699483a3a7d20e392156452d3730b,mazevedo,mazevedo@wikimedia.org,2024-09-20 17:43:24+00:00,add login coordinator,False
+8672aaae69d8b8ab4b3bfb125a08360538ca9aa2,Toni Sevener,tsevener@wikimedia.org,2024-09-20 16:16:53+00:00,use donatecoordinator for article campaign donate flow,False
+1c55c1cabc7895c60e396d3cf10ea881c1505ce4,Toni Sevener,tsevener@wikimedia.org,2024-09-20 15:38:38+00:00,cleanup - separate logging out of wmfdonatedelegate callback,False
+27bfbc82a3745621759600e4a0a0f6e6c1a26307,Toni Sevener,tsevener@wikimedia.org,2024-09-20 15:31:17+00:00,move donate-related logic to donatecoordinator,True
+8f989a4ba28b7f8fff117a8fc7554565585b9250,mazevedo,mazevedo@wikimedia.org,2024-09-20 15:00:47+00:00,logout from profile,False
+e70f60cccbac1ee018e8ec5ab54b9fa62e58562b,Grey Olson,golson@wikimedia.org,2024-09-20 14:27:54+00:00,remove unneeded calls,True
+c2e8cf1aee767e218ec911a250451d999378a91c,mazevedo,mazevedo@wikimedia.org,2024-09-20 12:53:25+00:00,add watchlist coordinator,False
+72a032ed6f8565d9e9f8f35bda1dc32b58b687f8,Toni Sevener,tsevener@wikimedia.org,2024-09-20 00:51:50+00:00,some bug fixes,False
+385773c32c43f29f6ff502821c1c0dbe74a5903a,Toni Sevener,tsevener@wikimedia.org,2024-09-20 00:14:52+00:00,progress pushing donate view from profile,False
+82ee0f59e101a5727c79b07f81d0d55cff555438,mazevedo,mazevedo@wikimedia.org,2024-09-19 21:43:37+00:00,fix talk page presentation from profile,False
+925277b244db1980fdab3863a9140046eb445a96,mazevedo,mazevedo@wikimedia.org,2024-09-19 20:14:35+00:00,add talk page coordinator,False
+7642820e82403bfa37c989a411e46c8c065a4ddd,Grey Olson,golson@wikimedia.org,2024-09-19 20:06:34+00:00,view will appear,False
+950aba918a976e8c59e0096fe34e0a7dd8132747,Grey Olson,golson@wikimedia.org,2024-09-19 20:02:11+00:00,viewdidload,False
+425b5baa444140692b8517082d1342605371c7d0,Grey Olson,golson@wikimedia.org,2024-09-19 19:55:50+00:00,color + refresh,False
+d24dc15f4abe97d71b32c6359a02cd8174318e5a,mazevedo,mazevedo@wikimedia.org,2024-09-19 18:26:31+00:00,add user page navigation from profile view,False
+0c68e26aa4b9742c69417f9856a0f742cd68a389,Grey Olson,golson@wikimedia.org,2024-09-19 17:02:36+00:00,change true to yes,False
+f6ff19a0599d34772e8fc6fb5b7da7a1dc1715a6,Grey Olson,golson@wikimedia.org,2024-09-19 15:56:23+00:00,update to use coordinator,False
+fd963978ff499c8b1b6027ecf2ea3e71ae0d7142,Grey Olson,golson@wikimedia.org,2024-09-19 13:43:44+00:00,add profile view to article,False
+edba1799afa923dcd045559635e4d18e95208314,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-09-19 15:40:04+00:00,"merge pull request #4980 from wikimedia/t374879
+
+add profile icon to settings (when in tab bar)",False
+10e56bb8f8782956cc2154cc5ea99acfb9cbf92e,Toni Sevener,tsevener@wikimedia.org,2024-09-19 15:26:46+00:00,merge branch 'main' into t374879,False
+1bbf8208cdca77a1035257a4d4686deed56aeafb,Toni Sevener,tsevener@wikimedia.org,2024-09-19 15:26:35+00:00,"merge pull request #4978 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+a1c1bc446156bcb02fcb32c5bedec8bb8fd2af7c,Toni Sevener,tsevener@wikimedia.org,2024-09-19 15:17:58+00:00,fix bugs,False
+f9aa6e0408f46221369f015f09bfd5af435726d1,Toni Sevener,tsevener@wikimedia.org,2024-09-19 15:09:57+00:00,progress using profile coordinator from settings tab bar,False
+822520957f9bd4f72a1e404402726b588cc24a79,Toni Sevener,tsevener@wikimedia.org,2024-09-19 15:03:15+00:00,merge branch 'main' into t374879,False
+037c5b486d8c2f169ecfa64166e7ea7a3b580f11,github-actions,github-actions@github.com,2024-09-19 15:00:59+00:00,import translations from translatewiki,False
+91741909fc289693cc2f82b1f910abfae419f324,Toni Sevener,tsevener@wikimedia.org,2024-09-19 15:00:35+00:00,merge branch 'main' into twn,False
+c29b0d72396668c5aa60b06e91215e42612b6cf5,Toni Sevener,tsevener@wikimedia.org,2024-09-19 14:59:44+00:00,"merge pull request #4981 from wikimedia/profile-coordinator
+
+implement coordinator-based navigation for new profile view - settings and notifications (partial)",False
+4d41ac8b808152f13caf7c5fb90e11eb00495e09,Toni Sevener,tsevener@wikimedia.org,2024-09-19 14:53:05+00:00,merge branch 'main' into twn,False
+cf1c20d0fdfc164facf6d795da7efd7e28f7c42c,mazevedo,mazevedo@wikimedia.org,2024-09-19 14:45:44+00:00,pass inboxcount down to sections,False
+481e96d871f90854f1d89479ffc70af72de39163,mazevedo,mazevedo@wikimedia.org,2024-09-19 14:41:37+00:00,move coordinators to group without folder,True
+e1be96a2d781572243685e085d2034cbe3090d1a,mazevedo,mazevedo@wikimedia.org,2024-09-19 14:31:02+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into profile-coordinator,False
+029d517e2fd0979f511ddd9c4f237fa79b38d069,mazevedo,mazevedo@wikimedia.org,2024-09-19 14:30:39+00:00,reuse string,False
+a97da8141d08229e0e83db9b103f3c7865e966d7,mazevedo,mazevedo@wikimedia.org,2024-09-19 14:20:11+00:00,conform profileview to profile delegate,False
+1d9a875b92ed5476b3fc48b9c090201fb584b58a,mazevedo,mazevedo@wikimedia.org,2024-09-19 14:17:01+00:00,add button to view to handle action,False
+aeeaac509574cae3f8e3bed03a54283e8db4425d,Toni Sevener,tsevener@wikimedia.org,2024-09-19 14:14:55+00:00,present profile from settings tab,False
+5d9a65b98c60a890670806fedff3e973b32dd4ea,Toni Sevener,tsevener@wikimedia.org,2024-09-19 14:10:59+00:00,refactor profile view creation into factory method,True
+1cbc500f1ca1100d21647e9449a1f8df7ad78892,Toni Sevener,tsevener@wikimedia.org,2024-09-19 14:03:27+00:00,"show profile view button when settings is in tab controller
+
++ comment out unused code",True
+865ba936d74e17039b93677b7044f76048ba4aa3,Toni Sevener,tsevener@wikimedia.org,2024-09-19 13:57:17+00:00,refactor bell icon logic into separate method,True
+41203deb1d1963e45fc53b47dd287c0c662ceaa3,mazevedo,mazevedo@wikimedia.org,2024-09-19 13:39:17+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into profile-coordinator,False
+d2b37f5d4457df133dc078c0a4bf5ea80168b8f5,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-09-19 13:32:52+00:00,"merge pull request #4977 from wikimedia/profile-explore-nav-fixes
+
+profile/explore nav fixes",False
+92503f538dabc66d5e241fa723795fe6dbf24fc6,github-actions,github-actions@github.com,2024-09-19 12:24:35+00:00,import translations from translatewiki,False
+ab58ec56e4feed2bccb5c382c9ce9c2cbc256518,translatewiki.net,l10n-bot@translatewiki.net,2024-09-19 12:24:05+00:00,localisation updates from https://translatewiki.net.,False
+037e65baddca829c39bdc13af5bc067f99fb050d,Toni Sevener,tsevener@wikimedia.org,2024-09-18 21:45:44+00:00,linter changes,False
+f63a2dae69540deda18d558ec39b9025811ce833,Toni Sevener,tsevener@wikimedia.org,2024-09-18 21:44:52+00:00,hide notifications center bell icon,False
+8df4255588b322fc87ff806c07cf2ba45c740365,Toni Sevener,tsevener@wikimedia.org,2024-09-18 21:39:43+00:00,update profile button badge from more locations,False
+ee19164068635589f30e72ac162960aa76696417,Toni Sevener,tsevener@wikimedia.org,2024-09-18 21:21:31+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios,False
+4458a4437c3cc947f962b62f04976c252890ceb6,Toni Sevener,tsevener@wikimedia.org,2024-09-18 21:21:16+00:00,merge branch '7.5.9',False
+868d59b701793747b3115bc3f85cd79f5c8d7bc0,Toni Sevener,tsevener@wikimedia.org,2024-09-18 21:14:58+00:00,"merge pull request #4976 from wikimedia/t374160-profile-pt3
+
+added inboxcount",False
+a309dbf01caf5ec3088dcf1879f81148ab7dfe24,Grey Olson,golson@wikimedia.org,2024-09-18 21:12:42+00:00,added inboxcount,False
+55e14f7271341ce55a95f8b5dadaf8db9ae651cc,Toni Sevener,tsevener@wikimedia.org,2024-09-18 21:07:19+00:00,"merge pull request #4971 from wikimedia/t374160-profile-pt2
+
+t374160: profile view",False
+87780797b6b44ff5b615ec17135fbebb4c8073e3,mazevedo,mazevedo@wikimedia.org,2024-09-18 20:50:49+00:00,"add documentation comments, class conformance to coordinator protocol",False
+5d7a88a2a691b4fbb616e995aef9391794eef46e,Grey Olson,golson@wikimedia.org,2024-09-18 20:28:52+00:00,colors pt2,False
+a1cf1baebb3d4cd2b921923b9fc21446b23f3762,Grey Olson,golson@wikimedia.org,2024-09-18 20:18:16+00:00,update colors,False
+bd4727c1d1593178c7bab5bce6f39c27546a40a0,Grey Olson,golson@wikimedia.org,2024-09-18 20:10:38+00:00,pr feedback pt 1,False
+ae094adfdfbd58db57dbf397b3d2bc85244f35ce,mazevedo,mazevedo@wikimedia.org,2024-09-18 19:22:06+00:00,merge branch 'main' of https://github.com/wikimedia/wikipedia-ios into profile-coordinator,False
+5188411161224a8c528950df695a95ce56f969e2,mazevedo,mazevedo@wikimedia.org,2024-09-18 19:14:29+00:00,wip: settings coordinator,False
+ee6667dd695bad0545cd667dd4fc0b1f6fc416c4,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-09-18 16:52:32+00:00,"merge pull request #4975 from wikimedia/fix-apple-pay-button
+
+fix apple pay button tap gesture bug",False
+3ea3b68194b5ea7c3613d57849ad87d11e3ec99d,Toni Sevener,tsevener@wikimedia.org,2024-09-18 16:27:24+00:00,fix apple pay button tap gesture bug,False
+bc53cf9be56cd1a63eb2e838e826feb592e41577,Grey Olson,golson@wikimedia.org,2024-09-18 13:40:57+00:00,update sizing of icons with advanced text sizes,False
+6d05c3cd2777ed757613180d0ce81a5fac2518ac,Grey Olson,golson@wikimedia.org,2024-09-17 19:48:03+00:00,notifications refactor,True
+df45e482ff787a63ec0b79cd3d465a6e392c4daf,Grey Olson,golson@wikimedia.org,2024-09-17 19:40:23+00:00,remove line,True
+df4569e398cd8b9a766067e1da2127c3fd662a6b,Grey Olson,golson@wikimedia.org,2024-09-17 14:05:39+00:00,"auth state, done button, ipad",False
+ffc2783d0bcadfd3e7689edbce053d68adb7d2f0,Grey Olson,golson@wikimedia.org,2024-09-16 21:00:10+00:00,update localizations,False
+73f889ee82a01aa00687ac36b27e9733b84dbe0d,Grey Olson,golson@wikimedia.org,2024-09-16 18:13:54+00:00,move localized strings,True
+da846f4190addb6576205153f9e0013bf0c7d59c,Grey Olson,golson@wikimedia.org,2024-09-16 15:50:24+00:00,localizations beginning,False
+49366cef557c25c998ef486d458083ae163f5548,Grey Olson,golson@wikimedia.org,2024-09-16 15:05:35+00:00,"done button logic, view model",False
+b1e67e0af595544c1083457a7867094528a5631c,Toni Sevener,tsevener@wikimedia.org,2024-09-18 15:14:04+00:00,"merge pull request #4965 from wikimedia/twn
+
+localisation updates from https://translatewiki.net.",False
+8b32fb6f6140f3d0fe14bcb2a72351aeb884ab91,Toni Sevener,tsevener@wikimedia.org,2024-09-18 14:17:06+00:00,merge branch 'main' into twn,False
+eaf98349ae4d1db95038c233dedcaa7cd2d4f1c2,Toni Sevener,tsevener@wikimedia.org,2024-09-18 14:16:10+00:00,merge branch '7.5.9',False
+13eefa2bfbe201ee16e426033b62ee1ab3337bf1,Marina Azevedo,mazevedo@wikimedia.org,2024-09-18 12:47:22+00:00,"merge pull request #4973 from wikimedia/fix-apple-pay
+
+fix apple pay form state refresh bug",False
+ff8afaca84f6b92db8c4ff9b76a9d8317602bf71,Toni Sevener,tsevener@wikimedia.org,2024-09-17 23:22:46+00:00,fix apple pay form state refresh bug,False
+c81265a3b5278a41406d26bc06e8203939c6dcc6,Grey Olson,134959259+l-olson1214@users.noreply.github.com,2024-09-17 17:00:51+00:00,"merge pull request #4972 from wikimedia/fix-trait-collection
+
+fix automatic trait collection assignment in wmfcomponents",False
+7530a3c9dc2005d48dc7deb9c23dba293a435721,Toni Sevener,tsevener@wikimedia.org,2024-09-17 16:12:13+00:00,fix automatic trait collection assignment in wmfcomponents,False
+3fdce94a94a3272f80b80de9fde2085459799115,mazevedo,mazevedo@wikimedia.org,2024-09-17 14:31:07+00:00,"remove child coordinators, remove some comments",True
+cc2d4dbefa5a96de540eaf985c9acdabde835131,Toni Sevener,tsevener@wikimedia.org,2024-09-17 14:21:47+00:00,prefer batch delete when clearing history,False
+6957b3fbe1ff459232eb997316ea1521883af721,Toni Sevener,tsevener@wikimedia.org,2024-09-17 14:19:20+00:00,avoid !,False
+8af3265fff779d53a0d01b971e938d2731dc675b,Toni Sevener,tsevener@wikimedia.org,2024-09-17 14:13:45+00:00,rework import to be fire-and-forget,False
+a360e6995a7eba184100a17f1fceb190792e15ec,Toni Sevener,tsevener@wikimedia.org,2024-09-17 14:10:16+00:00,"revert ""try to fix batch import, no luck""
+
+this reverts commit 7c97e48110a295fccf7eecc5ddd60d36f8af6d92.",False
+7c97e48110a295fccf7eecc5ddd60d36f8af6d92,Toni Sevener,tsevener@wikimedia.org,2024-09-17 14:10:10+00:00,"try to fix batch import, no luck",False
+e98598c9976efbe7726980d6c53df800b91da108,Toni Sevener,tsevener@wikimedia.org,2024-09-17 13:25:49+00:00,use better refresh method,False
+be19c82a310a29887a4875c6e5dc7bedbd472f23,Toni Sevener,tsevener@wikimedia.org,2024-09-17 12:21:18+00:00,add coredatastore tests,False
+b6ef0f4ddedfeb863c2a9cb9d896539a42a3cf15,Toni Sevener,tsevener@wikimedia.org,2024-09-17 03:13:15+00:00,"allow deleting individual page views, reduce import amount",False
+73901ac0aed9c05ec33ab31a5a3e29dd7ba92ce8,Toni Sevener,tsevener@wikimedia.org,2024-09-17 02:32:38+00:00,delete all page views,False
+e5e5ed4ea26a413be037b6e1dc6ad2f21ef4af71,Toni Sevener,tsevener@wikimedia.org,2024-09-17 02:17:24+00:00,"revert ""convert to batch insert progress""
+
+this reverts commit b2193282b5fe36ae129c0203f92637c76311c3ce.",False
+b2193282b5fe36ae129c0203f92637c76311c3ce,Toni Sevener,tsevener@wikimedia.org,2024-09-17 02:05:27+00:00,convert to batch insert progress,False
+ec7be945ec5cd960154854ff75965f8de3ef3b53,Toni Sevener,tsevener@wikimedia.org,2024-09-17 01:52:06+00:00,remove double pageview call,True
+46825e66922d5e36d6d0927f1eabd84294a46bdb,Toni Sevener,tsevener@wikimedia.org,2024-09-17 01:00:12+00:00,move wmfdata core data setup call,True
+02eb51f096287873bd774f916b80c7755cbbd68c,Toni Sevener,tsevener@wikimedia.org,2024-09-17 00:50:09+00:00,progress on importing from history data,False
+0b8d26cb4a5e4e816e1933494a405cf03fd13fe4,Toni Sevener,tsevener@wikimedia.org,2024-09-16 22:57:15+00:00,move persist method near history method,True
+bbd4b2872798ac172ea322fc6649a624c1e6ea6e,Toni Sevener,tsevener@wikimedia.org,2024-09-16 22:19:31+00:00,remove unnecessary changes,True
+5a1b3fa52af689cf233ddc6d8dacb59be9795872,Toni Sevener,tsevener@wikimedia.org,2024-09-16 22:13:33+00:00,move cleanup into housekeeping methods,True
+5c238d77bb14de2cfbde26558b67961c86414f69,Toni Sevener,tsevener@wikimedia.org,2024-09-16 21:26:38+00:00,add fetching by group,False
+7e36f1bff50d3a2b3637a0e7176fa7b6b06df02e,Toni Sevener,tsevener@wikimedia.org,2024-09-16 20:33:38+00:00,explore pushing on article,False
+82a46dd300dc42d36f5fd6a20ce76e1595db1004,Toni Sevener,tsevener@wikimedia.org,2024-09-16 20:19:28+00:00,more renames,True
+3f192f7fa03723c54e3a447a52c96ffd5154fd3c,Toni Sevener,tsevener@wikimedia.org,2024-09-16 20:17:56+00:00,"add fetch indexes, timestamps, improve delimiter",False
+ff5a7086fc40bf8702e62626a0c3081be1499992,Toni Sevener,tsevener@wikimedia.org,2024-09-16 19:19:38+00:00,"add description options from mwkdatastore,  rename namespace attribute",True
+0378b5e8ba3caf2491dc9e78a717acb1a25920e5,mazevedo,mazevedo@wikimedia.org,2024-09-16 18:55:20+00:00,"update the coordinator to present the profileview, allow dismissal using a closure",False
