@@ -100,7 +100,8 @@ Confusion Matrix ve performans raporları, `commit_dl.py` dosyasında otomatik o
 
 ## Bildiri
 
-Bu projeye ait bilimsel çalışma, **"Automated Detection of Refactoring Commits in iOS Repositories Using Deep Learning"** başlıklı bildiri olarak hazırlanmıştır. Bildiride:
+Bu projeye ait bilimsel çalışma, **"A Deep Learning Approach for Automated Classification
+of Refactoring Commits in iOS Applications"** başlıklı bildiri olarak hazırlanmıştır. Bildiride:
 - Veri toplama, işleme ve sınıflandırma süreçleri ayrıntılı olarak açıklanmıştır.
 - Derin öğrenme modellerinin performansları değerlendirilmiştir.
 - Çalışmanın yazılım mühendisliği süreçlerine katkıları vurgulanmıştır.
